@@ -15,25 +15,30 @@ REQUIRED_FIELDS = (
     "address",
     "lat",
     "lng",
+    "payment_tags",
 )
 
 
 def main() -> None:
-    shops = load_shops(INPUT_CSV)
+    shops, skipped_count = load_shops(INPUT_CSV)
     OUTPUT_JSON.write_text(
         json.dumps(shops, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(f"Wrote {len(shops)} shops to {OUTPUT_JSON}")
+    print(
+        f"Wrote {len(shops)} shops to {OUTPUT_JSON} "
+        f"(skipped {skipped_count} unresolved rows)"
+    )
 
 
-def load_shops(csv_path: Path) -> list[dict[str, object]]:
+def load_shops(csv_path: Path) -> tuple[list[dict[str, object]], int]:
     with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
         reader = csv.DictReader(file)
         validate_header(reader.fieldnames, csv_path)
 
         shops: list[dict[str, object]] = []
         seen_ids: set[str] = set()
+        skipped_count = 0
 
         for index, row in enumerate(reader, start=2):
             shop_id = require_value(row, "shop_id", index)
@@ -41,18 +46,26 @@ def load_shops(csv_path: Path) -> list[dict[str, object]]:
                 raise ValueError(f"Duplicate shop_id at line {index}: {shop_id}")
 
             seen_ids.add(shop_id)
+            lat_value = read_value(row, "lat")
+            lng_value = read_value(row, "lng")
+            if not lat_value or not lng_value:
+                skipped_count += 1
+                continue
             shops.append(
                 {
                     "id": shop_id,
                     "chain": require_value(row, "chain_name", index),
                     "name": require_value(row, "shop_name", index),
                     "address": require_value(row, "address", index),
-                    "lat": parse_float(require_value(row, "lat", index), "lat", index),
-                    "lng": parse_float(require_value(row, "lng", index), "lng", index),
+                    "lat": parse_float(lat_value, "lat", index),
+                    "lng": parse_float(lng_value, "lng", index),
+                    "paymentTags": parse_payment_tags(
+                        require_value(row, "payment_tags", index)
+                    ),
                 }
             )
 
-    return shops
+    return shops, skipped_count
 
 
 def validate_header(fieldnames: list[str] | None, csv_path: Path) -> None:
@@ -66,10 +79,14 @@ def validate_header(fieldnames: list[str] | None, csv_path: Path) -> None:
 
 
 def require_value(row: dict[str, str], field: str, line_number: int) -> str:
-    value = (row.get(field) or "").strip()
+    value = read_value(row, field)
     if not value:
         raise ValueError(f"Missing value for {field} at line {line_number}")
     return value
+
+
+def read_value(row: dict[str, str], field: str) -> str:
+    return (row.get(field) or "").strip()
 
 
 def parse_float(value: str, field: str, line_number: int) -> float:
@@ -79,6 +96,10 @@ def parse_float(value: str, field: str, line_number: int) -> float:
         raise ValueError(
             f"Invalid float for {field} at line {line_number}: {value}"
         ) from error
+
+
+def parse_payment_tags(value: str) -> list[str]:
+    return [tag.strip() for tag in value.split("|") if tag.strip()]
 
 
 if __name__ == "__main__":

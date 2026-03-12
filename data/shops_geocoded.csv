@@ -1,2 +1,1142 @@
-shop_id,chain_code,chain_name,shop_name,address,lat,lng,source_url
-lawson-marunouchi-001,lawson,LAWSON,ローソン 丸の内中央店,東京都千代田区丸の内1-9-1,35.681607,139.767051,
+shop_id,chain_code,chain_name,shop_name,address,lat,lng,payment_tags,source_url
+1357-dcdb58182a,blue-tag,美容・理容,1357,兵庫県赤穂市北野中324-1,34.7627067565918,134.40869140625,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+29-9258f4e11f,blue-tag,居酒屋・バー,29ーふくー,兵庫県赤穂市加里屋65-18,34.755149841308594,134.3939208984375,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+808-curry-vegetable-c726b27e3a,blue-tag,専門料理店,808 Curry & Vegetable,大阪府高槻市芥川町2-14-3島津ビル1階,34.85246658325195,135.61517333984375,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+almaz2nd-10c8ae7ab9,blue-tag,居酒屋・バー,ALMAZ2nd,高知県高知市追手筋1-3-15サンフィ-ルドアプレビル3階北,,,blue_tag,https://almaz2nd.crayonsite.com/
+ayu-shop-1e37ebd306,blue-tag,アパレル,Ayu夢Shop富山いみず総本店,富山県射水市東太閤山3-53,36.698272705078125,137.11729431152344,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bar-a-solutions-f7f264bbe3,blue-tag,居酒屋・バー,BAR A-SOLUTIONS,兵庫県神戸市中央区下山手通2-17-10ライオンビル三宮館3階,34.694454193115234,135.18991088867188,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bar-kaguya-05d8619153,blue-tag,居酒屋・バー,BAR KAGUYA,京都府宇治市宇治妙楽17-1,34.89088439941406,135.8046112060547,blue_tag,https://bar-kaguya.foodre.jp
+bar-laughing-95a6d5d10d,blue-tag,居酒屋・バー,BAR LAUGHING,大阪府大阪市 中央区道頓堀1-東5-18わんわん共和国ビルB1F,,,blue_tag,https://bar-laughing.com
+bar-haohao-cd0c044b26,blue-tag,居酒屋・バー,BAR haohao,広島県広島市西区横川町3-2-10,34.41048049926758,132.4514617919922,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bar-fa347a83a6,blue-tag,居酒屋・バー,BARえびふらいレコーズ,大阪府大阪市 中央区石町 2-2-20 CHIKAMATSUBILD 3階西,,,blue_tag,https://ebifly-records.co.jp/
+bar-bebbdc70e3,blue-tag,居酒屋・バー,BARオルガン,大阪府池田市石橋1-3-3 2F,34.80833435058594,135.44505310058594,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+boutiquekatami-23330c5d5b,blue-tag,アパレル,BOUTIQUEKatami,大阪府東大阪市小阪本町1-6-13ダイワビル1階,34.66224670410156,135.58163452148438,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+br-86897f135d,blue-tag,美容・理容,BR,石川県金沢市丸の内6-71階,36.56795120239258,136.66213989257812,blue_tag,https://br-salon.net/
+brio-9c669344b2,blue-tag,アパレル,BRio,大阪府高槻市高槻町20-12久保田ビル1F,34.84932327270508,135.62060546875,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+byob-kanazawa-81c452c13a,blue-tag,食料品,BYOB KANAZAWA,石川県金沢市本町1-3-27,36.575191497802734,136.65139770507812,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+balloon-shop-boo-359bbdb8fe,blue-tag,ホビー・玩具,Balloon Shop Boo,大阪府大阪市 阿倍野区阪南町3-15-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bar-nagi-bfed4273ed,blue-tag,居酒屋・バー,Bar Nagi,大阪府大阪市 北区浮田1-2-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bar-qr-9b8529f927,blue-tag,居酒屋・バー,Bar QR,大阪府大阪市中央区東心斎橋2-5-6つく志会館 501,34.671390533447266,135.50425720214844,blue_tag,https://qr.subculentertainment.com/
+bistro-primo-d5405e8227,blue-tag,居酒屋・バー,Bistro PRIMO,大阪府大阪市 中央区西心斎橋2-5-2ア-クコ-ト,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+brasserie24-e161464e9b,blue-tag,専門料理店,Brasserie24℃,大阪府高槻市高槻町6-24スカイハイツ1F,34.851619720458984,135.62045288085938,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+cafe-de-h-fa7dee3d73,blue-tag,カフェ,CAFE DE H,石川県金沢市南町6-12国際ビジネス学院ビル1F,,,blue_tag,https://le-musee-de-h.jp/shops/cafe_h.html
+chiki-chiki-e73d563d76,blue-tag,アパレル,CHIKI CHIKI,兵庫県赤穂市加里屋44-7イ-ストサイド山下ビル1F西,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+clover-64bdd9a253,blue-tag,美容・理容,CLOVER,大阪府大阪市 西区江戸堀1-23-30ダコタビル3階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+copa-852512dc1b,blue-tag,居酒屋・バー,COPA,徳島県徳島市一-町3-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+cozy-cozy-2477c688c4,blue-tag,美容・理容,COZY*COZY,福井県福井市松本2-24-10-1F,,,blue_tag,https://www.cozycozy.jp
+crete-d-or-ca8599afdc,blue-tag,居酒屋・バー,CRETE D'OR,京都府京都市 東山区清本町357呑太呂ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+cafe-mocktail-roots-97ac2a50ef,blue-tag,カフェ,Cafe＆Mocktail~Roots~,大阪府大阪市城東区鴫野西1-8-30,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+carcarepit-43dd629ea5,blue-tag,自動車・バイク用品,CarCarePit摂津店,大阪府摂津市鳥飼本町5-3-22,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+carino-eyelash-3ad1dc8b79,blue-tag,美容・理容,Carino　EYELASH,岡山県岡山市 北区下中野720-105ウィスティリア102室,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+champcrepe-63392905e6,blue-tag,ファストフード,ChampCrepe,大阪府大阪市 此花区四貫島1-8-16五-館2室,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+coffeeroastingdaruma-742e3f1a10,blue-tag,食料品,CoffeeRoastingDaruma,岡山県笠岡市三-町4-24,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+discovery-605a68f64b,blue-tag,アパレル,DISCOVERY,福井県福井市板垣5-1013,,,blue_tag,https://www.discovery-jp.com/
+dog-salon-towa-313fe5dec1,blue-tag,美容・理容,Dog Salon TOWA,大阪府大阪市 住之江区粉浜3-9-20,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+eternity-c499884a67,blue-tag,アパレル,ETERNITY,岡山県岡山市 北区奉還町1-12-1,,,blue_tag,http://www.etnytrico.com
+free-talk-a191462007,blue-tag,美容・理容,FREE TALK,兵庫県赤穂市加里屋90-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+fruit-house-ab6e1e7491,blue-tag,カフェ,FRUIT HOUSE カフェ,岡山県赤磐市五日市274,,,blue_tag,https://yoshii-farm.com
+fruit-house-029b6ef642,blue-tag,カフェ,FRUIT HOUSE 売店,岡山県赤磐市五日市274,,,blue_tag,https://yoshii-farm.com
+fish-meat-hands-b5e240b10a,blue-tag,居酒屋・バー,Fish&Meat HANDS,大阪府大阪市 福島区福島5-14-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+gallery-compass-14b7c96a25,blue-tag,宿泊施設,Gallery compass,大阪府東大阪市御厨南1-3-24,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+garage-smc-289c36b6ca,blue-tag,自動車修理,Garage SMC,石川県金沢市間明町1-27,,,blue_tag,https://garage-smc.jimdofree.com/
+ginnan-0e0fa33394,blue-tag,居酒屋・バー,Ginnan,京都府京都市 下京区七条烏丸西入る中居町114-2,,,blue_tag,http://www.ichoya.jp
+go-en-d91a80a45a,blue-tag,専門料理店,Go-En京都三条新町,京都府京都市 中京区釜座町36-,,,blue_tag,https://tabelog.com/kyoto/A2601/A260202/26030314/
+harry-s-kanazawa-968b7bdd38,blue-tag,居酒屋・バー,HARRY'S KANAZAWA,石川県金沢市本町1-3-27,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+hattori-bagel-bd6f611424,blue-tag,食料品,HATTORI BAGEL,岡山県岡山市北区奉還町1-4-12-1,,,blue_tag,http://hattoribagel.com/
+hiroshima-north-beer-bar-3f71128f76,blue-tag,居酒屋・バー,HIROSHIMA NORTH BEER BAR 福山店,広島県福山市元町8-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+horus-works-d7d39000c0,blue-tag,アパレル,HORUS WORKS,広島県福山市伏見町1-23,,,blue_tag,https://horusworks.theshop.jp/
+hawaiian-cafe-honu-8e687ceff3,blue-tag,カフェ,Hawaiian Cafe Honu,京都府亀岡市追分町八ノ坪26-14,,,blue_tag,http://www.hawaiiancafe-honu.com
+i-las-e86ae363d6,blue-tag,美容・理容,I'LAS,京都府京都市 中京区貝屋町558澤田ビル1F,,,blue_tag,https://www.oxcreation.com
+i-n-s-b-ef42115e5b,blue-tag,居酒屋・バー,I.N.S.B.,兵庫県西宮市津門呉羽町1-30万グル-プビル2階,,,blue_tag,https://www.instagram.com/insb_nishinomiya_japan/?hl=ja
+ichoya-f353a4fe72,blue-tag,カフェ,ICHOYA,京都府京都市 下京区西中筋通正面上る堺町100-1,,,blue_tag,http://www.ichoya.jp
+japan-panoramic-tours-87b6ea26ea,blue-tag,旅行代理店,JAPAN PANORAMIC TOURS,東京都新宿区西新宿8-12-8梅屋ビル2階,,,blue_tag,https://www.jptours.co.jp/
+ja-52e1cf9d6b,blue-tag,その他,JAなのはな旅行センター,富山県富山市豊田本町3-18-21,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+just-sleep-53ced94ac3,blue-tag,宿泊施設,Just Sleep大阪心斎橋,大阪府大阪市 中央区南船場2-9-15,,,blue_tag,https://www.justsleephotels.com/osakaShinsaibashi/jp
+kakky-s-bar-977d4b3148,blue-tag,居酒屋・バー,KAKKY's BAR,岡山県岡山市北区奉還町2-7-14,,,blue_tag,https://kakkys-bar.com/
+kishibe-cafe-yamaguchi-845a00ad22,blue-tag,カフェ,KISHIBE CAFE YAMAGUCHI,大阪府吹田市岸部南1-25-3dig the osaka 1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+kagerou-ec34262107,blue-tag,食料品,Kagerou商店,東京都港区赤坂2-3-5赤坂スタ-ゲ-トプラザ13F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+kitchen-friend-f148644d11,blue-tag,食料品,Kitchen friend 怜,大阪府東大阪市足代新町3-17,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+les-hirondelles-a558b03338,blue-tag,カフェ,LES HIRONDELLES,兵庫県神戸市 中央区元町通1-2-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+luce-hanaume-69dd84ea9d,blue-tag,その他小売り,LUCE hanaume,香川県観音寺市観音寺町甲3094-1,,,blue_tag,https://lucehanaume.com/
+la-carne-46c37c209b,blue-tag,専門料理店,La Carne,東京都大田区鵜の木2-5-5イ-グル鵜の木原田ビル2階,,,blue_tag,https://lacarne-unoki.com/
+lien-c99f25320c,blue-tag,その他,Lien,広島県福山市南手城町1-7-10プリムロ-ズU101,,,blue_tag,https://lien-0427.com
+loop-orange-201-efd927f092,blue-tag,その他,Loop Orange 201,福岡県福岡市 西区横浜1-43-29-1,,,blue_tag,https://x.com/looporange201?s=21
+lounge-koiki-ea1b7b47ad,blue-tag,居酒屋・バー,Lounge KOIKI,大阪府大阪市 淀川区宮原2-14-1マキシム東三国,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+matatabi-4546bacc4c,blue-tag,カフェ,MATATABI,和歌山県和歌山市美園町5-3-3,,,blue_tag,https://mata-tabi.space/
+men-s-shop-simizu-0de893a0e3,blue-tag,アパレル,MEN'S SHOP SIMIZU,大阪府大阪市 阿倍野区阿倍野筋3-10-1あべのベルタ101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+mint-hair-772b1848e5,blue-tag,その他,MINT HAIR,広島県東広島市八本松東2-8-28-1,,,blue_tag,https://riyou.jp/shop/68509/
+melpot-47627e49af,blue-tag,カフェ,MelPotベルファ都島店,大阪府大阪市 都島区友渕町2-13-34ベルファ都島ショッピングセンタ-フ-ドコ-ト,,,blue_tag,https://www.instagram.com/melpot_crepe?igsh=YWNjOHQ0bzNqbTJh&utm_source=qr
+melpot-2b804008e5,blue-tag,カフェ,MelPot住吉大社駅前店,大阪府大阪市 住吉区長峡町2-16グランディオ-ソ住吉大社,,,blue_tag,https://www.instagram.com/melpot_pudding?igsh=MTVoZnRmbnF0cTlwbw%3D%3D&utm_source=qr
+olive-e982fa477b,blue-tag,アパレル,OLIVE,大阪府大阪市 阿倍野区西田辺町1-1-1道野ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+ota-cad344863b,blue-tag,アパレル,OTA,京都府京都市 山科区竹鼻 竹ノ街道町58COZYオオタ1階,,,blue_tag,http://www.ota-clothes.com
+orange-fields-bread-factory-67aebafe4a,blue-tag,カフェ,Orange Fields Bread Factory,大阪府大阪市 北区天神橋4-7-29扇町山一ビル1階,,,blue_tag,https://www.orangefields-teagarden.com/sp/bakery.html
+petsalon-hotel-chere-7b1d6a2a57,blue-tag,その他,PETSALON　&　HOTEL　chere　福島店,大阪府大阪市 福島区福島4-5-49-2F,,,blue_tag,https://petsalon-chere.com
+petsalon-hotel-chere-fa23e6c5e9,blue-tag,その他,PETSALON　&　HOTEL　chere　都島店,大阪府大阪市 都島区高倉町1-3-26,,,blue_tag,https://petsalon-chere.com
+pizzeria-vivace-63ea4abc07,blue-tag,専門料理店,Pizzeria　Vivace,京都府京都市 左京区田中 門前町78一階,,,blue_tag,https://pizzeria-vivace.com/
+premium-sake-pub-gashue-88d248a471,blue-tag,居酒屋・バー,Premium Sake Pub GASHUE,東京都台東区東上野2-13-5第二興和ビル1階,,,blue_tag,https://www.gashue.co.jp/
+pure-walk-cafe-fcac2cf4ab,blue-tag,食料品,Pure Walk Cafe,大阪府富田林市加太3-2-29-204,,,blue_tag,https://www.instagram.com/purewalkcafe?igsh=MXF1bnd0aGM5OWpteQ==
+rokahair-611749bc5d,blue-tag,美容・理容,ROKAhair,滋賀県長浜市大辰巳町43,,,blue_tag,https://roka-hair.com/
+rema-244bad563c,blue-tag,美容・理容,ReMA,大阪府大阪市中央区東平2-4-3,,,blue_tag,https://www.rema-uehommachi.com/
+s-factory-08db9f906d,blue-tag,自動車・バイク用品,S-FACTORY,大阪府大阪市 生野区鶴橋5-20-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+sakuragumi-6d6ab5727e,blue-tag,専門料理店,SAKURAGUMI,兵庫県赤穂市御崎2-1,,,blue_tag,https://www.vera-pizza-sakuragumi.co.jp/access
+sassen-71e5f1967f,blue-tag,ジム・フィットネス,SASSEN,東京都新宿区市谷田町3-16,,,blue_tag,https://satsuzen.jp/
+scioscio-971ef5d2aa,blue-tag,食料品,SCIOSCIO,兵庫県赤穂市御崎2-1,,,blue_tag,https://map.yahoo.co.jp/v3/place/KW8QHgeGXqU
+shiny-mountain-a1b8b19510,blue-tag,居酒屋・バー,SHINY MOUNTAIN,富山県富山市新桜町2-26アルペン村新桜町ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+soraqua-8bf0b3e8d7,blue-tag,その他,SORAQUA,大阪府大阪市北区天神橋2-2-10ハイマウントビル404室,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000671586/
+sort-62ee33027f,blue-tag,その他小売り,SORT,大阪府東大阪市長堂3-1-1-36,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+swastika-b1fab752df,blue-tag,アパレル,SWASTIKA,岡山県岡山市北区奉還町2-9-4,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+switch-hair-relaxation-b47bea4582,blue-tag,美容・理容,SWiTCH Hair＆Relaxation,富山県富山市秋吉新町21-28,,,blue_tag,https://switch-relax-bb.com/
+salon-cookie-604f28a7a1,blue-tag,美容・理容,Salon.Cookie　塚本,大阪府大阪市 淀川区塚本 2-25-16大宇市ビル(旧プレジデントトヨトミビル) 6階6B室,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000433199/
+salon-cookie-27fb6c4673,blue-tag,美容・理容,Salon.Cookie　大阪上本町,大阪府大阪市 天王寺区上本町 5-7-21早川ビル 301室,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000531324/
+salon-cookie-05062bf57d,blue-tag,美容・理容,Salon.Cookie　大阪九条,大阪府大阪市 西区九条 1-25-9藤井エステ-トビル 2F,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000472876/
+salon-cookie-edd9f49bdd,blue-tag,美容・理容,Salon.Cookie　尼崎,兵庫県尼崎市神田 中通 3-30グラン・ノア-ルビル 2F,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000383345/
+salon-cookie-71fa5a554c,blue-tag,美容・理容,Salon.Cookie　御影,兵庫県神戸市 東灘区御影本町 2-15-24丸一ビル 2F,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000496311/
+salon-pudding-1d75b5cab2,blue-tag,美容・理容,Salon.Pudding,兵庫県尼崎市神田 中通 3-75クリオビル1 201室,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000657769/
+teizou-ffcf692c02,blue-tag,その他,TEIZOU,神奈川県小田原市扇町5-7-10,,,blue_tag,https://www.teizou.tokyo/
+tiara-be3de51fab,blue-tag,カフェ,TIARA,山口県下関市唐戸町6-1カモンワ-フ1階海側,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+tobariya-bar-b16e7f9c0b,blue-tag,居酒屋・バー,TOBARIYA　BAR,京都府京都市 下京区北不動堂町570-73F,,,blue_tag,https://www.mgfoods.co.jp/tobariyabar/
+topop-8f654d9093,blue-tag,美容・理容,TOPOP,山口県萩市東田町144-,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+toshiya-d04061b8c6,blue-tag,アパレル,TOSHIYA,大阪府大阪市 此花区四貫島1-7-18,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+true-blue-d457d52745,blue-tag,居酒屋・バー,TRUE BLUE,兵庫県神戸市 中央区中山手通1-2-1 N COASTビルB1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+teana-8fce37f472,blue-tag,カフェ,Teana,大分県津久見市中央町4-21辻本第一ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+t-4a5e96c963,blue-tag,食料品,T泉州,大阪府岸和田市箕土路町1-15-22,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+uisin-design-homecenter-7f1d55d9a8,blue-tag,その他小売り,UISIN DESIGN HOMECENTER,大阪府大阪市 西成区潮路1-2-27第2丸美マンション1F店舗,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+unchei-n-903409481e,blue-tag,美容・理容,UNCHEI[N],岡山県岡山市 北区富田町1-10-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+upper-f28bb4d1bd,blue-tag,アパレル,UPPER,兵庫県神戸市 中央区北長狭通2-31-66,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+uminos-spa-resort-9e8190e667,blue-tag,宿泊施設,Uminos Spa＆Resort,広島県江田島市沖美町 是長1433-2サンビ-チ沖美,,,blue_tag,https://uminos.com/
+veggie-iso-terrace-b5462b97ab,blue-tag,居酒屋・バー,VEGGIE ISO TERRACE,京都府京都市下京区立売西町79大丸京都店8階,,,blue_tag,https://isozumi.jp/veggieiso/index.html
+vin-de-nene-ea864264f0,blue-tag,専門料理店,Vin de nene,大阪府大阪市 北区堂島1-3-4谷安ビル 3F,,,blue_tag,https://nene-kitashinchi.com/restaurant/
+washu-blue-resort-c98804fc88,blue-tag,宿泊施設,WASHU BLUE RESORT 風籠,岡山県倉敷市下津井吹上303-17WASHU BLUE RESORT 風籠,,,blue_tag,https://kasago.jp/
+wester-e50ce7253d,blue-tag,その他,WESTERセンター,大阪府大阪市北区梅田三-2-123イノゲ-ト大阪20階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+windward-03004727d0,blue-tag,カフェ,WINDWARD,兵庫県神戸市 中央区元町通5-3-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+world-vacation-aaac3c9ef6,blue-tag,旅行代理店,WORLD VACATION,石川県金沢市里見町44-1タウンハイツ1階,,,blue_tag,https://www.w-vacation.com
+xsix-6fd8a5c934,blue-tag,専門料理店,Xsix串,大阪府大阪市 福島区福島3-8-10,,,blue_tag,https://xsix.jp/
+bar-t-i-s-m-1c6a2e1003,blue-tag,居酒屋・バー,bar T i.s.m,大阪府大阪市 住吉区苅田 7-4-27,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bar-pasticceria-7f97450054,blue-tag,カフェ,bar pasticceria トミヤ,岡山県岡山市北区奉還町2-9-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+bolo-602afc85e6,blue-tag,ファストフード,bolo,広島県安芸郡 府中町山田2-12-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+cafe-bar-eight-7a2e0c2011,blue-tag,居酒屋・バー,cafe & bar eight,岡山県岡山市 東区西大寺 中2-6-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+cantabile-c5ab407892,blue-tag,食料品,cantabile,富山県富山市五福378-1共栄ハイツ3棟102,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+casa-de-azul-436ad994cb,blue-tag,居酒屋・バー,casa de azul,大阪府大阪市 淀川区十三東2-9-2イマナカビル2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+chill-a7eec6cd11,blue-tag,美容・理容,chill,京都府京都市 中京区釜座町11-11京都釜座ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+coffee-c0b5b5cb5a,blue-tag,カフェ,coffee 山川,京都府京都市 中京区大炊町357石倉ビル1階,,,blue_tag,http://www.coffeeyamakawa.com
+egg-spot-60f657bcf8,blue-tag,専門料理店,egg spotらんらん,大阪府大阪市 大正区三軒家西1-1-14タグボ-ト大正入り口コンテナ,,,blue_tag,https://www.instagram.com/eggspot_ranran2024?igsh=Z2czeGR2cWRyM25u&utm_source=qr
+forest-nail-334213b302,blue-tag,美容・理容,forest nail,岡山県岡山市 北区庭瀬179-4フォ-レントM1 101室,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+grab-cars-1110a939fe,blue-tag,卸売業,grab cars,大阪府大阪狭山市池之原1-889,,,blue_tag,http://www.grab.co.jp
+green-5c24841dea,blue-tag,アパレル,green.,福岡県北九州市 小倉北区京町1-5-16和田ビル1F,,,blue_tag,https://green-kokura.shop-pro.jp/
+guerir-enomiya-929198bf57,blue-tag,美容・理容,guerir enomiya,広島県安芸郡府中町宮の町1-1-26-201,,,blue_tag,https://guerir-hair.com/
+guerir-01d3f7b712,blue-tag,美容・理容,guerir 中野店,広島県広島市安芸区中野2-1-1-1F,,,blue_tag,https://guerir-hair.com/
+guerir-9ca7ea0ce6,blue-tag,美容・理容,guerir 府中店,広島県広島市東区矢賀4-12-18-1F,,,blue_tag,https://guerir-hair.com/
+hair-design-ray-z-6bac7fe2a3,blue-tag,美容・理容,hair design Ray'z,兵庫県神戸市中央区加納町3-2-3-304,,,blue_tag,https://www.hairdesignrayz.com/
+hair-make-a-rch-58c430e0a7,blue-tag,美容・理容,hair make A:RCH,大阪府堺市北区中百舌鳥町5-798-6松野なかもずビル1階,,,blue_tag,http://www.a-rch2009.com
+hair-s-lowe-87084b1a00,blue-tag,美容・理容,hair's LOWE,大阪府大阪市 天王寺区味原町2-1,,,blue_tag,https://www.hairs-lowe.com/
+hair-make-spiffy-82720aaba0,blue-tag,美容・理容,hair＆make Spiffy,福井県福井市高木中央2-403シラサキ第2ビル103,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+harelte-0bd0e1faa4,blue-tag,その他,harelte,兵庫県神戸市 西区井吹台 東町 3-27-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+honeybeecafe-6334311b19,blue-tag,カフェ,honeybeeCafe,大阪府大阪市住之江区南港北2-1-10ATCオズ棟北館2階,,,blue_tag,https://www.sakishima-sweets.com/
+honeybeeshop-83358435a3,blue-tag,カフェ,honeybeeshop,大阪府大阪市住之江区南港北1-14-16さきしまコスモタワ-展望台55階,,,blue_tag,https://821beeshop.shopinfo.jp/
+hotel-it-ba40d1d450,blue-tag,宿泊施設,hotel it.,大阪府大阪市 西区新町4-6-20,,,blue_tag,https://hotelit.jp/
+ietiem-4fc31ffcf9,blue-tag,居酒屋・バー,ietiem,京都府京都市 下京区市之町260-7,,,blue_tag,https://isozumi.jp/ietiem/index.html
+injertal-coffee-a7cf0966e9,blue-tag,食料品,injertal coffee,岡山県倉敷市日ノ出町1-5-15ソレイユ日ノ出2,,,blue_tag,https://injertal-coffee.com/shop.php
+isoism-3e274baa4b,blue-tag,居酒屋・バー,isoism,京都府京都市 下京区中居町114,,,blue_tag,https://isozumi.jp/isoism/index.html
+jewelcandy-50ff0abba4,blue-tag,専門料理店,jewelcandyあ華眞,兵庫県神戸市中央区元町通2-5-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+kitchen-ohana-b4955a7455,blue-tag,居酒屋・バー,kitchen Ohana,大阪府大阪市 浪速区日本橋西2-3-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+labora-772d4022e6,blue-tag,美容・理容,labora,兵庫県神戸市東灘区住吉本町1-1-18ランドマ-ク住吉2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+lana-hair-dc27cd98f6,blue-tag,美容・理容,lana hair,岡山県岡山市 北区京橋町9-7清水ビル1階,,,blue_tag,https://lanahair.jp/
+lia-ffd1c45a73,blue-tag,美容・理容,lia,広島県広島市中区袋町1-11-2F,,,blue_tag,https://lia-byguerir.com/
+macaron-mou-dd0605cf70,blue-tag,美容・理容,macaron mou*,大阪府堺市中区深井沢町3128メゾンまつした1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+music-restauant-garage-4bc8efaadb,blue-tag,居酒屋・バー,music&restauant Garage,大阪府大阪市 大正区鶴町2-10-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+noir-blanc-e8c55937bd,blue-tag,居酒屋・バー,noir blanc,広島県広島市南区大須賀町13-24,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+otomo-5e3748ca46,blue-tag,カフェ,otomo,岡山県岡山市北区平野998-7-102,,,blue_tag,https://otomo-sweets.com
+photo-lantana-2e4bebd4ea,blue-tag,スタジオ・撮影,photo lantana,兵庫県神戸市 西区樫野台4-8-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+relile-7562fc6a18,blue-tag,美容・理容,relile,大阪府大阪市阿倍野区天王寺町南2-12-16コスタ河堀口1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+scena-76d5b54dce,blue-tag,美容・理容,scena,広島県広島市中区千田町2-1-8-101,,,blue_tag,https://scena-hair.com/
+su-cafe-b09715a226,blue-tag,カフェ,su cafe,和歌山県有田市箕島626-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+tinkle-196d0f540b,blue-tag,居酒屋・バー,tinkle,大阪府大阪市 大正区三軒家西1-4-16ベルコモンズ大正1A,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+tugg-b61f1c2458,blue-tag,アパレル,tugg.　児島ジーンズストリート店,岡山県倉敷市児島味野1-11-2,,,blue_tag,https://tugg.base.ec/
+unnamed-1f615979c7,blue-tag,カフェ,unnamed,和歌山県有田市箕島115-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c37b94024a,blue-tag,その他,あおい総合事務所,京都府京都市 中京区町頭町112菊三ビル3階,,,blue_tag,http://aoi-office.info
+blue-tag-shop-14a0620179,blue-tag,居酒屋・バー,あこまる商店,兵庫県赤穂市加里屋2188-46,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f52d5584b2,blue-tag,居酒屋・バー,あとり酒店,広島県広島市南区大須賀町11-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+hagind-025cc01e6a,blue-tag,ギフト・お土産,あらせ　～Hagind,山口県萩市南古萩町35-8,,,blue_tag,https://hagind.jp
+blue-tag-shop-c73ab92a13,blue-tag,カフェ,あんばらんすワッフル,広島県廿日市市大野1-1-27まちの駅ADOA大野,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-cd91190003,blue-tag,食料品,いこま,兵庫県尼崎市立花町1-19-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-cf298ec4d1,blue-tag,福祉・介護,いずの鍼灸整骨院,大阪府大阪市 住吉区帝塚山東4-3-12,,,blue_tag,https://www.izuno-seikotsu.com/
+blue-tag-shop-fd1e46c248,blue-tag,専門料理店,いとう,大阪府大阪市 淀川区西中島4-7-20日宝新大阪第一ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8a924c11c8,blue-tag,居酒屋・バー,いろとり鶏,静岡県浜松市 中央区鍛冶町 2-5徳田ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-68a7091333,blue-tag,宿泊施設,いろはグランホテル近鉄奈良駅前,奈良県奈良市小西町30-1,,,blue_tag,https://nara.168hotel.jp/
+blue-tag-shop-1b6f1faf64,blue-tag,食料品,うなづき食菜館,富山県黒部市宇奈月町 下立687,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5d1a3455d4,blue-tag,専門料理店,うまうま北新地店,大阪府大阪市 北区堂島1-5-4はつ根ビル2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-478b054bcb,blue-tag,専門料理店,うまうま福島本店,大阪府大阪市 福島区福島6-13-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d1a0aefa49,blue-tag,居酒屋・バー,えいこ鮮魚店,沖縄県石垣市新栄町27-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-73f1767513,blue-tag,居酒屋・バー,おっちゃんの台所,広島県福山市伏見町4-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-dea283826f,blue-tag,居酒屋・バー,おでん・串カツ　戸張屋,京都府京都市 下京区北不動堂町570-71F,,,blue_tag,https://www.mgfoods.co.jp/tobariya/
+blue-tag-shop-017cea61f9,blue-tag,居酒屋・バー,おでん旬菜　ろざん,滋賀県大津市浜大津1-2-3,,,blue_tag,http://e-rozan.net
+blue-tag-shop-ef046ac631,blue-tag,居酒屋・バー,おにかい,京都府京都市 中京区米屋町388-2階,,,blue_tag,https://isozumi.jp/onikai/index.html
+sun-ed687f5b55,blue-tag,専門料理店,おひさまSUN,広島県広島市 安芸区上瀬野2-2-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0d4b0589a9,blue-tag,専門料理店,お好み共和国　進,広島県広島市中区新天地5-23-2階お好み共和国ひろしま村,,,blue_tag,https://www.xn--t8jg3mz29n7vdbuczw6c.com/shoplist/susumu/
+blue-tag-shop-6b8253d68c,blue-tag,専門料理店,お好み焼　もも家,広島県広島市 中区白島北町16-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-23cf08e6c2,blue-tag,専門料理店,お好み焼き おこおこ,兵庫県赤穂市黒崎町170-,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4a6e3b3566,blue-tag,居酒屋・バー,お好み焼き鉄板焼きもりもり,広島県広島市東区矢賀1-8-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f57325aa77,blue-tag,宿泊施設,お宿　だいろく,新潟県西蒲原郡 弥彦村弥彦946,,,blue_tag,http://www.dairoku.tv
+blue-tag-shop-d11a6a77b9,blue-tag,居酒屋・バー,お肉と韓国スープ　マシッタ,広島県広島市南区大須賀町13-17,,,blue_tag,https://masitta2024.owst.jp/
+blue-tag-shop-cb80d99d65,blue-tag,カフェ,お食事・喫茶ゆかり,福井県勝山市元町3-6-23,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-01bde0d6e0,blue-tag,専門料理店,お食事処かましま,兵庫県赤穂市加里屋89-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-147c9e4e64,blue-tag,専門料理店,お食事処鶴形,岡山県倉敷市中央1-3-15,,,blue_tag,https://www.turugata.jp/restaurants
+blue-tag-shop-fe5a39b714,blue-tag,病院,かがやき西田鍼灸接骨院,石川県金沢市彦三町1-14-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3fd5972a6a,blue-tag,その他小売り,かしもとけいじ商店,大阪府八尾市中田四-33-,,,blue_tag,http://www.on-do.net/shop/kashimoto/index.php
+tsukusi-b9348757cc,blue-tag,居酒屋・バー,かじゅあるかっぽーtsukusi,大阪府大阪市 北区国分寺1-7-7,,,blue_tag,https://tabelog.com/osaka/A2701/A270103/27134266/
+blue-tag-shop-73b91e611e,blue-tag,ファミレス,かめ福オンプレイス,山口県山口市湯田温泉4-5-2,,,blue_tag,https://kamefuku.com
+blue-tag-shop-5e27a1098e,blue-tag,食料品,かん川本舗 大手門前店,兵庫県赤穂市加里屋 南3-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5102163543,blue-tag,食料品,かん川本舗 駅前本店,兵庫県赤穂市加里屋駅前町56-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3b5b8eb9e0,blue-tag,専門料理店,きじ亭,静岡県浜松市浜名区引佐町奥山1594-22,,,blue_tag,http://www.kijitei.co.jp
+blue-tag-shop-e812b2c0a1,blue-tag,その他小売り,きりもと酒店,大阪府豊中市服部 西町2-1-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3edb5a7d89,blue-tag,専門料理店,くいどうらく,兵庫県赤穂市坂越290-7,,,blue_tag,https://www.kuidouraku.com/
+blue-tag-shop-f08b49d7c5,blue-tag,美容・理容,くさか理容室,岡山県倉敷市児島上の町1-13-65,,,blue_tag,https://bb-beataro.sakura.ne.jp/
+blue-tag-shop-179b7b14b1,blue-tag,その他小売り,くすり上道,和歌山県御坊市藤田町 藤井1872,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2b462a7430,blue-tag,居酒屋・バー,くつろぎ庵　別館,大阪府大阪市 淀川区宮原3-5-24新大阪第一生命ビル地下1階,,,blue_tag,https://www.kutsurogian.jp/
+blue-tag-shop-83749dc526,blue-tag,居酒屋・バー,くつろぎ庵本店,大阪府大阪市 淀川区宮原3-5-24新大阪第一生命ビル地下1階,,,blue_tag,https://www.kutsurogian.jp/
+gocha-e2edaec504,blue-tag,ギフト・お土産,くらし器てぬぐいGocha,岡山県倉敷市本町1-30クラシキクラフトワ-クビレッジ,,,blue_tag,https://kurashiki-gocha.com/
+blue-tag-shop-6765ef26d5,blue-tag,ギフト・お土産,くらよし駅ヨコプラザ,鳥取県倉吉市上井195-12,,,blue_tag,https://www.choseido.jp/kurayoshiekiyokoplaza.html
+blue-tag-shop-40047fbafb,blue-tag,医薬品,こごみ薬局,広島県広島市 西区草津梅が台12-5,,,blue_tag,http://www.kogomi.jp/
+blue-tag-shop-132bf0f4f7,blue-tag,タクシー,ことでんバス株式会社,大阪府和泉市阪本町376-68,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c2fbec4f44,blue-tag,食料品,ことのはファーム,兵庫県丹波市春日町小多利626,,,blue_tag,https://koto-no-ha.com
+blue-tag-shop-766022efc3,blue-tag,アパレル,こびとのクローゼットフジヤ,大阪府大阪市 住之江区粉浜3-8-7,,,blue_tag,https://shop.kohamafujiya.com
+blue-tag-shop-8cfa2a7495,blue-tag,福祉・介護,ご縁訪問介護ステーション,大阪府豊中市庄内 栄町4-5-7,,,blue_tag,https://www.goenkaigo.com/
+blue-tag-shop-7f3a6b9369,blue-tag,福祉・介護,さいえい訪問看護ステーション,大阪府大阪市 淀川区三津屋北1-6-7201,,,blue_tag,https://www.sai-ei.com/
+blue-tag-shop-2376e70ebd,blue-tag,レジャー施設,さきしまコスモタワー展望台,大阪府大阪市住之江区南港北1-14-16,,,blue_tag,https://sakishima-observatory.com/
+blue-tag-shop-3a52b1b4c7,blue-tag,専門料理店,さぬきうどん四國屋,大阪府大阪市 北区堂島1-5-30堂島プラザビルB1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-018e90e4d1,blue-tag,居酒屋・バー,しあわせ料理　萬てん　京橋店,大阪府大阪市 都島区東野田町4-7-26和光京橋ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8cc6990196,blue-tag,専門料理店,しゃぶしゃぶ すき焼きかに食べ放題 和牛と豚…そしてカニ　心斎橋店,大阪府大阪市 中央区心斎橋筋 1-3-13茶茶心斎橋ビル6階,,,blue_tag,https://georgees.jp/
+blue-tag-shop-222f44aa0e,blue-tag,専門料理店,しゃぶしゃぶすき焼き肉寿司 食べ放題 和牛ざんまい　心斎橋店,大阪府大阪市 中央区東心斎橋 1-6-23清水町会館 1F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-4bf203b3eb,blue-tag,専門料理店,しゃぶしゃぶすき焼き食べ放題 和牛と豚　三条河原町店,京都府京都市 中京区山崎町238京都あじびる河原町 9F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-7db2679011,blue-tag,専門料理店,しゃぶしゃぶすき焼き食べ放題 和牛と豚　心斎橋店,大阪府大阪市 中央区東心斎橋2-5-8京屋ビル 2F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-f5121322f8,blue-tag,専門料理店,しゃぶしゃぶすき焼き食べ放題 和牛と豚　本町店,大阪府大阪市 中央区南本町3-6-1竹宏本町ビル 2F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-c9aaf21967,blue-tag,専門料理店,しゃぶしゃぶすき焼き食べ放題 和牛と豚　近鉄奈良駅前店,奈良県奈良市小西町 9-川村ビル2階,,,blue_tag,https://georgees.jp/
+blue-tag-shop-9a05d73c1a,blue-tag,専門料理店,しゃぶしゃぶ豚々　心斎橋店,大阪府大阪市 中央区東心斎橋1-13-23イルストリ-トビル 3F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-63c408ec2f,blue-tag,その他,しょうがい者・こうれい者観光案内所,沖縄県石垣市白保1960-104-1石垣空港タ-ミナル国際線インフォメ-ション,,,blue_tag,https://barifuri-okinawa.org/ishigaki/
+blue-tag-shop-d93991074c,blue-tag,家電,しらがみ電器,岡山県倉敷市鶴形2-6-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-da665bb3e4,blue-tag,専門料理店,すき焼き ズワイガニ タラバガニ食べ放題 和牛とカニ　三条河原町店,京都府京都市 中京区山崎町 2-258-22Ski河原町六角ビル 3F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-be05526637,blue-tag,専門料理店,すき焼き ズワイガニ タラバガニ食べ放題 和牛とカニ　本町店,大阪府大阪市 中央区南本町 3-6-1竹宏本町ビル 3F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-1e152c9700,blue-tag,専門料理店,すき焼き 串カツ はるな 本町店,大阪府大阪市 中央区南本町 3-4-4大野ビル 1F,,,blue_tag,https://georgees.jp/
+blue-tag-shop-6b8cd9252c,blue-tag,専門料理店,すき焼きと旬の食材　中たに,大阪府大阪市 北区曽根崎新地1-3-10北新地山忠ビル2館1F,,,blue_tag,https://kitashinchi-nakatani.com/
+blue-tag-shop-0a206ce273,blue-tag,専門料理店,すし寛,大阪府大阪市 西成区太子1-15-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fa038c8476,blue-tag,専門料理店,すし若,兵庫県赤穂市加里屋2184-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+saika-2224d0d842,blue-tag,居酒屋・バー,そばと地酒彩華Saika,広島県呉市中通3-1-31三栄中通ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4832bd655b,blue-tag,専門料理店,そば処衣笠,兵庫県赤穂市加里屋56-4,,,blue_tag,http://kinugasa-osoba47.sakura.ne.jp
+blue-tag-shop-73ca9aa468,blue-tag,居酒屋・バー,たこちゃん小倉店,福岡県北九州市小倉北区魚町1-4-9長市ビル1階,,,blue_tag,https://www.tako-kokura.com/
+blue-tag-shop-a060bb47fe,blue-tag,ファストフード,たこはち,兵庫県赤穂市加里屋2103-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-991a31c133,blue-tag,ファミレス,たなかつや。,大阪府大阪市住之江区南港北2-1-10ATC オズ棟北館3階,,,blue_tag,https://www.atc-co.com/restaurant/tanakatuya/
+blue-tag-shop-bd173f41bb,blue-tag,その他小売り,たなべ花店,兵庫県赤穂市加里屋2075,,,blue_tag,https://tanabe-flower.com
+blue-tag-shop-42a34c0357,blue-tag,専門料理店,だし福,大阪府豊中市新千里 東町1-3せんちゅうパルB1-5,,,blue_tag,https://dashifuku.jimdofree.com/
+blue-tag-shop-26551f90a1,blue-tag,カフェ,つきぐまカステラ栗東小柿店,滋賀県栗東市小柿7-1-28,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e8564686ce,blue-tag,ホビー・玩具,つじせ玩具店,大阪府茨木市大手町12-33,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-822d9eb6c5,blue-tag,専門料理店,てっぱん料理さこん本店,広島県広島市 中区流川町2-24-101蔵ビル,,,blue_tag,http://www.teppansakon.com
+blue-tag-shop-c83c59208a,blue-tag,専門料理店,てんてこ舞,香川県仲多度郡 琴平町717-てんてこ舞,,,blue_tag,https://www.nakanoya.net/nakanoudon/
+blue-tag-shop-181a6c6d1b,blue-tag,居酒屋・バー,でんや　石山駅前店,滋賀県大津市粟津町4-11,,,blue_tag,https://www.denya.jp/
+blue-tag-shop-d60dca5c08,blue-tag,居酒屋・バー,とっと天神橋店,大阪府大阪市北区天神橋3-3-23,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1fae1b9f7c,blue-tag,専門料理店,とり酒場 博多華善 梅田店,大阪府大阪市 北区梅田1-8-16 ヒルトンプラザイ-ストB2,,,blue_tag,https://www.hanamidori.net/store/archives/15
+blue-tag-shop-7492da463c,blue-tag,専門料理店,どさん子大将 　尼崎店,兵庫県尼崎市神田 中通 5-203,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-aace1f9965,blue-tag,日用雑貨総合,なみき洋品店,大阪府大阪市北区天神橋2-3-25,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-771b33fea8,blue-tag,居酒屋・バー,なんとか高槻,大阪府高槻市北園町18-1,,,blue_tag,https://tabelog.com/osaka/A2706/A270604/27048189/
+blue-tag-shop-06e4e55b27,blue-tag,専門料理店,にしきや　本店,香川県仲多度郡 琴平町696,,,blue_tag,https://www.kotohira-nishikiya.com/
+blue-tag-shop-9cf3982da9,blue-tag,食料品,はちみつ専門店　蜂幸,京都府京都市 下京区西酢屋町2-33,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d921b96673,blue-tag,専門料理店,はり清,京都府京都市 東山区袋町294,,,blue_tag,https://harise-kyoto.com/
+blue-tag-shop-d23dd7b069,blue-tag,病院,はり灸觀鍼堂,大阪府大阪市 北区豊崎3-20-9三栄ビル406,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+nico-89428ec201,blue-tag,食料品,ぱんやnico,兵庫県赤穂市砂子157,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-13b482b915,blue-tag,宿泊施設,びわこ緑水亭,滋賀県大津市雄琴6-1-6,,,blue_tag,https://ryokusuitei.com
+blue-tag-shop-8e20b8e8b2,blue-tag,専門料理店,ふく処喜多川,山口県下関市南部町7-11,,,blue_tag,http://www.fuku-kitagawa.com/
+blue-tag-shop-81a68b536c,blue-tag,居酒屋・バー,ふぐかに処　心福,大阪府大阪市東成区東小橋3-18-2,,,blue_tag,https://fugu-kani-kokofuku.com/
+blue-tag-shop-3ade4af10b,blue-tag,出前,ふじやからあげ,大阪府大東市北条3-16-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-96d25bfc85,blue-tag,アパレル,ふじや靴下,大阪府大阪市 阿倍野区阿倍野筋3-10-1アベノベルタ1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a6a22836a2,blue-tag,その他,ふるはし鍼灸院,京都府京都市 左京区田中 下柳町13,,,blue_tag,https://www.furuhashi-acupuncture.jp/
+by-honeybeeshop-544a3616dc,blue-tag,カフェ,ぷby honeybeeshop,大阪府大阪市中央区難波3-8-9なんばマルイ1階,,,blue_tag,https://www.sakishima-sweets.com/
+blue-tag-shop-55b32f64fc,blue-tag,居酒屋・バー,ほうかん町みつの,岡山県岡山市北区奉還町3-9-5,,,blue_tag,https://mitsuno0718.com
+blue-tag-shop-0e8262a1a8,blue-tag,居酒屋・バー,ほうせん,大阪府和泉市府中町1-3-18,,,blue_tag,https://tabelog.com/osaka/A2705/A270502/27123725/
+blue-tag-shop-d7162ebca4,blue-tag,美容・理容,ほぐし＆整体 一休,大阪府大阪市都島区都島北通1-4-3,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000434457/
+blue-tag-shop-cee2f7d47b,blue-tag,専門料理店,ほそだのすきやきしゃぶしゃぶハウス,岡山県岡山市北区岩田町7-6,,,blue_tag,https://niku-hosoda.com
+blue-tag-shop-30e0501490,blue-tag,冠婚葬祭,ほたるの里動物霊園堺分院斎場,大阪府堺市 北区八下北1-32,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0e90e5d091,blue-tag,宿泊施設,まつさき,石川県能美市辰口町3-1,,,blue_tag,https://www.matsusaki.jp
+blue-tag-shop-fc260dc6d7,blue-tag,宿泊施設,まつなみ荘,滋賀県高島市マキノ町西浜763-1まつなみ荘,,,blue_tag,https://matsunamiso.com/
+blue-tag-shop-5fb9125083,blue-tag,宿泊施設,まつなみ荘　別館,滋賀県高島市マキノ町高木浜2-6-6まつなみ荘別館,,,blue_tag,https://matsunamiso.com/
+blue-tag-shop-778074b360,blue-tag,居酒屋・バー,まほらや,大阪府大阪市 中央区安土町3-3-5イケガミビルB1,,,blue_tag,https://maholaya.ortho-d.jp/
+blue-tag-shop-cda6702502,blue-tag,専門料理店,まま屋　栗東小柿店,滋賀県栗東市小柿7-1-28,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-aade44ec86,blue-tag,専門料理店,まま屋　草津店,滋賀県草津市大路1--9-1クロスアベニュ-草津107区画,,,blue_tag,https://www.rinplus.co.jp
+blue-tag-shop-9bfc36c98e,blue-tag,化粧品,まるい化粧品店,大阪府高槻市高槻町20-18,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-01d35717d6,blue-tag,専門料理店,まるたけえびす豆八,京都府京都市 中京区鍋屋町 210-4,,,blue_tag,https://k127209.gorp.jp/
+blue-tag-shop-648a270554,blue-tag,アパレル,まんぞくやカバン店,広島県広島市 中区堀川町5-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-55fc6ce98c,blue-tag,その他小売り,みちろ堂,広島県広島市 中区胡町5-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4f439969c7,blue-tag,宿泊施設,みどりの宿萬松閣,石川県加賀市山代温泉東山町3-みどりの宿萬松閣,,,blue_tag,https://www.bansyoukaku.co.jp/
+blue-tag-shop-7b9891c514,blue-tag,宿泊施設,みのや泰平閣,福井県あわら市舟津50-1-1,,,blue_tag,https://minoya-taiheikaku.jp/
+blue-tag-shop-ea564c2335,blue-tag,ギフト・お土産,みょうばん湯の里,大分県別府市大字鶴見1311-の1,,,blue_tag,http://www.yuno-hana.jp
+blue-tag-shop-b66d9a944e,blue-tag,居酒屋・バー,みよし屋,香川県高松市田町1-4,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5be029b2aa,blue-tag,宿泊施設,もみぢ家,京都府京都市右京区梅ケ畑西ノ畑町2-,,,blue_tag,https://www.momijiya.jp/
+blue-tag-shop-c9f7251603,blue-tag,宿泊施設,やいま家庭料理さつき,沖縄県石垣市美崎町7-16,,,blue_tag,https://www.miyahira.co.jp/restaurant/satsuki.html
+blue-tag-shop-9abb806fb6,blue-tag,日用雑貨総合,やまからな,奈良県奈良市餅飯殿町30-1,,,blue_tag,http://yamakarana.com
+blue-tag-shop-d0ce125a70,blue-tag,居酒屋・バー,ゆきち屋,鳥取県鳥取市栄町705駅前三-街ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-567641a3d9,blue-tag,居酒屋・バー,ゆめ八プレミアム　難波店,大阪府大阪市 中央区道頓堀2-2-20道頓堀リッツビル,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b8ecf77a60,blue-tag,宿泊施設,ゆ～とりあ越中,富山県富山市春日96-1ゆ~とりあ越中,,,blue_tag,https://www.yu-toriaettyu.co.jp
+blue-tag-shop-fd464a1b24,blue-tag,居酒屋・バー,より道,大阪府大阪市 北区中崎3-3-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-39d7fe50d1,blue-tag,居酒屋・バー,よろずや,京都府京都市下京区下諏訪町355-2,,,blue_tag,http://izakaya-yorozuya.com/
+labo-d85676bc19,blue-tag,美容・理容,わたなべ接骨院＋LABO,岡山県倉敷市川入817-1シュバリエブラン壱-館A,,,blue_tag,https://watanabe-sekkotuin.com/
+blue-tag-shop-579be0bbf3,blue-tag,病院,わだ鍼灸整骨院,大阪府和泉市阪本町376-68,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f6495f27b0,blue-tag,専門料理店,アイリッシュパブ　ダブリン,京都府京都市 中京区一之船入町 537-23ミレニアム御池1階2階,,,blue_tag,https://k127211.gorp.jp/
+blue-tag-shop-adf724edf0,blue-tag,アパレル,アオキ洋服店,広島県尾道市土堂2-6-7,,,blue_tag,https://onomichi-hondoori.jp/shop/detail.php?sp=156
+blue-tag-shop-bca67c5b61,blue-tag,ペット用品,アクアメイク,大阪府大阪市 大正区南恩加島5-3-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+iii-5a407d475a,blue-tag,カフェ,アサイーボウル専門店 iii(アイ),大阪府大阪市 中央区心斎橋筋1-8-3 B2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-be974f8898,blue-tag,タクシー,アサヒタクシー株式会社,岡山県倉敷市中央1-1-44,,,blue_tag,https://asahitaxi.jp/
+blue-tag-shop-353fb0524d,blue-tag,タクシー,アシナトランジット株式会社,広島県江田島市能美町中町4718江田島荘,,,blue_tag,https://www.ashinatransit.co.jp/
+blue-tag-shop-cffc592ae6,blue-tag,専門料理店,アジアごはんバナココ,大阪府東大阪市横沼町3-4-1-B,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e517d80d1d,blue-tag,アパレル,アタックいわき店,福島県いわき市錦町江栗大町10,,,blue_tag,https://atackbase.com/shop/iwaki/
+blue-tag-shop-94d0de054a,blue-tag,アパレル,アタック上越店,新潟県上越市藤巻6-52,,,blue_tag,https://atackbase.com/shop/joetsu/
+blue-tag-shop-067c572129,blue-tag,アパレル,アタック八代店,熊本県八代市宮地町1973-1,,,blue_tag,https://atackbase.com/shop/yatsushiro/
+blue-tag-shop-56c9a0e717,blue-tag,アパレル,アタック宇部店,山口県宇部市中野開作414-5,,,blue_tag,https://atackbase.com/shop/ube/
+blue-tag-shop-3224064b32,blue-tag,アパレル,アタック小千谷店,新潟県小千谷市平沢1-788-5,,,blue_tag,https://atackbase.com/shop/ojiya/
+blue-tag-shop-25d5ffe4ac,blue-tag,アパレル,アタック小豆餅店,静岡県浜松市中央区小豆餅3-26-1,,,blue_tag,https://atackbase.com/shop/
+blue-tag-shop-01c8bf669a,blue-tag,アパレル,アタック尾道店,広島県尾道市高須町3647-1,,,blue_tag,https://atackbase.com/shop/onomichi/
+blue-tag-shop-c41670c07e,blue-tag,アパレル,アタック平店,福島県いわき市平 上荒川字長尾40-3,,,blue_tag,https://atackbase.com/shop/taira/
+blue-tag-shop-8490b15cbe,blue-tag,アパレル,アタック徳島店,徳島県名西郡 石井町高川原 字桜間271-1,,,blue_tag,https://atackbase.com/shop/tokushima/
+blue-tag-shop-e447d2a15b,blue-tag,アパレル,アタック新涯店,広島県福山市新涯町1-24-34,,,blue_tag,https://atackbase.com/shop/
+blue-tag-shop-5128899724,blue-tag,アパレル,アタック新見店,岡山県新見市高尾2480-19,,,blue_tag,https://atackbase.com/shop/niimi/
+blue-tag-shop-af0a734c67,blue-tag,アパレル,アタック玉野店,岡山県玉野市築港3-1-12,,,blue_tag,https://atackbase.com/shop/tamano/
+blue-tag-shop-2913f65d03,blue-tag,アパレル,アタック真庭店,岡山県真庭市久世2287-1,,,blue_tag,https://atackbase.com/shop/maniwa/
+blue-tag-shop-aa493dd55d,blue-tag,アパレル,アタック神辺店,広島県福山市神辺町 川南667-1,,,blue_tag,https://atackbase.com/shop/kannabe/
+blue-tag-shop-42fbb92ebd,blue-tag,アパレル,アタック福島店,福島県福島市鎌田字御仮家96,,,blue_tag,https://atackbase.com/shop/fukushima/
+blue-tag-shop-190cfcb67f,blue-tag,アパレル,アタック笠岡店,岡山県笠岡市笠岡276-2,,,blue_tag,https://atackbase.com/shop/kasaoka/
+blue-tag-shop-5900c6484e,blue-tag,アパレル,アタック藤枝店,静岡県藤枝市水上10-10,,,blue_tag,https://atackbase.com/shop/
+blue-tag-shop-091afcb0a4,blue-tag,アパレル,アタック越谷店,埼玉県越谷市東大沢2-33-10,,,blue_tag,https://atackbase.com/shop/kosigaya/
+blue-tag-shop-9167516273,blue-tag,アパレル,アタック長岡店,新潟県長岡市三ツ郷屋2-1-14西長岡ぷら-ざ内,,,blue_tag,https://atackbase.com/shop/nagaoka/
+blue-tag-shop-433c4386b3,blue-tag,その他小売り,アラヨ人形,福井県福井市順化2-1-6,,,blue_tag,https://www.arayo-fukui.com/
+blue-tag-shop-edefb34d16,blue-tag,自動車・バイク用品,アルファロメオ岡山,岡山県岡山市 南区米倉32-3,,,blue_tag,https://okayama.alfaromeo-dealer.jp/alfaromeo/
+blue-tag-shop-63f1483f40,blue-tag,ペット用品,アワジヤ,大阪府大阪市 西区九条1-6-17,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6b7b0b3f8c,blue-tag,コンビニエンスストア,アーバンショップ,富山県富山市牛島町18-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-839b005f4b,blue-tag,宿泊施設,アーバンホテル京都,京都府京都市 伏見区深草 西浦町4-59,,,blue_tag,https://uh-urban.com/kyoto/
+blue-tag-shop-68b0f1ff01,blue-tag,宿泊施設,アーバンホテル京都二条プレミアム,京都府京都市 中京区聚楽廻 南町25-5,,,blue_tag,https://uh-urban.com/nijo/
+blue-tag-shop-897e8204ad,blue-tag,宿泊施設,アーバンホテル京都五条プレミアム,京都府京都市 下京区小泉町87,,,blue_tag,https://uh-urban.com/gojo/
+blue-tag-shop-569697d928,blue-tag,宿泊施設,アーバンホテル京都四条プレミアム,京都府京都市 下京区四条 堀川町272-6,,,blue_tag,https://uh-urban.com/shijo/
+blue-tag-shop-de86ad23a4,blue-tag,宿泊施設,アーバンホテル南草津,滋賀県草津市南草津1-1-5,,,blue_tag,https://uh-urban.com/minami-kusatsu/
+blue-tag-shop-4d80f49bca,blue-tag,宿泊施設,アーバンホテル草津,滋賀県草津市大路1-4-31,,,blue_tag,https://uh-urban.com/kusatsu/
+blue-tag-shop-e4e4202562,blue-tag,アパレル,イシイハット,岡山県岡山市 北区奉還町2-8-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-76c0480509,blue-tag,その他小売り,イタリアワイン専門　ルーヴァ,大阪府大阪市中央区南船場1-8-6ヨシイチビル5階,,,blue_tag,https://luva.jp
+niina-06b9ba3783,blue-tag,専門料理店,イタリアンバルNIINA,大阪府大阪市 中央区東心斎橋1-19-8日宝プロムナ-ド心斎橋1F,,,blue_tag,https://yoyaku-niina.com/
+blue-tag-shop-1238ce4ddb,blue-tag,専門料理店,イタリアン割烹心,京都府京都市東山区清本町374-13,,,blue_tag,https://www.italiankappo-shin.com/
+blue-tag-shop-98f03c1425,blue-tag,専門料理店,イタリア食堂ちぇるきお,大阪府大阪市 平野区平野宮町1-5-5-179,,,blue_tag,https://hiranoku-cerchio.owst.jp/
+blue-tag-shop-de80e247d7,blue-tag,居酒屋・バー,イチサン天満橋店,大阪府大阪市中央区天満橋京町1-21長戸ビル1F,,,blue_tag,https://tabelog.com/osaka/A2701/A270104/27126683/
+blue-tag-shop-d6c8e91937,blue-tag,旅行代理店,イナホ舎・古民家まれびと,石川県加賀市山中温泉 今立町イ180,,,blue_tag,https://marebito-cycling.jp/
+blue-tag-shop-e011324376,blue-tag,アパレル,インポートセレクトブティックはいからや,岡山県倉敷市鶴形1-2-5,,,blue_tag,https://www.haikaraya.org/
+blue-tag-shop-68f25399b2,blue-tag,タクシー,イーグルタクシー有限会社,山口県柳井市柳井4827-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b792dc7a28,blue-tag,アパレル,ウィッグ専門店リシェール,大阪府大阪市 此花区四貫島2-22-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-be1831818a,blue-tag,専門料理店,エッグスイッチ,大阪府大阪市 大正区三軒家東1-15-2カ-サ木津105,,,blue_tag,https://www.instagram.com/eggswitch?igsh=eDJueXpjNzdoZ3Vt
+blue-tag-shop-4e05e73830,blue-tag,その他,エヌワイ工業,大阪府岸和田市別所町1-10-27,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-21784438f4,blue-tag,カフェ,エビアン東一北店,宮城県仙台市 青葉区一-町4-5-22,,,blue_tag,https://www.instagram.com/cafede_evian/
+blue-tag-shop-ac54603fd3,blue-tag,タクシー,エムアール交通株式会社,兵庫県宝塚市清荒神5-3,,,blue_tag,http://www.mrk.co.jp/?page_id=20
+blue-tag-shop-9563f08736,blue-tag,旅行代理店,エムトラベル,石川県金沢市片町二-1-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-87277e9029,blue-tag,美容・理容,オックス・クリエーション桃山,京都府京都市 伏見区御香宮門前町195-1,,,blue_tag,https://www.oxcreation.com
+blue-tag-shop-e2b2bcd605,blue-tag,美容・理容,オックス・クリエーション椥辻,京都府京都市 山科区椥辻 草海道町4-7イ-グルコ-ト椥辻3アペックス1F,,,blue_tag,https://www.oxcreation.com
+blue-tag-shop-0a3642c820,blue-tag,美容・理容,オックス・クリエーション深草店,京都府京都市伏見区深草 西浦町四-32-,,,blue_tag,https://www.oxcreation.com
+blue-tag-shop-b9d23ff73b,blue-tag,食料品,カクキュー八丁味噌（八丁味噌の郷）,愛知県岡崎市八丁町69-,,,blue_tag,https://www.kakukyu.jp
+blue-tag-shop-6cb3e1c529,blue-tag,居酒屋・バー,カッページ東京,東京都港区三田3-4-12田村ビル地下一階,,,blue_tag,https://cuppagetokyo.com/
+blue-tag-shop-85cd890e5b,blue-tag,カフェ,カフェ ラヴニール,兵庫県神戸市中央区元町高架通3-184,,,blue_tag,https://www.lavenir-dojima.jp/
+blue-tag-shop-614830966c,blue-tag,カフェ,カフェチャオッペ,大阪府大阪市 旭区清水5-12-12,,,blue_tag,https://ciaoppe.buyshop.jp/
+blue-tag-shop-ac4586fb80,blue-tag,カフェ,カフェテリアマジカ,大阪府大阪市 西区九条2-7-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b34ca79588,blue-tag,その他小売り,カメラのマツエ,富山県南砺市寺家新屋敷366,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-980e081ead,blue-tag,レジャー施設,カラオケ歌居屋　新長田店,兵庫県神戸市 長田区大橋町5-3-1アスタプラザイ-ストB1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f43411d7b0,blue-tag,食料品,カレントフーズ,大阪府大阪市 北区梅田1-1-3大阪駅前第三ビルB1-52,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-287f902ab4,blue-tag,文具,カワブン,福岡県福岡市 博多区博多駅 中央街地下45博多駅地下街,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5bc5c68555,blue-tag,燃料小売,カーサービス金沢駅西店,石川県金沢市駅西本町3-2-1,,,blue_tag,https://mytown-carshop.jp/scd29151537/
+blue-tag-shop-6cdebd22a1,blue-tag,自動車・バイク用品,カーショップカミタケ,大阪府交野市倉治6-3-29,,,blue_tag,https://www.kamitake.cp.jp
+blue-tag-shop-18cd9f5f72,blue-tag,専門料理店,ガラージ製麺所,和歌山県和歌山市十二-丁66サングレ-ス1階 101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b25d128b96,blue-tag,スタジオ・撮影,キキフォトワークス株式会社,奈良県生駒郡 安堵町東安堵64-11,,,blue_tag,https://2kiki.com
+blue-tag-shop-cb56f9b698,blue-tag,居酒屋・バー,キッチンぼーちゃん,京都府京都市左京区田中野神町6-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+epo-69eff14102,blue-tag,クリーニング,クリーニングEPO,広島県広島市中区舟入南2-8-10,,,blue_tag,https://cleaningepo.com
+blue-tag-shop-68dbe670c3,blue-tag,カフェ,クレープカメレオン,兵庫県赤穂市加里屋2103-14湯元店舗1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8814d06632,blue-tag,インテリア,クロックショップ　コヨミ,兵庫県神戸市 中央区三宮町1-3-4,,,blue_tag,https://secsvr.net/543net.com/index.htm
+blue-tag-shop-5539e86f44,blue-tag,その他,クローバー鍼灸院,奈良県大和郡山市筒井町460-15オッシェムロジナ1D,,,blue_tag,https://r.goope.jp/clover0605/about
+blue-tag-shop-37a2c1b88c,blue-tag,専門料理店,グリル スターシップ,兵庫県神戸市 中央区元町通5-3-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6fe756a506,blue-tag,その他小売り,グリーンアンドストーンショップ　アルカイック,大阪府門真市石原町5-16メゾンあすか102,,,blue_tag,http://www.stoneshop-archaic.com
+blue-tag-shop-a8925faffd,blue-tag,美容・理容,コアフュール　まつお,富山県富山市婦中町中名462,,,blue_tag,https://matsuo1058.com/
+blue-tag-shop-8a3e1c147d,blue-tag,その他小売り,コウベサコム,兵庫県神戸市 中央区元町通3-10-2コウベサコムビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8d22274dca,blue-tag,家電,コヤマデンキ,岡山県倉敷市玉島 爪崎664,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+be-en-83dcfca43e,blue-tag,その他,コワーキングスペースBE-EN,和歌山県和歌山市美園町5-6-132、3階,,,blue_tag,https://be-en.com/
+blue-tag-shop-f97e7bd359,blue-tag,その他小売り,サイクリング・サロン・ヒロシゲ,山口県柳井市天神14-22,,,blue_tag,https://hiroshige.co.jp
+blue-tag-shop-a6776853b6,blue-tag,レンタカー,サザンセト交通株式会社,滋賀県栗東市小柿7-1-28,,,blue_tag,https://southernseto.sakura.ne.jp/
+noo-39c71b099c,blue-tag,居酒屋・バー,サブカルエンターテイメントアニソンバーnoo,大阪府大阪市中央区東心斎橋2-5-10八幡筋ギャラクシ-ビル 2館 403,,,blue_tag,https://subculentertainment.com/anisonbarnoo/
+round2-93d6816795,blue-tag,居酒屋・バー,サブカルエンターテイメントバーRound2,大阪府大阪市中央区千日前1-6-20坂町ビル地下1階,,,blue_tag,https://subculentertainment.com/round2/
+blue-tag-shop-d43c0d9f43,blue-tag,居酒屋・バー,サブカルエンターテイメントバー魔王城,大阪府大阪市中央区東心斎橋2-1-5ゴ-ルデン第一プラザビル10階,,,blue_tag,https://subculentertainment.com/maoujo/
+blue-tag-shop-ebf0f81d56,blue-tag,美容・理容,サロンひろみ,大阪府泉北郡 忠岡町忠岡東3-1-28,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-eadaab0074,blue-tag,その他,サンエイト美都,島根県益田市美都町 宇津川 ロ586-2,,,blue_tag,http://mitoshin.net/
+blue-tag-shop-7dd98b2cbe,blue-tag,ホビー・玩具,サンショップ大阪,大阪府寝屋川市田井町33-44,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8a3293b052,blue-tag,タクシー,サンタクシー株式会社,大阪府大阪市 淀川区十三元今里 2-1-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-808263d1ad,blue-tag,旅行代理店,サントラベル,福井県鯖江市有定町一-10-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c79bab7e30,blue-tag,宿泊施設,シティルートホテル,大阪府大阪市 西区靱本町2-3-6,,,blue_tag,https://cityroute.jp/
+blue-tag-shop-2b8b10d8c4,blue-tag,アパレル,シマダ靴店,大阪府大阪市 北区天神橋3-1-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2be0b7c442,blue-tag,食料品,シュクルヴァン新山口駅店,山口県山口市小郡令和1-2-1,,,blue_tag,https://www.kasinoki.co.jp/shuklevain/index.htm
+blue-tag-shop-00d6fa1055,blue-tag,専門料理店,シュラスコお兄さん,大阪府大阪市 阿倍野区文の里3-7-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d0d1dea56f,blue-tag,ジュエリー,ジュエル森脇周南店,山口県下松市望町1-9-1,,,blue_tag,https://jewel-moriwaki-s.main.jp/
+blue-tag-shop-ea6275d4ad,blue-tag,ジュエリー,ジュエル森脇岩国本店,山口県岩国市麻里布町2-3-4,,,blue_tag,https://jewel-moriwaki-s.main.jp/
+blue-tag-shop-386a59f8ed,blue-tag,美容・理容,ジョイ,大阪府池田市石橋1-11-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ca82fefbc9,blue-tag,アパレル,ジーンズ企画工房,広島県府中市目崎町144,,,blue_tag,https://jeans-plan-studio.co.jp/
+blue-tag-shop-c97d0b5e31,blue-tag,レジャー施設,スカイダック台場,東京都江東区青海1-2-1,,,blue_tag,https://www.skybus.jp/
+blue-tag-shop-369dea2239,blue-tag,レジャー施設,スカイダック横浜,神奈川県横浜市 西区みなとみらい 2-1-1,,,blue_tag,https://www.skybus.jp/
+blue-tag-shop-375b20fb40,blue-tag,レジャー施設,スカイバス東京,東京都千代田区丸の内 2-5-2,,,blue_tag,https://www.skybus.jp/
+blue-tag-shop-f91bbed4e7,blue-tag,スタジオ・撮影,スズキ写真館,大阪府茨木市大手町12-32,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8dcf259dae,blue-tag,タクシー,スズランタクシー株式会社,山口県宇部市中野開作414-5,,,blue_tag,https://nks-group.jp/pages/89/
+blue-tag-shop-e0bdb25db7,blue-tag,アパレル,スタジアム,兵庫県尼崎市神田 中通5-182-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-014e31e62b,blue-tag,その他小売り,ストーンショップ　アルカイック,大阪府大阪市 西成区花園南1-5-7,,,blue_tag,http://www.stoneshop-archaic.com
+blue-tag-shop-3e658753fb,blue-tag,居酒屋・バー,スペイン料理　バルババ,福岡県福岡市 中央区平尾2-17-20グランド平尾105,,,blue_tag,https://www.bar-baba.com/
+blue-tag-shop-2bed7e52ae,blue-tag,専門料理店,スペイン料理ティオぺぺ,京都府京都市左京区北白川東久保田町6,,,blue_tag,https://tiopepekioto.jimdofree.com/
+blue-tag-shop-d35b3c757c,blue-tag,燃料小売,スマイルランド神久,三重県伊勢市神久4-1-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-cc20bdca59,blue-tag,その他小売り,スマホの窓口,岡山県岡山市北区奉還町3-9-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-195542acd2,blue-tag,その他,スマホ修理ｉスマイル,岡山県岡山市北区奉還町2-5-20,,,blue_tag,http://ip-ismile.com/
+blue-tag-shop-33aec13cab,blue-tag,自動車・バイク用品,タイヤ館姫路中央店,兵庫県姫路市神屋町6-72-,,,blue_tag,https://www.fukui-tire.com/himejiChuo/index.html
+sol-de-verano-1626b16bb4,blue-tag,居酒屋・バー,タケオバルSOL DE VERANO,佐賀県武雄市武雄町富岡7807-3平和ビル103,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5ae12e6b1d,blue-tag,アパレル,タナカ洋装店,岡山県倉敷市阿知2-7-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-71a13af50d,blue-tag,その他小売り,タナベカメラ,福井県福井市照手1-6-20,,,blue_tag,http://tanacame.pro
+blue-tag-shop-4b5252fa2c,blue-tag,食料品,ツキミソウ,大阪府東大阪市長栄寺1-5-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-379311da30,blue-tag,居酒屋・バー,テッパン食堂 スワーハ,大阪府大阪市北区菅栄町12-12ベルエアシミズ1F,,,blue_tag,http://www.hotpepper.jp/strJ001125550/
+blue-tag-shop-5be3093595,blue-tag,旅行代理店,トラベル・アイ,石川県金沢市寺地2-21-5,,,blue_tag,https://travel-ai.net
+blue-tag-shop-ef2f964d0e,blue-tag,旅行代理店,トラベル１,石川県金沢市畝田西2-124-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fa6b8fc1cf,blue-tag,卸売業,トンボ雑貨店,大阪府大阪市中央区船場中央3-2-8-B117,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9fb2258250,blue-tag,アパレル,トータルファション　イクオ,大阪府大阪市 港区八幡屋1-14-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-070a30557d,blue-tag,その他,ドクターネイル爪革命　京都出町店,京都府京都市上京区表町27サンライズ出町1階,,,blue_tag,https://dr-nail-kyoto.jp
+blue-tag-shop-8360a2de8c,blue-tag,ギフト・お土産,ドルセ洋菓子店フジグラン神辺店,広島県福山市神辺町大字新道上字2-10-26フジグラン神辺1F,,,blue_tag,https://www.doruse.jp
+blue-tag-shop-defac6e83e,blue-tag,ギフト・お土産,ドルセ洋菓子店南蔵王店,広島県福山市南蔵王町6-12-11,,,blue_tag,https://www.doruse.jp
+blue-tag-shop-eab49523b9,blue-tag,ギフト・お土産,ドルセ洋菓子店本店,広島県福山市三吉町3-9-25,,,blue_tag,https://www.doruse.jp
+blue-tag-shop-5cc8d15b18,blue-tag,その他小売り,ナカダヤ,岡山県岡山市 北区奉還町3-12-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+dal1119-one-40edf8019b,blue-tag,専門料理店,ナガグツ食堂DAL1119 イタリアン＋ONE,京都府京都市上京区芝大宮町17-1桃園ハイツ102,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d43c77f3e8,blue-tag,ファミレス,ニコイチマート,広島県広島市 西区三篠町1-12-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-64cc77951a,blue-tag,旅行代理店,ニコニコ観光,広島県福山市南本庄3-5-24,,,blue_tag,https://niko-kan.co.jp/
+blue-tag-shop-bc84c0854e,blue-tag,タクシー,ニコニコ観光株式会社,長野県下高井郡山ノ内町平穏7148志賀レ-クホテル,,,blue_tag,https://niko-kan.co.jp/
+blue-tag-shop-0d469154dd,blue-tag,専門料理店,ニューダルニー,大阪府大阪市 中央区日本橋2-12-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a0539281b7,blue-tag,アパレル,ノアロード,大阪府大阪市 此花区四貫島1-5-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6a89d39809,blue-tag,専門料理店,ハイウェイレストラン宇和島,愛媛県宇和島市高串3-58,,,blue_tag,https://shinjukaikan.com
+blue-tag-shop-2422eabc1d,blue-tag,その他小売り,ハゲオムスビ,大阪府東大阪市足代北2-13-18,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c86f2d3fd8,blue-tag,カフェ,ハンプトンコート,大阪府大阪市北区同心2-1-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4a26a65a8a,blue-tag,ファストフード,ハートランド 公設市場店,沖縄県石垣市大川208公設市場内地下1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8d8f9c87a2,blue-tag,食料品,バナジュー,大阪府大阪市 大正区鶴町2-11-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2e79dcb0fe,blue-tag,居酒屋・バー,バルチョップ,大阪府大阪市 北区曽根崎2-10-29Sonezaki Koei BLD 地下1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0eb03e3647,blue-tag,居酒屋・バー,バーレジーナ,岡山県倉敷市中央1-1-44,,,blue_tag,https://www.kurashiki-kokusai-hotel.co.jp/
+blue-tag-shop-71c2b254ae,blue-tag,専門料理店,パストリアプーサン,山口県山口市大内問田5-1-35パストリアプ-サン,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+24-1ff9fa57ab,blue-tag,その他,パソコンドック24 大阪・扇町店,大阪府大阪市北区天神橋3-8-9新末広ビル1F,,,blue_tag,https://www.pcdock24.com/shop/osaka/ogimachi.html
+24-e0e5b16077,blue-tag,その他,パソコンドック24 大阪梅田本部,大阪府大阪市北区梅田1-11-4大阪駅前第4ビル4F,,,blue_tag,https://www.pcdock24.com/shop/osaka/umeda.html
+24-c974701c84,blue-tag,その他,パソコンドック24 広島店,広島県広島市中区大手町3-1-7,,,blue_tag,https://www.pcdock24.com/shop/hiroshima/hiroshima.html
+24-a8b1a7bed3,blue-tag,その他,パソコンドック24 新大阪店,大阪府大阪市淀川区西中島5-9-6,,,blue_tag,https://www.pcdock24.com/shop/osaka/shin-osaka.html
+24-661650fe2c,blue-tag,その他,パソコンドック24 本町店,大阪府大阪市中央区瓦町3-4-9フカキ瓦町ビル1F,,,blue_tag,https://www.pcdock24.com/shop/osaka/hommachi.html
+24-5ad5810a29,blue-tag,その他,パソコンドック24 本部,大阪府大阪市北区天神橋3-8-9新末広ビル5階,,,blue_tag,https://www.pcdock24.com/
+blue-tag-shop-49bf8a817d,blue-tag,居酒屋・バー,パラダイスキッチン,大阪府大阪市 城東区鴫野東3-2-16,,,blue_tag,https://epark.jp/shopinfo/gou637421/
+nicol-28b8f84914,blue-tag,食料品,パン工房NICOL,大阪府和泉市府中町7-1-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-43300a36d4,blue-tag,カフェ,パーラーきふぁや,沖縄県石垣市川平912-1川平コミュニティ施設内,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ac63508a4b,blue-tag,ギフト・お土産,ヒミツノアソビバ,富山県氷見市比美町9-8,,,blue_tag,http://try-print.toyama.jp
+ichi-ya-2db33b279a,blue-tag,専門料理店,ビアパブ　ICHI-YA,京都府京都市 中京区船屋町 384,,,blue_tag,https://k127214.gorp.jp/
+blue-tag-shop-fc9e88356b,blue-tag,専門料理店,ビストロ・ラ・バニーユ,広島県広島市中区鉄砲町4-10シティ-コ-プ幟町1F,,,blue_tag,https://bistro-la-vanille.com
+blue-tag-shop-e700c8fc64,blue-tag,レジャー施設,ビートルズ文化博物館,兵庫県赤穂市加里屋2059,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-bd099e0dd2,blue-tag,居酒屋・バー,ピンクのヨイドレ鯨,大阪府大阪市北区池田町7-15,,,blue_tag,https://www.yoidore-kujira.com
+blue-tag-shop-34eb1e85e4,blue-tag,その他,ピーシーゲート,大阪府大阪市 港区市岡元町3-11-35,,,blue_tag,https://www.pcgate-osaka.net/
+blue-tag-shop-d77726c51e,blue-tag,アパレル,ファッションハウス　カトー,福井県南条郡南越前町東大道33-13-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4ba2c4aa2e,blue-tag,自動車・バイク用品,フィアットアバルト岡山,岡山県岡山市 北区北長瀬表町3-3-10,,,blue_tag,https://okayama.fiat-abarth-dealer.jp/fab/
+blue-tag-shop-4488c4fa3b,blue-tag,カフェ,フジヤマコーヒーロースターズみどりが丘図書館,山口県柳井市柳井3776-2,,,blue_tag,https://fujiyamacoffeeroasters.com/
+blue-tag-shop-d865ca22d3,blue-tag,カフェ,フジヤマコーヒーロースターズやない白壁出張所,山口県柳井市柳井津451-1,,,blue_tag,https://fujiyamacoffeeroasters.com/
+blue-tag-shop-c73e45d555,blue-tag,カフェ,フジヤマコーヒーロースターズ本店,山口県柳井市柳井4827-2,,,blue_tag,https://fujiyamacoffeeroasters.com/
+blue-tag-shop-480f68da90,blue-tag,日用雑貨総合,フジ・コーキ,大阪府大阪市 浪速区日本橋5-7-16,,,blue_tag,http://www.fuji-koki.co.jp
+blue-tag-shop-8100163573,blue-tag,その他小売り,フラワーショップ花将,広島県広島市 西区観音町9-8,,,blue_tag,https://flower-hanasho.com
+blue-tag-shop-dc99ac6e28,blue-tag,食料品,フランス菓子 ラ・セーヌ,兵庫県赤穂市加里屋69-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6f1e883199,blue-tag,化粧品,フローラ本店,岡山県岡山市北区丸の内2-12-21 1階東,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-22b08b5476,blue-tag,専門料理店,ブライヤゲート,兵庫県赤穂市東浜町68-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e8aa1739ea,blue-tag,食料品,ブーランジュリ・タカムラ,大阪府高槻市松が丘1-11-5,,,blue_tag,https://www.instagram.com/boulangerie_takamura/
+blue-tag-shop-4b69374b04,blue-tag,アパレル,プラム,大阪府堺市 西区鳳東町2-204,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a3efa4b22b,blue-tag,専門料理店,プランチャー健,京都府京都市 東山区祇園町 北側 282-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+home-1562e15efa,blue-tag,カフェ,プリン専門店 Home,兵庫県神戸市 中央区元町通4-1-13-2カトル神戸元町1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+afro-d98341f09f,blue-tag,美容・理容,ヘアーサロンAfro,奈良県大和郡山市小林町289-10,,,blue_tag,https://www.hairsalonafro.com/index.html
+sato-8ea2fa2ede,blue-tag,美容・理容,ヘアーサロンSATO,岡山県岡山市東区瀬戸町光明谷191-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b7822357b0,blue-tag,美容・理容,ヘアーサロンふらっと,富山県高岡市清水町2-2-1,,,blue_tag,https://www.flat1500.com/
+blue-tag-shop-0349091ed4,blue-tag,美容・理容,ヘアーメイクワシントン庭瀬店,岡山県岡山市 北区平野1095,,,blue_tag,https://www.washington.gr.jp
+blue-tag-shop-9063565554,blue-tag,アパレル,ベティスミスジーンズミュージアム&ヴィレッジ,岡山県倉敷市児島下の町5-2-70,,,blue_tag,https://betty.co.jp
+blue-tag-shop-e5816da238,blue-tag,専門料理店,ベトナム料理アオババ岡山店,岡山県岡山市 北区本町6-36第一セントラルビルB1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-293893c73a,blue-tag,専門料理店,ベトナム料理アオババ広島店,広島県広島市 中区中町4-14チュリス中町105,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b88aafc51c,blue-tag,専門料理店,ベトナム料理アオババ福山店,広島県福山市霞町1-5-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d52ff39437,blue-tag,居酒屋・バー,ペレのごはん屋。,大阪府大阪市 東成区東小橋3-18-21,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4d6991cbf9,blue-tag,電話通信,ペンギンモバイル大阪店,大阪府大阪市 城東区蒲生2-3-30アリタマンション108,,,blue_tag,https://penguinmobile-osaka.com
+blue-tag-shop-66fd0b7705,blue-tag,宿泊施設,ペンションあんばらんす,広島県廿日市市宮浜温泉2-13-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e60d4f79f2,blue-tag,宿泊施設,ホテルやまとよ,兵庫県養父市丹戸字越中910-,,,blue_tag,http://yamatoyo.net
+blue-tag-shop-e1f0209c1f,blue-tag,宿泊施設,ホテルグランフェニックズ奥志賀,長野県下高井郡山ノ内町夜間瀬12377-6,,,blue_tag,https://www.hotelgrandphenix.co.jp/
+blue-tag-shop-719c840c77,blue-tag,宿泊施設,ホテルサンルート福知山,京都府福知山市末広町4-1,,,blue_tag,https://sotetsu-hotels.com/sunroute/fukuchiyama/
+blue-tag-shop-795dd52c0d,blue-tag,宿泊施設,ホテルセイリュウ,大阪府東大阪市上石切町1-11-12ホテルセイリュウ,,,blue_tag,https://www.hotelseiryu.com/
+blue-tag-shop-e0d8663036,blue-tag,宿泊施設,ホテルボストンプラザ草津,滋賀県草津市西大路町1-27,,,blue_tag,https://www.hotel-bp.co.jp/
+blue-tag-shop-96718d8604,blue-tag,宿泊施設,ホテルリッチ,広島県広島市 安佐北区可部2-36-1ホテルリッチ,,,blue_tag,http://www.hotelrich.jp/
+blue-tag-shop-416765f637,blue-tag,宿泊施設,ホテル広島ガーデンパレス,広島県広島市東区光町1-15-21,,,blue_tag,https://www.hotelgp-hiroshima.com/
+blue-tag-shop-cb5ac6d91e,blue-tag,宿泊施設,ホテル晴明荘,長野県茅野市北山3419-1,,,blue_tag,http://seimeiso.com/
+blue-tag-shop-48517635bf,blue-tag,宿泊施設,ホテル浦島,和歌山県東牟婁郡那智勝浦町勝浦1165-2,,,blue_tag,https://urashimaresortsandspa.jp/wakayama-hotelurashima/spa/
+blue-tag-shop-cb31a1e4cd,blue-tag,宿泊施設,ホテル祥園,富山県富山市桜町1-2-24,,,blue_tag,http://www.hotel-syoen.com
+blue-tag-shop-8a91ea0b9c,blue-tag,ホビー・玩具,ホビーランド,大阪府大阪市 中央区本町4-8-6横堀ビル3F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-01aea7d80c,blue-tag,ホビー・玩具,ホビーランドぽち京都店,京都府京都市 中京区下大阪町349-6イシズミ河原町ビル 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c3abdb87f0,blue-tag,ホビー・玩具,ホビーランドぽち博多店,福岡県福岡市 博多区博多駅 東2-2-13博多駅前ビル 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-35f7852bfc,blue-tag,ホビー・玩具,ホビーランドぽち名古屋店,愛知県名古屋市 中村区名駅2-45-10川島ビル 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2c7fb6b04f,blue-tag,ホビー・玩具,ホビーランドぽち塚本店,大阪府大阪市 西淀川区柏里3-12-29,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e6a93591e6,blue-tag,ホビー・玩具,ホビーランドぽち川崎店,神奈川県川崎市 川崎区駅前本町7-5大西ビル 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+3-8ed3ff15ee,blue-tag,ホビー・玩具,ホビーランドぽち新宿店　3階,東京都新宿区西新宿1-15-6ナサビル 3階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+4-0c8caa3110,blue-tag,ホビー・玩具,ホビーランドぽち新宿店　4階,東京都新宿区西新宿1-15-6ナサビル 4階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-663a6e642e,blue-tag,ホビー・玩具,ホビーランドぽち日本橋１号店,大阪府大阪市 浪速区日本橋4-7-26ワンダ-3ビル 1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-815ef54c48,blue-tag,ホビー・玩具,ホビーランドぽち日本橋２号店,大阪府大阪市 浪速区日本橋4-7-26ワンダ-3ビル 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fcc0b81686,blue-tag,ホビー・玩具,ホビーランドぽち梅田店,大阪府大阪市 北区芝田2-5-14明石ビル 1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-61ec134507,blue-tag,ホビー・玩具,ホビーランドぽち横浜店,神奈川県横浜市 西区南幸2-17-7ヴェルディ横浜 1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1418311e42,blue-tag,ホビー・玩具,ホビーランドぽち神戸店,兵庫県神戸市 中央区三宮町2-11-1センタ-プラザ西館 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-59f653e96f,blue-tag,ホビー・玩具,ホビーランドぽち秋葉原１号店,東京都千代田区外神田3-1-10OAKakihabara 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d3ec31cd0c,blue-tag,ホビー・玩具,ホビーランドぽち秋葉原２号店,東京都千代田区外神田1-14-7秋葉原野村ビル 6階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-216442c4b1,blue-tag,美容・理容,ボディケアサロン都の手,大阪府大阪市都島区都島北通1-2-1ファ-ストビル都島北通り2F,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000094254/
+blue-tag-shop-db7efb6674,blue-tag,文具,ポプラドー,広島県呉市本通1-2-11,,,blue_tag,https://www.popurado.jp/
+blue-tag-shop-90e3dd3b3d,blue-tag,電気,マストサービス,大阪府堺市 中区上之566-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b013f2a3f1,blue-tag,カフェ,マヌル,大阪府大阪市 淀川区十三東2-6-42階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-45ac29e3f4,blue-tag,カフェ,マルゴデリさんすて倉敷店,岡山県倉敷市阿知1-1-1さんすて倉敷2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b823869875,blue-tag,カフェ,マルゴデリ田町店,岡山県岡山市 北区田町1-1-11,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c0138b109c,blue-tag,タクシー,ミツワタクシー有限会社,広島県廿日市市宮島町556-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-06adcd7cf0,blue-tag,その他小売り,ミノッアカベーカリー,広島県広島市 中区西白島町7-27イルブラン613,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-dac06bfcb3,blue-tag,その他小売り,ミラドールトモダ　エルパ店,福井県福井市大和田2-1212エルパ,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5b027598f6,blue-tag,その他小売り,メガネのサトウ,東京都荒川区南千住5-43-13,,,blue_tag,https://megane-sato.com
+blue-tag-shop-1156fc660f,blue-tag,その他小売り,メガネのドルフィン,京都府京都市 中京区西ノ京 南聖町 1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d3da5fd29e,blue-tag,その他小売り,メガネ倶楽部,広島県広島市安佐北区可部3-21-19,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1a3a6290f9,blue-tag,美容・理容,メリー美容室,広島県福山市沼隈町 草深1921-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+mitsuya-0be7357fe5,blue-tag,アパレル,メンズウェアMITSUYA,大阪府東大阪市長堂3-1-2-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-036ec7ed99,blue-tag,居酒屋・バー,ヤミツキ食堂,大阪府大阪市淀川区西中島3-16-6,,,blue_tag,https://tabelog.com/osaka/A2701/A270301/27102459/
+blue-tag-shop-9d8efbc708,blue-tag,インテリア,ユーロプラザ比治山,広島県広島市南区比治山本町3-25,,,blue_tag,https://www.vide.co.jp/
+blue-tag-shop-8a4ab12399,blue-tag,居酒屋・バー,ヨコドリ,京都府京都市 下京区八文字町354-3,,,blue_tag,https://isozumi.jp/yokodori/index.html
+28-twoya-580a59159a,blue-tag,カフェ,リゾートカフェレストラン28(TWOYA),兵庫県赤穂市御崎324,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-21b1dfcfb3,blue-tag,その他,リフレ江坂治療院,大阪府吹田市豊津町1-25森田ビル7F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9541664405,blue-tag,美容・理容,リュッケ,兵庫県赤穂市北野中324-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-31252cf2f0,blue-tag,その他,リラクゼーション和,兵庫県加古川市別府町朝日町41-2,,,blue_tag,https://nagomi-kakogawa.com/
+kanazawa-0f6cc4e13c,blue-tag,カフェ,ル ミュゼ ドゥ アッシュ KANAZAWA,石川県金沢市出羽町2-1石川県立美術館内,,,blue_tag,https://le-musee-de-h.jp/shops/kanazawa.html
+blue-tag-shop-a317fae27b,blue-tag,専門料理店,レストランアンシャンテ,兵庫県神戸市 中央区中山手通2-16-4中西ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c8f9787210,blue-tag,専門料理店,レストランウイステリア,岡山県倉敷市中央1-1-44,,,blue_tag,https://www.kurashiki-kokusai-hotel.co.jp/
+blue-tag-shop-9e0af42d3a,blue-tag,専門料理店,レストラン亀遊亭,岡山県倉敷市中央1-2-20,,,blue_tag,https://www.kiyutei.jp/
+blue-tag-shop-133ecdbcb0,blue-tag,専門料理店,ロティスール　ピエロ,大阪府交野市私部西2-3-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+uomo-5c6bb00376,blue-tag,居酒屋・バー,ワインとオマール海老の店UOMO,大阪府大阪市 北区梅田1-1-3大阪駅前第3ビルB1-14,,,blue_tag,https://uomo-wine.com/
+blue-tag-shop-6a08d3cef5,blue-tag,居酒屋・バー,ワイングラース,大阪府大阪市 福島区福島5-11-7,,,blue_tag,https://wine-grace.com
+blue-tag-shop-7226c98469,blue-tag,アパレル,ワークショップこすぎ,大阪府大阪市 淀川区十三本町1-13-17,,,blue_tag,https://www.kosugishouten.com
+blue-tag-shop-8c44115b42,blue-tag,インテリア,ヴィード古江店,広島県広島市西区古江新町8-4,,,blue_tag,https://vide-palette.co.jp/
+blue-tag-shop-a1bb48feb2,blue-tag,タクシー,一番株式会社,大阪府大阪市 中央区本町3-4-8東京建物本町ビル地下1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4e56d56507,blue-tag,宴会・パーティ,一粋,兵庫県赤穂市加里屋南2-8,,,blue_tag,https://ako-issui.jp/
+blue-tag-shop-5f55a1b18d,blue-tag,その他,七尾駅観光案内所,石川県七尾市御祓町イ28七尾駅,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a2fea97f06,blue-tag,ジュエリー,三光舎時計舗,大阪府大阪市 住之江区粉浜2-11-17,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-dcee6dcefc,blue-tag,タクシー,三原交通株式会社,岡山県倉敷市阿知1-1-1さんすて倉敷2階,,,blue_tag,https://www.miharakotsu.co.jp/
+blue-tag-shop-8bc32ae1c6,blue-tag,タクシー,三和交通株式会社,愛媛県宇和島市高串3-58,,,blue_tag,https://www.30-gr.co.jp/company
+blue-tag-shop-f62be95a20,blue-tag,宿泊施設,三朝館,鳥取県東伯郡三朝町山田174,,,blue_tag,https://www.misasakan.co.jp/
+blue-tag-shop-c1cdf9adc8,blue-tag,タクシー,中国タクシー株式会社,岡山県倉敷市児島下の町5-2-70,,,blue_tag,https://www.chutaku.co.jp/
+blue-tag-shop-c5e981e78e,blue-tag,カフェ,中央茶廊,石川県七尾市一本杉町104仮設店舗内,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3e613b1be9,blue-tag,食料品,中林商店,広島県府中市府中町147,,,blue_tag,https://asabikidori.jp
+a-3046bf08fd,blue-tag,総合ショッピング,中野うどん学校琴平校A館,香川県仲多度郡 琴平町796-中野うどん学校A館,,,blue_tag,https://www.nakanoya.net/nakanoudon/
+b-1cd74fe9f4,blue-tag,総合ショッピング,中野うどん学校琴平校B館,香川県仲多度郡 琴平町720-中野うどん学校B館,,,blue_tag,https://www.nakanoya.net/nakanoudon/
+blue-tag-shop-916c5bae5f,blue-tag,居酒屋・バー,串かつ　中秀,大阪府豊中市服部 豊町2-13-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8a92ecb937,blue-tag,居酒屋・バー,串かつきんぐ,和歌山県和歌山市太田95-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-722639ea2a,blue-tag,居酒屋・バー,串かつわいず,広島県広島市 西区横川町3-4-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a48ccc5e13,blue-tag,居酒屋・バー,串カツ居酒屋明日への克力,大阪府大阪市住之江区南港北2-1-10ATCオズ棟北館3階,,,blue_tag,https://www.atc-co.com/restaurant/asuenokatsuryoku/
+rin-5f75ef8376,blue-tag,専門料理店,串創作料理Rin,大阪府大阪市 北区天神橋4-8-14カウラナビル2F,,,blue_tag,https://sosakurin.rins-style.com/
+blue-tag-shop-87cc674d4e,blue-tag,タクシー,丸徳タクシー株式会社,兵庫県赤穂市加里屋44-15,,,blue_tag,https://35kai.com/company/
+blue-tag-shop-bf1689ef7b,blue-tag,日用雑貨総合,丹治蓮生堂,京都府京都市 下京区中居町114,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-121cca43b9,blue-tag,ギフト・お土産,九州屋,広島県廿日市市宮島町840-1九州屋,,,blue_tag,http://www.kyusyuya.com
+blue-tag-shop-b07aca9482,blue-tag,居酒屋・バー,二和鳥,大阪府大阪市 中央区道頓堀1-7-7,,,blue_tag,https://s.tabelog.com/osaka/A2701/A270202/27001249/
+blue-tag-shop-24f350658a,blue-tag,居酒屋・バー,五十家,京都府京都市 中京区下丸屋町421-5ラディ-チェマツヤビル1階,,,blue_tag,https://isozumi.jp/isoya/index.html
+blue-tag-shop-905da75301,blue-tag,居酒屋・バー,五十松,京都府京都市 中京区米屋町384,,,blue_tag,https://isozumi.jp/isomatsu/index.html
+blue-tag-shop-76d17c4b2b,blue-tag,居酒屋・バー,五十棲,京都府京都市中京区米屋町388,,,blue_tag,https://isozumi.jp/isozumi/index.html
+blue-tag-shop-7cd3ed928d,blue-tag,居酒屋・バー,五燠堂,京都府京都市 南区東九条 西山王町8-1,,,blue_tag,https://isozumi.jp/gooudo/index.html
+blue-tag-shop-0c1e5fdd00,blue-tag,食料品,京つけものもり　本社三条店,京都府京都市右京区西院金槌町15-7,,,blue_tag,https://www.kyoto-mori.com/
+blue-tag-shop-e4ee453885,blue-tag,宿泊施設,京の宿　北海館　お花坊,京都府京都市下京区不明門通下珠数屋町上がる卓屋町66-2,,,blue_tag,https://www.ohanabo.com/
+blue-tag-shop-a2b68539d0,blue-tag,専門料理店,京はし　なが尾,広島県広島市 南区京橋町10-14坪田ビル102,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5b7d8c59ed,blue-tag,その他小売り,京・丹波むらいち　さんの丸,京都府福知山市内記10-64,,,blue_tag,https://san-no-maru.com/
+blue-tag-shop-3c88e5d8b8,blue-tag,居酒屋・バー,京町家イタリアンろんくす,京都府京都市 下京区橘町453,,,blue_tag,https://tabelog.com/kyoto/A2601/A260201/26017557/
+blue-tag-shop-89db209462,blue-tag,宿泊施設,京近江,滋賀県大津市雄琴6-5-1,,,blue_tag,https://www.biwakogh.co.jp/
+blue-tag-shop-1bfaefd959,blue-tag,タクシー,京都アサヒタクシー株式会社,大阪府大阪市 中央区東心斎橋2-4-19玉屋町ギャラクシ-ビル3館1105,,,blue_tag,https://kyoto-asahitaxi.jp/company/
+blue-tag-shop-d1cf5dc7e0,blue-tag,宿泊施設,京都トラベラーズ・イン,京都府京都市左京区岡崎円勝寺町91-2,,,blue_tag,https://www.k-travelersinn.com/
+blue-tag-shop-38a46985e9,blue-tag,居酒屋・バー,仕出し睦,広島県安芸高田市美土里町本郷1821,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5833597527,blue-tag,その他,仲座カイロプラクティック,大阪府大阪市 大正区泉尾3-1-3ツイン永楽203,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9ea1fc74e9,blue-tag,タクシー,伊予鉄タクシー株式会社,愛知県名古屋市 中村区名駅2-45-10川島ビル 2階,,,blue_tag,https://www.iyotetsu.co.jp/taxi/
+blue-tag-shop-dc9a30d604,blue-tag,ギフト・お土産,伊勢志摩みやげセンター王将　鳥羽本店,三重県鳥羽市松尾町15-1,,,blue_tag,https://www.ousho.co.jp
+blue-tag-shop-bcf4415fbb,blue-tag,居酒屋・バー,伊江人酒場,大阪府大阪市 北区堂山町8-16 C棟,,,blue_tag,https://tabelog.com/osaka/A2701/A270101/27092001/
+blue-tag-shop-36205579f9,blue-tag,居酒屋・バー,伊酒場　伊晃庵,京都府京都市 下京区北不動堂町566京都観光協会ビル1F,,,blue_tag,https://www.mgfoods.co.jp/ikouan/
+blue-tag-shop-41549e5113,blue-tag,食料品,伝馬船,兵庫県赤穂市坂越2175,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-93451e6970,blue-tag,その他小売り,佐久間酒店,広島県広島市南区大須賀町11-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b4a692dcd6,blue-tag,宿泊施設,佐取館,新潟県五泉市佐取3008,,,blue_tag,https://www.satorikan.com
+blue-tag-shop-06e3c42861,blue-tag,レジャー施設,信楽陶苑たぬき村,滋賀県甲賀市信楽町 牧1293-2,,,blue_tag,http://www.tanukimura.com
+blue-tag-shop-7a5859c5c8,blue-tag,タクシー,倉敷タクシー株式会社,大阪府大阪市 浪速区日本橋5-7-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-28cbbbabc0,blue-tag,宿泊施設,倉敷国際ホテル,岡山県倉敷市中央1-1-44,,,blue_tag,https://www.kurashiki-kokusai-hotel.co.jp/
+blue-tag-shop-b96fd1eaeb,blue-tag,その他小売り,備生本店,兵庫県赤穂市加里屋中洲5-32-,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6dbe129649,blue-tag,居酒屋・バー,備長炭　やきとり昌,愛知県名古屋市 千種区若水3-3-10,,,blue_tag,https://www.instagram.com/yakitorimasa03?igsh=MW12NnEwYTJyamFueg==
+mr-8f87690f31,blue-tag,居酒屋・バー,元祖Mr.鶏っく,大阪府大阪市 北区梅田1-2-2-B-100大阪駅前第2ビル地下1階46,,,blue_tag,https://www.hotpepper.jp/strJ004485002/
+blue-tag-shop-ffac3e2d7b,blue-tag,専門料理店,元祖　ぎょうざ苑（神戸餃子専門店）,兵庫県神戸市中央区栄町通2-8-11,,,blue_tag,https://ganso-gyozaen.jp/
+blue-tag-shop-52760888e1,blue-tag,タクシー,全但タクシー株式会社,大阪府大阪市 中央区日本橋1-20-2,,,blue_tag,https://www.zentantaxi.co.jp/
+blue-tag-shop-ff4c4d0e1e,blue-tag,その他,八つ橋庵とししゅうやかた,京都府京都市 右京区西京極 西衣手町36,,,blue_tag,https://sisyu.yatuhasian.jp
+blue-tag-shop-6e3c0ccba2,blue-tag,専門料理店,兼六亭,石川県金沢市兼六町1-20,,,blue_tag,https://kenrokutei.com
+blue-tag-shop-00886993fb,blue-tag,居酒屋・バー,内山田,大阪府大阪市 福島区福島1-4-4セントラル70B1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-46ac8ae992,blue-tag,宿泊施設,冨士屋,和歌山県田辺市本宮町川湯1452-,,,blue_tag,https://www.fuziya.co.jp/
+blue-tag-shop-b483f35869,blue-tag,アパレル,制服のフジ,広島県呉市中通1-1-21,,,blue_tag,https://seifukunofuji.com/
+blue-tag-shop-4f63e77ed3,blue-tag,宿泊施設,割烹旅館　寿美礼,山口県下関市竹崎町3-13-23,,,blue_tag,http://sumire-ryokan.com
+blue-tag-shop-460454f0f7,blue-tag,専門料理店,割烹清水,大阪府大阪市 東住吉区湯里6-10-29,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-52216ffa56,blue-tag,専門料理店,割烹美鶴,兵庫県赤穂市加里屋53-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7adeac804b,blue-tag,専門料理店,創作料理　かんな月,兵庫県伊丹市伊丹4-1-20,,,blue_tag,http://kannazuki.jp/
+blue-tag-shop-38173302ab,blue-tag,専門料理店,劉家荘,兵庫県神戸市中央区元町通1-4-8,,,blue_tag,https://www.ryukasou.com
+blue-tag-shop-8e514a3ad1,blue-tag,百貨店,加古川ヤマトヤシキ,兵庫県加古川市加古川町篠原町21-8,,,blue_tag,https://www.yamatoyashiki.co.jp/
+blue-tag-shop-d8aebb4b43,blue-tag,その他小売り,勢乃國屋,三重県伊勢市宇治今在家町117,,,blue_tag,https://www.senokuniya.co.jp/
+blue-tag-shop-25df29a8dd,blue-tag,専門料理店,北京楼,兵庫県赤穂市加里屋 南1-41,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9360c0c0eb,blue-tag,福利厚生サービス,北口分析プラクシス,大阪府大阪市 北区西天満4-15-18,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0d4e01ffda,blue-tag,その他小売り,北畑時計店,福岡県糸島市前原中央3-19-20ダイヤモンドスクエア前原102,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5b2929d82d,blue-tag,ギフト・お土産,北都,北海道網走郡 大空町女満別 中央201-3女満別空港ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8a46c84cea,blue-tag,宿泊施設,北陸　福井　あわら温泉　美松,福井県あわら市舟津2610-,,,blue_tag,https://www.mimatu.net/
+blue-tag-shop-293c7dc850,blue-tag,タクシー,北陸さくら交通株式会社,岡山県真庭市久世2287-1,,,blue_tag,https://hokurikusakurakoutsuu.jimdofree.com/
+blue-tag-shop-51b1f3101a,blue-tag,居酒屋・バー,千五十屋,大阪府大阪市 中央区船場中央1-4-3船場センタ-ビル3館B2,,,blue_tag,https://www.hotpepper.jp/strJ003450740/
+blue-tag-shop-509e68fd1e,blue-tag,タクシー,千日交通株式会社,大阪府大阪市 淀川区塚本 2-25-16大宇市ビル(旧プレジデントトヨトミビル) 6階6B室,,,blue_tag,https://www.sennichikoutsuu.co.jp/company
+blue-tag-shop-3bb5b80229,blue-tag,居酒屋・バー,南京町酒ノーケル,兵庫県神戸市 中央区元町通1-2-4-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-87f970c21b,blue-tag,食料品,南山,香川県高松市屋島東町1785-2,,,blue_tag,https://yashima-nanzan.wixsite.com/olive
+blue-tag-shop-9bee663047,blue-tag,ギフト・お土産,博多人形会館　松月堂,福岡県福岡市 博多区中洲5-1-22博多人形会館 松月堂ビル,,,blue_tag,https://www.shogetudo.jp
+blue-tag-shop-8f558ef985,blue-tag,専門料理店,博多石焼大阪屋,福岡県福岡市 博多区中洲5-3-16,,,blue_tag,https://www.osakaya-15.com/
+blue-tag-shop-db79a6f77d,blue-tag,タクシー,合名会社南部タクシー,大阪府寝屋川市田井町33-44,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7714eec0b6,blue-tag,カフェ,吉井農園,岡山県赤磐市仁堀東1077,,,blue_tag,https://yoshii-farm.com
+blue-tag-shop-c7dd994b33,blue-tag,宿泊施設,吉田屋旅館,奈良県奈良市高畑町246,,,blue_tag,https://nara-yoshidaya.co.jp/
+blue-tag-shop-9e62e2e2fe,blue-tag,タクシー,呉交通株式会社,石川県加賀市熊坂町ハ35-1,,,blue_tag,https://www.kurekoutsu.co.jp/
+blue-tag-shop-9272a1777c,blue-tag,アパレル,呉服のいくお,大阪府大阪市 港区八幡屋1-14-15,,,blue_tag,http://ikuo-gofukuten.hp4u.jp/
+blue-tag-shop-3a8aecce45,blue-tag,居酒屋・バー,呑み処とも,富山県高岡市伏木 錦町9-28,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a4225adc38,blue-tag,タクシー,周南近鉄タクシー株式会社,京都府京都市 左京区田中 下柳町13,,,blue_tag,https://www.s-kintaku.co.jp/
+blue-tag-shop-bbb87c565d,blue-tag,専門料理店,味と踊りの竜宮城うらしま,沖縄県那覇市久米2-10-6新垣ビル2F,,,blue_tag,https://www.urashima.jp
+blue-tag-shop-c8769fcff5,blue-tag,居酒屋・バー,味力亭,大阪府大阪市 城東区東中浜3-4-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+dining-895ecf16c6,blue-tag,専門料理店,和diningひで,大阪府大阪市 都島区片町2-7-25アンシャンテビル,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-078c579c76,blue-tag,専門料理店,和　川ぶち,兵庫県神戸市 中央区北長狭通 2-5-1タイシンサンセットビル401,,,blue_tag,https://www.wa-kawabuchi.com/sp/
+blue-tag-shop-2cde6cbc96,blue-tag,レジャー施設,和倉温泉お祭り会館,石川県七尾市和倉町2部13-1和倉温泉お祭り会館,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-57dcd53dc7,blue-tag,その他,和倉温泉駅観光案内所,石川県七尾市石崎町55-3和倉温泉駅,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ea04ed99da,blue-tag,居酒屋・バー,和処　徳や,福岡県福岡市 東区香椎1-22-5CANHOR並木マンションII 104,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-65b0ccb22f,blue-tag,専門料理店,和洋食堂しらしょう,和歌山県日高郡 由良町大引 64旧白崎小学校,,,blue_tag,https://shirashow.kishunowa.or.jp/
+blue-tag-shop-4075c45934,blue-tag,居酒屋・バー,和風居酒屋いおり,大阪府大阪市北区芝田2-3-16東洋ビル別館1階,,,blue_tag,http://umeda-iori.com
+blue-tag-shop-110a2aa14f,blue-tag,専門料理店,和食処　登喜将,広島県三原市城町3-2-7,,,blue_tag,https://www.tokishou.com/
+blue-tag-shop-af40ad4a3d,blue-tag,日用雑貨総合,咲玉ストア青戸店,東京都葛飾区青戸4-13-5ホズミビル 201室,,,blue_tag,https://aoid.jp/
+blue-tag-shop-320426b5c3,blue-tag,その他小売り,喫茶ヒトクチヤ,京都府京都市 上京区浄福寺通出水上る東神明町270-,,,blue_tag,https://www.pathtokyoto.com
+blue-tag-shop-92f0d9969f,blue-tag,カフェ,喫茶マリンナ,和歌山県和歌山市美園町5-4-4,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0a2f4e8923,blue-tag,専門料理店,喰い処まるはち,兵庫県赤穂市加里屋2103-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-98fa36630f,blue-tag,タクシー,四国交通株式会社,京都府京都市 下京区八文字町354-3,,,blue_tag,http://www.yonkou.co.jp/
+blue-tag-shop-a22827e435,blue-tag,専門料理店,四季の味と天ぷら　いま井,大阪府大阪市 中央区東心斎橋2-7-11 ほんまビル 4F,,,blue_tag,https://tabelog.com/osaka/A2701/A270202/27106302/
+blue-tag-shop-42f787ee69,blue-tag,宿泊施設,四季の宿　すばる,長野県茅野市北山4035-2224,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8c4b742612,blue-tag,専門料理店,回転寿司海幸,大阪府大阪市天王寺区舟橋町20-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d19249fffb,blue-tag,カフェ,団栗亭,広島県広島市 佐伯区湯来町 伏谷1350-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-686379f456,blue-tag,ジュエリー,園田真珠,長崎県長崎市平野町4-16,,,blue_tag,https://www.tatsuya.co.jp/
+blue-tag-shop-ee8828149e,blue-tag,宿泊施設,土佐御苑,高知県高知市大川筋1-4-8,,,blue_tag,https://www.tosagyoen.co.jp
+blue-tag-shop-515a626073,blue-tag,タクシー,土電ハイヤー株式会社,神奈川県川崎市 川崎区駅前本町7-5大西ビル 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c1a0274db7,blue-tag,食料品,坂利太,兵庫県赤穂市坂越2083,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7b95f23f84,blue-tag,自動車・バイク用品,坂本ゴム工業所,兵庫県赤穂市加里屋32-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3715e9d6be,blue-tag,居酒屋・バー,堀垣堂,大阪府大阪市 北区中崎1-9-21平和ビル1F,,,blue_tag,https://tabelog.com/osaka/A2701/A270101/27017204/
+blue-tag-shop-c2ec7e90c1,blue-tag,居酒屋・バー,大丸堂,広島県広島市 中区新天地5-13-4F新天地プラザ,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-17b43df802,blue-tag,居酒屋・バー,大五郎,大阪府大阪市 浪速区難波中1-7-22,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7be8308f5b,blue-tag,その他,大同ツーリストセンター,石川県加賀市熊坂町ハ35-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7f325eb89c,blue-tag,専門料理店,大同行,兵庫県神戸市中央区栄町通1-3-13,,,blue_tag,https://daidoko.net/tanpao/
+blue-tag-shop-5c3db716fd,blue-tag,タクシー,大喜自動車株式会社,兵庫県神戸市 西区井吹台 東町 3-27-7,,,blue_tag,https://www.onokanko.co.jp/i/bus/taxi2.asp
+blue-tag-shop-3f519f3eb4,blue-tag,居酒屋・バー,大安天満店,大阪府大阪市 北区天神橋4-11-2プラザオトノビル,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-609867672a,blue-tag,タクシー,大木タクシー有限会社,富山県富山市新桜町2-26アルペン村新桜町ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-96befa131a,blue-tag,自動車・バイク用品,大橋モータース,兵庫県南あわじ市市市352-2,,,blue_tag,https://0084motors.net/
+blue-tag-shop-b3ad03d3f7,blue-tag,居酒屋・バー,大正サロン髭とボヰン,大阪府大阪市 大正区三軒家東1-5-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d5c0bbae16,blue-tag,旅行代理店,大牟田観光,福岡県大牟田市岬町3-4イオンモ-ル大牟田,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b99f41efb7,blue-tag,居酒屋・バー,大皿料理さかな家,大阪府大阪市 中央区船場中央1-4-3船場センタ-3館B2F,,,blue_tag,https://tabelog.com/osaka/A2701/A270106/27153631/
+blue-tag-shop-bde4f713d3,blue-tag,ファミレス,大衆食堂 旭軒,岡山県岡山市北区奉還町2-9-9,,,blue_tag,http://www.asahiken.net/
+blue-tag-shop-9a19276ebc,blue-tag,居酒屋・バー,大阪ばある,大阪府大阪市 淀川区西中島3-12-12サザンウエストビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8ca8beb4db,blue-tag,専門料理店,大阪まんぷく堂,大阪府大阪市 東成区大今里西3-4-14大阪まんぷく堂,,,blue_tag,https://www.manpukudou.jp/
+blue-tag-shop-9a6abc031c,blue-tag,その他,大阪桜ノ宮ライオンズクラブ,大阪府大阪市 中央区城見2-2-22マルイトOBPビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0e41bd3c88,blue-tag,美容・理容,大阪舘女性お顔そり専門店,大阪府泉南郡熊取町東和苑10-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2fa26a891c,blue-tag,食料品,大黒屋プラザ,北海道登別市登別温泉町50大黒屋プラザビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d293065838,blue-tag,居酒屋・バー,天ぷら酒場てん仁さん,大阪府大阪市 中央区南本町3-6-14イトゥビル地下二階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9d448c1f66,blue-tag,専門料理店,天冨良天甲,広島県広島市 中区中町5-1長沼ビル2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2f2515b8d7,blue-tag,宿泊施設,天平旅館,奈良県奈良市東向 中町9-,,,blue_tag,http://www.tenpyo.com
+blue-tag-shop-d4c75d1f61,blue-tag,タクシー,天理タクシー株式会社,京都府京都市 東山区袋町294,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-991941d84a,blue-tag,専門料理店,天甲本店,広島県広島市 中区堀川町4-2ピカ一ビル1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d1e5513518,blue-tag,タクシー,天神タクシー株式会社,山口県下関市小月茶屋2-10-1,,,blue_tag,https://tenjin-taxi.com/
+blue-tag-shop-7348340bc4,blue-tag,ジュエリー,太陽堂,富山県射水市中央町17-5,,,blue_tag,http://taiyodo-style.com/
+blue-tag-shop-ff6f812055,blue-tag,ファストフード,姫路だんごほっこり餐,兵庫県姫路市二階町68,,,blue_tag,https://himeji-dango-hokkorisan.jimdosite.com/
+blue-tag-shop-6889c26800,blue-tag,タクシー,姫路タクシー株式会社,岡山県倉敷市下津井吹上303-17WASHU BLUE RESORT 風籠,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b8bb66922b,blue-tag,専門料理店,季ごころ廣,大阪府茨木市別院町7-8,,,blue_tag,http://kigokoro-hiro.jp/wp/
+blue-tag-shop-f03c429962,blue-tag,居酒屋・バー,季節料理三起,大阪府大阪市北区角田町9-26新梅田食道街,,,blue_tag,https://mitsuoki.biz-option.com/
+blue-tag-shop-35a77e5ebc,blue-tag,ファミレス,宇奈月麦酒館,富山県黒部市宇奈月町 下立687,,,blue_tag,https://www.unazuki-beer.jp/
+blue-tag-shop-cea40bfe2a,blue-tag,楽器小売,安原楽器,広島県福山市笠岡町2-22,,,blue_tag,https://www.gakki.com/
+blue-tag-shop-e4f332489d,blue-tag,タクシー,安川タクシー株式会社,京都府京都市 南区東九条 西山王町12-7,,,blue_tag,https://yasukawataxi.com/
+blue-tag-shop-e961f8ccd2,blue-tag,居酒屋・バー,定食　呑み処　いけだ家,大阪府大阪市 中央区備後町2-4-10第一住建備後町ビル1階,,,blue_tag,https://www.ikedaya-oden.com/
+blue-tag-shop-af0a9ca252,blue-tag,タクシー,宝タクシー株式会社,大阪府大阪市 住之江区粉浜3-17-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-57300ffd5e,blue-tag,宿泊施設,宝永旅館,福井県福井市宝永3-7-16,,,blue_tag,http://www.houei-ryokan.jp
+blue-tag-shop-f79bb867c0,blue-tag,ジュエリー,宝石時計メガネ ハヤシ,大阪府大阪市 此花区梅香3-29-11,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ed529f77cc,blue-tag,専門料理店,宮島いちわ,広島県廿日市市宮島町532-,,,blue_tag,https://www.miyajima-ichiwa.com/
+blue-tag-shop-7760f0431d,blue-tag,タクシー,宮崎タクシー株式会社,大阪府池田市城南3-6-1-102,,,blue_tag,https://www.30-gr.co.jp/company
+ie-b93ecbbb6e,blue-tag,その他,家~ie~,大阪府大阪市 都島区東野田町1-10-3ル ア-ブル東野田904,,,blue_tag,https://beauty.hotpepper.jp/kr/slnH000542567/?vos=cpahpbprosmaf131118006
+blue-tag-shop-60098962e8,blue-tag,居酒屋・バー,家庭料理えんや,大阪府大阪市 淀川区西中島7-7-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-feefe3df85,blue-tag,宿泊施設,宿　花屋徳兵衛,奈良県吉野郡 天川村洞川217,,,blue_tag,http://www.tokubei.jp
+blue-tag-shop-f4264ba6b6,blue-tag,宿泊施設,宿居　三養荘,京都府京丹後市丹後町 間人2708-,,,blue_tag,https://taiza-sanyousou.com/
+blue-tag-shop-302c9090bf,blue-tag,その他小売り,寒川商店,兵庫県赤穂市加里屋87-11,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f86f51025c,blue-tag,食料品,寺田商店,兵庫県宝塚市清荒神5-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d43d235f2e,blue-tag,食料品,寺田園茶舗,大阪府大阪市 住之江区粉浜3-17-14,,,blue_tag,https://teradaen.com/
+blue-tag-shop-61d488f5e5,blue-tag,医薬品,寺田薬局,兵庫県赤穂市加里屋46-7,,,blue_tag,https://terada-ph.net/
+blue-tag-shop-83a9333c24,blue-tag,専門料理店,寿司処浮舟,東京都中央区日本橋小舟町15-16ドエル小舟町,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f79e419235,blue-tag,宿泊施設,寿楼　臨水亭,兵庫県神戸市 須磨区須磨寺町3-5-18,,,blue_tag,http://kotobukirou.jp/
+blue-tag-shop-0659f6a026,blue-tag,アパレル,小さなゆめ,福岡県飯塚市柏の森953-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3639550d06,blue-tag,燃料小売,小寺石油（株）落合ＳＳ,岡山県真庭市落合垂水509,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2ca8a674ae,blue-tag,アパレル,小山呉服店,岡山県倉敷市玉島 爪崎664,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1301e40fa0,blue-tag,タクシー,小松タクシー株式会社,大阪府大阪市中央区瓦町3-4-9フカキ瓦町ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b8119677a1,blue-tag,ホビー・玩具,小林玩具,大阪府大阪市 生野区鶴橋2-2-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+kitchen-cocoro-c8dc0fa4b3,blue-tag,居酒屋・バー,小皿kitchen cocoro,大阪府大阪市中央区東心斎橋1-17-17おおきに東心斎橋畳屋町ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c75093805d,blue-tag,タクシー,小笹交通株式会社,大阪府大阪市 住之江区粉浜西2-19-7,,,blue_tag,https://ozasa-taxi.com/
+blue-tag-shop-f2746e85fe,blue-tag,専門料理店,小粋料理一政,広島県広島市 中区堀川町1-25岡部ビル101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a7a8f2337a,blue-tag,その他,小豆島オリーブ園,香川県小豆郡 小豆島町西村 甲2171,,,blue_tag,https://www.1st-olive.com/
+blue-tag-shop-8df06a05f6,blue-tag,宿泊施設,小豆島国際ホテル,香川県小豆郡 土庄町甲24-67,,,blue_tag,https://www.shodoshima-kh.jp
+blue-tag-shop-1470afc73b,blue-tag,専門料理店,尾道ラーメン味億,広島県広島市 西区横川町1-5-18ユ-ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e1beccfe64,blue-tag,居酒屋・バー,居酒屋　ふみ,東京都港区新橋2-16-1ニュ-新橋ビルB1-08,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b9e98951c6,blue-tag,居酒屋・バー,居酒屋　翠園,東京都港区新橋2-16-1ニュ-新橋ビルB1-52,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-cb154973c8,blue-tag,居酒屋・バー,居酒屋風らーめん屋とっけ,兵庫県赤穂市加里屋39-9江崎ビル101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-419d16638e,blue-tag,居酒屋・バー,屋台いっとく,兵庫県神戸市垂水区星陵台1-2-7パレス星陵台1F,,,blue_tag,https://www.instagram.com/ittoku.vh
+blue-tag-shop-b86df29a73,blue-tag,専門料理店,山ばな平八茶屋,京都府京都市 左京区山端 川岸町 8-1,,,blue_tag,https://www.heihachi.co.jp
+blue-tag-shop-194a002e7c,blue-tag,居酒屋・バー,山中酒店　角打ち部,広島県広島市 西区横川町 3-2-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d1b85eb70b,blue-tag,タクシー,山口交通株式会社,大阪府八尾市中田四-33-,,,blue_tag,https://yamataku.cosmos-hd.jp/
+blue-tag-shop-2d671358f4,blue-tag,食料品,山城くだもの店,大阪府大阪市 住之江区粉浜西2-19-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c21c3f2a8c,blue-tag,その他小売り,山本新聞舗,滋賀県蒲生郡竜王町鏡1695,,,blue_tag,https://www.ryuoh.news.shiga.jp/
+blue-tag-shop-e274565285,blue-tag,宿泊施設,山陽ホテル,群馬県渋川市伊香保町伊香保557-13山陽ホテル,,,blue_tag,http://iiyu-sanyo.co.jp
+blue-tag-shop-8cef6288c2,blue-tag,タクシー,岡山交通株式会社,大阪府大阪市阿倍野区天王寺町南2-12-16コスタ河堀口1F,,,blue_tag,http://okayama-kotsu.com
+blue-tag-shop-ccf8a4183c,blue-tag,食料品,岡山足守　芋屋蜜三郎,岡山県岡山市北区足守1065-1Ashinami 101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-143da76f0a,blue-tag,宿泊施設,岩国国際観光ホテル,山口県岩国市岩国1-1-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+setoda-e8a7f630b1,blue-tag,食料品,島ごころ SETODA（瀬戸田本店）,広島県尾道市瀬戸田町沢209-32,,,blue_tag,https://www.patisserie-okumoto.com/
+blue-tag-shop-df27e0d0db,blue-tag,食料品,島根ワイナリー,島根県出雲市大社町菱根264-2,,,blue_tag,https://www.shimane-winery.jp
+blue-tag-shop-5d79dccc2a,blue-tag,タクシー,島根日本交通株式会社,広島県広島市 中区胡町5-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6b6956f49d,blue-tag,食料品,島田水産 直売所,広島県廿日市市宮島口西1-2-6,,,blue_tag,https://www.shimadasuisan.com/
+blue-tag-shop-c48a9cf242,blue-tag,専門料理店,島田水産かき小屋,広島県廿日市市宮島口西1-2-6,,,blue_tag,https://www.shimadasuisan.com/
+blue-tag-shop-fd35a528c3,blue-tag,レジャー施設,川平マリンサービス,沖縄県石垣市川平911-,,,blue_tag,http://www.kabiramarine.jp
+blue-tag-shop-a98a5b12ce,blue-tag,美容・理容,巻き爪プラザ奉還町店,岡山県岡山市北区奉還町2-13-2巻き爪プラザ奉還町店,,,blue_tag,https://makidumeplaza.com/
+blue-tag-shop-a66c907904,blue-tag,ファストフード,市村蒲鉾みもすそ川店,山口県下関市みもすそ川町22,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-88cf52d634,blue-tag,ファストフード,市村蒲鉾吉見本店,山口県下関市吉見本町2-10-18,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d002ad6f5f,blue-tag,食料品,市村蒲鉾唐戸店,山口県下関市唐戸町5-50,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-495f9a4dbf,blue-tag,ギフト・お土産,市町村情報センターひろしま夢ぷらざ,広島県広島市中区本通8-28,,,blue_tag,https://www.yumeplaza.com/
+blue-tag-shop-daa8bfc58a,blue-tag,居酒屋・バー,帯や勘助,高知県高知市帯屋町2-2-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-43cd59c0a0,blue-tag,タクシー,常盤タクシー株式会社,兵庫県神戸市 中央区元町通2-6-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-19b1c02475,blue-tag,タクシー,平和交通株式会社,兵庫県赤穂市加里屋 南3-5,,,blue_tag,https://heiwa-koutsu.com/
+blue-tag-shop-429c08f0ab,blue-tag,ギフト・お土産,平泉レストハウス,岩手県西磐井郡平泉町平泉字坂下10-7,,,blue_tag,http://www.hiraizumi2011.jp
+blue-tag-shop-b90b33e201,blue-tag,タクシー,広交タクシー株式会社,京都府京都市 左京区山端 川岸町 8-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+beer-bar-59ccead140,blue-tag,居酒屋・バー,広島北 BEER BAR,広島県広島市安佐北区可部2-33-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+beer-the-base-026582126c,blue-tag,居酒屋・バー,広島北 BEER THE BASE.,広島県広島市南区松原町2-62広島JPビルディング 2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-639670c585,blue-tag,タクシー,広島近鉄タクシー株式会社,大阪府大阪市 福島区福島4-4-39,,,blue_tag,https://h-kintetsu.co.jp/company/
+blue-tag-shop-51a8af08c7,blue-tag,タクシー,庚午タクシー有限会社,岡山県赤磐市五日市274,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f26abca086,blue-tag,専門料理店,廣東料理民生,兵庫県神戸市 中央区元町通1-3-4,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1103156d7d,blue-tag,タクシー,廿日市交通株式会社,山口県柳井市柳井津452,,,blue_tag,https://21kotsu.co.jp/
+z-9f2dc0863a,blue-tag,居酒屋・バー,弘大Z,大阪府大阪市 福島区福島5-13-3,,,blue_tag,https://hiroshidai-z.com/
+blue-tag-shop-3c42834454,blue-tag,居酒屋・バー,彩鶏どり,大阪府大阪市 北区天神橋5-4-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ce0543c44c,blue-tag,居酒屋・バー,得一布施店,大阪府東大阪市足代新町4-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c9968f3789,blue-tag,自動車・バイク用品,志摩タイヤサービスセンター,三重県志摩市阿児町鵜方353-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fb8ee16091,blue-tag,レジャー施設,志摩自然学校,三重県志摩市大王町波切2199,,,blue_tag,https://shima-nature-school.jp
+blue-tag-shop-5882896ee7,blue-tag,宿泊施設,志賀レークホテル,長野県下高井郡山ノ内町平穏7148志賀レ-クホテル,,,blue_tag,https://shigalake.jp
+blue-tag-shop-d51302375c,blue-tag,ホビー・玩具,怪獣工房,大阪府大阪市 鶴見区放出東3-20-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f3126fa33d,blue-tag,食料品,惣菜漁品,兵庫県伊丹市野間北2-10-21,,,blue_tag,https://www.sozairyohin.com
+blue-tag-shop-e901827328,blue-tag,タクシー,愛媛近鉄タクシー株式会社,兵庫県加古川市別府町朝日町41-2,,,blue_tag,https://www.ehimekintetsu.co.jp
+blue-tag-shop-2699c9fc8d,blue-tag,タクシー,戎交通株式会社,大阪府泉南郡熊取町東和苑10-12,,,blue_tag,https://yebisu-taxi.com
+blue-tag-shop-8ebe02b97e,blue-tag,ギフト・お土産,手仕事の店倉敷民芸,岡山県倉敷市阿知2-17-25,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-faec5461be,blue-tag,専門料理店,手作り餃子　橋郷館,大阪府大阪市 淀川区木川西2-1-14サウンズハイツU1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a84f403b91,blue-tag,宿泊施設,指宿海上ホテル,鹿児島県指宿市十二町3750,,,blue_tag,https://kaijyohotel.co.jp/
+blue-tag-shop-6df66d1008,blue-tag,専門料理店,料理処希満里,高知県高知市追手筋1-6-21,,,blue_tag,https://www.ooriya.co.jp
+blue-tag-shop-f76d01f73c,blue-tag,スタジオ・撮影,新光写真館,大阪府大阪市 東淀川区東淡路4-33-39,,,blue_tag,http://www.shinkocamera.co.jp/
+blue-tag-shop-39539c9931,blue-tag,その他,新富観光サービス株式会社　本社,富山県富山市上野322,,,blue_tag,https://www.enjoy-sks.co.jp/
+blue-tag-shop-c59e2f72f0,blue-tag,その他,新見市観光案内所,岡山県新見市西方472-10,,,blue_tag,https://niimi.gr.jp/
+blue-tag-shop-0c869d5ca1,blue-tag,宿泊施設,旅人の宿 蒼空げすとはうす,和歌山県田辺市本宮町 本宮1526-の1,,,blue_tag,https://www.kumano-guesthouse.com/
+blue-tag-shop-42131d31d2,blue-tag,その他,旅行センター,広島県尾道市東御所町9-1,,,blue_tag,https://kamedagroup.co.jp/business/
+blue-tag-shop-9fc9b9dbfb,blue-tag,タクシー,日の丸タクシー株式会社,大阪府大阪市 大正区平尾5-2-4,,,blue_tag,https://www.hinomarutaxi.com/
+blue-tag-shop-c860582232,blue-tag,専門料理店,日乃屋カレー阪急上新庄店,大阪府大阪市 東淀川区上新庄2-24-23,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4f6ef4e6bf,blue-tag,タクシー,日新交通株式会社,兵庫県神戸市 中央区元町通1-2-4-1,,,blue_tag,https://nissintaxi.com/
+blue-tag-shop-d2c7d66797,blue-tag,食料品,日新天ぷら店,兵庫県尼崎市建家町83,,,blue_tag,https://sites.google.com/view/nissintempura/
+blue-tag-shop-d2e66706b9,blue-tag,居酒屋・バー,日本のお酒とゆう屋,大阪府大阪市 天王寺区舟橋町13-3鶴橋ノ-スコ-ト1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1dd24642b5,blue-tag,タクシー,日本交通株式会社,福岡県北九州市小倉北区魚町1-4-9長市ビル1階,,,blue_tag,https://nks-group.jp/pages/86/
+blue-tag-shop-6c5c7f8443,blue-tag,タクシー,日本交通産業株式会社,京都府京都市 中京区米屋町388-2階,,,blue_tag,https://nks-group.jp/pages/62/
+blue-tag-shop-5872904747,blue-tag,タクシー,日本城タクシー株式会社,大阪府大阪市 東住吉区湯里6-10-29,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-91019f3a7e,blue-tag,宿泊施設,日本料理 郷土料理 ひるぎ,沖縄県石垣市美崎町4-9,,,blue_tag,https://www.miyahira.co.jp/
+blue-tag-shop-ecde911159,blue-tag,専門料理店,日本料理　新月,滋賀県大津市石山寺一-3-3,,,blue_tag,https://www.k-shingetsu.com/
+blue-tag-shop-789bfc2cac,blue-tag,旅行代理店,日本旅行ワールド米松店,福井県福井市米松一-15-41,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b1937df5e1,blue-tag,旅行代理店,日本旅行ワールド鯖江店,福井県鯖江市有定町3-1-1ワイプラザ鯖江,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e15ea961c7,blue-tag,その他,日本海ツーリスト株式会社　富山本社グリーンモール店,富山県富山市山室226-2グリ-ンモ-ル山室内,,,blue_tag,https://www.tabizanmai.com/
+blue-tag-shop-3ddc219ea7,blue-tag,その他,日本海ツーリスト株式会社　砺波本店,富山県砺波市太郎丸1-9-24日本海ビル1F,,,blue_tag,https://www.tabizanmai.com/
+blue-tag-shop-234899d5e2,blue-tag,居酒屋・バー,日本酒場七輪,大阪府大阪市 中央区本町3-4-8東京建物本町ビル地下1階,,,blue_tag,https://www.7happy.jp/
+blue-tag-shop-029f6a02ed,blue-tag,居酒屋・バー,日本酒弘大,大阪府大阪市 福島区福島4-4-39,,,blue_tag,https://hiroshidai.com/
+blue-tag-shop-e9df2f6838,blue-tag,居酒屋・バー,日本酒酒場酒ノーケル,兵庫県神戸市 中央区元町通2-7-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c061e53fe5,blue-tag,その他小売り,日栄無線日本橋店,大阪府大阪市 浪速区日本橋5-10-20,,,blue_tag,https://www.nichiei-musen.co.jp/
+blue-tag-shop-9d2b8b5254,blue-tag,その他,日空サービス,大阪府泉佐野市長滝2094,,,blue_tag,http://nikku-net.com/index.html
+blue-tag-shop-db79ec0b22,blue-tag,居酒屋・バー,旬料理　粋　おおたに,大阪府堺市 北区中百舌鳥町5-795東口BLD B棟101,,,blue_tag,https://syunryouri-iki-ootani.owst.jp/
+blue-tag-shop-6b4027976f,blue-tag,居酒屋・バー,旬花,東京都大田区矢口1-15-10 1F,,,blue_tag,https://shunka-nitta.com
+blue-tag-shop-8be7e9f315,blue-tag,居酒屋・バー,旬華,兵庫県赤穂市加里屋56-17,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-adc5b4c2fa,blue-tag,居酒屋・バー,旬鮮海山　黒船,山口県山口市小郡 明治2-11-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-01015d435c,blue-tag,タクシー,明星交通有限会社,広島県広島市 中区堀川町4-2ピカ一ビル1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f72a623dff,blue-tag,宿泊施設,時わすれ開華亭,静岡県浜松市 中央区舘山寺町412,,,blue_tag,https://www.kaikatei.com
+blue-tag-shop-0f40dac5a1,blue-tag,その他小売り,時計宝飾メガネのオカノ,大阪府大阪市 淀川区十三元今里 2-1-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-76f345e6c7,blue-tag,居酒屋・バー,晴れたらいいね,兵庫県尼崎市立花町1-7-1パインフォレスト202,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-30b6c9dc4d,blue-tag,宿泊施設,暖灯館きくのや,滋賀県大津市雄琴6-1-29暖灯館きくのや,,,blue_tag,https://www.kikunoya.jp
+blue-tag-shop-6b1988aaae,blue-tag,食料品,有限会社　入丸水産,北海道網走市鱒浦39-3,,,blue_tag,https://www.irimaru.com
+blue-tag-shop-bcfcf11cb0,blue-tag,タクシー,有限会社いだいハイヤー,広島県福山市南本庄3-5-24,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d2b2359b5b,blue-tag,タクシー,有限会社おおしまタクシー,大阪府大阪市 淀川区木川西2-1-14サウンズハイツU1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-98f699d74d,blue-tag,タクシー,有限会社きまちタクシー,北海道網走郡 大空町女満別 中央201-3女満別空港ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b0a6d124f2,blue-tag,タクシー,有限会社ときわタクシー,新潟県長岡市三ツ郷屋2-1-14西長岡ぷら-ざ内,,,blue_tag,https://nks-group.jp/pages/90/
+blue-tag-shop-0f8e5750b1,blue-tag,タクシー,有限会社中川タクシー,大阪府大阪市中央区船場中央3-2-8-B117,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b2f65aba5f,blue-tag,タクシー,有限会社中野タクシー,石川県金沢市浅野本町ニ150,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4d779ebd07,blue-tag,タクシー,有限会社内町タクシー,兵庫県赤穂市加里屋328,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-96c0184971,blue-tag,タクシー,有限会社冨士,大分県別府市大字鶴見1311-の1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4cc7a18d10,blue-tag,レンタカー,有限会社前田石油店,大阪府大阪市 福島区福島6-9-15北一ビル1F,,,blue_tag,https://ossan-rentacar.com
+blue-tag-shop-0e1b02f84f,blue-tag,スポーツ用品,有限会社北摂武道具西宮店,兵庫県西宮市若松町3-26,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fdcb2dc28f,blue-tag,タクシー,有限会社南国セイブタクシー,大阪府大阪市 住之江区粉浜3-9-20,,,blue_tag,https://fukuokanangoku.com
+blue-tag-shop-65dd4b8a3a,blue-tag,その他小売り,有限会社友添本店,福岡県福岡市 中央区春吉2-11-18,,,blue_tag,https://www.tomozoe-honten.co.jp/
+blue-tag-shop-bb6ab36b72,blue-tag,タクシー,有限会社吉島タクシー,愛媛県宇和島市高串3-58,,,blue_tag,https://yoshijima-taxi.jp/
+blue-tag-shop-546517ed64,blue-tag,タクシー,有限会社嘉川タクシー,大阪府大阪市 此花区四貫島1-5-10,,,blue_tag,https://www.kagawataxi.com/
+blue-tag-shop-d93a358776,blue-tag,タクシー,有限会社四国タクシー,大阪府高槻市芥川町2-14-3島津ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8a17300a6f,blue-tag,タクシー,有限会社小笹タクシー,大阪府大阪市 此花区梅香1-19-13ゆりのハイツ,,,blue_tag,https://ozasa-taxi.com/
+blue-tag-shop-fad8291f30,blue-tag,タクシー,有限会社小笹自動車,岡山県岡山市北区足守1065-1Ashinami 101,,,blue_tag,https://ozasa-taxi.com/
+blue-tag-shop-3b251adbde,blue-tag,タクシー,有限会社延喜タクシー,岡山県岡山市中区原尾島三-2-22-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8cada883e0,blue-tag,タクシー,有限会社新和交通,広島県廿日市市宮島町556-3,,,blue_tag,https://www.hohoemikaigo.net/taxi.php
+blue-tag-shop-542e490e5d,blue-tag,タクシー,有限会社柳田タクシー,広島県広島市 西区横川町3-2-3,,,blue_tag,https://www.30-gr.co.jp/company
+blue-tag-shop-8b938de2b2,blue-tag,タクシー,有限会社石川相互自動車,広島県呉市中通3-5-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-16f1b902a7,blue-tag,タクシー,有限会社神志タクシー,兵庫県神戸市 長田区大橋町5-3-1アスタプラザイ-ストB1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-46e5bd35bf,blue-tag,タクシー,有限会社第一タクシー,東京都港区赤坂2-3-5赤坂スタ-ゲ-トプラザ13F,,,blue_tag,http://daiichi-engi.jp/
+blue-tag-shop-2a9e4b1f70,blue-tag,ファストフード,木村商店,山口県下関市小月茶屋2-10-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-08324480e9,blue-tag,文具,木阪賞文堂　柳井中央店,山口県柳井市中央3-278-2,,,blue_tag,https://sirakabe.com
+blue-tag-shop-9312c2bdbb,blue-tag,文具,木阪賞文堂　白壁店,山口県柳井市柳井津452,,,blue_tag,https://sirakabe.com
+blue-tag-shop-5fb8eed3d6,blue-tag,食料品,本川藤由商店,富山県氷見市本町1-18,,,blue_tag,https://hongawa-himi.com/
+blue-tag-shop-e65f7aa3c0,blue-tag,タクシー,東宝タクシー株式会社,大阪府大阪市 住之江区粉浜3-8-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ecc8db545c,blue-tag,テーマパーク,東映太秦映画村,京都府京都市右京区太秦東蜂岡町10-,,,blue_tag,https://www.toei-eigamura.com/
+blue-tag-shop-b8195f66b5,blue-tag,タクシー,東洋タクシー株式会社,広島県福山市神辺町 川南667-1,,,blue_tag,https://www.toyo-taxi.net
+blue-tag-shop-9a64eda41c,blue-tag,タクシー,東部タクシー株式会社,新潟県佐渡市橘1586-3,,,blue_tag,https://tobutaxifukuoka.com/
+blue-tag-shop-0baf04a40b,blue-tag,食料品,杵屋本店,兵庫県姫路市二階町95,,,blue_tag,https://www.kineya.net/
+blue-tag-shop-c1b02ac0af,blue-tag,宿泊施設,松乃湯,島根県松江市玉湯町玉造1215,,,blue_tag,https://matsunoyu.jp
+blue-tag-shop-4aa741626a,blue-tag,宿泊施設,松乃湯売店,島根県松江市玉湯町玉造1215,,,blue_tag,https://matsunoyu.jp
+blue-tag-shop-3aba3d8145,blue-tag,その他,松井山手中西鍼灸院,京都府八幡市欽明台中央55-2松井山手中西鍼灸院,,,blue_tag,https://www.matsui-y-nac.jp/
+blue-tag-shop-9b918d7d46,blue-tag,専門料理店,松喜屋,滋賀県大津市鳥居川町6-23,,,blue_tag,https://www.matsukiya.net/
+blue-tag-shop-7fbdff6b64,blue-tag,タクシー,松山観光開発株式会社,兵庫県赤穂市御崎1782-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b275b0eaea,blue-tag,食料品,果子乃季徳山駅店,山口県周南市御幸通り2-28-JR徳山駅,,,blue_tag,https://www.kasinoki.co.jp/
+blue-tag-shop-bf96236fcb,blue-tag,食料品,果子乃季新山口駅店,山口県山口市小郡令和1-2-1,,,blue_tag,https://www.kasinoki.co.jp/
+blue-tag-shop-435b6ff099,blue-tag,食料品,柑橘問屋石澤商店,神奈川県足柄下郡 湯河原町土肥2-16-4,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7a860493fc,blue-tag,タクシー,株式会社おおすみ,大阪府大阪市 北区梅田2-2-2 ヒルトンプラザウエスト5F,,,blue_tag,https://taxi.osumi-group.jp/
+blue-tag-shop-51d9183779,blue-tag,タクシー,株式会社かもめ,大阪府大阪市東住吉区田辺1-12-31グリ-ンハイツ 1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-13b474e34b,blue-tag,タクシー,株式会社さくらサポート,福島県福島市鎌田字御仮家96,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e8f9dd5e3f,blue-tag,宿泊施設,株式会社しののめ荘,兵庫県豊岡市城崎町 湯島757-,,,blue_tag,https://sinonomesou.com/
+blue-tag-shop-ba7d77dd3d,blue-tag,タクシー,株式会社なつかしい未来,大阪府門真市石原町5-16メゾンあすか102,,,blue_tag,https://natsukashii-mirai.com/
+blue-tag-shop-900ca4855e,blue-tag,タクシー,株式会社なみはやオーシャン交通,大阪府大阪市 中央区道頓堀1-東5-18わんわん共和国ビルB1F,,,blue_tag,https://www.namihaya-group.com/
+blue-tag-shop-88b8ae3425,blue-tag,タクシー,株式会社なみはやタクシー,大阪府大阪市 淀川区十三東2-9-2イマナカビル2F,,,blue_tag,https://www.namihaya-group.com/neyagawa
+blue-tag-shop-a5b55be275,blue-tag,タクシー,株式会社はくろタクシー,広島県福山市霞町1-8-17,,,blue_tag,http://www.hakuro.co.jp/company.html
+blue-tag-shop-6ebfc05941,blue-tag,レンタカー,株式会社アサヒ観光,岡山県玉野市築港3-1-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0e9d923c10,blue-tag,旅行代理店,株式会社アルバトラベル,石川県金沢市もりの里3-242ブル-ミングデ-ル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-766326e3e7,blue-tag,旅行代理店,株式会社エヌトラベル,富山県富山市五福3601-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-bd2a5e7aae,blue-tag,タクシー,株式会社エフエー,兵庫県赤穂市加里屋駅前町56-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-03bec3b8c4,blue-tag,タクシー,株式会社オリエンタル,熊本県阿蘇市蔵原1120-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-49f6f874d9,blue-tag,タクシー,株式会社カープタクシー,大阪府大阪市 北区堂島1-3-4谷安ビル 3F,,,blue_tag,https://www.carp-taxi.co.jp/group/
+blue-tag-shop-f62fb1e6f4,blue-tag,タクシー,株式会社クラウンタクシー,大阪府大阪市 港区八幡屋1-14-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9fe844a4e7,blue-tag,タクシー,株式会社サンキュータクシー,広島県広島市 中区大手町5-4-8土井ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-555b3c530a,blue-tag,その他,株式会社ツアーズジャパン,富山県滑川市上小泉2948-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-661cef364f,blue-tag,タクシー,株式会社ニッシン,兵庫県神戸市 中央区元町通3-10-2コウベサコムビル1F,,,blue_tag,https://nissintaxifukuoka.com/
+blue-tag-shop-458bbbbb34,blue-tag,タクシー,株式会社ミウラギ,広島県東広島市八本松東2-8-28-1,,,blue_tag,https://www.miuragi.com/
+blue-tag-shop-10df548d86,blue-tag,その他小売り,株式会社ヤナイ園芸,山口県柳井市古開作710,,,blue_tag,https://yanai-engei.com
+blue-tag-shop-3ec1b09f64,blue-tag,その他,株式会社ワールドトラベルサービス,富山県富山市新根塚町1-9-45BNK第一ビル2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9e27375cc6,blue-tag,ジュエリー,株式会社中西白牡丹,大阪府大阪市 北区天神橋3-8-20,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6be8402c06,blue-tag,タクシー,株式会社佐々井タクシー,兵庫県尼崎市神田 中通 3-30グラン・ノア-ルビル 2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c5d189bc2d,blue-tag,旅行代理店,株式会社冨士トラベル金沢,石川県金沢市浅野本町ニ150,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ccc8577860,blue-tag,タクシー,株式会社協親交通,大阪府大阪市中央区南船場1-8-6ヨシイチビル5階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-144faa842f,blue-tag,タクシー,株式会社国際興業神戸,富山県砺波市太郎丸1-9-24日本海ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8c2bbee193,blue-tag,タクシー,株式会社城北タクシー,広島県広島市 西区横川町1-5-18ユ-ビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9c3d135a0c,blue-tag,タクシー,株式会社増位タクシー,大阪府大阪市天王寺区下味原町5-25,,,blue_tag,https://masui.moo.jp/
+blue-tag-shop-54a87fb14d,blue-tag,タクシー,株式会社宝塚かもめタクシー,山口県山口市湯田温泉4-5-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-13c1e2fd42,blue-tag,タクシー,株式会社宮島カープタクシー,広島県広島市西区横川町3-2-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-984a41f144,blue-tag,タクシー,株式会社廿日市カープタクシー,広島県尾道市東御所町9-1,,,blue_tag,https://www.carp-taxi.co.jp/group/
+blue-tag-shop-eba2952b4b,blue-tag,その他小売り,株式会社慧一,広島県安芸郡 府中町大須4-2-21KTビル1F,,,blue_tag,https://eichinomizu.com
+blue-tag-shop-24b2e246f6,blue-tag,旅行代理店,株式会社新日本ツーリスト,石川県野々市市押野2-250-,,,blue_tag,https://nj-tourist.com/
+blue-tag-shop-349505507b,blue-tag,その他,株式会社旅行企画,富山県魚津市釈迦堂1-16-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-276e8f6adc,blue-tag,タクシー,株式会社日の丸タクシー,広島県府中市目崎町144,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+wesmo-c8ba10083c,blue-tag,その他,株式会社日本旅行Wesmo！,大阪府大阪市北区中之島3-3-3中之島三井ビルディング18F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-282cc0ef39,blue-tag,旅行代理店,株式会社日本旅行　大阪法人営業部,大阪府大阪市中央区備後町3-4-1EDGE備後町6階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8adb4b64d4,blue-tag,食料品,株式会社梅翁園,和歌山県日高郡 みなべ町山内1339,,,blue_tag,http://www.umekan.com/
+blue-tag-shop-08e28bba7e,blue-tag,旅行代理店,株式会社森口,兵庫県宝塚市星の荘27-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ab63fd1234,blue-tag,レンタカー,株式会社油米,岐阜県高山市上三之町105,,,blue_tag,https://carrental-aby.com/
+blue-tag-shop-cefabc1285,blue-tag,タクシー,株式会社津幡観光社,兵庫県赤穂市加里屋69-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b6ee8d4d3d,blue-tag,タクシー,株式会社洲本観光タクシー,和歌山県日高郡 みなべ町山内1339,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6169d1db54,blue-tag,タクシー,株式会社港タクシー,富山県富山市牛島町18-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ad636aae1e,blue-tag,旅行代理店,株式会社第一ツアーズ,富山県南砺市福光7061の2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-83e7180b1d,blue-tag,タクシー,株式会社花園タクシー,東京都葛飾区青戸4-13-5ホズミビル 201室,,,blue_tag,https://www.hanazono-taxi.com/
+blue-tag-shop-e534e46aeb,blue-tag,貸会議室,株式会社街づくり岩国,山口県岩国市麻里布町2-3-6,,,blue_tag,https://machi-iwk.jp
+blue-tag-shop-312b5711dc,blue-tag,その他,株式会社麻世勝エビス,奈良県奈良市高畑町714,,,blue_tag,https://www.ebisuya.com
+blue-tag-shop-eb3ef1119e,blue-tag,その他,株式会社麻世勝エビス,広島県廿日市市宮島町556-3,,,blue_tag,https://www.ebisuya.com
+blue-tag-shop-3d6a246a0c,blue-tag,その他,株式会社ＨＹＴ,大阪府大阪市 北区堂島2-2-22堂島栄和ビルディング,,,blue_tag,https://hyttraval.wordpress.com
+blue-tag-shop-e4357296fc,blue-tag,タクシー,株式会社ＰＥＡＣＥ　ＴＡＸＩ,大阪府大阪市 北区天神橋3-8-20,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f97b82c3c9,blue-tag,タクシー,株式会社ＳＫリモ,大阪府東大阪市東石切町1-6-36,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ed94174542,blue-tag,その他小売り,株式会社ＴＳＳ,三重県四日市市笹川8-55-5,,,blue_tag,https://shutter-dendo.com/
+blue-tag-shop-90cf949d93,blue-tag,専門料理店,桜三四郎,石川県金沢市高尾南3-7 タカオビル101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-aa2977d5e2,blue-tag,専門料理店,森万十,熊本県阿蘇市蔵原1120-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2850482d57,blue-tag,その他,森興産株式会社,大阪府大阪市中央区南船場1-4-11モリビル4階,,,blue_tag,https://morikosan.co.jp/
+blue-tag-shop-085b7f483f,blue-tag,その他小売り,櫻井商店,大阪府堺市 堺区文珠橋通2-28,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7ba9a598a3,blue-tag,居酒屋・バー,歌謡喫茶ユミ,福井県福井市中央1-20-21林ビル2階後室,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2c1c685cdc,blue-tag,食料品,武田の笹かまぼこ　エスパル仙台店,宮城県仙台市青葉区中央1-1-1S-PAL仙台店本館地下1階,,,blue_tag,https://www.takesasa.com
+blue-tag-shop-b7bde08bfe,blue-tag,宿泊施設,民宿　七浦荘,新潟県佐渡市橘1586-3,,,blue_tag,https://nanaurasou.com/
+blue-tag-shop-abc0f4794f,blue-tag,ファミレス,民宿レストラン初音,兵庫県赤穂市新田599-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-999458b080,blue-tag,宿泊施設,民宿初音,兵庫県赤穂市新田599-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5630c30590,blue-tag,専門料理店,水たき料亭 博多華味鳥　心斎橋店,大阪府大阪市 中央区西心斎橋1-3-3 オ-・エム・ホテル日航ビルB2,,,blue_tag,https://www.hanamidori.net/store/archives/14
+blue-tag-shop-957c5c9556,blue-tag,専門料理店,水たき料亭 博多華味鳥　梅田ヒルトンプラザ店,大阪府大阪市 北区梅田2-2-2 ヒルトンプラザウエスト5F,,,blue_tag,https://www.hanamidori.net/store/archives/17
+blue-tag-shop-97cf2c492a,blue-tag,タクシー,永平寺観光株式会社,広島県廿日市市宮島口西1-2-6,,,blue_tag,https://www.eiheijikanko.co.jp/
+blue-tag-shop-46b40a3422,blue-tag,宿泊施設,江田島荘,広島県江田島市能美町中町4718江田島荘,,,blue_tag,https://etajimasou.jp/
+blue-tag-shop-11bd899264,blue-tag,居酒屋・バー,沖縄雑貨とお食事　いちゃりば,広島県福山市笠岡町2-25,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-11a0716612,blue-tag,自動車・バイク用品,河内屋モータース,大阪府大阪市 西成区花園北2-15-19,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-252af0664d,blue-tag,タクシー,泉州ジャパン株式会社,岡山県倉敷市中央1-2-20,,,blue_tag,https://senshu-japan.co.jp/
+blue-tag-shop-ac10028c42,blue-tag,アパレル,洋服のリフォームビギンズ,大阪府大阪市 西区九条 2-24-6ビギンズ1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-890fed2628,blue-tag,食料品,洋菓子の店ル・アイ,大阪府大阪市 此花区梅香1-19-13ゆりのハイツ,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+ocat-e9ba139813,blue-tag,専門料理店,洋食レストラン 犇屋 なんばOCAT店,大阪府大阪市浪速区湊町1-4-1OCATモ-ル 1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a0cd73ad01,blue-tag,専門料理店,洋食彩酒アンプリュス,京都府京都市 中京区壬生 賀陽御所町64-18マキシムIII1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-bd670a4e0a,blue-tag,居酒屋・バー,浜焼き串カツコイコイ,京都府京都市中京区東木屋町通四条上る下樵木町二-198-2 きぬたビル1階,,,blue_tag,https://s.tabelog.com/kyoto/A2601/A260201/26012965/
+blue-tag-shop-1fb8d518fb,blue-tag,居酒屋・バー,浦江亭福島店,大阪府大阪市 福島区福島6-9-15北一ビル1F,,,blue_tag,https://tabelog.com/osaka/A2701/A270108/27004209/
+blue-tag-shop-91602b42e5,blue-tag,居酒屋・バー,海どう,大阪府大阪市 中央区石町1-2-9,,,blue_tag,https://www.sushi-kaido.net/
+blue-tag-shop-ab32edd710,blue-tag,レジャー施設,海洋堂ホビー館四万十,高知県高岡郡 四万十町打井川1458-1,,,blue_tag,http://ksmv.jp/
+blue-tag-shop-7c4b929165,blue-tag,タクシー,海王交通株式会社,愛媛県今治市上浦町 井口9180-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ba6b7e8678,blue-tag,居酒屋・バー,海鮮居酒屋　萬てん　はなれ,大阪府大阪市 都島区東野田町2-8-8平石ビル2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fb40387143,blue-tag,専門料理店,淡味の膳処　洗心寮,滋賀県大津市石山寺3-1-9,,,blue_tag,https://www.sensinryo.jp
+blue-tag-shop-bffe2eded7,blue-tag,専門料理店,淡路屋 三宮センター街店,兵庫県神戸市中央区三宮町2-10-7グレ-スコウベビル,,,blue_tag,https://www.awajiya.co.jp/
+blue-tag-shop-e8e9133a40,blue-tag,専門料理店,淡路屋 垂水駅店,兵庫県神戸市垂水区神田町1-20,,,blue_tag,https://www.awajiya.co.jp/
+blue-tag-shop-12f5bf0552,blue-tag,専門料理店,淡路屋 魚崎本店,兵庫県神戸市東灘区魚崎南町3-6-18,,,blue_tag,https://www.awajiya.co.jp/
+blue-tag-shop-04b00ff180,blue-tag,食料品,清寿家,滋賀県近江八幡市出町212-3,,,blue_tag,https://www.facebook.com/people/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE-%E6%B8%85%E5%AF%BF%E5%AE%B6/100057309675677/
+blue-tag-shop-6b3e58a728,blue-tag,食料品,清水商店市場,大阪府堺市 堺区南花田口町1-2-8清水商店市場,,,blue_tag,https://umaku.co.jp/shimizu_store_market/
+blue-tag-shop-5f79520399,blue-tag,食料品,渡邊酒店,広島県広島市 西区楠木町3-15-16,,,blue_tag,https://tokeisou-watanabesaketen.com
+blue-tag-shop-de66707171,blue-tag,宿泊施設,湧昇,兵庫県美方郡 香美町香住区 訓谷153-,,,blue_tag,https://kasumi-yusho.com/
+blue-tag-shop-482ea27275,blue-tag,宿泊施設,湯元こんぴら温泉華の湯紅梅亭,香川県仲多度郡琴平町琴平町556-1,,,blue_tag,https://www.koubaitei.jp
+blue-tag-shop-b685c7a770,blue-tag,宿泊施設,湯元舘,滋賀県大津市苗鹿2-30-7,,,blue_tag,https://www.yumotokan.co.jp
+blue-tag-shop-5017f833fc,blue-tag,宿泊施設,漁師のお宿勇晴,福井県三方上中郡若狭町世久見6-29,,,blue_tag,http://yuu-sei.com
+blue-tag-shop-f7e2a1f64e,blue-tag,タクシー,瀬戸内タクシー有限会社,大阪府東大阪市長堂3-1-2-12,,,blue_tag,http://www.setouchitaxi.co.jp/
+blue-tag-shop-9b1e6b55c5,blue-tag,タクシー,瀬戸内タクシー株式会社,滋賀県長浜市中山町6-1,,,blue_tag,http://www.setouchitaxi.com/
+blue-tag-shop-bf2bd8cca6,blue-tag,居酒屋・バー,炉端焼き現吉,兵庫県神戸市 東灘区御影中町1-4-15ブラウンハイム御影 一階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-822228dcaf,blue-tag,居酒屋・バー,炭屋へべれけ,大阪府大阪市 福島区吉野2-1-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-88978d35ac,blue-tag,居酒屋・バー,炭棲堂,京都府京都市 南区東九条 西山王町12-7,,,blue_tag,https://isozumi.jp/sumizumido/index.html
+blue-tag-shop-94b4de4d63,blue-tag,専門料理店,炭火串焼　　まる吉,広島県呉市広本町1-12-15-101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6fe6895f75,blue-tag,居酒屋・バー,炭火串焼にしまる,大阪府堺市 堺区向陵中町2-3-13ハイキャッスルビル203,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4337a126dc,blue-tag,居酒屋・バー,炭火焼こてっぱん,京都府京都市中京区河原町通り四条上ル紙屋町367-1,,,blue_tag,https://kyoto-koteppan.com/
+2-decdd858f0,blue-tag,居酒屋・バー,炭火焼こてっぱん木屋町2号店,京都府京都市中京区紙屋町674-6,,,blue_tag,https://www.hotpepper.jp/strJ004470660/
+blue-tag-shop-ce57782e94,blue-tag,居酒屋・バー,炭火焼鳥いっぷ,大阪府大阪市淀川区西中島3-17-12 2F,,,blue_tag,https://www.hotpepper.jp/strJ004067867/
+blue-tag-shop-271293dd5a,blue-tag,居酒屋・バー,炭火焼鳥しも～ね,広島県広島市 中区大手町5-4-8土井ビル1階,,,blue_tag,http://www.s-company7.com
+aletta-0df102a409,blue-tag,居酒屋・バー,炭焼きイタリアンAletta,大阪府大阪市 中央区船場中央1-4-3 B216,,,blue_tag,https://site.locaop.jp/Aletta?_src=gbp
+blue-tag-shop-18f08276b8,blue-tag,居酒屋・バー,炭焼雷　本店,広島県広島市中区袋町2-25-2F長谷川ビル,,,blue_tag,https://capital-co.net/
+blue-tag-shop-22feed86b7,blue-tag,居酒屋・バー,焼き鳥　志,大阪府大阪市 平野区背戸口5-6-27,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7cc638ccb5,blue-tag,専門料理店,焼肉　あやめ,奈良県奈良市あやめ池南1-3-11,,,blue_tag,https://akr8546737722.owst.jp/
+blue-tag-shop-a9318cea3c,blue-tag,専門料理店,焼肉しがらき,大阪府高槻市高槻町14-4KYOHO、T.H、BLD2階,,,blue_tag,https://yakiniku-shigaraki.com/
+blue-tag-shop-a4788edf77,blue-tag,専門料理店,焼肉たまや,大阪府大阪市 中央区東心斎橋2-4-19玉屋町ギャラクシ-ビル3館1105,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1611019609,blue-tag,専門料理店,焼肉白炭,東京都港区六本木7-18-6六本木グランド-ル1階,,,blue_tag,https://www.yakiniku-byakutan.com/
+r-c7cccf2fbf,blue-tag,専門料理店,煉瓦屋R,兵庫県赤穂市加里屋47-14,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4b092afe4e,blue-tag,カフェ,照星館,福岡県太宰府市宰府4-7-37,,,blue_tag,https://www.shouseikan.jp/
+blue-tag-shop-0560fed46b,blue-tag,その他,熱海手荷物預り所,静岡県熱海市田原本町9-1熱海第一ビル1階,,,blue_tag,https://www.dress99s.com
+blue-tag-shop-3ca566a78b,blue-tag,居酒屋・バー,片山津バル 牡丹,石川県加賀市片山津温泉乙69-69,,,blue_tag,https://botan-katayamazu.com/
+blue-tag-shop-3462482c55,blue-tag,専門料理店,牡蠣小屋りょうちゃん,兵庫県赤穂市御崎1782-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c00620990b,blue-tag,居酒屋・バー,牡蠣酒場佐々木孫べえ,大阪府大阪市 西区新町1-21-3小林ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3fb93daaac,blue-tag,専門料理店,犇屋　三宮店,兵庫県神戸市中央区琴ノ緒町3-1-384,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6ae6647c1d,blue-tag,専門料理店,犇屋　神戸駅前店,兵庫県神戸市中央区古湊通1-1-23,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3292ee25b8,blue-tag,専門料理店,犇屋　豊中店,大阪府豊中市玉井町1-3-26,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-bbbde41ea9,blue-tag,宿泊施設,玉仙閣,山口県長門市深川湯本1234-,,,blue_tag,https://www.gyokusenkaku.com
+blue-tag-shop-e26fecc218,blue-tag,タクシー,王寺タクシー株式会社,石川県加賀市山中温泉 今立町イ180,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-64ab9f7a27,blue-tag,美容・理容,理容やまぐち北店,兵庫県姫路市白浜町 神田1-18-,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e9ab374e78,blue-tag,美容・理容,理容オガワ,大阪府大阪市淀川区加島1-21-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7fb21cb9ac,blue-tag,宿泊施設,琴平グランドホテル桜の抄,香川県仲多度郡琴平町琴平町977-1,,,blue_tag,https://www.sakuranosho.jp
+blue-tag-shop-b2b0e2e841,blue-tag,宿泊施設,琴平リバーサイドホテル,香川県仲多度郡琴平町琴平町246-1,,,blue_tag,https://www.hananoyu.co.jp
+blue-tag-shop-dc45709e28,blue-tag,宿泊施設,琵琶湖グランドホテル,滋賀県大津市雄琴6-5-1,,,blue_tag,https://www.biwakogh.co.jp/
+blue-tag-shop-bf2ed58fcb,blue-tag,食料品,甘味処かのこ庵,兵庫県尼崎市七松町1-3-1フェスタ立花南館110,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c098d6f5b8,blue-tag,居酒屋・バー,甚八,大阪府大阪市 中央区高麗橋3-1-11,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-88eb92034a,blue-tag,居酒屋・バー,甚八はなれ,大阪府大阪市 中央区今橋3-2-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f118a362a4,blue-tag,専門料理店,生そば更科,兵庫県赤穂市加里屋74-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7f77bf0ea7,blue-tag,その他小売り,田中花店,兵庫県赤穂市加里屋 中洲4-29,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-80bf9568ee,blue-tag,タクシー,田原本タクシー株式会社,神奈川県小田原市扇町5-7-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0e462dc1e7,blue-tag,タクシー,田島タクシー有限会社,石川県金沢市里見町44-1タウンハイツ1階,,,blue_tag,https://tashima-taxi.com/
+blue-tag-shop-52bf6bdd0a,blue-tag,カフェ,由志園　茶房　一望,島根県松江市八束町波入1260-2,,,blue_tag,https://www.yuushien.com/
+blue-tag-shop-1618380d2b,blue-tag,専門料理店,甲,岡山県岡山市 北区駅前町1-10-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5ff46b6011,blue-tag,レジャー施設,甲賀カントリー倶楽部,滋賀県湖南市三雲3354,,,blue_tag,https://www.koga-cc.jp/
+blue-tag-shop-447a7b6cb2,blue-tag,居酒屋・バー,町屋酒場りとも　野田阪神店,大阪府大阪市 福島区大開1-15-24,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-28c16a6924,blue-tag,宿泊施設,癒しの宿　クアハウス白浜,和歌山県西牟婁郡白浜町3102,,,blue_tag,https://kurhouse-shirahama.or.jp/
+blue-tag-shop-63fb9dc4b8,blue-tag,居酒屋・バー,登龍門,大阪府大阪市中央区宗右衛門町2-30ルビ-ビル 1階,,,blue_tag,https://subculentertainment.com/toryumon/
+blue-tag-shop-97e0148e75,blue-tag,専門料理店,白雲台鶴橋駅前店,大阪府大阪市天王寺区下味原町5-25,,,blue_tag,http://hakuundai.com/tsuruhashi/
+blue-tag-shop-979a080509,blue-tag,船,白鳥観光有限会社,兵庫県神戸市中央区多聞通2-1-17ジョウエ-ビル101 カフ-ツ内,,,blue_tag,https://www.hakuchougo.jp
+blue-tag-shop-94fab1b163,blue-tag,宿泊施設,皆生グランドホテル天水,鳥取県米子市皆生温泉4-18-45,,,blue_tag,https://www.kaike-grandhotel.co.jp/tensui/
+blue-tag-shop-e255b03352,blue-tag,タクシー,皆生タクシー株式会社,兵庫県神戸市 中央区元町通4-1-13-2カトル神戸元町1階,,,blue_tag,https://kaike.co.jp/
+blue-tag-shop-989fa030c3,blue-tag,タクシー,相生タクシー株式会社,福井県丹生郡 越前町小曽原107-1-169越前古窯博物館,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-90bb3acac9,blue-tag,その他,真珠会館,愛媛県宇和島市高串3-58,,,blue_tag,https://shinjukaikan.com
+blue-tag-shop-c6d9b4aa8e,blue-tag,専門料理店,石切おでん　すずや　石切神社前店,大阪府東大阪市東石切町1-6-36,,,blue_tag,https://suzuya-oden.jp/
+blue-tag-shop-bd0ec55a87,blue-tag,専門料理店,石垣島しゃぶしゃぶ太陽神戸三宮店,兵庫県神戸市 中央区北長狭通1-10-9生田新道ビルB1F-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5619397da6,blue-tag,タクシー,石川交通株式会社,大阪府大阪市 大正区鶴町2-10-16,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5e00444b99,blue-tag,その他,石川観光旅行社,石川県加賀市作見町ニ54-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-72930538ae,blue-tag,その他,石川観光旅行社アビオシティ加賀店,石川県加賀市作見町ル25-1アビオシティ加賀1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5606ee1597,blue-tag,その他小売り,砂丘会館,鳥取県鳥取市福部町 湯山2164,,,blue_tag,https://sakyu.gr.jp
+blue-tag-shop-8554e558c8,blue-tag,専門料理店,祇園甲斐,京都府京都市 東山区祇園町 北側282-16,,,blue_tag,https://kai.olaii.jp/
+blue-tag-shop-0f2f06b6f9,blue-tag,ギフト・お土産,神仙境,奈良県奈良市春日野町160,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-56b5a146f5,blue-tag,タクシー,神姫タクシー株式会社,長野県上伊那郡 飯島町田切120-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-250d32974f,blue-tag,タクシー,神姫観光株式会社,大阪府高槻市高槻町6-24スカイハイツ1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1b80596869,blue-tag,タクシー,神崎交通株式会社,広島県廿日市市宮島町556-3,,,blue_tag,https://kanzakikotsu.com/taxi/
+boh-boh-kobe-2bf28c3980,blue-tag,レジャー施設,神戸シーバス boh boh KOBE,兵庫県神戸市中央区波止場町7-1,,,blue_tag,http://www.kobe-seabus.com/
+blue-tag-shop-f1de8462ce,blue-tag,専門料理店,神戸ステーキ雅,兵庫県神戸市 灘区友田町3-3-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-cda21f019d,blue-tag,タクシー,神戸タクシー株式会社,大阪府大阪市 此花区四貫島2-22-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b833ae9f75,blue-tag,宿泊施設,福井ふるさと茶屋　杵と臼,福井県福井市上東郷町22-7,,,blue_tag,https://kinetousu.net
+blue-tag-shop-caa7ee8bd0,blue-tag,タクシー,福井バス株式会社,兵庫県神戸市 中央区元町通5-3-14,,,blue_tag,http://fukuibus.jp
+blue-tag-shop-a590924f4e,blue-tag,その他,福井県陶芸館,福井県丹生郡 越前町小曽原120-61福井県陶芸館,,,blue_tag,https://www.tougeikan.jp/
+blue-tag-shop-8f66201f57,blue-tag,タクシー,福助タクシー株式会社,広島県広島市中区袋町2-25-2F長谷川ビル,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-518ce39f4d,blue-tag,食料品,福助堂,大阪府大阪市 生野区林寺2-1-4,,,blue_tag,https://fukusukedo.co.jp
+blue-tag-shop-44ffd5e739,blue-tag,インテリア,福山家具センター,広島県福山市霞町1-8-17,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-07fa549de8,blue-tag,タクシー,福岡南国交通株式会社,大阪府大阪市 西成区潮路1-2-27第2丸美マンション1F店舗,,,blue_tag,https://fukuokanangoku.com/
+blue-tag-shop-d014c6bb13,blue-tag,宿泊施設,福知山サンホテル,京都府福知山市堀2080-1,,,blue_tag,https://www.s-b-hotel.co.jp/
+blue-tag-shop-bffec8134e,blue-tag,宿泊施設,稲佐山観光ホテル,長崎県長崎市曙町40-23,,,blue_tag,https://www.inasayama.co.jp/
+flamme-bc0fbf15bc,blue-tag,専門料理店,竈flamme 炭三郎,富山県砺波市三郎丸208,,,blue_tag,https://www.wakatsuru.co.jp/tanzaburo/
+blue-tag-shop-76392c0f05,blue-tag,タクシー,立花神姫タクシー株式会社,広島県広島市 南区京橋町10-14坪田ビル102,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-65a9ecccee,blue-tag,宿泊施設,第一滝本館,北海道登別市登別温泉町55-,,,blue_tag,https://takimotokan.co.jp/ja/
+blue-tag-shop-4e397b4cb3,blue-tag,専門料理店,精竜,大阪府大阪市 北区浪花町1-22,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-438ab4b5f0,blue-tag,専門料理店,紀文堂製パン,富山県富山市芝園町二-3-17芝園町ビル,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0bde5adb9e,blue-tag,その他小売り,紅葉堂　本店,広島県廿日市市宮島町448-1,,,blue_tag,https://momijido.com/
+blue-tag-shop-aa839f6bad,blue-tag,旅行代理店,総合ツアーシステム,大阪府大阪市北区曽根崎2-2-1,,,blue_tag,https://spctour.jp/
+blue-tag-shop-4e4d24e944,blue-tag,ギフト・お土産,総本家かん川　新田店,兵庫県赤穂市新田812-2,,,blue_tag,https://www.kankawa.com
+blue-tag-shop-713069c304,blue-tag,ギフト・お土産,総本家かん川　赤穂駅前店,兵庫県赤穂市加里屋65-1,,,blue_tag,https://www.kankawa.com
+blue-tag-shop-70b666dc74,blue-tag,食料品,練りもの専門店ネッテ,広島県広島市 南区猿猴橋町6-22Lepont 広島駅前1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1dda56fb1d,blue-tag,居酒屋・バー,縁結,大阪府大阪市 中央区難波1-7-17浪花ビル4階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-985b10334b,blue-tag,ギフト・お土産,縄文企画,沖縄県石垣市浜崎町1-2-6パティオ石垣7F,,,blue_tag,https://jomonkikaku.com/
+carinte-6300ec6149,blue-tag,美容・理容,美容室CARINTE,福井県坂井市三国町三国東6-2-10,,,blue_tag,http://carinte.jp
+blue-tag-shop-68e0bd091f,blue-tag,居酒屋・バー,美酒嘉肴せん,大阪府大阪市 北区曽根崎新地1-9-3池辺ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-10821c6787,blue-tag,居酒屋・バー,美酒菜館くらん,京都府福知山市駅前町426,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-28843af8c1,blue-tag,宿泊施設,翠嵐楼,熊本県人吉市温泉町2461-1,,,blue_tag,https://www.suiranrou.jp
+blue-tag-shop-69bb233676,blue-tag,宿泊施設,聚景荘,広島県廿日市市宮島町50,,,blue_tag,https://miyajima-jukeiso.com/
+blue-tag-shop-60a27036a9,blue-tag,専門料理店,肉酒場犇屋　西中島店,大阪府大阪市淀川区西中島4-2-26,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-cf62fd16a8,blue-tag,食料品,自家焙煎コーヒーマウンテン,大阪府高槻市芥川町2-8-21,,,blue_tag,https://mountain1999.com
+blue-tag-shop-ba3c037f85,blue-tag,カフェ,自家焙煎珈琲店 フルサト,奈良県天理市川原城町697,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-2686dc28a7,blue-tag,食料品,自然派ワインのお店　プレヴナン,岡山県岡山市北区出石町1-4-20メゾン後楽園103,,,blue_tag,http://prevenant.jp
+blue-tag-shop-4f5b91dc0d,blue-tag,ギフト・お土産,舩坂酒造店,岐阜県高山市上三之町105,,,blue_tag,https://www.funasaka-shuzo.co.jp/
+blue-tag-shop-f9c51e7be9,blue-tag,専門料理店,舩坂酒造店　御食事処　味の与平,岐阜県高山市上二之町7,,,blue_tag,https://funasaka-shuzo01.jimdoweb.com/
+blue-tag-shop-5b185f2b85,blue-tag,その他,船鉄観光旅行社　おのだサンパーク店,山口県山陽小野田市中川6-4-1おのだサンパ-ク東館1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-408b2255b3,blue-tag,居酒屋・バー,艮,大阪府大阪市 中央区難波1-5-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a3391a73e3,blue-tag,宿泊施設,芙蓉別館,島根県米子市皆生温泉3-14-10,,,blue_tag,https://www.fu-yo.net
+blue-tag-shop-a2e00cea6a,blue-tag,専門料理店,花そば・料理　ゆう,兵庫県姫路市西二階町36,,,blue_tag,http://saysay.jp
+blue-tag-shop-59fc9b00d3,blue-tag,専門料理店,花ほうび,兵庫県神戸市 中央区下山手通2-11-30TN-IIビル 2F,,,blue_tag,https://kobebeef-hanahoubi.com/
+blue-tag-shop-2b7e5728f6,blue-tag,その他,花嫁のれん館,石川県七尾市馬出町ツ部49,,,blue_tag,http://hanayomenorenkan.jp/
+blue-tag-shop-d5475a58fd,blue-tag,食料品,花見屋元町本店,兵庫県神戸市 中央区元町通2-6-6,,,blue_tag,http://hanamiya.co.jp
+blue-tag-shop-94bb71cc5f,blue-tag,食料品,若葉園本舗,大阪府大阪市 中央区日本橋1-16-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d70f8b8a83,blue-tag,カフェ,茶令,岡山県岡山市中区原尾島三-2-22-10,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ed94f1f563,blue-tag,カフェ,茶房　夢屋,兵庫県豊岡市城崎町湯島90,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b312892b23,blue-tag,カフェ,茶舎 觀壽,石川県金沢市彦三町1-9-66,,,blue_tag,https://chashamikoto.com/
+blue-tag-shop-d14cc56933,blue-tag,食料品,茶舗わかさ,兵庫県赤穂市加里屋56-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-3ec57d12a6,blue-tag,タクシー,荒井タクシー有限会社,奈良県奈良市高畑町714,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1239119549,blue-tag,レジャー施設,菊ヶ峠ゴルフパーク,岡山県赤磐市仁堀東1077,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-7d95a3f3ff,blue-tag,食料品,菓澄想,兵庫県赤穂市加里屋40-6赤穂プラザハイツ104,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+s-89885b35fe,blue-tag,居酒屋・バー,菜's,岡山県岡山市北区奉還町2-14-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-29711b6d6b,blue-tag,居酒屋・バー,華水&スウィング,兵庫県赤穂市加里屋44-15,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0046593a31,blue-tag,宿泊施設,華水亭,鳥取県米子市皆生温泉4-19-10,,,blue_tag,https://kaikeonsenkasuitei.jp/
+blue-tag-shop-92622df487,blue-tag,専門料理店,萬寿殿,兵庫県神戸市 中央区中山手通2-20-4,,,blue_tag,http://www.manjuden.com
+blue-tag-shop-442c357a3b,blue-tag,専門料理店,薪火三庵,石川県金沢市本町1-3-27,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ba55645492,blue-tag,スタジオ・撮影,藤井写真館,大阪府大阪市 阿倍野区旭町2-1-2あべのポンテ101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d93e0e71f0,blue-tag,スタジオ・撮影,藤原写真館,島根県仁多郡 奥出雲町横田1023-7,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f9422b0ee2,blue-tag,ホビー・玩具,藤原模型店,広島県広島市 東区光町2-9-24広島ロ-ドビル,,,blue_tag,http://www.fujiwaramokeiten.jp
+blue-tag-shop-72ab85c853,blue-tag,食料品,蜜屋,広島県呉市中通3-5-10,,,blue_tag,https://mitsuya-honpo.jp/
+blue-tag-shop-0a753f6fe7,blue-tag,宴会・パーティ,西の屋湯郷店　レストラン,岡山県美作市尾谷2449-1,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-cbe6181dd2,blue-tag,宴会・パーティ,西の屋湯郷店　売店,岡山県美作市尾谷2449-1,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-3248a8a45e,blue-tag,宴会・パーティ,西の屋湯郷店　漬物,岡山県美作市尾谷2449-1,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-47beac568c,blue-tag,宴会・パーティ,西の屋美作店　レストラン,岡山県美作市入田145-1,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-b8f231a936,blue-tag,宴会・パーティ,西の屋美作店　売店,岡山県美作市入田145-1,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-ad635e392c,blue-tag,宴会・パーティ,西の屋菊ヶ峠店　レストラン,岡山県赤磐市仁堀東1077,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-02263dd628,blue-tag,カフェ,西の屋菊ヶ峠店　団子屋,岡山県赤磐市仁堀東1077,,,blue_tag,https://nishinoya.co.jp/
+blue-tag-shop-1670c63389,blue-tag,ギフト・お土産,西の屋菊ヶ峠店　売店,岡山県赤磐市仁堀東1077,,,blue_tag,https://nishinoya.co.jp
+blue-tag-shop-d85baf67b3,blue-tag,その他,西の屋菊ヶ峠店　明光窯,岡山県赤磐市仁堀東1077,,,blue_tag,https://nishinoya.co.jp/
+blue-tag-shop-21072f4c42,blue-tag,宿泊施設,西の雅　常盤,山口県山口市湯田温泉4-6-4,,,blue_tag,https://www.n-tokiwa.co.jp/
+blue-tag-shop-e3de2022cd,blue-tag,宿泊施設,西大寺グランドホテル,岡山県岡山市 東区西大寺 中2-12-9,,,blue_tag,https://www.saidaiji-gh.co.jp/
+blue-tag-shop-ce65799a0d,blue-tag,鉄道,西日本旅客鉄道株式会社,熊本県人吉市温泉町2461-1,,,blue_tag,https://wester.jr-odekake.net/wesmo/
+blue-tag-shop-3e58e11256,blue-tag,タクシー,西日本自動車株式会社,山口県周南市御幸通り2-28-JR徳山駅,,,blue_tag,https://nishinihon-taxi.com/
+blue-tag-shop-503a742d1b,blue-tag,宿泊施設,観光ホテルタマル,奈良県奈良市押上町41,,,blue_tag,http://nara-tamaru.com
+blue-tag-shop-a85e769049,blue-tag,アパレル,請川呉服店,和歌山県新宮市大橋通2-1-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-13a2ced83d,blue-tag,タクシー,講和自動車交通株式会社,京都府京都市 中京区下丸屋町421-5ラディ-チェマツヤビル1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-58c25fd7e6,blue-tag,自動車・バイク用品,谷自動車販売株式会社,富山県高岡市熊野町2-19,,,blue_tag,https://www.goo-net.com/usedcar_shop/1166085/detail.html
+blue-tag-shop-0f6815f3f1,blue-tag,その他小売り,豆はなび,大阪府大阪市 福島区玉川4-12-11玉川ビル1F,,,blue_tag,https://mamehanabi.com
+blue-tag-shop-135a20b74b,blue-tag,食料品,赤穂のお菓子+カフェ・プリエール,兵庫県赤穂市上仮屋 南1-5プリエ-ル,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1b698cb7b8,blue-tag,専門料理店,赤穂らーめん麺坊,兵庫県赤穂市加里屋290-10プラット赤穂2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-433d5b1f1f,blue-tag,タクシー,赤穂神姫タクシー株式会社,兵庫県赤穂市北野中324-1,,,blue_tag,https://www.ako-shinki.com/
+blue-tag-shop-f55f40bd6b,blue-tag,ギフト・お土産,赤穂観光協会,兵庫県赤穂市加里屋328,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4813e7bed3,blue-tag,専門料理店,赫辛麺　燦,大阪府大阪市北区堂山町2-14ケイ・ワイ堂山ビル,,,blue_tag,https://tabelog.com/osaka/A2701/A270101/27153064/
+blue-tag-shop-49a33c9973,blue-tag,その他,越前古窯博物館,福井県丹生郡 越前町小曽原107-1-169越前古窯博物館,,,blue_tag,https://www.tougeikan.jp/koyou/
+blue-tag-shop-fb0971c535,blue-tag,専門料理店,越前蕎麦倶楽部,福井県福井市中央1-10-21,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+kai-cbae23e8d7,blue-tag,その他,身体運動研究所KAI,山口県岩国市麻里布町1-3-3岡村ビル1階6,,,blue_tag,https://kai-shintaiundo.jimdofree.com
+blue-tag-shop-42c20f0210,blue-tag,居酒屋・バー,軽食酒場鳥あえず,高知県高知市帯屋町1-14-33アベニュ-ビル,,,blue_tag,https://bjngu.crayonsite.info/p/3/
+blue-tag-shop-20196381c9,blue-tag,居酒屋・バー,辛麺屋道香椎店,福岡県福岡市 東区香椎駅前1-1-13-102,,,blue_tag,https://karamen-michi.com/
+blue-tag-shop-e4f30cc966,blue-tag,専門料理店,近江スエヒロ本店,滋賀県草津市大路3-1-39,,,blue_tag,https://ohmisuehiro.jp/
+blue-tag-shop-cabf693e6a,blue-tag,ホビー・玩具,近江屋,大阪府大阪市 大正区平尾5-2-4,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6cab479c59,blue-tag,福祉・介護,近藤接骨院,滋賀県彦根市旭町5-6,,,blue_tag,https://kondo-hikone.wixsite.com/website
+blue-tag-shop-5ae8947887,blue-tag,カフェ,週末のインコ,大阪府大阪市東住吉区田辺1-12-31グリ-ンハイツ 1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6607bf11f9,blue-tag,食料品,道の駅よしうみいきいき館,愛媛県今治市吉海町 名4520-2,,,blue_tag,https://imabari-shimanami.jp/ikiiki/
+blue-tag-shop-bfbcd53f37,blue-tag,食料品,道の駅多々羅しまなみ公園,愛媛県今治市上浦町 井口9180-2,,,blue_tag,https://imabari-shimanami.jp/tatara/
+blue-tag-shop-94a9d98351,blue-tag,食料品,道の駅Ｓ・Ｃパーク　マリンオアシスはかた,愛媛県今治市伯方町 叶浦甲1668-1,,,blue_tag,https://imabari-shimanami.jp/hakata/
+blue-tag-shop-d920e50167,blue-tag,居酒屋・バー,酒と肴みこし鶴一,広島県広島市 西区横川町3-2-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9212a22fba,blue-tag,居酒屋・バー,酒の大将,大阪府大阪市 北区曽根崎新地1-11-4一らくビル一階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-06743a5ac7,blue-tag,居酒屋・バー,酒カイダイビング,兵庫県神戸市 中央区元町通1-2-4-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-39b5d9a73b,blue-tag,食料品,酒工房梅本酒店,大阪府大阪市 淀川区木川東3-4-25,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-f241905a17,blue-tag,居酒屋・バー,酒盃いち膳,京都府京都市 下京区南町568-6,,,blue_tag,https://www.mgfoods.co.jp/ichizen/
+blue-tag-shop-8217862e46,blue-tag,居酒屋・バー,酒肴菜結庵,大阪府茨木市駅前2-1-25茨木清水ハイツ105,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-05be86d220,blue-tag,居酒屋・バー,酒蔵ゑびす,静岡県浜松市中央区板屋町110-17ホテクラウンパレス浜松地下1階,,,blue_tag,http://www.classic1998.co.jp/ebisu
+blue-tag-shop-7ddf677a38,blue-tag,アパレル,野田屋,大阪府吹田市元町7-22,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9ce60acd67,blue-tag,タクシー,金城交通株式会社,京都府京都市右京区太秦東蜂岡町10-,,,blue_tag,http://www.kinjou.co.jp/taxi/index.html
+blue-tag-shop-963f7244b8,blue-tag,タクシー,金沢ハイヤー有限会社,富山県富山市芝園町二-3-17芝園町ビル,,,blue_tag,https://www.maruichi-gp.co.jp/kanazawahire/
+blue-tag-shop-3fdbf95ecd,blue-tag,アパレル,金港堂,石川県金沢市片町2-1-1,,,blue_tag,https://www.kinkodo.co.jp
+gion-e2e234e68f,blue-tag,居酒屋・バー,鉄板居酒屋GIONわ,京都府京都市 東山区祇園町 北側300ム-ンビュ-ティ-祇園ビル3F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-da69e35e7b,blue-tag,居酒屋・バー,鉄板居酒屋みやゆう,広島県広島市南区大須賀町12-5,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-80b1c8f3ca,blue-tag,居酒屋・バー,鉄板泰生,兵庫県赤穂市加里屋77-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-a155f64c6f,blue-tag,居酒屋・バー,鉄板神社なんばグランド花月前店,大阪府大阪市 中央区難波千日前12-5朱雀ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4fb766f354,blue-tag,居酒屋・バー,鉄板神社総本店,大阪府大阪市 中央区難波1-4-6ミフネ難波ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-8759522d79,blue-tag,居酒屋・バー,鉄道バー駅,大阪府大阪市 天王寺区上本町6-3-31うえほんまちハイハイタウン 地下1階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fdf8d02179,blue-tag,宿泊施設,銀水荘　兆楽,兵庫県神戸市 北区有馬町1654-1,,,blue_tag,https://choraku.com
+blue-tag-shop-f23476c228,blue-tag,専門料理店,長崎アザレア,長崎県長崎市平野町4-16,,,blue_tag,https://www.tatsuya.co.jp/
+blue-tag-shop-0f55d4550f,blue-tag,ギフト・お土産,長州苑,山口県山口市木町1-6,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-efd3a1678f,blue-tag,旅行代理店,長浜観光,滋賀県長浜市中山町6-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-bf72942c2c,blue-tag,タクシー,長門山電タクシ－有限会社,和歌山県新宮市大橋通2-1-1,,,blue_tag,https://www.nagato-sanden.com/
+blue-tag-shop-65471aebea,blue-tag,その他,防府市観光案内所,山口県防府市戎町1-1-1JR防府駅構内,,,blue_tag,https://visit-hofu.jp/
+bless-cffb790a44,blue-tag,その他小売り,防災BLESS塾,福井県鯖江市北野町12-13スイ-ト北野1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ca39a7ef95,blue-tag,宿泊施設,阿波の国・昴宿よしの,徳島県徳島市一-町3-18,,,blue_tag,https://www.subaruyado-yoshino.com/
+blue-tag-shop-8739524507,blue-tag,タクシー,阿波交通株式会社,京都府京都市 伏見区御香宮門前町195-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-1ef9e6f1be,blue-tag,その他小売り,陶芸体験&ギャラリー 九谷満月,石川県加賀市中代町ル95-2,,,blue_tag,https://www.mangetsu.co.jp
+blue-tag-shop-efcf477c49,blue-tag,専門料理店,陽の鳥　石橋店,大阪府池田市石橋2-2-8阪急石橋ビルディング 1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-9a17a12f63,blue-tag,その他,雅トラベル,富山県富山市上冨居1-7-2丸和ホ-ム内,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7fe71d5fc6,blue-tag,宴会・パーティ,雅苑　西宮,兵庫県西宮市平松町1-2雅苑西宮,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7d7f3e40ca,blue-tag,宴会・パーティ,雅苑酒家　本店,兵庫県神戸市中央区栄町通2-8-7雅苑酒家,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c39521439b,blue-tag,タクシー,青空交通有限会社,石川県加賀市作見町ニ54-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-68a6731d08,blue-tag,その他小売り,革工房バロール,岡山県倉敷市阿知2-13-19,,,blue_tag,https://el-valor.com/index.html
+blue-tag-shop-d6cde1979f,blue-tag,アパレル,靴のマヤナギ,大阪府大阪市 此花区梅香3-20-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+a-cafe-d5ead31720,blue-tag,カフェ,鞆の浦a cafe,広島県福山市鞆町鞆844-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-354a7c91a8,blue-tag,カフェ,鞆一商店,広島県福山市鞆町鞆843-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5004244b4c,blue-tag,居酒屋・バー,韓国ダイニングまにぽぽ,大阪府大阪市 中央区東心斎橋1-12-19エイトビルヂング4階,,,blue_tag,https://s.tabelog.com/osaka/A2701/A270201/27122434/
+blue-tag-shop-b70c9746e9,blue-tag,アパレル,音の絵,岡山県赤磐市桜が丘西一-9-7,,,blue_tag,https://otonoe.net
+blue-tag-shop-969057e245,blue-tag,タクシー,須崎しんじょうハイヤー株式会社,和歌山県和歌山市十二-丁66サングレ-ス1階 101,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fd5f264f96,blue-tag,居酒屋・バー,食事酔房ひえん,富山県富山市桜町1-6-14桜町ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-e9f335c0f1,blue-tag,タクシー,飾東交通有限会社,大阪府大阪市浪速区湊町1-4-1OCATモ-ル 1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-45eec9a793,blue-tag,専門料理店,餃子専門店　味力亭,大阪府大阪市 東成区東中本1-16-13,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+a-chan-322ba67b6d,blue-tag,居酒屋・バー,餃子鍋A-chan,大阪府大阪市 北区曽根崎新地1-2-12階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-30ceefaa06,blue-tag,食料品,駄菓子屋ぎんちゃん,大阪府大阪市 阿倍野区松虫通2-3-3,,,blue_tag,http://ginnyannma.com
+blue-tag-shop-38d25c079d,blue-tag,タクシー,高円交通株式会社,福岡県北九州市 小倉北区京町1-5-16和田ビル1F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-b7026131a8,blue-tag,宿泊施設,高知城下の天然温泉　三翠園,高知県高知市鷹匠町1-3-35,,,blue_tag,https://sansuien.co.jp/
+blue-tag-shop-9e8ad556d0,blue-tag,アパレル,髙井靴店,大阪府大阪市 阿倍野区昭和町1-20-22朝日プラザ昭和町113,,,blue_tag,https://nobbysgentlecraft.com
+blue-tag-shop-f83481db04,blue-tag,自動車修理,髙橋鈑金塗装,広島県府中市高木町755-9,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-af5b73dfc8,blue-tag,居酒屋・バー,魚と燻製の店　さんばんや　武庫之荘本店,兵庫県尼崎市武庫之荘2-10-8,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-902deaedf8,blue-tag,専門料理店,魚邦,岐阜県可児郡御嵩町御嵩1144-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c84d2b668b,blue-tag,タクシー,鮎喰川タクシー有限会社,富山県氷見市比美町9-8,,,blue_tag,https://www.akuigawa-taxi.com/company.php
+blue-tag-shop-beff93f6e3,blue-tag,居酒屋・バー,鮨　月のね　心斎橋本店,大阪府大阪市 中央区東心斎橋 2-7-28キ-ケアビル1F,,,blue_tag,https://www.fnation.co.jp/shinsaibashi/jp/index.php
+blue-tag-shop-ce0fedb0a1,blue-tag,居酒屋・バー,鮨けやき心斎橋,大阪府大阪市 中央区西心斎橋1-9-20Bamboo Alley 2F,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-c32f5efc5a,blue-tag,専門料理店,鮨しばた,大阪府大阪市 北区曽根崎新地1-7-4石田ビル4F,,,blue_tag,https://s.tabelog.com/osaka/A2701/A270101/27115219/
+blue-tag-shop-bbc9d283cb,blue-tag,居酒屋・バー,鮨バル　月のね　上本町,大阪府大阪市 天王寺区上汐 3-7-14,,,blue_tag,https://www.fnation.co.jp/uehonmachi/index.php
+blue-tag-shop-53e0dc05d4,blue-tag,専門料理店,鮨処ひと志,広島県広島市 中区小町7-26ライサ小町1F,,,blue_tag,https://sushi-hitoshi.com/sp/
+blue-tag-shop-20a8b58a14,blue-tag,専門料理店,鮨処寛龍本店,大阪府大阪市 北区曽根崎新地1-10-1エスパシオンヤマダビル4階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ac032f2ede,blue-tag,居酒屋・バー,鮨沁みる,大阪府大阪市 福島区福島1-2-37ロイヤルハイツ丹後,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-07dfe2fcaa,blue-tag,居酒屋・バー,鮨竜胆,大阪府大阪市 福島区福島2-3-23中之島MSビル1階中央,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-0abfd6f027,blue-tag,食料品,鮮魚川崎,大阪府大阪市中央区日本橋2-3-3,,,blue_tag,http://kuromon.jp
+blue-tag-shop-b2f440b7c7,blue-tag,タクシー,鯉城タクシー株式会社,兵庫県神戸市中央区栄町通2-8-11,,,blue_tag,https://rijogroup.com/
+blue-tag-shop-b9895d5496,blue-tag,タクシー,鯉城交通株式会社,兵庫県赤穂市新田599-1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-d13d6fb31d,blue-tag,専門料理店,鯛丸,広島県福山市鞆町 鞆136-30,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-4c45052488,blue-tag,宿泊施設,鳥羽グランドホテル,三重県鳥羽市小浜町239-9,,,blue_tag,http://jgh.jp
+blue-tag-shop-b74ad80bf8,blue-tag,宿泊施設,鹿久居荘　赤穂,兵庫県赤穂市さつき町35-5,,,blue_tag,https://kakuisou.com/
+blue-tag-shop-5e8bef90ce,blue-tag,居酒屋・バー,麺どころ晃庵　京都駅前店,京都府京都市 下京区南不動堂町3大道第2ビル,,,blue_tag,https://www.mgfoods.co.jp/kouan/
+blue-tag-shop-3a469a372c,blue-tag,居酒屋・バー,麺どころ晃庵　御所店,京都府京都市 上京区元頂妙寺町307-3,,,blue_tag,https://www.mgfoods.co.jp/kouan/
+blue-tag-shop-87c28476d6,blue-tag,カフェ,麻布珈琲店,大阪府大阪市 淀川区塚本2-25-5,,,blue_tag,https://azabu-cb.com/
+blue-tag-shop-1672dbd0bb,blue-tag,その他,（一社）津和野町観光協会,島根県鹿足郡津和野町後田イ66-1,,,blue_tag,https://tsuwano-kanko.net/
+blue-tag-shop-7050a419b9,blue-tag,旅行代理店,（株）ヴァケーション　金沢本社,石川県金沢市北安江3-13-13,,,blue_tag,https://go-vacation.co.jp/
+blue-tag-shop-6eb90548ac,blue-tag,食料品,３じのおやつ,滋賀県栗東市安養寺2-6-5,,,blue_tag,http://www.eonet.ne.jp/~3ji-oyatsu/
+blue-tag-shop-055297fd6f,blue-tag,居酒屋・バー,ＢＡＲ　ＳＴＥＬＬＡ,大阪府大阪市中央区天満橋京町1-21長戸ビル2F,,,blue_tag,https://retty.me/area/PRE27/ARE92/SUB9203/100001731699/
+blue-tag-shop-278159fff8,blue-tag,カフェ,ＢＳＣウォータースポーツセンター,滋賀県大津市南船路4-の1,,,blue_tag,https://bsc-int.co.jp/
+blue-tag-shop-75944c8a18,blue-tag,美容・理容,Ｂｅａｕｔｙ　Ｓａｌｏｎ　Ｒｉｏｎ,福岡県糸島市前原南1-12-23,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-fa142ebb80,blue-tag,旅行代理店,ＦＫＫツアーズ,富山県高岡市伏木湊町5-5,,,blue_tag,https://ftsc.jp
+blue-tag-shop-b57b69b5d5,blue-tag,専門料理店,Ｋａｍｅｋｉｃｈｉ,大阪府大阪市中央区鎗屋町1-3-13,,,blue_tag,https://s.tabelog.com/osaka/A2701/A270104/27004963/
+blue-tag-shop-0d5dbd89f6,blue-tag,タクシー,ＭＥＣＣＨＡ　ＬＵＣＫ合同会社,富山県魚津市釈迦堂1-16-12,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+u-f5e0dc560f,blue-tag,カフェ,ＭｉuｉＭ,兵庫県赤穂市加里屋290-10プラット赤穂201,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-97d9aa0a34,blue-tag,文具,ＮＯＡＫサンプラザ店,福岡県福岡市 博多区博多駅 前2-1-1福岡朝日ビルB1,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-361b9bae62,blue-tag,タクシー,ＯＭタクシー株式会社,大阪府堺市 北区八下北1-32,,,blue_tag,https://om-taxi.co.jp/
+blue-tag-shop-e2f01e1033,blue-tag,文具,ＳＯＨＯウエストコート姪浜店,福岡県福岡市 西区内浜1-7-17ウエストコ-ト姪浜,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-ccf1970687,blue-tag,アパレル,ＳｃｏＬａｒ　ｎａｒａ　ＧＯＯＦＹ,奈良県奈良市上三条町27-1村田ビル3階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-65daec9304,blue-tag,カフェ,ＶＩＴＡ　ＢＯＷＬ,大阪府大阪市中央区北久宝寺町2-5-15,,,blue_tag,https://tabelog.com/osaka/A2701/A270106/27144820/
+blue-tag-shop-5ca1e2ae4e,blue-tag,アパレル,Ｖｅｎｔ　Ｍｅｒ,兵庫県神戸市 中央区元町通4-1-15澤井ビル1F,,,blue_tag,http://www.ventmer.jp/
+blue-tag-shop-5c977424d4,blue-tag,化粧品,ｃｏｂｉｒｉ,福井県坂井市三国町三国東6-2-10,,,blue_tag,http://cobiri.info
+blue-tag-shop-30d17bc63f,blue-tag,美容・理容,ｈａｉｒ　ｓａｌｏｎ　ｃｈａｒｍｅ,岡山県岡山市 北区野田屋町1-6-20瀬戸内ビル2階,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-5a3aed2fc7,blue-tag,宿泊施設,ｉｉネイチャー春日平,長野県上伊那郡 飯島町田切120-3,,,blue_tag,https://ii-workcation.com/
+karite-0c6a9182aa,cd,書籍・CD,Karite,大阪府池田市城南3-6-1-102,,,blue_tag,https://karite-books.com/
+cs-6002f83cba,cd,書籍・CD,マルス･CS指導センター,東京都渋谷区幡ヶ谷2-11-3レトワ-ル幡ヶ谷102,,,blue_tag,https://x.com/MARS_CS_cen
+blue-tag-shop-189f0202b4,cd,書籍・CD,井筒書店,兵庫県赤穂市加里屋46-3,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-7161ccd178,cd,書籍・CD,北中書店,大阪府堺市堺区東上野芝町1丁121-,,,blue_tag,http://www.books-kitanaka.com
+blue-tag-shop-b1e34be656,cd,書籍・CD,宮本書店,大阪府大阪市 中央区日本橋1-20-2,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-75cc3c1dbe,cd,書籍・CD,林書店,大阪府大阪市 福島区吉野2-8-27,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
+blue-tag-shop-6498afe19d,cd,書籍・CD,湊町メディアシステム,東京都世田谷区大蔵6-16-19,,,blue_tag,https://www.minatomachi.org
+lawson-marunouchi-001,lawson,LAWSON,ローソン 丸の内中央店,東京都千代田区丸の内1-9-1,,,smart_code,
+ken-fm-60cff00b29,web,WEBコンテンツ作成,ken.fm,兵庫県神戸市中央区多聞通2-1-17ジョウエ-ビル101 カフ-ツ内,,,blue_tag,https://www.google.com/maps/d/viewer?mid=1cuUtTOY_H5F84hIkz0_tNmcSV3GsBpk
