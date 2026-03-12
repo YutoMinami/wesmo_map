@@ -2,6 +2,8 @@
 
 GitHub Pages で公開する前提の、静的な地図アプリです。
 
+保留中の改善項目は [TODO.md](/home/yminami/workdir/wesmo_map/TODO.md) にまとめています。
+
 ## 構成
 
 - `index.html`: 1ページのUI
