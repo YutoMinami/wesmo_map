@@ -29,7 +29,7 @@ init().catch((error) => {
 async function init() {
   const response = await fetch("./data/shops.json");
   shops = await response.json();
-  renderShopList([]);
+  renderDefaultResults();
 }
 
 locateButton.addEventListener("click", () => {
@@ -65,6 +65,19 @@ radiusSelect.addEventListener("change", () => {
     refreshResults();
   }
 });
+
+function renderDefaultResults() {
+  const sortedShops = [...shops].sort((left, right) =>
+    left.name.localeCompare(right.name, "ja"),
+  );
+
+  renderShops(sortedShops);
+  renderShopList(sortedShops);
+  fitMapToShopMarkers(sortedShops);
+  setStatus(
+    `現在地がなくても ${sortedShops.length} 件の加盟店を見られます。現在地を取得すると近い順に絞り込みます。`,
+  );
+}
 
 function refreshResults() {
   const radiusKm = Number(radiusSelect.value);
@@ -122,6 +135,16 @@ function renderShops(filteredShops) {
   );
 }
 
+function fitMapToShopMarkers(filteredShops) {
+  if (filteredShops.length === 0) {
+    map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
+    return;
+  }
+
+  const bounds = L.latLngBounds(filteredShops.map((shop) => [shop.lat, shop.lng]));
+  map.fitBounds(bounds, { padding: [32, 32], maxZoom: 13 });
+}
+
 function renderShopList(filteredShops) {
   resultCount.textContent = `${filteredShops.length}件`;
 
@@ -136,7 +159,7 @@ function renderShopList(filteredShops) {
       (shop) => `
         <li class="shop-item">
           <p class="shop-name">${escapeHtml(shop.name)}</p>
-          <p class="shop-meta">${escapeHtml(shop.chain)} / ${shop.distanceKm.toFixed(DISTANCE_DECIMALS_KM)}km</p>
+          <p class="shop-meta">${formatShopMeta(shop)}</p>
           <p class="shop-meta">${escapeHtml(shop.address)}</p>
         </li>
       `,
@@ -146,6 +169,13 @@ function renderShopList(filteredShops) {
 
 function setStatus(message) {
   statusText.textContent = message;
+}
+
+function formatShopMeta(shop) {
+  if (typeof shop.distanceKm === "number") {
+    return `${escapeHtml(shop.chain)} / ${shop.distanceKm.toFixed(DISTANCE_DECIMALS_KM)}km`;
+  }
+  return escapeHtml(shop.chain);
 }
 
 function haversineKm(lat1, lng1, lat2, lng2) {
