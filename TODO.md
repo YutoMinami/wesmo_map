@@ -24,12 +24,11 @@
 - provider 切替時の挙動を整理する
 - `geocode_unresolved.csv` から manual 補完しやすい補助を追加する
 
-## BLUE tag / Smart Code
+## Future Scope
 
 - `payment_tags` を前提に表示やフィルタを作る
-- Smart Code と BLUE tag の両対応店舗をどう表現するか決める
-- BLUE tag My Maps 取り込みの説明文依存部分を必要なら調整する
-- My Maps エクスポート更新時の運用手順を整理する
+- 将来 Smart Code 以外の対応種別を扱うか再検討する
+- 外部データ取り込みを再開する場合は、ライセンスと利用規約を先に確認する
 
 ## Publishing
 
