@@ -127,7 +127,13 @@ function renderUserLocation(radiusKm) {
 function renderShops(filteredShops) {
   shopMarkers.forEach((marker) => marker.remove());
   shopMarkers = filteredShops.map((shop) =>
-    L.marker([shop.lat, shop.lng])
+    L.circleMarker([shop.lat, shop.lng], {
+      radius: 7,
+      color: "#166534",
+      weight: 2,
+      fillColor: "#f7c948",
+      fillOpacity: 0.95,
+    })
       .addTo(map)
       .bindPopup(
         `<strong>${escapeHtml(shop.name)}</strong><br>${escapeHtml(shop.chain)}<br>${escapeHtml(shop.address)}`,
