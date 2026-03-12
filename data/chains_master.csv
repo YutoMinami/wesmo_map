@@ -1,0 +1,6 @@
+chain_code,chain_name,enabled,source_type,source_url,notes
+lawson,LAWSON,TRUE,manual,,Smart Code対応チェーンの初期サンプル
+sukiya,すき家,TRUE,manual,,
+matsuya,松屋,TRUE,manual,,
+sundrug,サンドラッグ,TRUE,manual,,
+welcia,ウエルシア,TRUE,manual,,

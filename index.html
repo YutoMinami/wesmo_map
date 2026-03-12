@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smart Code Map</title>
+    <meta
+      name="description"
+      content="現在地の近くにある Smart Code 対応加盟店を地図で探せるシンプルなページ"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <section class="hero">
+        <p class="eyebrow">GitHub Pages MVP</p>
+        <h1>Smart Code加盟店マップ</h1>
+        <p class="lead">
+          スマホの現在地から、近くの Smart Code 対応店を地図と距離順リストで確認できます。
+        </p>
+      </section>
+
+      <section class="controls" aria-label="検索条件">
+        <button id="locate-button" class="primary-button" type="button">
+          現在地を取得
+        </button>
+        <label class="field">
+          <span>検索半径</span>
+          <select id="radius-select">
+            <option value="1">1km</option>
+            <option value="3" selected>3km</option>
+            <option value="5">5km</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="status-panel" aria-live="polite">
+        <p id="status-text">現在地を取得すると近くの加盟店を表示します。</p>
+      </section>
+
+      <section class="map-section">
+        <div id="map" aria-label="加盟店マップ"></div>
+      </section>
+
+      <section class="results">
+        <div class="results-header">
+          <h2>近くの加盟店</h2>
+          <p id="result-count">0件</p>
+        </div>
+        <ul id="shop-list" class="shop-list"></ul>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
