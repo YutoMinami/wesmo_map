@@ -21,6 +21,8 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/smart_code/chains_latest.csv`: Smart Code 一覧ページから抽出した最新チェーン一覧
 - `data/smart_code/chain_aliases.csv`: Smart Code表記と手元マスタ表記の対応表
 - `data/smart_code/chains_review_latest.csv`: 一致確認が必要なチェーン一覧
+- `data/smart_code/chains_fetch_queue_latest.csv`: 店舗取得に進めるチェーン一覧
+- `data/smart_code/chains_fetch_blocked_latest.csv`: 店舗取得前に手確認が必要なチェーン一覧
 
 ## データ運用フロー
 
@@ -92,6 +94,16 @@ python scripts/update_chains_master.py
 - `notes` や既存の `enabled` は維持
 - `data/smart_code/chain_aliases.csv` にある表記ゆれは吸収する
 - `data/smart_code/chains_review_latest.csv` に未一致チェーンを出す
+
+### 店舗取得キュー生成
+
+```bash
+python scripts/build_chain_fetch_queue.py
+```
+
+Smart Code で変化があったチェーンを `chains_master.csv` と突き合わせて、
+店舗取得に進めるチェーンを `data/smart_code/chains_fetch_queue_latest.csv` に、
+まだ確認が必要なチェーンを `data/smart_code/chains_fetch_blocked_latest.csv` に出力します。
 
 ### ジオコーディング
 
