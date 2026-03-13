@@ -19,6 +19,8 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/shops.json`: フロントエンド配信用データ
 - `data/_cache/`: HTMLスナップショットなどのローカルキャッシュ置き場。Git管理しない
 - `data/smart_code/chains_latest.csv`: Smart Code 一覧ページから抽出した最新チェーン一覧
+- `data/smart_code/chain_aliases.csv`: Smart Code表記と手元マスタ表記の対応表
+- `data/smart_code/chains_review_latest.csv`: 一致確認が必要なチェーン一覧
 
 ## データ運用フロー
 
@@ -74,6 +76,22 @@ python scripts/diff_smart_code_chains.py
 
 `data/smart_code/chains_latest.csv` と `data/smart_code/chains_previous.csv` を比較し、
 追加・削除されたチェーンを `data/smart_code/chain_changes_latest.csv` に出力します。
+
+### チェーンマスタ更新
+
+```bash
+python scripts/update_chains_master.py
+```
+
+`data/smart_code/chains_latest.csv` と `data/smart_code/chain_changes_latest.csv` をもとに
+`data/chains_master.csv` を更新します。
+
+- Smart Code 上で観測中の既存チェーンは `last_seen_at` を更新
+- 新規チェーンは `enabled=FALSE`、`source_type=review_needed` で追加
+- 一覧から消えた既存チェーンは `deleted_at` を付与
+- `notes` や既存の `enabled` は維持
+- `data/smart_code/chain_aliases.csv` にある表記ゆれは吸収する
+- `data/smart_code/chains_review_latest.csv` に未一致チェーンを出す
 
 ### ジオコーディング
 
