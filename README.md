@@ -117,6 +117,11 @@ python scripts/geocode_shops.py --provider nominatim
 - `enabled`: 対象に含めるか
 - `source_type`: `manual` / `scrape` / `api`
 - `source_url`: 店舗一覧の取得元
+- `source_tags`: `smart_code_site|wesmo_site` のような出所タグ
+- `payment_tags`: `smart_code|wesmo|blue_tag` のような対応区分
+- `first_seen_at`: 最初に確認した日
+- `last_seen_at`: 直近で確認した日
+- `deleted_at`: 一覧から消えたと判断した日
 - `notes`: 補足
 
 ### `shops_raw.csv`

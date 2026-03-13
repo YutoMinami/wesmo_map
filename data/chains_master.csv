@@ -1,6 +1,6 @@
-chain_code,chain_name,enabled,source_type,source_url,notes
-lawson,LAWSON,TRUE,manual,,Smart Code対応チェーンの初期サンプル
-sukiya,すき家,TRUE,manual,,
-matsuya,松屋,TRUE,manual,,
-sundrug,サンドラッグ,TRUE,manual,,
-welcia,ウエルシア,TRUE,manual,,
+chain_code,chain_name,enabled,source_type,source_url,source_tags,payment_tags,first_seen_at,last_seen_at,deleted_at,notes
+lawson,LAWSON,TRUE,manual,,smart_code_site,smart_code,2026-03-14,2026-03-14,,Smart Code対応チェーンの初期サンプル
+sukiya,すき家,TRUE,manual,,smart_code_site,smart_code,2026-03-14,2026-03-14,,
+matsuya,松屋,TRUE,manual,,smart_code_site,smart_code,2026-03-14,2026-03-14,,
+sundrug,サンドラッグ,TRUE,manual,,smart_code_site,smart_code,2026-03-14,2026-03-14,,
+welcia,ウエルシア,TRUE,manual,,smart_code_site,smart_code,2026-03-14,2026-03-14,,
