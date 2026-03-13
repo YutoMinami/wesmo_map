@@ -17,6 +17,8 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/geocode_cache.csv`: 住所と座標のキャッシュ
 - `data/geocode_unresolved.csv`: 未解決住所の一覧
 - `data/shops.json`: フロントエンド配信用データ
+- `data/_cache/`: HTMLスナップショットなどのローカルキャッシュ置き場。Git管理しない
+- `data/smart_code/chains_latest.csv`: Smart Code 一覧ページから抽出した最新チェーン一覧
 
 ## データ運用フロー
 
@@ -53,6 +55,16 @@ python scripts/build_shops_raw.py
 `data/shops_manual.csv` と `data/shops_scraped.csv` をマージして
 `data/shops_raw.csv` を更新します。`shop_id` が重複した場合は手入力側を優先し、
 `payment_tags` は両方を統合します。
+
+### Smart Code チェーン一覧取得
+
+```bash
+python scripts/fetch_smart_code_shoplist.py
+```
+
+`https://www.smart-code.jp/shoplist/` の HTML を `data/_cache/smart_code/` に保存し、
+チェーン一覧を `data/smart_code/chains_latest.csv` に抽出します。
+HTML スナップショットは Git 管理しません。
 
 ### ジオコーディング
 
