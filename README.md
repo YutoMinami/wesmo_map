@@ -66,6 +66,15 @@ python scripts/fetch_smart_code_shoplist.py
 チェーン一覧を `data/smart_code/chains_latest.csv` に抽出します。
 HTML スナップショットは Git 管理しません。
 
+### Smart Code チェーン差分
+
+```bash
+python scripts/diff_smart_code_chains.py
+```
+
+`data/smart_code/chains_latest.csv` と `data/smart_code/chains_previous.csv` を比較し、
+追加・削除されたチェーンを `data/smart_code/chain_changes_latest.csv` に出力します。
+
 ### ジオコーディング
 
 ```bash
