@@ -1,3 +1,10 @@
+"""Update chain master data from the latest Smart Code snapshot.
+
+This script merges the latest Smart Code chain snapshot and change report into
+the local chain master, preserves manual review fields, and emits a separate
+review CSV for unresolved name matching.
+"""
+
 from __future__ import annotations
 
 import csv
@@ -35,6 +42,7 @@ REVIEW_FIELDS = ["snapshot_date", "section_name", "smart_code_chain_name", "sugg
 
 
 def main() -> None:
+    """Refresh `chains_master.csv` and rebuild review rows."""
     master_rows = load_rows(CHAINS_MASTER_CSV, MASTER_FIELDS)
     latest_rows = load_rows(SMART_CODE_CHAINS_CSV, LATEST_FIELDS)
     change_rows = load_rows(SMART_CODE_CHANGES_CSV, CHANGE_FIELDS)
@@ -94,8 +102,9 @@ def main() -> None:
         added_count += 1
 
     master_rows.sort(key=lambda row: (row["chain_name"], row["chain_code"]))
+    review_rows = build_review_rows(master_rows, latest_by_name)
     write_rows(CHAINS_MASTER_CSV, MASTER_FIELDS, master_rows)
-    write_rows(CHAIN_REVIEW_CSV, REVIEW_FIELDS, build_review_rows(master_rows, latest_by_name))
+    write_rows(CHAIN_REVIEW_CSV, REVIEW_FIELDS, review_rows)
 
     print(
         "Updated chains_master.csv: "
@@ -103,11 +112,23 @@ def main() -> None:
         f"{updated_count} refreshed, "
         f"{removed_count} marked removed, "
         f"{reactivated_count} reactivated, "
-        f"{len(build_review_rows(master_rows, latest_by_name))} need review."
+        f"{len(review_rows)} need review."
     )
 
 
 def load_rows(path: Path, expected_fields: list[str]) -> list[dict[str, str]]:
+    """Load rows from a CSV file with exact header validation.
+
+    Args:
+        path: CSV path to read.
+        expected_fields: Expected ordered header fields.
+
+    Returns:
+        Normalized CSV rows.
+
+    Raises:
+        ValueError: If the file header does not match the expected schema.
+    """
     with path.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
         if reader.fieldnames != expected_fields:
@@ -118,12 +139,30 @@ def load_rows(path: Path, expected_fields: list[str]) -> list[dict[str, str]]:
 
 
 def normalize_row(row: dict[str, str | None], fields: list[str]) -> dict[str, str]:
+    """Normalize a CSV row by stripping all declared fields.
+
+    Args:
+        row: Source row from `csv.DictReader`.
+        fields: Fields to preserve and normalize.
+
+    Returns:
+        Normalized row.
+    """
     return {field: (row.get(field) or "").strip() for field in fields}
 
 
 def index_latest_rows(
     rows: list[dict[str, str]], aliases: dict[str, str]
 ) -> dict[str, dict[str, str]]:
+    """Index latest Smart Code rows by canonical chain name.
+
+    Args:
+        rows: Latest snapshot rows.
+        aliases: Chain-name alias mapping.
+
+    Returns:
+        Latest rows keyed by canonical chain name.
+    """
     grouped: dict[str, list[dict[str, str]]] = defaultdict(list)
     for row in rows:
         chain_name = canonical_chain_name(row["chain_name"].strip(), aliases)
@@ -138,6 +177,14 @@ def index_latest_rows(
 
 
 def load_aliases(path: Path) -> dict[str, str]:
+    """Load Smart Code alias definitions.
+
+    Args:
+        path: Alias CSV path.
+
+    Returns:
+        Mapping from Smart Code chain name to master chain name.
+    """
     rows = load_rows(path, ALIAS_FIELDS)
     return {
         row["smart_code_chain_name"]: row["master_chain_name"]
@@ -147,10 +194,30 @@ def load_aliases(path: Path) -> dict[str, str]:
 
 
 def canonical_chain_name(chain_name: str, aliases: dict[str, str]) -> str:
+    """Return the canonical name for a chain.
+
+    Args:
+        chain_name: Raw chain name.
+        aliases: Alias mapping.
+
+    Returns:
+        Canonical chain name.
+    """
     return aliases.get(chain_name, chain_name)
 
 
 def extract_latest_date(rows: list[dict[str, str]]) -> str:
+    """Extract the single snapshot date represented in latest rows.
+
+    Args:
+        rows: Latest snapshot rows.
+
+    Returns:
+        Snapshot date.
+
+    Raises:
+        ValueError: If no date exists or multiple snapshot dates are mixed.
+    """
     dates = {row["snapshot_date"].strip() for row in rows if row["snapshot_date"].strip()}
     if not dates:
         raise ValueError("No snapshot_date found in chains_latest.csv")
@@ -162,6 +229,16 @@ def extract_latest_date(rows: list[dict[str, str]]) -> str:
 def update_existing_row(
     row: dict[str, str], latest_row: dict[str, str], latest_date: str
 ) -> bool:
+    """Merge Smart Code metadata into an existing master row.
+
+    Args:
+        row: Existing chain master row to mutate.
+        latest_row: Latest Smart Code row for the same chain.
+        latest_date: Snapshot date being applied.
+
+    Returns:
+        `True` if any field changed, else `False`.
+    """
     changed = False
 
     if row["last_seen_at"] != latest_date:
@@ -192,6 +269,15 @@ def update_existing_row(
 def drop_alias_duplicate_rows(
     rows: list[dict[str, str]], aliases: dict[str, str]
 ) -> list[dict[str, str]]:
+    """Drop placeholder rows superseded by an alias target.
+
+    Args:
+        rows: Existing chain master rows.
+        aliases: Alias mapping.
+
+    Returns:
+        Filtered chain master rows.
+    """
     canonical_names = {row["chain_name"] for row in rows}
     filtered_rows: list[dict[str, str]] = []
 
@@ -210,6 +296,16 @@ def drop_alias_duplicate_rows(
 
 
 def merge_pipe_values(row: dict[str, str], field: str, value: str) -> bool:
+    """Merge a pipe-delimited value into a row field.
+
+    Args:
+        row: Target row to mutate.
+        field: Pipe-delimited field name.
+        value: Value to merge.
+
+    Returns:
+        `True` if the row changed, else `False`.
+    """
     current_values = [item for item in row[field].split("|") if item]
     if value in current_values:
         return False
@@ -222,6 +318,15 @@ def merge_pipe_values(row: dict[str, str], field: str, value: str) -> bool:
 def build_review_rows(
     master_rows: list[dict[str, str]], latest_by_name: dict[str, dict[str, str]]
 ) -> list[dict[str, str]]:
+    """Build review rows for chains that still need human matching.
+
+    Args:
+        master_rows: Current chain master rows.
+        latest_by_name: Latest rows keyed by canonical chain name.
+
+    Returns:
+        Review CSV rows.
+    """
     exact_names = {row["chain_name"] for row in master_rows}
     review_rows: list[dict[str, str]] = []
 
@@ -247,6 +352,15 @@ def build_review_rows(
 def find_master_match(
     master_rows: list[dict[str, str]], chain_name: str
 ) -> dict[str, str] | None:
+    """Find a chain master row by exact chain name.
+
+    Args:
+        master_rows: Chain master rows.
+        chain_name: Chain name to search.
+
+    Returns:
+        Matching row if present, else `None`.
+    """
     for row in master_rows:
         if row["chain_name"] == chain_name:
             return row
@@ -254,6 +368,13 @@ def find_master_match(
 
 
 def write_rows(path: Path, fieldnames: list[str], rows: list[dict[str, str]]) -> None:
+    """Write rows to a CSV file.
+
+    Args:
+        path: Output CSV path.
+        fieldnames: Ordered CSV header.
+        rows: Rows to write.
+    """
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()

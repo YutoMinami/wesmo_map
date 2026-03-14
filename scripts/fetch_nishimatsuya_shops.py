@@ -1,3 +1,9 @@
+"""Fetch Nishimatsuya stores from the official prefecture listing pages.
+
+The script stores chain-specific review CSVs and updates the shared
+`shops_scraped.csv` used by downstream merge, geocode, and publish steps.
+"""
+
 from __future__ import annotations
 
 import csv
@@ -33,6 +39,7 @@ CSV_FIELDS = [
 
 
 def main() -> None:
+    """Fetch active and closed Nishimatsuya stores and update CSV outputs."""
     shops = fetch_all_shops()
     active_shops = [shop for shop in shops if shop["is_closed"] != "TRUE"]
     closed_shops = [shop for shop in shops if shop["is_closed"] == "TRUE"]
@@ -47,6 +54,11 @@ def main() -> None:
 
 
 def fetch_all_shops() -> list[dict[str, str]]:
+    """Fetch all Nishimatsuya stores across all prefectures.
+
+    Returns:
+        Deduplicated shop rows sorted by `shop_id`.
+    """
     session = requests.Session()
     session.headers["User-Agent"] = "wesmo_map/0.1"
 
@@ -64,6 +76,14 @@ def fetch_all_shops() -> list[dict[str, str]]:
 
 
 def parse_shop_rows(html: str) -> list[dict[str, str]]:
+    """Parse Nishimatsuya shop rows from a prefecture listing page.
+
+    Args:
+        html: Raw HTML response text.
+
+    Returns:
+        Parsed shop rows including chain-specific review fields.
+    """
     soup = BeautifulSoup(html, "html.parser")
     rows: list[dict[str, str]] = []
 
@@ -114,6 +134,17 @@ def parse_shop_rows(html: str) -> list[dict[str, str]]:
 
 
 def extract_doc_id(href: str) -> str:
+    """Extract the `doc` identifier from a shop detail URL.
+
+    Args:
+        href: Relative or absolute detail URL.
+
+    Returns:
+        Extracted document id.
+
+    Raises:
+        ValueError: If the identifier cannot be extracted.
+    """
     parsed = urlparse(href)
     doc = parse_qs(parsed.query).get("doc", [""])[0]
     if doc:
@@ -127,10 +158,26 @@ def extract_doc_id(href: str) -> str:
 
 
 def normalize_text(value: str) -> str:
+    """Collapse whitespace in a text fragment.
+
+    Args:
+        value: Source text.
+
+    Returns:
+        Normalized text.
+    """
     return " ".join(value.split())
 
 
 def extract_phone(lines: list[str]) -> str:
+    """Extract a phone number from parsed address lines.
+
+    Args:
+        lines: Text lines from the address cell.
+
+    Returns:
+        Phone number if present, otherwise an empty string.
+    """
     for line in lines:
         if re.fullmatch(r"0\d{1,4}-\d{1,4}-\d{3,4}", line):
             return line
@@ -138,12 +185,27 @@ def extract_phone(lines: list[str]) -> str:
 
 
 def is_closed(name_cell: BeautifulSoup, address: str) -> bool:
+    """Detect closure notices embedded in the row text.
+
+    Args:
+        name_cell: Shop-name cell element.
+        address: Normalized address string.
+
+    Returns:
+        `True` when the row appears to represent a closed store.
+    """
     shop_name = normalize_text(name_cell.get_text(" ", strip=True))
     text = f"{shop_name} {address}"
     return "閉店致しました" in text or "閉店致します" in text
 
 
 def write_rows(path: Path, shops: list[dict[str, str]]) -> None:
+    """Write Nishimatsuya review rows to a CSV file.
+
+    Args:
+        path: Output CSV path.
+        shops: Rows to write.
+    """
     fieldnames = CSV_FIELDS + ["is_closed", "phone", "hours", "parking"]
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
@@ -152,6 +214,11 @@ def write_rows(path: Path, shops: list[dict[str, str]]) -> None:
 
 
 def update_scraped_csv(new_rows: list[dict[str, str]]) -> None:
+    """Replace Nishimatsuya rows inside the shared scraped CSV.
+
+    Args:
+        new_rows: Active Nishimatsuya rows to publish into `shops_scraped.csv`.
+    """
     existing_rows: list[dict[str, str]] = []
     if SCRAPED_CSV.exists():
         with SCRAPED_CSV.open(newline="", encoding="utf-8") as handle:

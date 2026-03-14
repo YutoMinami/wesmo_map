@@ -1,3 +1,10 @@
+"""Build a queue of chains whose shop data should be refreshed.
+
+This script consumes the latest Smart Code change feed and the local
+`chains_master.csv`, then decides which chains are ready for downstream shop
+fetching and which should stay blocked for review.
+"""
+
 from __future__ import annotations
 
 import csv
@@ -18,6 +25,8 @@ MASTER_FIELDS = [
     "source_type",
     "source_url",
     "source_tags",
+    "source_category",
+    "category",
     "payment_tags",
     "first_seen_at",
     "last_seen_at",
@@ -48,6 +57,7 @@ BLOCKED_FIELDS = [
 
 
 def main() -> None:
+    """Generate fetch queue and blocked rows from chain change events."""
     master_rows = load_rows(CHAINS_MASTER_CSV, MASTER_FIELDS)
     change_rows = load_rows(SMART_CODE_CHANGES_CSV, CHANGE_FIELDS)
     aliases = load_aliases(CHAIN_ALIASES_CSV)
@@ -131,6 +141,18 @@ def main() -> None:
 
 
 def load_rows(path: Path, expected_fields: list[str]) -> list[dict[str, str]]:
+    """Load rows from a CSV file and validate the exact header.
+
+    Args:
+        path: CSV path to read.
+        expected_fields: Expected ordered header fields.
+
+    Returns:
+        Normalized CSV rows.
+
+    Raises:
+        ValueError: If the header does not match the expected schema.
+    """
     with path.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
         if reader.fieldnames != expected_fields:
@@ -141,6 +163,14 @@ def load_rows(path: Path, expected_fields: list[str]) -> list[dict[str, str]]:
 
 
 def load_aliases(path: Path) -> dict[str, str]:
+    """Load Smart Code to master-name alias mappings.
+
+    Args:
+        path: Alias CSV path.
+
+    Returns:
+        Mapping from Smart Code chain names to canonical master names.
+    """
     rows = load_rows(path, ALIAS_FIELDS)
     return {
         row["smart_code_chain_name"]: row["master_chain_name"]
@@ -150,10 +180,27 @@ def load_aliases(path: Path) -> dict[str, str]:
 
 
 def canonical_name(name: str, aliases: dict[str, str]) -> str:
+    """Canonicalize a chain name using configured aliases.
+
+    Args:
+        name: Raw chain name.
+        aliases: Alias mapping.
+
+    Returns:
+        Canonical chain name.
+    """
     return aliases.get(name, name)
 
 
 def determine_blocked_reason(row: dict[str, str]) -> str:
+    """Return the reason a chain cannot enter the fetch queue.
+
+    Args:
+        row: Chain master row.
+
+    Returns:
+        Empty string when the chain can be queued, otherwise a blocked reason.
+    """
     if row["enabled"] != "TRUE":
         return "disabled"
     if not row["chain_code"]:
@@ -171,6 +218,19 @@ def build_blocked_row(
     chain_code: str,
     blocked_reason: str,
 ) -> dict[str, str]:
+    """Build a blocked-row report entry.
+
+    Args:
+        change_row: Source Smart Code change row.
+        source_type: Current source type from chain master.
+        source_url: Current source URL from chain master.
+        enabled: Current enabled flag from chain master.
+        chain_code: Current chain code from chain master.
+        blocked_reason: Reason the row was not queued.
+
+    Returns:
+        Blocked-row payload for CSV output.
+    """
     return {
         "snapshot_date": change_row["snapshot_date"],
         "chain_name": change_row["chain_name"],
@@ -184,6 +244,13 @@ def build_blocked_row(
 
 
 def write_rows(path: Path, fieldnames: list[str], rows: list[dict[str, str]]) -> None:
+    """Write rows to a CSV file.
+
+    Args:
+        path: Output CSV path.
+        fieldnames: Ordered CSV header.
+        rows: Rows to write.
+    """
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
