@@ -2,7 +2,10 @@ const DEFAULT_CENTER = [34.707463069292885, 135.49508639737775];
 const DEFAULT_ZOOM = 13;
 const SEARCH_ZOOM = 14;
 const DISTANCE_DECIMALS_KM = 1;
+const ADDRESS_SEARCH_PROVIDER = "gsi";
+const ADDRESS_SEARCH_LIMIT = 5;
 const NOMINATIM_SEARCH_URL = "https://nominatim.openstreetmap.org/search";
+const GSI_ADDRESS_SEARCH_URL = "https://msearch.gsi.go.jp/address-search/AddressSearch";
 
 const map = L.map("map").setView(DEFAULT_CENTER, DEFAULT_ZOOM);
 
@@ -255,11 +258,48 @@ function setAddressSearchPending(isPending) {
 }
 
 async function searchAddress(query) {
+  if (ADDRESS_SEARCH_PROVIDER === "gsi") {
+    return searchAddressWithGsi(query);
+  }
+
+  if (ADDRESS_SEARCH_PROVIDER === "nominatim") {
+    return searchAddressWithNominatim(query);
+  }
+
+  throw new Error(`Unsupported address search provider: ${ADDRESS_SEARCH_PROVIDER}`);
+}
+
+async function searchAddressWithGsi(query) {
+  const params = new URLSearchParams({
+    q: query,
+  });
+  const response = await fetch(`${GSI_ADDRESS_SEARCH_URL}?${params.toString()}`);
+  if (!response.ok) {
+    throw new Error(`GSI search failed with status ${response.status}`);
+  }
+
+  const payload = await response.json();
+  return (Array.isArray(payload) ? payload : [])
+    .map((feature) => {
+      const coordinates = feature?.geometry?.coordinates ?? [];
+      const title = feature?.properties?.title ?? "";
+      return {
+        name: title.split(/[、,]/)[0] || query,
+        label: title || query,
+        lat: Number(coordinates[1]),
+        lng: Number(coordinates[0]),
+      };
+    })
+    .filter((result) => Number.isFinite(result.lat) && Number.isFinite(result.lng))
+    .slice(0, ADDRESS_SEARCH_LIMIT);
+}
+
+async function searchAddressWithNominatim(query) {
   const callbackName = `wesmoMapGeocode_${Date.now()}_${Math.floor(Math.random() * 1000)}`;
   const params = new URLSearchParams({
     q: query,
     format: "jsonv2",
-    limit: "5",
+    limit: String(ADDRESS_SEARCH_LIMIT),
     countrycodes: "jp",
     "accept-language": "ja",
     json_callback: callbackName,

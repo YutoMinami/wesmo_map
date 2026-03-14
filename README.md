@@ -241,6 +241,7 @@ python scripts/geocode_shops.py --provider nominatim
 ## MVPの機能
 
 - ブラウザの Geolocation API で現在地取得
+- 住所・駅名検索は `app.js` の provider 切替で `GSI` / `Nominatim` を選べる
 - `1km / 3km / 5km` の半径切替
 - Leaflet + OpenStreetMap で地図表示
 - 静的JSONから加盟店データを読み込み
