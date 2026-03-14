@@ -1,15 +1,10 @@
 const ADDRESS_SEARCH_LIMIT = 5;
 const NOMINATIM_SEARCH_URL = "https://nominatim.openstreetmap.org/search";
 const GSI_ADDRESS_SEARCH_URL = "https://msearch.gsi.go.jp/address-search/AddressSearch";
-const CSIS_GEOCODE_URL = "https://geocode.csis.u-tokyo.ac.jp/cgi-bin/simple_geocode.cgi";
 
 export async function searchAddress(query, provider) {
   if (provider === "gsi") {
     return searchAddressWithGsi(query);
-  }
-
-  if (provider === "csis") {
-    return searchAddressWithCsis(query);
   }
 
   if (provider === "nominatim") {
@@ -41,31 +36,6 @@ async function searchAddressWithGsi(query) {
     .filter((result) => Number.isFinite(result.lat) && Number.isFinite(result.lng));
 
   return rerankAddressResults(results, query);
-}
-
-async function searchAddressWithCsis(query) {
-  const params = new URLSearchParams({ addr: query });
-  const response = await fetch(`${CSIS_GEOCODE_URL}?${params.toString()}`);
-  if (!response.ok) {
-    throw new Error(`CSIS search failed with status ${response.status}`);
-  }
-
-  const xmlText = await response.text();
-  const xml = new DOMParser().parseFromString(xmlText, "application/xml");
-  const candidates = [...xml.querySelectorAll("candidate")].map((candidate) => {
-    const label = (candidate.querySelector("address")?.textContent || "").replaceAll("/", "");
-    return {
-      name: label.split(/[、,]/)[0] || query,
-      label: label || query,
-      lat: Number(candidate.querySelector("latitude")?.textContent || ""),
-      lng: Number(candidate.querySelector("longitude")?.textContent || ""),
-    };
-  });
-
-  return rerankAddressResults(
-    candidates.filter((result) => Number.isFinite(result.lat) && Number.isFinite(result.lng)),
-    query,
-  );
 }
 
 function searchAddressWithNominatim(query) {
