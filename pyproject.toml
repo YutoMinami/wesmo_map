@@ -5,5 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "beautifulsoup4>=4.13.0",
     "jageocoder>=2.2.0",
+    "requests>=2.32.0",
 ]

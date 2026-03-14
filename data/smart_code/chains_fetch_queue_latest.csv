@@ -1,0 +1,4 @@
+snapshot_date,chain_code,chain_name,source_type,source_url,payment_tags,queue_reason
+2026-03-14,lawson,LAWSON,manual,https://www.smart-code.jp/shoplist/,smart_code,smart_code_changed
+2026-03-14,sundrug,サンドラッグ,manual,https://www.smart-code.jp/shoplist/,smart_code,smart_code_changed
+2026-03-14,matsuya,松屋,manual,https://www.smart-code.jp/shoplist/,smart_code,smart_code_changed

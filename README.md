@@ -17,6 +17,15 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/geocode_cache.csv`: 住所と座標のキャッシュ
 - `data/geocode_unresolved.csv`: 未解決住所の一覧
 - `data/shops.json`: フロントエンド配信用データ
+- `data/_cache/`: HTMLスナップショットなどのローカルキャッシュ置き場。Git管理しない
+- `data/smart_code/chains_latest.csv`: Smart Code 一覧ページから抽出した最新チェーン一覧
+- `data/smart_code/chain_aliases.csv`: Smart Code表記と手元マスタ表記の対応表
+- `data/smart_code/chains_review_latest.csv`: 一致確認が必要なチェーン一覧
+- `data/smart_code/chains_fetch_queue_latest.csv`: 店舗取得に進めるチェーン一覧
+- `data/smart_code/chains_fetch_blocked_latest.csv`: 店舗取得前に手確認が必要なチェーン一覧
+- `data/smart_code/lawson_shop_urls_latest.csv`: Lawson 店舗URL収集の作業ファイル
+- `data/smart_code/nishimatsuya_shops_latest.csv`: 西松屋の取得結果
+- `docs/lawson_fetch_research.md`: Lawson 店舗URL収集の調査メモ
 
 ## データ運用フロー
 
@@ -54,6 +63,76 @@ python scripts/build_shops_raw.py
 `data/shops_raw.csv` を更新します。`shop_id` が重複した場合は手入力側を優先し、
 `payment_tags` は両方を統合します。
 
+### Smart Code チェーン一覧取得
+
+```bash
+python scripts/fetch_smart_code_shoplist.py
+```
+
+`https://www.smart-code.jp/shoplist/` の HTML を `data/_cache/smart_code/` に保存し、
+チェーン一覧を `data/smart_code/chains_latest.csv` に抽出します。
+HTML スナップショットは Git 管理しません。
+
+### Smart Code チェーン差分
+
+```bash
+python scripts/diff_smart_code_chains.py
+```
+
+`data/smart_code/chains_latest.csv` と `data/smart_code/chains_previous.csv` を比較し、
+追加・削除されたチェーンを `data/smart_code/chain_changes_latest.csv` に出力します。
+
+### チェーンマスタ更新
+
+```bash
+python scripts/update_chains_master.py
+```
+
+`data/smart_code/chains_latest.csv` と `data/smart_code/chain_changes_latest.csv` をもとに
+`data/chains_master.csv` を更新します。
+
+- Smart Code 上で観測中の既存チェーンは `last_seen_at` を更新
+- 新規チェーンは `enabled=FALSE`、`source_type=review_needed` で追加
+- 一覧から消えた既存チェーンは `deleted_at` を付与
+- `notes` や既存の `enabled` は維持
+- `data/smart_code/chain_aliases.csv` にある表記ゆれは吸収する
+- `data/smart_code/chains_review_latest.csv` に未一致チェーンを出す
+
+### 店舗取得キュー生成
+
+```bash
+python scripts/build_chain_fetch_queue.py
+```
+
+Smart Code で変化があったチェーンを `chains_master.csv` と突き合わせて、
+店舗取得に進めるチェーンを `data/smart_code/chains_fetch_queue_latest.csv` に、
+まだ確認が必要なチェーンを `data/smart_code/chains_fetch_blocked_latest.csv` に出力します。
+
+### Lawson URL収集
+
+```bash
+python scripts/fetch_lawson_shop_urls.py
+```
+
+Lawson は一覧導線が複雑なので、まず店舗詳細URLの収集を独立した段階として扱います。
+現状は雛形のみで、次の調査対象は以下です。
+
+- 検索UIが内部で叩いている XHR / API
+- 都道府県や市区町村の一覧導線
+- `dtl/<id>` の総当たり以外で全件を列挙できる手段
+
+調査メモは [docs/lawson_fetch_research.md](/home/yminami/workdir/wesmo_map/docs/lawson_fetch_research.md) に残しています。
+
+### 西松屋 店舗取得
+
+```bash
+python scripts/fetch_nishimatsuya_shops.py
+```
+
+`https://www.24028.jp/tenpo/shoplist.php?cid=<都道府県番号>` を全件取得して、
+`data/smart_code/nishimatsuya_shops_latest.csv` を更新します。
+同時に `data/shops_scraped.csv` の `chain_code=nishimatsuya` 行を置き換えます。
+
 ### ジオコーディング
 
 ```bash
@@ -83,6 +162,7 @@ python scripts/geocode_shops.py
 python scripts/geocode_shops.py --dry-run
 python scripts/geocode_shops.py --only-chain lawson
 python scripts/geocode_shops.py --limit 20
+python scripts/geocode_shops.py --only-chain nishimatsuya --offset 200 --limit 200
 python scripts/geocode_shops.py --skip-cache
 python scripts/geocode_shops.py --provider nominatim
 ```
@@ -96,6 +176,11 @@ python scripts/geocode_shops.py --provider nominatim
 - `enabled`: 対象に含めるか
 - `source_type`: `manual` / `scrape` / `api`
 - `source_url`: 店舗一覧の取得元
+- `source_tags`: `smart_code_site|wesmo_site` のような出所タグ
+- `payment_tags`: `smart_code|wesmo|blue_tag` のような対応区分
+- `first_seen_at`: 最初に確認した日
+- `last_seen_at`: 直近で確認した日
+- `deleted_at`: 一覧から消えたと判断した日
 - `notes`: 補足
 
 ### `shops_raw.csv`

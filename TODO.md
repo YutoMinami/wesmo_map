@@ -13,8 +13,14 @@
 - チェーン自動取得スクリプトを追加する
 - `chains_master.csv` の `source_type` ごとに取得処理を分ける
 - Smart Code 側の店舗一覧取得方法を決める
+- 一致確認で迷うチェーン名を生成AI APIで補助判定できるようにする
 - `shops_scraped.csv` の更新フローを整理する
 - `shops_manual.csv` と `shops_scraped.csv` の重複検出を強化する
+- Lawson の店舗URL収集方法を確定する
+- Lawson 検索UIの XHR / API を確認する
+- Lawson の都道府県別導線で全件列挙できるか確認する
+- Lawson の公開情報を使う範囲が規約上妥当か再確認する
+- 西松屋の取得結果を `geocode_shops.py` と `build_shops_json.py` へ流す
 
 ## Geocoding
 
