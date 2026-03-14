@@ -218,6 +218,7 @@ python scripts/geocode_shops.py --provider nominatim
 ### `category_master.csv`
 
 - `category`: UI 用のカテゴリコード
+- `sort_order`: UI に出す順序
 - `label_ja`: フィルタに出す日本語ラベル
 - `description`: 補足
 

@@ -475,47 +475,58 @@
   "categories": [
     {
       "value": "convenience",
-      "label": "コンビニ"
-    },
-    {
-      "value": "service",
-      "label": "サービス"
+      "label": "コンビニエンスストア",
+      "sortOrder": 10
     },
     {
       "value": "drugstore",
-      "label": "ドラッグストア・薬局"
-    },
-    {
-      "value": "baby_kids",
-      "label": "ベビー・子ども"
-    },
-    {
-      "value": "leisure",
-      "label": "レジャー"
-    },
-    {
-      "value": "lodging",
-      "label": "宿泊"
-    },
-    {
-      "value": "fashion",
-      "label": "服飾"
-    },
-    {
-      "value": "books",
-      "label": "本・文具"
-    },
-    {
-      "value": "airport",
-      "label": "空港"
-    },
-    {
-      "value": "shopping",
-      "label": "買い物"
+      "label": "ドラッグストア・薬局",
+      "sortOrder": 20
     },
     {
       "value": "gourmet",
-      "label": "飲食"
+      "label": "グルメ",
+      "sortOrder": 30
+    },
+    {
+      "value": "baby_kids",
+      "label": "ベビー・子ども",
+      "sortOrder": 40
+    },
+    {
+      "value": "shopping",
+      "label": "買い物",
+      "sortOrder": 50
+    },
+    {
+      "value": "books",
+      "label": "本・文具",
+      "sortOrder": 60
+    },
+    {
+      "value": "fashion",
+      "label": "服飾",
+      "sortOrder": 70
+    },
+    {
+      "value": "service",
+      "label": "サービス",
+      "sortOrder": 80
+    },
+    {
+      "value": "leisure",
+      "label": "レジャー",
+      "sortOrder": 90
+    },
+    {
+      "value": "airport",
+      "label": "空港",
+      "sortOrder": 100
+    },
+    {
+      "value": "lodging",
+      "label": "宿泊",
+      "sortOrder": 110
     }
   ]
 }

@@ -74,7 +74,11 @@ PREFECTURE_CODES = {
 
 
 def main() -> None:
-    category_labels = load_category_labels(CATEGORY_MASTER_CSV)
+    category_meta = load_category_meta(CATEGORY_MASTER_CSV)
+    category_labels = {
+        code: data["label"]
+        for code, data in category_meta.items()
+    }
     chain_categories = load_chain_categories(CHAINS_MASTER_CSV)
     shops, skipped_count = load_shops(INPUT_CSV, chain_categories, category_labels)
     PREFECTURES_DIR.mkdir(parents=True, exist_ok=True)
@@ -82,7 +86,7 @@ def main() -> None:
         json.dumps(shops, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    write_prefecture_json(shops, category_labels)
+    write_prefecture_json(shops, category_meta)
     print(
         f"Wrote {len(shops)} shops to {OUTPUT_JSON} "
         f"(skipped {skipped_count} unresolved rows)"
@@ -149,11 +153,14 @@ def validate_header(fieldnames: list[str] | None, csv_path: Path) -> None:
         raise ValueError(f"Missing required fields in {csv_path}: {missing}")
 
 
-def load_category_labels(csv_path: Path) -> dict[str, str]:
+def load_category_meta(csv_path: Path) -> dict[str, dict[str, str | int]]:
     with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
         reader = csv.DictReader(file)
         return {
-            (row.get("category") or "").strip(): (row.get("label_ja") or "").strip()
+            (row.get("category") or "").strip(): {
+                "label": (row.get("label_ja") or "").strip(),
+                "sort_order": int((row.get("sort_order") or "999").strip()),
+            }
             for row in reader
             if (row.get("category") or "").strip()
         }
@@ -205,7 +212,7 @@ def prefecture_code(prefecture: str) -> str:
 
 
 def write_prefecture_json(
-    shops: list[dict[str, object]], category_labels: dict[str, str]
+    shops: list[dict[str, object]], category_meta: dict[str, dict[str, str | int]]
 ) -> None:
     for path in PREFECTURES_DIR.glob("*.json"):
         path.unlink()
@@ -236,8 +243,15 @@ def write_prefecture_json(
         )
 
     categories = [
-        {"value": code, "label": label}
-        for code, label in sorted(category_labels.items(), key=lambda item: item[1])
+        {
+            "value": code,
+            "label": str(meta["label"]),
+            "sortOrder": int(meta["sort_order"]),
+        }
+        for code, meta in sorted(
+            category_meta.items(),
+            key=lambda item: (int(item[1]["sort_order"]), str(item[1]["label"])),
+        )
         if code
     ]
     PREFECTURE_INDEX_JSON.write_text(
