@@ -8,8 +8,11 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).resolve().parents[1]
 INPUT_CSV = ROOT_DIR / "data" / "shops_geocoded.csv"
 OUTPUT_JSON = ROOT_DIR / "data" / "shops.json"
+CATEGORY_MASTER_CSV = ROOT_DIR / "data" / "category_master.csv"
+CHAINS_MASTER_CSV = ROOT_DIR / "data" / "chains_master.csv"
 REQUIRED_FIELDS = (
     "shop_id",
+    "chain_code",
     "chain_name",
     "shop_name",
     "address",
@@ -20,7 +23,9 @@ REQUIRED_FIELDS = (
 
 
 def main() -> None:
-    shops, skipped_count = load_shops(INPUT_CSV)
+    category_labels = load_category_labels(CATEGORY_MASTER_CSV)
+    chain_categories = load_chain_categories(CHAINS_MASTER_CSV)
+    shops, skipped_count = load_shops(INPUT_CSV, chain_categories, category_labels)
     OUTPUT_JSON.write_text(
         json.dumps(shops, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -31,7 +36,11 @@ def main() -> None:
     )
 
 
-def load_shops(csv_path: Path) -> tuple[list[dict[str, object]], int]:
+def load_shops(
+    csv_path: Path,
+    chain_categories: dict[str, str],
+    category_labels: dict[str, str],
+) -> tuple[list[dict[str, object]], int]:
     with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
         reader = csv.DictReader(file)
         validate_header(reader.fieldnames, csv_path)
@@ -51,14 +60,19 @@ def load_shops(csv_path: Path) -> tuple[list[dict[str, object]], int]:
             if not lat_value or not lng_value:
                 skipped_count += 1
                 continue
+            chain_code = require_value(row, "chain_code", index)
+            category = chain_categories.get(chain_code, "")
             shops.append(
                 {
                     "id": shop_id,
+                    "chainCode": chain_code,
                     "chain": require_value(row, "chain_name", index),
                     "name": require_value(row, "shop_name", index),
                     "address": require_value(row, "address", index),
                     "lat": parse_float(lat_value, "lat", index),
                     "lng": parse_float(lng_value, "lng", index),
+                    "category": category,
+                    "categoryLabel": category_labels.get(category, ""),
                     "paymentTags": parse_payment_tags(
                         require_value(row, "payment_tags", index)
                     ),
@@ -76,6 +90,26 @@ def validate_header(fieldnames: list[str] | None, csv_path: Path) -> None:
     if missing_fields:
         missing = ", ".join(missing_fields)
         raise ValueError(f"Missing required fields in {csv_path}: {missing}")
+
+
+def load_category_labels(csv_path: Path) -> dict[str, str]:
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
+        reader = csv.DictReader(file)
+        return {
+            (row.get("category") or "").strip(): (row.get("label_ja") or "").strip()
+            for row in reader
+            if (row.get("category") or "").strip()
+        }
+
+
+def load_chain_categories(csv_path: Path) -> dict[str, str]:
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
+        reader = csv.DictReader(file)
+        return {
+            (row.get("chain_code") or "").strip(): (row.get("category") or "").strip()
+            for row in reader
+            if (row.get("chain_code") or "").strip()
+        }
 
 
 def require_value(row: dict[str, str], field: str, line_number: int) -> str:

@@ -214,6 +214,22 @@ input::placeholder {
   line-height: 1.5;
 }
 
+.popup-group-list {
+  margin-top: 10px;
+  display: grid;
+  gap: 10px;
+}
+
+.popup-group-item {
+  padding-top: 10px;
+  border-top: 1px solid rgba(29, 42, 34, 0.12);
+}
+
+.popup-group-item:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
 .hidden {
   display: none;
 }
