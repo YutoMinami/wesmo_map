@@ -1,6 +1,8 @@
 const DEFAULT_CENTER = [34.707463069292885, 135.49508639737775];
 const DEFAULT_ZOOM = 13;
+const SEARCH_ZOOM = 14;
 const DISTANCE_DECIMALS_KM = 1;
+const NOMINATIM_SEARCH_URL = "https://nominatim.openstreetmap.org/search";
 
 const map = L.map("map").setView(DEFAULT_CENTER, DEFAULT_ZOOM);
 
@@ -10,6 +12,9 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 const locateButton = document.getElementById("locate-button");
+const addressForm = document.getElementById("address-form");
+const addressInput = document.getElementById("address-input");
+const addressSearchButton = document.getElementById("address-search-button");
 const radiusSelect = document.getElementById("radius-select");
 const statusText = document.getElementById("status-text");
 const resultCount = document.getElementById("result-count");
@@ -46,6 +51,7 @@ locateButton.addEventListener("click", () => {
         lat: coords.latitude,
         lng: coords.longitude,
       };
+      addressInput.value = "";
       refreshResults();
     },
     (error) => {
@@ -58,6 +64,33 @@ locateButton.addEventListener("click", () => {
       maximumAge: 60000,
     },
   );
+});
+
+addressForm.addEventListener("submit", async (event) => {
+  event.preventDefault();
+
+  const query = addressInput.value.trim();
+  if (!query) {
+    setStatus("住所か駅名を入力してください。");
+    addressInput.focus();
+    return;
+  }
+
+  setAddressSearchPending(true);
+  setStatus("入力した住所を検索しています...");
+
+  try {
+    const result = await searchAddress(query);
+    currentPosition = null;
+    map.setView([result.lat, result.lng], SEARCH_ZOOM);
+    refreshResults();
+    setStatus(`「${query}」付近を表示しています。`);
+  } catch (error) {
+    console.error(error);
+    setStatus("住所を見つけられませんでした。地名や駅名を変えて試してください。");
+  } finally {
+    setAddressSearchPending(false);
+  }
 });
 
 radiusSelect.addEventListener("change", () => {
@@ -202,4 +235,57 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function setAddressSearchPending(isPending) {
+  addressSearchButton.disabled = isPending;
+  addressSearchButton.textContent = isPending ? "検索中..." : "地図を移動";
+}
+
+async function searchAddress(query) {
+  const callbackName = `wesmoMapGeocode_${Date.now()}_${Math.floor(Math.random() * 1000)}`;
+  const params = new URLSearchParams({
+    q: query,
+    format: "jsonv2",
+    limit: "1",
+    countrycodes: "jp",
+    "accept-language": "ja",
+    json_callback: callbackName,
+  });
+  const url = `${NOMINATIM_SEARCH_URL}?${params.toString()}`;
+
+  return new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    const timeoutId = window.setTimeout(() => {
+      cleanup();
+      reject(new Error("Address lookup timed out."));
+    }, 10000);
+
+    function cleanup() {
+      window.clearTimeout(timeoutId);
+      delete window[callbackName];
+      script.remove();
+    }
+
+    window[callbackName] = (payload) => {
+      cleanup();
+      const [result] = Array.isArray(payload) ? payload : [];
+      if (!result) {
+        reject(new Error("No address match."));
+        return;
+      }
+
+      resolve({
+        lat: Number(result.lat),
+        lng: Number(result.lon),
+      });
+    };
+
+    script.onerror = () => {
+      cleanup();
+      reject(new Error("Address lookup failed."));
+    };
+    script.src = url;
+    document.body.append(script);
+  });
 }

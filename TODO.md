@@ -7,6 +7,7 @@
 - `Leaflet.markercluster` などでクラスタリングを導入する
 - 店舗数が増えたときの描画性能を測る
 - 現在地なしのときの表示方針をさらに詰める
+- 住所入力UIの geocoding provider を国土地理院などへ差し替えるか検討する
 
 ## Data Pipeline
 

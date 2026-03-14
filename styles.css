@@ -88,6 +88,7 @@ h1 {
 
 .controls {
   display: flex;
+  flex-wrap: wrap;
   gap: 12px;
   align-items: end;
   margin-top: 16px;
@@ -100,8 +101,25 @@ h1 {
   font-weight: 600;
 }
 
+.address-form {
+  display: flex;
+  flex: 1 1 420px;
+  gap: 12px;
+  align-items: end;
+}
+
+.address-field {
+  flex: 1 1 auto;
+}
+
+.address-field input {
+  width: 100%;
+}
+
 .primary-button,
-select {
+.secondary-button,
+select,
+input {
   border: 0;
   border-radius: 999px;
   padding: 12px 18px;
@@ -119,11 +137,33 @@ select {
   background: var(--accent-strong);
 }
 
+.secondary-button {
+  background: var(--panel-strong);
+  color: var(--text);
+  border: 1px solid var(--line);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.secondary-button:hover {
+  background: #f8f1e4;
+}
+
 select {
   min-width: 110px;
   background: var(--panel-strong);
   color: var(--text);
   border: 1px solid var(--line);
+}
+
+input {
+  background: var(--panel-strong);
+  color: var(--text);
+  border: 1px solid var(--line);
+}
+
+input::placeholder {
+  color: #819082;
 }
 
 .status-panel {
@@ -203,6 +243,11 @@ select {
   }
 
   .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .address-form {
     flex-direction: column;
     align-items: stretch;
   }
