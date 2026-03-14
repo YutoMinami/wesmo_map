@@ -1,5 +1,10 @@
 const DISTANCE_DECIMALS_KM = 1;
 const GROUP_DISTANCE_METERS = 35;
+const PAYMENT_TAG_LABELS = {
+  smart_code: "Smart Code",
+  wesmo: "Wesmo!",
+  blue_tag: "BLUEタグ",
+};
 
 export function filterShops(shops, { searchCenter, radiusKm, category }) {
   return shops
@@ -76,9 +81,8 @@ export function buildPopupHtml(group) {
   if (group.shops.length === 1) {
     const [shop] = group.shops;
     return `
-      <strong>${escapeHtml(shop.name)}</strong><br>
-      ${shop.categoryLabel ? `${escapeHtml(shop.categoryLabel)}<br>` : ""}
-      ${escapeHtml(shop.chain)}<br>
+      <strong>${escapeHtml(formatShopTitle(shop))}</strong><br>
+      ${formatPopupMeta(shop)}
       ${escapeHtml(shop.address)}
     `;
   }
@@ -90,9 +94,8 @@ export function buildPopupHtml(group) {
         .map(
           (shop) => `
             <div class="popup-group-item">
-              <strong>${escapeHtml(shop.name)}</strong><br>
-              ${shop.categoryLabel ? `${escapeHtml(shop.categoryLabel)}<br>` : ""}
-              ${escapeHtml(shop.chain)}<br>
+              <strong>${escapeHtml(formatShopTitle(shop))}</strong><br>
+              ${formatPopupMeta(shop)}
               ${escapeHtml(shop.address)}
             </div>
           `,
@@ -115,6 +118,39 @@ function shouldGroup(group, shop) {
 
 function average(values) {
   return values.reduce((sum, value) => sum + value, 0) / values.length;
+}
+
+function formatShopTitle(shop) {
+  return `${shop.chain}-${shop.name}`;
+}
+
+function formatPopupMeta(shop) {
+  const parts = [];
+  if (shop.categoryLabel) {
+    parts.push(`[${shop.categoryLabel}]`);
+  }
+
+  const paymentLabel = formatPaymentTags(shop.paymentTags);
+  if (paymentLabel) {
+    parts.push(`(${paymentLabel})`);
+  }
+
+  if (parts.length === 0) {
+    return "";
+  }
+
+  return `${escapeHtml(parts.join("・"))}<br>`;
+}
+
+function formatPaymentTags(paymentTags) {
+  if (!Array.isArray(paymentTags)) {
+    return "";
+  }
+
+  return paymentTags
+    .map((tag) => PAYMENT_TAG_LABELS[tag] || tag)
+    .filter(Boolean)
+    .join(" / ");
 }
 
 function haversineKm(lat1, lng1, lat2, lng2) {
