@@ -97,7 +97,7 @@ export function createRenderer(map, elements) {
 
   function setAddressSearchPending(isPending) {
     elements.addressSearchButton.disabled = isPending;
-    elements.addressSearchButton.textContent = isPending ? "検索中..." : "地図を移動";
+    elements.addressSearchButton.textContent = isPending ? "検索中..." : "検索";
   }
 
   function renderAddressCandidates(query, results, onSelect) {

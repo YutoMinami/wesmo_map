@@ -1,11 +1,11 @@
-import { createRenderer } from "./js/domRenderers.js";
-import { searchAddress } from "./js/searchProviders.js";
+import { createRenderer } from "./js/domRenderers.js?v=20260314a";
+import { searchAddress } from "./js/searchProviders.js?v=20260314a";
 import {
   buildCategoryOptions,
   buildStatusMessage,
   filterShops,
   groupShopsForMap,
-} from "./js/shopUtils.js";
+} from "./js/shopUtils.js?v=20260314a";
 
 const DEFAULT_CENTER = [34.707463069292885, 135.49508639737775];
 const DEFAULT_ZOOM = 13;
