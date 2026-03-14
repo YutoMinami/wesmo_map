@@ -16,6 +16,9 @@
 - 一致確認で迷うチェーン名を生成AI APIで補助判定できるようにする
 - `shops_scraped.csv` の更新フローを整理する
 - `shops_manual.csv` と `shops_scraped.csv` の重複検出を強化する
+- Lawson の店舗URL収集方法を確定する
+- Lawson 検索UIの XHR / API を確認する
+- Lawson の都道府県別導線で全件列挙できるか確認する
 
 ## Geocoding
 

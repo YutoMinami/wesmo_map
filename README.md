@@ -23,6 +23,7 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/smart_code/chains_review_latest.csv`: 一致確認が必要なチェーン一覧
 - `data/smart_code/chains_fetch_queue_latest.csv`: 店舗取得に進めるチェーン一覧
 - `data/smart_code/chains_fetch_blocked_latest.csv`: 店舗取得前に手確認が必要なチェーン一覧
+- `data/smart_code/lawson_shop_urls_latest.csv`: Lawson 店舗URL収集の作業ファイル
 
 ## データ運用フロー
 
@@ -104,6 +105,19 @@ python scripts/build_chain_fetch_queue.py
 Smart Code で変化があったチェーンを `chains_master.csv` と突き合わせて、
 店舗取得に進めるチェーンを `data/smart_code/chains_fetch_queue_latest.csv` に、
 まだ確認が必要なチェーンを `data/smart_code/chains_fetch_blocked_latest.csv` に出力します。
+
+### Lawson URL収集
+
+```bash
+python scripts/fetch_lawson_shop_urls.py
+```
+
+Lawson は一覧導線が複雑なので、まず店舗詳細URLの収集を独立した段階として扱います。
+現状は雛形のみで、次の調査対象は以下です。
+
+- 検索UIが内部で叩いている XHR / API
+- 都道府県や市区町村の一覧導線
+- `dtl/<id>` の総当たり以外で全件を列挙できる手段
 
 ### ジオコーディング
 
