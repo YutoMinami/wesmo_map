@@ -1,0 +1,322 @@
+[
+  {
+    "id": "matsuya-ac90ddc3574d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 寒河江店（松のや併設）",
+    "address": "山形県寒河江市寒河江赤田62-1",
+    "lat": 38.373713,
+    "lng": 140.28404,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-05d4d24889b0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山形深町店（松のや併設）",
+    "address": "山形県山形市深町1-2-28",
+    "lat": 38.236044,
+    "lng": 140.316329,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-24e90b360bb1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山形駅前店",
+    "address": "山形県山形市香澄町1-5-17 第一大宝ビル",
+    "lat": 38.24773,
+    "lng": 140.329839,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-049cd1a31ade",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東根店（松のや併設）",
+    "address": "山形県東根市蟹沢1862-2",
+    "lat": 38.425529,
+    "lng": 140.376037,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-32dc8a971235",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 米沢店（松のや併設）",
+    "address": "山形県米沢市金池5-3-18",
+    "lat": 37.922467,
+    "lng": 140.11526,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b45816a6196b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 酒田店（松のや併設）",
+    "address": "山形県酒田市北新橋1-20-1",
+    "lat": 38.922031,
+    "lng": 139.858127,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7f45ee9ba3c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴岡店（松のや併設）",
+    "address": "山形県鶴岡市西新斎町9-10",
+    "lat": 38.735818,
+    "lng": 139.815056,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-352",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "さくらんぼ東根店",
+    "address": "山形県東根市中央南1-5-22",
+    "lat": 38.427490234375,
+    "lng": 140.39320373535156,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-17",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ三川店",
+    "address": "山形県東田川郡三川町大字猪子字大堰端351-1 アクロスプラザ三川内",
+    "lat": 38.81830978393555,
+    "lng": 139.83432006835938,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1087",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ウエストモール・パル鶴岡店",
+    "address": "山形県鶴岡市美咲町3-15",
+    "lat": 38.73292541503906,
+    "lng": 139.7994842529297,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1337",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サウスモール・ミーナ鶴岡店",
+    "address": "山形県鶴岡市千石町3-39",
+    "lat": 38.71867370605469,
+    "lng": 139.82940673828125,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1108",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南陽ショッピングプラザ店",
+    "address": "山形県南陽市郡山561-2",
+    "lat": 38.04315185546875,
+    "lng": 140.15611267089844,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-910",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "天童芳賀タウン店",
+    "address": "山形県天童市芳賀タウン北三-11-2",
+    "lat": 38.344139099121094,
+    "lng": 140.36146545410156,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-794",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "寒河江店",
+    "address": "山形県寒河江市大字寒河江内の袋33-",
+    "lat": 38.375274658203125,
+    "lng": 140.26084899902344,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-267",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "山形吉原店",
+    "address": "山形県山形市若宮1-5-1",
+    "lat": 38.227622985839844,
+    "lng": 140.3128662109375,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-268",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "山形桧町店",
+    "address": "山形県山形市桧町3-5-11",
+    "lat": 38.27605438232422,
+    "lng": 140.32843017578125,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1209",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "村山店",
+    "address": "山形県東根市温泉町三-14-6",
+    "lat": 38.467559814453125,
+    "lng": 140.38771057128906,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-463",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "米沢店",
+    "address": "山形県米沢市金池5-13-8",
+    "lat": 37.92475509643555,
+    "lng": 140.1184844970703,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1232",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "酒田山居町店",
+    "address": "山形県酒田市山居町二-1-8",
+    "lat": 38.912105560302734,
+    "lng": 139.8348388671875,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1385",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長井店",
+    "address": "山形県長井市館町南12-52",
+    "lat": 38.09123992919922,
+    "lng": 140.0407257080078,
+    "prefecture": "山形県",
+    "prefectureCode": "yamagata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

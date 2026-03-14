@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "matsuya-7c5e7a0db2bf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 16号柏店（松のや併設）",
+    "address": "千葉県柏市大井568-1",
+    "lat": 35.845683,
+    "lng": 139.997709,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-47f0f71b14c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 下総中山店（松のや併設）",
+    "address": "千葉県船橋市中山2-17-35下総中山メディカルブリッジ",
+    "lat": 35.714879,
+    "lng": 139.942632,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8b759a689164",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 五井店",
+    "address": "千葉県市原市五井中央西1-14-22 潤間五井ビル",
+    "lat": 35.513581,
+    "lng": 140.088121,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2da44781c28",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京成大久保店 (松のや併設)",
+    "address": "千葉県習志野市大久保1-21-12 ニュ-TKビル1F",
+    "lat": 35.686956,
+    "lng": 140.048313,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0176fc5b1111",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京成臼井店（松のや併設）",
+    "address": "千葉県佐倉市王子台3-30-4 臼井VIM1F",
+    "lat": 35.729683,
+    "lng": 140.180933,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f4a034e31b83",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 佐倉白銀店（松のや併設）",
+    "address": "千葉県佐倉市白銀1-3-10",
+    "lat": 35.715126,
+    "lng": 140.246193,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-afa9ae273603",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 佐原店",
+    "address": "千葉県香取市北1-13-10",
+    "lat": 35.899693,
+    "lng": 140.493529,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3572da74cd7f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八千代台東口店",
+    "address": "千葉県八千代市八千代台東1-2-16 第7扇ビル",
+    "lat": 35.700222,
+    "lng": 140.091597,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3b694b2c7ada",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八千代台西口店（松のや併設）",
+    "address": "千葉県八千代市八千代台北1-11",
+    "lat": 35.701773,
+    "lng": 140.089967,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-75628ac47d24",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八千代店（松のや併設）",
+    "address": "千葉県八千代市大和田新田1034",
+    "lat": 35.722492,
+    "lng": 140.071802,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f76dfcab7249",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八街店（松のや併設）",
+    "address": "千葉県八街市中央16-7",
+    "lat": 35.664163,
+    "lng": 140.319488,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b2734a29af73",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 初石店",
+    "address": "千葉県流山市西初石3-100-19 森田ビル1F",
+    "lat": 35.883876,
+    "lng": 139.917326,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ae8d7bea71e2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北小金店",
+    "address": "千葉県松戸市小金きよしヶ丘3-20-5",
+    "lat": 35.825866,
+    "lng": 139.93533,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8a2532251abc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北松戸店（松のや併設）",
+    "address": "千葉県松戸市上本郷904-6 堀ビル1F",
+    "lat": 35.800534,
+    "lng": 139.912526,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aa84369574b7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北習志野店",
+    "address": "千葉県船橋市習志野台2-6-1 小林ビル",
+    "lat": 35.722006,
+    "lng": 140.042833,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b9db19424280",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千葉古市場店（松のや併設）",
+    "address": "千葉県千葉市緑区古市場町620-1",
+    "lat": 35.546516,
+    "lng": 140.145595,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-058f2e9e5d77",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千葉幸町店",
+    "address": "千葉県千葉市美浜区幸町2-21-30",
+    "lat": 35.625498,
+    "lng": 140.09068,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4221ed9c5a37",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千葉店",
+    "address": "千葉県千葉市中央区富士見2-5-16",
+    "lat": 35.610396,
+    "lng": 140.116694,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-16f673095518",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千葉我孫子店",
+    "address": "千葉県我孫子市本町2-3-2 プラザビル1F",
+    "lat": 35.871977,
+    "lng": 140.011407,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bb835f442737",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南柏店（松のや併設）",
+    "address": "千葉県柏市南柏1-2-4 エコロジ-スクエア南柏",
+    "lat": 35.844609,
+    "lng": 139.953414,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-843209ac9352",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南行徳店",
+    "address": "千葉県市川市相之川4-17-2 メトロセンタ-南行徳",
+    "lat": 35.672122,
+    "lng": 139.901498,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-84074baf60aa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 妙典店",
+    "address": "千葉県市川市妙典4-2-12 マ-ヴ妙典",
+    "lat": 35.692418,
+    "lng": 139.925981,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a19f1bbf1435",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 市原白金通店",
+    "address": "千葉県市原市白金町1-17",
+    "lat": 35.528946,
+    "lng": 140.105796,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e17df5d2fbbf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 市川店",
+    "address": "千葉県市川市市川1-6-11",
+    "lat": 35.729483,
+    "lng": 139.908901,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7d9ffb175e1a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 幕張インター店（松のや・マイカリー食堂併設）",
+    "address": "千葉県習志野市鷺沼5-6-5",
+    "lat": 35.671086,
+    "lng": 140.030981,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c2eed0114804",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 幕張本郷1丁目店",
+    "address": "千葉県千葉市花見川区幕張本郷1-3-11 一松ビル1F",
+    "lat": 35.672363,
+    "lng": 140.040387,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-621957d45c8c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 成田店 （マイカリー食堂併設）",
+    "address": "千葉県成田市不動ヶ岡2148-6",
+    "lat": 35.774291,
+    "lng": 140.316718,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e202abf7a095",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 我孫子若松店",
+    "address": "千葉県我孫子市若松140-1",
+    "lat": 35.866839,
+    "lng": 140.016345,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-316bad1828a7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新松戸西口店",
+    "address": "千葉県松戸市新松戸2-21-103",
+    "lat": 35.824816,
+    "lng": 139.920652,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-322ef9fbd06f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新柏店（松のや併設）",
+    "address": "千葉県柏市新柏4-12-7",
+    "lat": 35.84425,
+    "lng": 139.978529,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9eb7eca2cca6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新検見川店",
+    "address": "千葉県千葉市花見川区南花園2-1-6 朝日ビル新検見川1F",
+    "lat": 35.651677,
+    "lng": 140.072701,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f58d20d3a127",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新鎌ヶ谷店",
+    "address": "千葉県鎌ヶ谷市新鎌ヶ谷1-13-3",
+    "lat": 35.779766,
+    "lng": 139.999065,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4cc28560d5ab",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 木更津店",
+    "address": "千葉県木更津市太田4-15-5",
+    "lat": 35.376989,
+    "lng": 139.944489,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b75db573fb8c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本八幡南口店",
+    "address": "千葉県市川市南八幡4-6-7",
+    "lat": 35.719756,
+    "lng": 139.926243,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7d760951171e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東千葉店",
+    "address": "千葉県千葉市中央区祐光2-15-5",
+    "lat": 35.618878,
+    "lng": 140.127443,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bd3ea9cbb147",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東船橋店",
+    "address": "千葉県船橋市東船橋5-15-11",
+    "lat": 35.691648,
+    "lng": 140.005726,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a3a30a9e70b4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東金店（松のや併設）",
+    "address": "千葉県東金市東岩崎25-7",
+    "lat": 35.556278,
+    "lng": 140.367506,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f59920704c6b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東鎌ヶ谷店（松のや併設）",
+    "address": "千葉県鎌ケ谷市東鎌ヶ谷2-20-6",
+    "lat": 35.76302,
+    "lng": 140.015852,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-213c973459d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松戸七畝割店",
+    "address": "千葉県松戸市松戸2303-16",
+    "lat": 35.777196,
+    "lng": 139.907836,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-17c5a73993f6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松戸五香店（松のや併設）",
+    "address": "千葉県松戸市常盤平5-26-6",
+    "lat": 35.795576,
+    "lng": 139.963775,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a91c876b6c14",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松戸古ヶ崎店（松のや併設）",
+    "address": "千葉県松戸市古ヶ崎1-3056",
+    "lat": 35.795726,
+    "lng": 139.8966,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b8c532341935",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松戸店",
+    "address": "千葉県松戸市本町1-18 第37東京ビル",
+    "lat": 35.784057,
+    "lng": 139.899647,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-443f46253269",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松戸松飛台店",
+    "address": "千葉県松戸市松飛台259-5",
+    "lat": 35.783726,
+    "lng": 139.966571,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8851d06c3f14",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 柏中央町店",
+    "address": "千葉県柏市中央町2-8 柏大黒ビル",
+    "lat": 35.860035,
+    "lng": 139.970935,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3a9776be8615",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 柏松葉町店（松のや併設）",
+    "address": "千葉県柏市松葉町7-36-4",
+    "lat": 35.892792,
+    "lng": 139.961367,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fd5a69f922d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 柏青葉台店（松のや併設）",
+    "address": "千葉県柏市青葉台1-27-13",
+    "lat": 35.813527,
+    "lng": 139.961544,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-13c1d37a6a6e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武石店（松のや併設）",
+    "address": "千葉県千葉市花見川区武石町1-128",
+    "lat": 35.667586,
+    "lng": 140.062718,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-59b108efc3b7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 津田沼南口店",
+    "address": "千葉県習志野市谷津7-9-16 京葉ビル2 1F",
+    "lat": 35.691443,
+    "lng": 140.019421,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d1529ba03d6a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 津田沼店",
+    "address": "千葉県習志野市津田沼1-10-41 十-街ビル1F",
+    "lat": 35.690619,
+    "lng": 140.022613,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4ec15c7f1951",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦安富士見店",
+    "address": "千葉県浦安市富士見3-16-9",
+    "lat": 35.646382,
+    "lng": 139.888036,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d089a480f084",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦安店",
+    "address": "千葉県浦安市北栄1-15-5 RECS浦安駅前",
+    "lat": 35.665329,
+    "lng": 139.89436,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aa2f98992660",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 稲毛店",
+    "address": "千葉県千葉市稲毛区小仲台2-5-15 第8若菜ビル1.2F",
+    "lat": 35.637498,
+    "lng": 140.093741,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-53c2ec815295",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 稲毛海岸店（松のや併設）",
+    "address": "千葉県千葉市美浜区高洲1-22-11 ニュ-よろずやビル1F",
+    "lat": 35.630251,
+    "lng": 140.073659,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0bb5ae386c90",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 穴川オーツーパーク店（松のや併設）",
+    "address": "千葉県千葉市稲毛区園生町380-1",
+    "lat": 35.651189,
+    "lng": 140.118513,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-718aa0bd25c7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 船橋北口店",
+    "address": "千葉県船橋市本町6-6-4 北口スクエアビル",
+    "lat": 35.704313,
+    "lng": 139.985591,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-32b11064ceca",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 船橋南口店",
+    "address": "千葉県船橋市本町1-3-1 フェイスビル1F-0108",
+    "lat": 35.700558,
+    "lng": 139.985532,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-79ddab691b66",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 船橋芝山店（松のや併設）",
+    "address": "千葉県船橋市飯山満町1-1402-2",
+    "lat": 35.71725,
+    "lng": 140.015838,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2756b97e8c21",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茂原店",
+    "address": "千葉県茂原市道表2-12",
+    "lat": 35.430076,
+    "lng": 140.287393,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b12e0f178920",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蘇我店",
+    "address": "千葉県千葉市中央区今井2-1-1",
+    "lat": 35.580708,
+    "lng": 140.126763,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-78b0f0d68c71",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 行徳南店",
+    "address": "千葉県市川市行徳駅前2-8-6",
+    "lat": 35.681342,
+    "lng": 139.916096,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2f442bddd9c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 行徳店",
+    "address": "千葉県市川市行徳駅前2-3 ポニ-内1F",
+    "lat": 35.683078,
+    "lng": 139.914155,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5009fc201f96",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 袖ヶ浦店",
+    "address": "千葉県袖ケ浦市福王台3-12-4",
+    "lat": 35.427973,
+    "lng": 139.963921,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fb8fbcc8571c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西千葉店",
+    "address": "千葉県千葉市中央区春日2-19-9 西千葉西口ビル",
+    "lat": 35.622323,
+    "lng": 140.102473,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-645d07059034",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西船橋南店",
+    "address": "千葉県船橋市本郷町666-3 リバ-サイド本郷",
+    "lat": 35.707288,
+    "lng": 139.954836,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8489e565f316",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西船橋店",
+    "address": "千葉県船橋市西船4-25-3",
+    "lat": 35.708507,
+    "lng": 139.959485,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-38cbd98a6f7a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊四季店（松のや併設） ※3月26日10時オープン",
+    "address": "千葉県流山市野々下3-755-2",
+    "lat": 35.865162,
+    "lng": 139.937329,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ff202a9377d3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 酒々井PA（下り線）店",
+    "address": "千葉県印旛郡酒々井町大字墨字花之作1419-1",
+    "lat": 35.712791,
+    "lng": 140.284527,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ed52a87068b8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野田山崎新町店（松のや併設）",
+    "address": "千葉県野田市山崎新町20-18",
+    "lat": 35.923241,
+    "lng": 139.896331,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c210e6d450f6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野田店（松のや併設）",
+    "address": "千葉県野田市宮崎130-4",
+    "lat": 35.955551,
+    "lng": 139.872687,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f5f6753d68b7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鎌ヶ谷店",
+    "address": "千葉県鎌ケ谷市東初富4-2-83",
+    "lat": 35.766041,
+    "lng": 140.006228,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d8469e70c7d9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 馬橋店",
+    "address": "千葉県松戸市馬橋117-1田口ビル",
+    "lat": 35.811662,
+    "lng": 139.917718,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1235",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "BIG HOP印西店",
+    "address": "千葉県印西市原1-2 BIG HOPガ-デンモ-ル印西1階",
+    "lat": 35.80307388305664,
+    "lng": 140.16488647460938,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1318",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "あびこショッピングプラザ店",
+    "address": "千葉県我孫子市我孫子4-11-1 あびこショッピングプラザ2階",
+    "lat": 35.8764762878418,
+    "lng": 140.00950622558594,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-858",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ららぽーとTOKYO-BAY North Gate店",
+    "address": "千葉県船橋市浜町2-2-7 ららぽ-と TOKYO-BAY North Gate2F",
+    "lat": 35.687625885009766,
+    "lng": 139.99221801757812,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1141",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスモール新鎌ヶ谷店",
+    "address": "千葉県鎌ケ谷市新鎌ケ谷2-12-1 アクロスモ-ル新鎌ケ谷2階",
+    "lat": 35.780975341796875,
+    "lng": 140.00128173828125,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-678",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン館山店",
+    "address": "千葉県館山市八幡545-1 イオンタウン館山内",
+    "lat": 35.006263732910156,
+    "lng": 139.86297607421875,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-977",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール富津店",
+    "address": "千葉県富津市青木1-5-1",
+    "lat": 35.33016586303711,
+    "lng": 139.84765625,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1163",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イコアス千城台店",
+    "address": "千葉県千葉市若葉区千城台北3-21-1 イコアス千城台3階",
+    "lat": 35.62266540527344,
+    "lng": 140.18917846679688,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1371",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "キテミテマツド店",
+    "address": "千葉県松戸市松戸1307-1 キテミテマツド 3F",
+    "lat": 35.782318115234375,
+    "lng": 139.89892578125,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1201",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コトエ流山おおたかの森店",
+    "address": "千葉県流山市おおたかの森西1-15-3 コトエ流山おおたかの森 1階",
+    "lat": 35.87240982055664,
+    "lng": 139.92129516601562,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1179",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ソコラ南行徳店",
+    "address": "千葉県市川市南行徳2-20-25 ソコラ南行徳 2階",
+    "lat": 35.668212890625,
+    "lng": 139.9052276611328,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1364",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシアちば古市場店",
+    "address": "千葉県千葉市緑区古市場町906-29",
+    "lat": 35.541282653808594,
+    "lng": 140.1537322998047,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1397",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア富里店",
+    "address": "千葉県富里市七栄532",
+    "lat": 35.75050354003906,
+    "lng": 140.3098907470703,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1353",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア東金店",
+    "address": "千葉県東金市道庭字三斗蒔495-2",
+    "lat": 35.580230712890625,
+    "lng": 140.381103515625,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1334",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア野田さくらの里店",
+    "address": "千葉県野田市桜の里2-1",
+    "lat": 35.954246520996094,
+    "lng": 139.84689331054688,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1237",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア長生店",
+    "address": "千葉県長生郡長生村金田3237",
+    "lat": 35.382965087890625,
+    "lng": 140.35540771484375,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-684",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ホームズ幕張店",
+    "address": "千葉県習志野市芝園1-4-1 ホ-ムズ幕張内2階",
+    "lat": 35.66033172607422,
+    "lng": 140.02191162109375,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1154",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ユアエルム成田店",
+    "address": "千葉県成田市公津の杜4-5-3 ユアエルム成田1階",
+    "lat": 35.7594108581543,
+    "lng": 140.29672241210938,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-732",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ライフガーデン新浦安店",
+    "address": "千葉県浦安市富岡三-3-2-2",
+    "lat": 35.64329147338867,
+    "lng": 139.90199279785156,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1105",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ワンズモール稲毛店",
+    "address": "千葉県千葉市稲毛区長沼町330-50 ワンズモ-ル2階",
+    "lat": 35.65730285644531,
+    "lng": 140.11744689941406,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-108",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐倉ユーカリが丘店",
+    "address": "千葉県佐倉市上座字西谷津665-1",
+    "lat": 35.7252082824707,
+    "lng": 140.15782165527344,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-109",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐倉石川店",
+    "address": "千葉県佐倉市石川字奥行台644-1",
+    "lat": 35.6968879699707,
+    "lng": 140.22915649414062,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-110",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐原店",
+    "address": "千葉県香取市佐原イ4215-1",
+    "lat": 35.900997161865234,
+    "lng": 140.49163818359375,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-121",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八千代大和田新田店",
+    "address": "千葉県八千代市大和田新田111-8",
+    "lat": 35.722110748291016,
+    "lng": 140.0839385986328,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-134",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八街店",
+    "address": "千葉県八街市富山1314-3425",
+    "lat": 35.67488479614258,
+    "lng": 140.29415893554688,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-158",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千葉あすみが丘店",
+    "address": "千葉県千葉市緑区あすみが丘東3-1-9",
+    "lat": 35.52499008178711,
+    "lng": 140.28074645996094,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-159",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千葉ニュータウン店",
+    "address": "千葉県印西市中央南2-5- アクロスプラザ千葉ニュ-タウン南内",
+    "lat": 35.798500061035156,
+    "lng": 140.11329650878906,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-149",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千葉北柏店",
+    "address": "千葉県柏市北柏4-8-2",
+    "lat": 35.869049072265625,
+    "lng": 139.98858642578125,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-335",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千葉末広店",
+    "address": "千葉県千葉市中央区末広5-6-1",
+    "lat": 35.58772659301758,
+    "lng": 140.13026428222656,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-479",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千葉花見川店",
+    "address": "千葉県千葉市花見川区作新台4-17-2",
+    "lat": 35.6899299621582,
+    "lng": 140.07876586914062,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-167",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南流山駅前店",
+    "address": "千葉県流山市南流山4-3-5",
+    "lat": 35.84027862548828,
+    "lng": 139.9035186767578,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-185",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "君津店",
+    "address": "千葉県君津市中野4-3-5",
+    "lat": 35.3309440612793,
+    "lng": 139.8926239013672,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-283",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "市原八幡宿店",
+    "address": "千葉県市原市五所1702-",
+    "lat": 35.532596588134766,
+    "lng": 140.1101531982422,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-284",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "市原青柳店",
+    "address": "千葉県市原市千種6-8-1",
+    "lat": 35.49244689941406,
+    "lng": 140.06150817871094,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-301",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "成田土屋店",
+    "address": "千葉県成田市ウイング土屋165",
+    "lat": 35.79414367675781,
+    "lng": 140.32321166992188,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1168",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新モラージュ柏店",
+    "address": "千葉県柏市大山台2-3- モラ-ジュ柏パ-ト2内2階",
+    "lat": 35.88262939453125,
+    "lng": 139.96923828125,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-326",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "旭店",
+    "address": "千葉県旭市ニ6011-1",
+    "lat": 35.72360610961914,
+    "lng": 140.619873046875,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-999",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "木更津ほたる野店",
+    "address": "千葉県木更津市ほたる野2-22-4",
+    "lat": 35.38092041015625,
+    "lng": 139.9654541015625,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-334",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "木更津請西店",
+    "address": "千葉県木更津市請西1-10-30",
+    "lat": 35.37595748901367,
+    "lng": 139.9350128173828,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-867",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "木更津金田店",
+    "address": "千葉県木更津市金田東6-3-8",
+    "lat": 35.43406295776367,
+    "lng": 139.93209838867188,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-355",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東金店",
+    "address": "千葉県東金市田間三-39-1",
+    "lat": 35.56949234008789,
+    "lng": 140.37498474121094,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-784",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松戸古ヶ崎店",
+    "address": "千葉県松戸市古ヶ崎二-3083-",
+    "lat": 35.798431396484375,
+    "lng": 139.89683532714844,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-946",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松戸大橋店",
+    "address": "千葉県松戸市大橋393-1",
+    "lat": 35.76588439941406,
+    "lng": 139.9107208251953,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-359",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松戸常盤平店",
+    "address": "千葉県松戸市常盤平1-3-1",
+    "lat": 35.80295944213867,
+    "lng": 139.9461212158203,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1264",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "津田沼ビート店",
+    "address": "千葉県船橋市前原西2-19-1 津田沼ビ-ト5階",
+    "lat": 35.692283630371094,
+    "lng": 140.0220489501953,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-406",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "流山野々下店",
+    "address": "千葉県流山市野々下5-1065-1",
+    "lat": 35.861572265625,
+    "lng": 139.94540405273438,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1038",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "牧の原モア店",
+    "address": "千葉県印西市牧の原1-3-1 牧の原モア内",
+    "lat": 35.80453872680664,
+    "lng": 140.1664276123047,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-451",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "稲毛園生店",
+    "address": "千葉県千葉市稲毛区園生町154-1",
+    "lat": 35.647186279296875,
+    "lng": 140.1012420654297,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-452",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "稲毛小深店",
+    "address": "千葉県千葉市稲毛区小深町132-1",
+    "lat": 35.65837860107422,
+    "lng": 140.15008544921875,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-476",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "船橋金杉店",
+    "address": "千葉県船橋市金杉8-7-22",
+    "lat": 35.7330207824707,
+    "lng": 140.01429748535156,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-482",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "茂原店",
+    "address": "千葉県茂原市高師1037-1",
+    "lat": 35.43339538574219,
+    "lng": 140.29298400878906,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-526",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "野田みずき店",
+    "address": "千葉県野田市みずき1-13-11",
+    "lat": 35.92569351196289,
+    "lng": 139.88333129882812,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-896",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "銚子三崎店",
+    "address": "千葉県銚子市三崎町2-2617-",
+    "lat": 35.715171813964844,
+    "lng": 140.79783630371094,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-533",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鎌ケ谷店",
+    "address": "千葉県鎌ケ谷市東道野辺4-15-35",
+    "lat": 35.75569152832031,
+    "lng": 140.0055389404297,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1271",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鴨川店",
+    "address": "千葉県鴨川市貝渚中川間300 ベイシア鴨川敷地内",
+    "lat": 35.10444641113281,
+    "lng": 140.0963897705078,
+    "prefecture": "千葉県",
+    "prefectureCode": "chiba",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

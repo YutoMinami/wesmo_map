@@ -1,0 +1,434 @@
+[
+  {
+    "id": "matsuya-e8ca5083bf4d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 8号長浜店（松のや併設）",
+    "address": "滋賀県長浜市小堀町402-1",
+    "lat": 35.387079,
+    "lng": 136.284291,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-960cd8e86167",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 五個荘店",
+    "address": "滋賀県東近江市五個荘簗瀬町上川原5-2",
+    "lat": 35.161596,
+    "lng": 136.197545,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1e424c4a0f3c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八日市店（松のや併設）",
+    "address": "滋賀県東近江市八日市東本町11-6",
+    "lat": 35.107201,
+    "lng": 136.208235,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1fd5fb7c27de",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南彦根店（松のや併設）",
+    "address": "滋賀県彦根市戸賀町176-1",
+    "lat": 35.251161,
+    "lng": 136.243445,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e37135d09aa2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南草津店（松のや併設）",
+    "address": "滋賀県草津市東矢倉2-6-4",
+    "lat": 35.004847,
+    "lng": 135.952991,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dda6774ec0ec",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 彦根店",
+    "address": "滋賀県彦根市東沼波町125-1",
+    "lat": 35.252122,
+    "lng": 136.263582,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d3347ac593bf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 栗東市役所前店（松のや併設）",
+    "address": "滋賀県栗東市安養寺1-7-2",
+    "lat": 35.022726,
+    "lng": 135.998063,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4aa73b5c8f3f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 栗東霊仙寺店（松のや併設）",
+    "address": "滋賀県栗東市霊仙寺5-5-17",
+    "lat": 35.039943,
+    "lng": 135.968076,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-28a9d8e869df",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 甲賀水口店（松のや併設）",
+    "address": "滋賀県甲賀市水口町日電1-55",
+    "lat": 34.976596,
+    "lng": 136.167782,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e1ed54d0a809",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 草津駅西口店（松のや併設）",
+    "address": "滋賀県草津市西大路町1-28KENTPLAZA1F",
+    "lat": 35.023205,
+    "lng": 135.960837,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-75e64ebf7352",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 近江八幡店（松のや併設）",
+    "address": "滋賀県近江八幡市鷹飼町北4-1-3",
+    "lat": 35.127797,
+    "lng": 136.105151,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-933",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ野洲店",
+    "address": "滋賀県野洲市市三宅929- アクロスプラザ野洲内",
+    "lat": 35.068443298339844,
+    "lng": 136.01766967773438,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1252",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アヤハプラザ水口店",
+    "address": "滋賀県甲賀市水口町水口5555-",
+    "lat": 34.964115142822266,
+    "lng": 136.17140197753906,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1063",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン彦根店",
+    "address": "滋賀県彦根市里根町24 イオンタウン彦根内",
+    "lat": 35.27032470703125,
+    "lng": 136.26673889160156,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-720",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレオ大津一里山店",
+    "address": "滋賀県大津市一里山7-1-1 フォレオ大津一里山の2階",
+    "lat": 34.97409439086914,
+    "lng": 135.9336395263672,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1117",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ブランチ大津京店",
+    "address": "滋賀県大津市二本松1-1 ブランチ大津京2階",
+    "lat": 35.029720306396484,
+    "lng": 135.86471557617188,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-588",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八日市インター店",
+    "address": "滋賀県東近江市中小路町字石倉609",
+    "lat": 35.097774505615234,
+    "lng": 136.2273712158203,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1410",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大津テラス店",
+    "address": "滋賀県大津市打出浜14-30 大津テラス3F",
+    "lat": 35.004417419433594,
+    "lng": 135.8799591064453,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-218",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大津瀬田店",
+    "address": "滋賀県大津市大将軍3-303-",
+    "lat": 34.99151611328125,
+    "lng": 135.92889404296875,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-233",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "守山店",
+    "address": "滋賀県守山市焔魔堂町247-1",
+    "lat": 35.05119323730469,
+    "lng": 135.98355102539062,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1386",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新アルプラザ栗東店",
+    "address": "滋賀県栗東市綣2-3-22",
+    "lat": 35.0369987487793,
+    "lng": 135.9810791015625,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1162",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新ピエリ守山店",
+    "address": "滋賀県守山市今浜町2620-5 ピエリ守山2階",
+    "lat": 35.12283706665039,
+    "lng": 135.9456787109375,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-626",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "草津店",
+    "address": "滋賀県草津市草津町1952-1",
+    "lat": 35.018028259277344,
+    "lng": 135.9475860595703,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1250",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西友長浜楽市店",
+    "address": "滋賀県長浜市八幡東町9-1",
+    "lat": 35.386695861816406,
+    "lng": 136.281982421875,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-947",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "近江今津店",
+    "address": "滋賀県高島市今津町南新保508-1",
+    "lat": 35.40714645385742,
+    "lng": 136.0401153564453,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-522",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "近江八幡店",
+    "address": "滋賀県近江八幡市鷹飼町北1-8-8",
+    "lat": 35.1292724609375,
+    "lng": 136.1068878173828,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-537",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長浜店",
+    "address": "滋賀県長浜市八幡中山町字蓮庵1178-2",
+    "lat": 35.39183807373047,
+    "lng": 136.26937866210938,
+    "prefecture": "滋賀県",
+    "prefectureCode": "shiga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "matsuya-4968c28e9571",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 徳島南矢三店（松のや併設）",
+    "address": "徳島県徳島市南矢三町三-4-47",
+    "lat": 34.084456,
+    "lng": 134.521223,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-418eaf29588b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 徳島常三島店",
+    "address": "徳島県徳島市北常三島町2-52-1",
+    "lat": 34.082371,
+    "lng": 134.561529,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5d4e22d64857",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 徳島松茂広島ランプ店（松のや併設）",
+    "address": "徳島県板野郡松茂町広島宮ノ前4-1",
+    "lat": 34.133641,
+    "lng": 134.573896,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cd6e628598c0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 徳島駅前店",
+    "address": "徳島県徳島市寺島本町西1-59 阿波ケンドビル",
+    "lat": 34.074768,
+    "lng": 134.549228,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-efe5a7985e1d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 徳島鮎喰店（松のや併設）",
+    "address": "徳島県徳島市鮎喰町1-33-1",
+    "lat": 34.071662,
+    "lng": 134.502917,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6d50e0730629",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藍住店（松のや併設）",
+    "address": "徳島県板野郡藍住町東中富朏傍示27-2",
+    "lat": 34.127211,
+    "lng": 134.475706,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-865",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ阿波池田店",
+    "address": "徳島県三好市池田町サラダ1612-2 フレスポ阿波池田店内",
+    "lat": 34.02692413330078,
+    "lng": 133.80694580078125,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-179",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "吉野川店",
+    "address": "徳島県吉野川市鴨島町上下島108-1",
+    "lat": 34.07000732421875,
+    "lng": 134.35174560546875,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1126",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "徳島南矢三店",
+    "address": "徳島県徳島市南矢三町1-3-60",
+    "lat": 34.08585739135742,
+    "lng": 134.52835083007812,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1147",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "徳島新浜店",
+    "address": "徳島県徳島市新浜本町三-4-42",
+    "lat": 34.04384994506836,
+    "lng": 134.56625366210938,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-299",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "徳島末広店",
+    "address": "徳島県徳島市末広1-5-48",
+    "lat": 34.06245803833008,
+    "lng": 134.56979370117188,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-492",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "徳島藍住店",
+    "address": "徳島県板野郡藍住町奥野字東中須64-1",
+    "lat": 34.11710739135742,
+    "lng": 134.50279235839844,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-563",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鳴門店",
+    "address": "徳島県鳴門市撫養町大桑島字北ノ浜60-",
+    "lat": 34.19050979614258,
+    "lng": 134.60311889648438,
+    "prefecture": "徳島県",
+    "prefectureCode": "tokushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

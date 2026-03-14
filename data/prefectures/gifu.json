@@ -1,0 +1,402 @@
+[
+  {
+    "id": "matsuya-8c09631bde19",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北方町店（松のや併設）",
+    "address": "岐阜県本巣郡北方町高屋伊勢田2-74-1",
+    "lat": 35.411988,
+    "lng": 136.690591,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-745d730c32cc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 各務原店（松のや併設）",
+    "address": "岐阜県各務原市那加不動丘2-96",
+    "lat": 35.406655,
+    "lng": 136.848443,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2bb0ba6e20f8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 垂井店（松のや併設）",
+    "address": "岐阜県不破郡垂井町綾戸字不破ノ初502-1-",
+    "lat": 35.366725,
+    "lng": 136.552884,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e06fdee7014c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大垣店",
+    "address": "岐阜県大垣市禾森町5-190",
+    "lat": 35.349521,
+    "lng": 136.622747,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2c4e036e47a8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岐阜則武店（松のや併設）",
+    "address": "岐阜県岐阜市則武西2-19-16",
+    "lat": 35.444047,
+    "lng": 136.738935,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e3d4ce5672d3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岐阜東栄町店（松のや併設）",
+    "address": "岐阜県岐阜市東栄町5-4-・5-",
+    "lat": 35.414661,
+    "lng": 136.783558,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2044023513a3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岐阜茜部店",
+    "address": "岐阜県岐阜市茜部本郷3-159-3",
+    "lat": 35.388704,
+    "lng": 136.752698,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1103",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ恵那店",
+    "address": "岐阜県恵那市長島町正家3-8-64-1",
+    "lat": 35.4454460144043,
+    "lng": 137.4171905517578,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1322",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン大垣EAST店",
+    "address": "岐阜県大垣市三塚町丹瀬463-1 イオンタウン大垣EAST 2F",
+    "lat": 35.365882873535156,
+    "lng": 136.6295623779297,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1214",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール土岐店",
+    "address": "岐阜県土岐市土岐津町土岐口1372-1 イオンモ-ル土岐 2階",
+    "lat": 35.3484992980957,
+    "lng": 137.15383911132812,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-57",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "モレラ岐阜店",
+    "address": "岐阜県本巣市三橋1100 モレラ岐阜の2階",
+    "lat": 35.454280853271484,
+    "lng": 136.67532348632812,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1333",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨシヅヤ垂井店",
+    "address": "岐阜県不破郡垂井町表佐字大持野55-1",
+    "lat": 35.36552047729492,
+    "lng": 136.53909301757812,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-975",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "可児中恵土店",
+    "address": "岐阜県可児市中恵土2371-431",
+    "lat": 35.43491744995117,
+    "lng": 137.06478881835938,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-177",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "各務原蘇原店",
+    "address": "岐阜県各務原市蘇原花園町2-7 イオンタウン各務原内",
+    "lat": 35.4120979309082,
+    "lng": 136.84803771972656,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-707",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "多治見インター店",
+    "address": "岐阜県多治見市西坂町5-31-1 多治見インタ-モ-ル内 1階",
+    "lat": 35.349937438964844,
+    "lng": 137.10488891601562,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1246",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岐阜又丸店",
+    "address": "岐阜県岐阜市又丸30-1",
+    "lat": 35.4409294128418,
+    "lng": 136.70391845703125,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-383",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岐阜正木店",
+    "address": "岐阜県岐阜市正木北町4-21",
+    "lat": 35.45322799682617,
+    "lng": 136.74888610839844,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-483",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岐阜笠松店",
+    "address": "岐阜県岐阜市茜部辰新1-67-1",
+    "lat": 35.38102722167969,
+    "lng": 136.76206970214844,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1192",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岐阜茜部大川店",
+    "address": "岐阜県岐阜市茜部大川二-4-1",
+    "lat": 35.38214874267578,
+    "lng": 136.7473602294922,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1175",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新大垣中野町店",
+    "address": "岐阜県大垣市中野町2-1-7",
+    "lat": 35.38202667236328,
+    "lng": 136.60633850097656,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-907",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "瑞浪薬師店",
+    "address": "岐阜県瑞浪市薬師町4-22-",
+    "lat": 35.363399505615234,
+    "lng": 137.2283935546875,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1324",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "美濃加茂スマートタウン店",
+    "address": "岐阜県美濃加茂市山手町一-7-1 美濃加茂スマ-トタウン内",
+    "lat": 35.45261764526367,
+    "lng": 137.02166748046875,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-968",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "羽島店",
+    "address": "岐阜県羽島市竹鼻町飯柄22-1",
+    "lat": 35.32072067260742,
+    "lng": 136.7156982421875,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-774",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "関店",
+    "address": "岐阜県関市池田町163-1",
+    "lat": 35.49414825439453,
+    "lng": 136.8991241455078,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-603",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "飛騨高山店",
+    "address": "岐阜県高山市昭和町3-38-1",
+    "lat": 36.14858627319336,
+    "lng": 137.24966430664062,
+    "prefecture": "岐阜県",
+    "prefectureCode": "gifu",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

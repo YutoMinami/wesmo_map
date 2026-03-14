@@ -1,0 +1,514 @@
+[
+  {
+    "id": "matsuya-7ead54b2034d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上田秋和店",
+    "address": "長野県上田市秋和492-5",
+    "lat": 36.411853,
+    "lng": 138.231651,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b92f0c9d48de",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 佐久店（松のや併設）",
+    "address": "長野県佐久市岩村田北1-13-7",
+    "lat": 36.283495,
+    "lng": 138.482569,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-445cdd5e132e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 塩尻吉田店（松のや併設）",
+    "address": "長野県塩尻市広丘吉田字道東1087-1",
+    "lat": 36.163958,
+    "lng": 137.953767,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-33cdc193c2b7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 塩尻店 (松のや併設)",
+    "address": "長野県塩尻市大門泉町13-8",
+    "lat": 36.119021,
+    "lng": 137.958079,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a5d2b3390ebd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東御店",
+    "address": "長野県東御市加沢1406-51",
+    "lat": 36.352026,
+    "lng": 138.351624,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c3de9a6f82c4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松本駅前店",
+    "address": "長野県松本市中央1-2-23 山平ビル",
+    "lat": 36.231639,
+    "lng": 137.965319,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c95a37566ce2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松本高宮店",
+    "address": "長野県松本市高宮中2-5",
+    "lat": 36.21425,
+    "lng": 137.960237,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a250ffbf9188",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 箕輪町店",
+    "address": "長野県上伊那郡箕輪町三日町947-1",
+    "lat": 35.888122,
+    "lng": 137.98744,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c4e3b70fc576",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 諏訪店",
+    "address": "長野県諏訪市大字四賀字赤沼1825-1",
+    "lat": 36.017646,
+    "lng": 138.124122,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b9b35f0ecd34",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長野SBC通り店（松のや併設）",
+    "address": "長野県長野市吉田2-24-3",
+    "lat": 36.670295,
+    "lng": 138.210226,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-86575870cdb4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長野柳原店（松のや併設）",
+    "address": "長野県長野市大字小島86-1",
+    "lat": 36.657513,
+    "lng": 138.250743,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7940e9690466",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長野篠ノ井店（松のや併設）",
+    "address": "長野県長野市篠ノ井御幣川637-1",
+    "lat": 36.566766,
+    "lng": 138.141012,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9489bb2f5e58",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長野鶴賀七瀬店（マイカリー食堂併設）",
+    "address": "長野県長野市大字鶴賀578-1",
+    "lat": 36.641825,
+    "lng": 138.196477,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-239",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エルサ安曇野店",
+    "address": "長野県安曇野市三郷温2716-1 エルサあづみ野2階",
+    "lat": 36.24565124511719,
+    "lng": 137.88880920410156,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1056",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "バロー上田秋和店",
+    "address": "長野県上田市上塩尻161-1",
+    "lat": 36.416324615478516,
+    "lng": 138.22207641601562,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1218",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベルシャイン箕輪店",
+    "address": "長野県上伊那郡箕輪町三日町933-1",
+    "lat": 35.89146423339844,
+    "lng": 137.9879913330078,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-77",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "上田常入店",
+    "address": "長野県上田市常入1-13-54",
+    "lat": 36.38943862915039,
+    "lng": 138.2662353515625,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-587",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊那店",
+    "address": "長野県伊那市下新田3030-1",
+    "lat": 35.82771682739258,
+    "lng": 137.95797729492188,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1217",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐久小諸店",
+    "address": "長野県小諸市御影新田2291-1",
+    "lat": 36.30104064941406,
+    "lng": 138.46681213378906,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-610",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "信州中野店",
+    "address": "長野県中野市一本木11",
+    "lat": 36.75840377807617,
+    "lng": 138.3700408935547,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-157",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千曲店",
+    "address": "長野県千曲市粟佐1212-1",
+    "lat": 36.539466857910156,
+    "lng": 138.120849609375,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-208",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "塩尻北インター店",
+    "address": "長野県塩尻市広丘吉田1033-1",
+    "lat": 36.15944290161133,
+    "lng": 137.9519500732422,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-273",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡谷店",
+    "address": "長野県岡谷市塚間町二-1-18 岡谷ライフガ-デン内",
+    "lat": 36.064998626708984,
+    "lng": 138.0523681640625,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1251",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新佐久平店",
+    "address": "長野県佐久市岩村田1442-1",
+    "lat": 36.27269744873047,
+    "lng": 138.46324157714844,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-360",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松本筑摩店",
+    "address": "長野県松本市筑摩3-1-20",
+    "lat": 36.22185516357422,
+    "lng": 137.98046875,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-817",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "穂高店",
+    "address": "長野県安曇野市穂高2535-1",
+    "lat": 36.336753845214844,
+    "lng": 137.88954162597656,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-985",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "茅野宮川店",
+    "address": "長野県茅野市宮川1131-2",
+    "lat": 35.99546813964844,
+    "lng": 138.13438415527344,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-779",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "諏訪店",
+    "address": "長野県諏訪市上川3-2370",
+    "lat": 36.02986526489258,
+    "lng": 138.11849975585938,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-895",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長野上松店",
+    "address": "長野県長野市上松3-24-25",
+    "lat": 36.675140380859375,
+    "lng": 138.19970703125,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-287",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長野平林店",
+    "address": "長野県長野市平林2-16-8",
+    "lat": 36.65449142456055,
+    "lng": 138.21533203125,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-454",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長野稲里店",
+    "address": "長野県長野市稲里町中央4-12-12",
+    "lat": 36.60546875,
+    "lng": 138.1668243408203,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-622",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "飯田店",
+    "address": "長野県飯田市鼎名古熊2206-1",
+    "lat": 35.499141693115234,
+    "lng": 137.8236083984375,
+    "prefecture": "長野県",
+    "prefectureCode": "nagano",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

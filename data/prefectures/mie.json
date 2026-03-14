@@ -1,0 +1,322 @@
+[
+  {
+    "id": "matsuya-8c189a7606a5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三重川越町店（松のや・マイカリー食堂併設）",
+    "address": "三重県三重郡川越町豊田491-7",
+    "lat": 35.015652,
+    "lng": 136.663177,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3ba7915f5c1b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四日市堀木店",
+    "address": "三重県四日市市堀木1-3-20",
+    "lat": 34.972124,
+    "lng": 136.614573,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-613acc166dba",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四日市日永店",
+    "address": "三重県四日市市日永4-1-10",
+    "lat": 34.947188,
+    "lng": 136.606139,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-07e7d5a2a666",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松阪大黒田店（松のや併設）",
+    "address": "三重県松阪市大黒田町719-4",
+    "lat": 34.562958,
+    "lng": 136.527626,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a21a32516bce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桑名店",
+    "address": "三重県桑名市中央町3-64-1",
+    "lat": 35.063345,
+    "lng": 136.686093,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-15cdda15b55e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 津南店 （松のや併設）",
+    "address": "三重県津市高茶屋小森町字丸田283-2",
+    "lat": 34.671692,
+    "lng": 136.518818,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ef6f3e985b89",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鈴鹿中央通店（松のや併設）",
+    "address": "三重県鈴鹿市算所2-2-7",
+    "lat": 34.87436,
+    "lng": 136.546437,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1203",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン津河芸店",
+    "address": "三重県津市河芸町中別保丸垣内100-",
+    "lat": 34.78767395019531,
+    "lng": 136.54469299316406,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-900",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン芸濃店",
+    "address": "三重県津市芸濃町椋本一ツ谷3083 イオンタウンショッピングセンタ-芸濃内",
+    "lat": 34.80542755126953,
+    "lng": 136.44630432128906,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1274",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トナリエ四日市店",
+    "address": "三重県四日市市安島一-3-31 トナリエ四日市4F",
+    "lat": 34.9688835144043,
+    "lng": 136.61671447753906,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-195",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "四日市三ツ谷店",
+    "address": "三重県四日市市三ツ谷町5-24",
+    "lat": 34.981632232666016,
+    "lng": 136.6295166015625,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1305",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "四日市日永服部家具センター店",
+    "address": "三重県四日市市日永4-2-1 服部家具センタ-四日市本店 1階",
+    "lat": 34.94685363769531,
+    "lng": 136.60597229003906,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-196",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "四日市泊店",
+    "address": "三重県四日市市泊小柳町3-35",
+    "lat": 34.94068145751953,
+    "lng": 136.6064910888672,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-908",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "志摩鵜方店",
+    "address": "三重県志摩市阿児町鵜方字小向井4939 プラザ21ショッピングセンタ-内",
+    "lat": 34.32654571533203,
+    "lng": 136.81307983398438,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1351",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "星川サンシティ店",
+    "address": "三重県桑名市星川785- 星川サンシティ2F",
+    "lat": 35.067962646484375,
+    "lng": 136.62684631347656,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1240",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松阪塚本店",
+    "address": "三重県松阪市塚本町15-",
+    "lat": 34.59354019165039,
+    "lng": 136.52127075195312,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-363",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松阪大黒田店",
+    "address": "三重県松阪市大黒田町717",
+    "lat": 34.56251525878906,
+    "lng": 136.5283660888672,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1161",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "津藤方店",
+    "address": "三重県津市藤方589-1",
+    "lat": 34.68346405029297,
+    "lng": 136.5149688720703,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1191",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鈴鹿サーキット通りFマート店",
+    "address": "三重県鈴鹿市稲生4-1-1",
+    "lat": 34.84054183959961,
+    "lng": 136.55905151367188,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-532",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鈴鹿安塚店",
+    "address": "三重県鈴鹿市安塚町字須田122-1",
+    "lat": 34.8703727722168,
+    "lng": 136.5869903564453,
+    "prefecture": "三重県",
+    "prefectureCode": "mie",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

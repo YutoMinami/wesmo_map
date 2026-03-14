@@ -1,0 +1,194 @@
+[
+  {
+    "id": "matsuya-d3e357486400",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 敦賀店（松のや併設）",
+    "address": "福井県敦賀市中央町1-13-1",
+    "lat": 35.645807,
+    "lng": 136.058551,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c1e0dd6a8954",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福井大和田店",
+    "address": "福井県福井市大和田2-1304",
+    "lat": 36.095045,
+    "lng": 136.251721,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-339b3c44b940",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福井御幸店",
+    "address": "福井県福井市御幸4-20-8",
+    "lat": 36.056791,
+    "lng": 136.24153,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f4d15be2e1bc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福井若杉店（松のや併設）",
+    "address": "福井県福井市若杉町4-715",
+    "lat": 36.056959,
+    "lng": 136.187242,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7f57f758c423",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 越前千福店（松のや併設）",
+    "address": "福井県越前市千福町29",
+    "lat": 35.894754,
+    "lng": 136.154981,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-971",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小浜府中店",
+    "address": "福井県小浜市府中8麻ヶ瀬25-1 アヤハディオ小浜府中店ペットセンタ-2F",
+    "lat": 35.49494552612305,
+    "lng": 135.75634765625,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-305",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "敦賀店",
+    "address": "福井県敦賀市新松島町13-5",
+    "lat": 35.64603805541992,
+    "lng": 136.05459594726562,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-384",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "武生店",
+    "address": "福井県越前市日野美2-18-1",
+    "lat": 35.89942932128906,
+    "lng": 136.154052734375,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-781",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福井大町店",
+    "address": "福井県福井市大町1-505",
+    "lat": 36.03644561767578,
+    "lng": 136.2198944091797,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-480",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福井運動公園前店",
+    "address": "福井県福井市若杉3-1709-",
+    "lat": 36.053096771240234,
+    "lng": 136.18853759765625,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-554",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福井高木店",
+    "address": "福井県福井市高木中央2-3119",
+    "lat": 36.09263610839844,
+    "lng": 136.23544311523438,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1401",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "越前たけふ店",
+    "address": "福井県越前市横市町35字橋詰16-1",
+    "lat": 35.90565490722656,
+    "lng": 136.19369506835938,
+    "prefecture": "福井県",
+    "prefectureCode": "fukui",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

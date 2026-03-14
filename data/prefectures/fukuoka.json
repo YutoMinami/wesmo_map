@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "matsuya-ce4667375854",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中洲店",
+    "address": "福岡県福岡市博多区中洲5-1-7 SPOONビル1階",
+    "lat": 33.593826,
+    "lng": 130.40522,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bc032acdc8e0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 久留米国分バイパス店（松のや併設）",
+    "address": "福岡県久留米市国分町936-6",
+    "lat": 33.291362,
+    "lng": 130.535935,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7d02f340ff6e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 久留米通町店",
+    "address": "福岡県久留米市通町1-16",
+    "lat": 33.31874,
+    "lng": 130.510379,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-136e2a7f37c8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 二又瀬店",
+    "address": "福岡県福岡市東区二又瀬15-10",
+    "lat": 33.607672,
+    "lng": 130.441696,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5df37893a236",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北九州高須東店（松のや併設）",
+    "address": "福岡県北九州市若松区高須東4-2-17",
+    "lat": 33.889598,
+    "lng": 130.690663,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c8f89b2f6837",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 博多駅前通り店（マイカリー食堂併設）",
+    "address": "福岡県福岡市博多区博多駅前3-30-29 タイセイ第2ビル",
+    "lat": 33.589785,
+    "lng": 130.413769,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1567d5316f45",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 博多駅南店（マイカリー食堂併設）",
+    "address": "福岡県福岡市博多区博多駅南1-3-10",
+    "lat": 33.586854,
+    "lng": 130.423074,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-330e74dd0262",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吉塚店",
+    "address": "福岡県福岡市博多区吉塚本町13-30 えきマチ1-吉塚",
+    "lat": 33.606803,
+    "lng": 130.423035,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7e287e56d094",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 周船寺店（松のや併設）",
+    "address": "福岡県福岡市西区周船寺3-11-10",
+    "lat": 33.574384,
+    "lng": 130.249728,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-decfdc92264b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大名1丁目店",
+    "address": "福岡県福岡市中央区大名1-1-10 大名TCビル",
+    "lat": 33.58624,
+    "lng": 130.396355,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-25b1998e3381",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大牟田店",
+    "address": "福岡県大牟田市船津町459-2",
+    "lat": 33.005648,
+    "lng": 130.438543,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-23340831fd15",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大野城横峰店（松のや併設）",
+    "address": "福岡県大野城市横峰2-3-9",
+    "lat": 33.505752,
+    "lng": 130.475159,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6c5c093e8394",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 天神店",
+    "address": "福岡県福岡市中央区天神3-3-1 木下ビル",
+    "lat": 33.592419,
+    "lng": 130.397729,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a031ca1203c1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 姪浜店（松のや併設）",
+    "address": "福岡県福岡市西区内浜1-7-5 ウエストコ-ト姪浜内",
+    "lat": 33.581913,
+    "lng": 130.323299,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-afda2f25087b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小倉片野店（松のや併設）",
+    "address": "福岡県北九州市小倉北区片野4-20-12",
+    "lat": 33.862465,
+    "lng": 130.88089,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8739e0cde708",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小倉駅前店（松のや併設）",
+    "address": "福岡県北九州市小倉北区京町2-5-13",
+    "lat": 33.886175,
+    "lng": 130.880862,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-35c9ff47d910",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 干隈店（松のや併設）",
+    "address": "福岡県福岡市早良区干隈3-29-6",
+    "lat": 33.5516,
+    "lng": 130.348824,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2d96b273b2b3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 朝倉甘木店（松のや併設）",
+    "address": "福岡県朝倉市甘木370-1",
+    "lat": 33.406578,
+    "lng": 130.655122,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b848ec34c61e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神松寺店",
+    "address": "福岡県福岡市城南区神松寺1-22-45 SKYビル1F",
+    "lat": 33.558187,
+    "lng": 130.377492,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a44f23b0a532",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福岡箱崎店（マイカリー食堂併設）",
+    "address": "福岡県福岡市東区東浜1-2-26",
+    "lat": 33.614499,
+    "lng": 130.414108,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5cd942698e7b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 穴生店（松のや併設）",
+    "address": "福岡県北九州市八幡西区穴生2-8-7",
+    "lat": 33.858806,
+    "lng": 130.742959,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2797765cb9b8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 筑後店（松のや併設）",
+    "address": "福岡県筑後市山ノ井356-1",
+    "lat": 33.205632,
+    "lng": 130.502158,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9f42ccf1d20c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 糸島店",
+    "address": "福岡県糸島市神在西2-22-30",
+    "lat": 33.546642,
+    "lng": 130.174112,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e6ba813f6099",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 苅田店（松のや併設）",
+    "address": "福岡県京都郡苅田町幸町4-4",
+    "lat": 33.788661,
+    "lng": 130.982039,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-96e44739f61a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 行橋中央店（松のや併設）",
+    "address": "福岡県行橋市中央1-13-26",
+    "lat": 33.725992,
+    "lng": 130.977483,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-195ee58e5c81",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西新店 (マイカリー食堂併設)",
+    "address": "福岡県福岡市早良区西新5-1-2",
+    "lat": 33.582696,
+    "lng": 130.357788,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fb92970488bd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 那珂川店（松のや併設）",
+    "address": "福岡県那珂川市片縄北6-17-8",
+    "lat": 33.522032,
+    "lng": 130.412996,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a9cba366abc0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 飯塚片島店（松のや併設）",
+    "address": "福岡県飯塚市片島2-1-2",
+    "lat": 33.644385,
+    "lng": 130.68549,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-576",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "BOXタウン箱崎店",
+    "address": "福岡県福岡市東区箱崎4-7-55 BOXタウン箱崎内(1階)",
+    "lat": 33.61943435668945,
+    "lng": 130.4174041748047,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-18",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ小倉店",
+    "address": "福岡県北九州市小倉北区明和町1-8",
+    "lat": 33.877132415771484,
+    "lng": 130.88755798339844,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-961",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール大牟田店",
+    "address": "福岡県大牟田市岬町3-4 イオンモ-ル大牟田店 2F",
+    "lat": 33.03047180175781,
+    "lng": 130.42776489257812,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1265",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン戸畑店",
+    "address": "福岡県北九州市戸畑区汐井町2-2",
+    "lat": 33.89429473876953,
+    "lng": 130.81878662109375,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1289",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン若松店",
+    "address": "福岡県北九州市若松区二島1-3-1",
+    "lat": 33.8913688659668,
+    "lng": 130.74172973632812,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-32",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コマーシャルモール博多店",
+    "address": "福岡県福岡市博多区東光寺2-6-40 コマ-シャルモ-ル博多内",
+    "lat": 33.59458541870117,
+    "lng": 130.4262237548828,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1155",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サンリブくりえいと宗像店",
+    "address": "福岡県宗像市くりえいと一-5-1 サンリブくりえいと宗像内1F",
+    "lat": 33.812564849853516,
+    "lng": 130.56326293945312,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1336",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サンリブ古賀店",
+    "address": "福岡県古賀市天神2-5-1 サンリブ古賀 2F",
+    "lat": 33.73451614379883,
+    "lng": 130.46624755859375,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-36",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "シュロアモール筑紫野店",
+    "address": "福岡県筑紫野市大字原田836-5",
+    "lat": 33.443443298339844,
+    "lng": 130.53915405273438,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1112",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "スパイシーモール門司店",
+    "address": "福岡県北九州市門司区下馬寄2-27 スパイシ-モ-ル門司2F",
+    "lat": 33.89694595336914,
+    "lng": 130.92657470703125,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1210",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "チャチャタウン小倉店",
+    "address": "福岡県北九州市小倉北区砂津3-1-1 チャチャタウン小倉2階",
+    "lat": 33.88289260864258,
+    "lng": 130.88809204101562,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1323",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トリアスモール店",
+    "address": "福岡県糟屋郡久山町大字山田1169-1",
+    "lat": 33.65279006958008,
+    "lng": 130.48895263671875,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1118",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレオひびきの店",
+    "address": "福岡県北九州市若松区小敷ひびきの2-1-3 フォレオひびきの2F",
+    "lat": 33.8906364440918,
+    "lng": 130.7061309814453,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-55",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ黒崎店",
+    "address": "福岡県北九州市八幡西区桜ヶ丘町3-10 フレスポ黒崎内",
+    "lat": 33.86572265625,
+    "lng": 130.75450134277344,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1132",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ブランチ博多パピヨンガーデン店",
+    "address": "福岡県福岡市博多区千代一-2-1 ブランチ博多パピヨンガ-デン内1階",
+    "lat": 33.600399017333984,
+    "lng": 130.41954040527344,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1346",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "マークイズ福岡ももち店",
+    "address": "福岡県福岡市中央区地行浜2-2-1 マ-クイズ福岡ももち 3F",
+    "lat": 33.59434127807617,
+    "lng": 130.36241149902344,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-750",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミスターマックス大牟田店",
+    "address": "福岡県大牟田市馬渡町1-1 ミスタ-マックス大牟田SC内",
+    "lat": 33.01441192626953,
+    "lng": 130.4649658203125,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1184",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "メルクス田川店",
+    "address": "福岡県田川市大字川宮1706-1 ハイパ-モ-ルメルクス田川内",
+    "lat": 33.65019989013672,
+    "lng": 130.80076599121094,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1104",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ライフガーデン水巻店",
+    "address": "福岡県遠賀郡水巻町樋口3-9",
+    "lat": 33.870933532714844,
+    "lng": 130.6893768310547,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-86",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "久留米みいまち店",
+    "address": "福岡県久留米市御井町字大銃場2228-4",
+    "lat": 33.299232482910156,
+    "lng": 130.55067443847656,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-864",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "久留米みづま店",
+    "address": "福岡県久留米市三潴町福光562-2",
+    "lat": 33.2466926574707,
+    "lng": 130.4565887451172,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-589",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "久留米白山店",
+    "address": "福岡県久留米市梅満町490-2",
+    "lat": 33.31072998046875,
+    "lng": 130.5035400390625,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-125",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八幡上津役店",
+    "address": "福岡県北九州市八幡西区下上津役4-21-1",
+    "lat": 33.826107025146484,
+    "lng": 130.74456787109375,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-577",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八幡真名子店",
+    "address": "福岡県北九州市八幡西区真名子2-4 八幡西ショッピングセンタ-内",
+    "lat": 33.784034729003906,
+    "lng": 130.7290496826172,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-142",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "前原店",
+    "address": "福岡県糸島市波多江駅南1-6-1",
+    "lat": 33.56240463256836,
+    "lng": 130.22679138183594,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-364",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "博多板付店",
+    "address": "福岡県福岡市博多区井相田1-7-37",
+    "lat": 33.55739974975586,
+    "lng": 130.4608917236328,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-204",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "城南店",
+    "address": "福岡県福岡市城南区長尾3-14-8",
+    "lat": 33.554046630859375,
+    "lng": 130.38787841796875,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-219",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大牟田船津店",
+    "address": "福岡県大牟田市船津町407",
+    "lat": 33.008155822753906,
+    "lng": 130.43756103515625,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-994",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大野城乙金店",
+    "address": "福岡県大野城市乙金3-16-8",
+    "lat": 33.5428466796875,
+    "lng": 130.49624633789062,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-770",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "太宰府大佐野店",
+    "address": "福岡県太宰府市大佐野4-20-6",
+    "lat": 33.50008010864258,
+    "lng": 130.487548828125,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-241",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宗像店",
+    "address": "福岡県宗像市稲元2-4-15",
+    "lat": 33.808677673339844,
+    "lng": 130.55123901367188,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-253",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小倉上曽根店",
+    "address": "福岡県北九州市小倉南区上曽根新町10-5 アクロスプラザ上曽根内",
+    "lat": 33.81759262084961,
+    "lng": 130.94992065429688,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-255",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小倉南店",
+    "address": "福岡県北九州市小倉南区長尾1-11-30",
+    "lat": 33.82373809814453,
+    "lng": 130.8587188720703,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1309",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新小倉井堀店",
+    "address": "福岡県北九州市小倉北区井堀3-18-12",
+    "lat": 33.882537841796875,
+    "lng": 130.8453369140625,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1077",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "春日フォレストシティ店",
+    "address": "福岡県春日市星見ヶ丘5-250-1",
+    "lat": 33.50620651245117,
+    "lng": 130.45083618164062,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-329",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "春日店",
+    "address": "福岡県春日市惣利1-25-",
+    "lat": 33.514434814453125,
+    "lng": 130.4694061279297,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-372",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "柳川ショッピングモール店",
+    "address": "福岡県柳川市三橋町大字藤吉510-1 柳川ショッピングモ-ル内",
+    "lat": 33.165096282958984,
+    "lng": 130.41563415527344,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-425",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "甘木店",
+    "address": "福岡県朝倉市甘木一丁田324",
+    "lat": 33.41807174682617,
+    "lng": 130.66378784179688,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-427",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "田川バイパス店",
+    "address": "福岡県田川市大字糒47-1",
+    "lat": 33.65668487548828,
+    "lng": 130.81480407714844,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1236",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡伊都店",
+    "address": "福岡県福岡市西区北原2-7-35",
+    "lat": 33.58109664916992,
+    "lng": 130.2526092529297,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-443",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡土井店",
+    "address": "福岡県福岡市東区土井1-8-28",
+    "lat": 33.63500213623047,
+    "lng": 130.46275329589844,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-225",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡姪浜店",
+    "address": "福岡県福岡市西区姪浜駅南2-24-3",
+    "lat": 33.57819747924805,
+    "lng": 130.32705688476562,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-231",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡宇美店",
+    "address": "福岡県糟屋郡宇美町光正寺1-8-30",
+    "lat": 33.57586669921875,
+    "lng": 130.49859619140625,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-308",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡新宮店",
+    "address": "福岡県糟屋郡新宮町三代西2-4-6",
+    "lat": 33.6983757019043,
+    "lng": 130.4514617919922,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-323",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡早良店",
+    "address": "福岡県福岡市早良区重留1-1-11",
+    "lat": 33.535404205322266,
+    "lng": 130.34263610839844,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-830",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡桜坂店",
+    "address": "福岡県福岡市中央区警固3-6-1",
+    "lat": 33.577606201171875,
+    "lng": 130.3896484375,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-444",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡橋本店",
+    "address": "福岡県福岡市西区橋本1-10-72 ミスタ-マックス橋本SC2階",
+    "lat": 33.55944061279297,
+    "lng": 130.3189239501953,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-175",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡空港東店",
+    "address": "福岡県糟屋郡志免町別府三-5-1",
+    "lat": 33.60441207885742,
+    "lng": 130.45655822753906,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-446",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡行橋店",
+    "address": "福岡県行橋市行事6-5-35",
+    "lat": 33.733787536621094,
+    "lng": 130.96878051757812,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-442",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福岡野多目店",
+    "address": "福岡県福岡市南区野多目1-12-43",
+    "lat": 33.54212951660156,
+    "lng": 130.42381286621094,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1048",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福津日蒔野店",
+    "address": "福岡県福津市日蒔野六-23-10",
+    "lat": 33.7533073425293,
+    "lng": 130.4908905029297,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-546",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "飯塚弁分店",
+    "address": "福岡県飯塚市弁分58-1",
+    "lat": 33.62281799316406,
+    "lng": 130.66769409179688,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1011",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "飯塚柏の森店",
+    "address": "福岡県飯塚市柏の森字山内1-33",
+    "lat": 33.64622116088867,
+    "lng": 130.7127685546875,
+    "prefecture": "福岡県",
+    "prefectureCode": "fukuoka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

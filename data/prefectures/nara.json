@@ -1,0 +1,290 @@
+[
+  {
+    "id": "matsuya-961ddee10547",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 天理店（松のや併設）",
+    "address": "奈良県天理市守目堂町106-2",
+    "lat": 34.595523,
+    "lng": 135.836436,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d28a20e435f1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 奈良三条大路店（松のや併設）",
+    "address": "奈良県奈良市三条大路3-2-21",
+    "lat": 34.682059,
+    "lng": 135.796598,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bbb180ed1b22",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 奈良押熊店（松のや併設）",
+    "address": "奈良県奈良市押熊町1445-1",
+    "lat": 34.720905,
+    "lng": 135.768989,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-67de582160e1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 奈良駅前店",
+    "address": "奈良県奈良市三条本町3-8",
+    "lat": 34.679168,
+    "lng": 135.819766,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5e08f040d4e4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 橿原新賀店（松のや併設）",
+    "address": "奈良県橿原市新賀町141-2",
+    "lat": 34.520538,
+    "lng": 135.797391,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1350",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール橿原 West Village店",
+    "address": "奈良県橿原市曲川町7-20-1",
+    "lat": 34.50555419921875,
+    "lng": 135.76483154296875,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1067",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トナリエ大和高田店",
+    "address": "奈良県大和高田市幸町3-18 トナリエ大和高田2階",
+    "lat": 34.51930618286133,
+    "lng": 135.74363708496094,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-653",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ桜井店",
+    "address": "奈良県桜井市東新堂342-1",
+    "lat": 34.521732330322266,
+    "lng": 135.83395385742188,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1037",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミ・ナーラ店",
+    "address": "奈良県奈良市二条大路南1-3-1 ミ・ナ-ラ3F",
+    "lat": 34.68450164794922,
+    "lng": 135.8029022216797,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1013",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ロイヤルホームセンター奈良店",
+    "address": "奈良県奈良市西九条町3-13 ロイヤルホ-ムセンタ-奈良2F",
+    "lat": 34.656314849853516,
+    "lng": 135.7993927001953,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1290",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大和高田神楽店",
+    "address": "奈良県大和高田市大字神楽27-1",
+    "lat": 34.52445983886719,
+    "lng": 135.7384796142578,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-812",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "奈良古市店",
+    "address": "奈良県奈良市古市町1322-3",
+    "lat": 34.66055679321289,
+    "lng": 135.83238220214844,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-224",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "奈良新庄店",
+    "address": "奈良県葛城市北花内174",
+    "lat": 34.483970642089844,
+    "lng": 135.73291015625,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1148",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新香芝店",
+    "address": "奈良県香芝市上中255-1",
+    "lat": 34.55868911743164,
+    "lng": 135.6998748779297,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-426",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東生駒店",
+    "address": "奈良県生駒市東菜畑1-291",
+    "lat": 34.68635177612305,
+    "lng": 135.71359252929688,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1395",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "桜井大福店",
+    "address": "奈良県桜井市大字大福1174-",
+    "lat": 34.521629333496094,
+    "lng": 135.82168579101562,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-382",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "橿原店",
+    "address": "奈良県橿原市木原町字奈良地238-1",
+    "lat": 34.517486572265625,
+    "lng": 135.80169677734375,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-680",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "生駒平群店",
+    "address": "奈良県生駒郡平群町大字下垣内78-1",
+    "lat": 34.62881851196289,
+    "lng": 135.7056121826172,
+    "prefecture": "奈良県",
+    "prefectureCode": "nara",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

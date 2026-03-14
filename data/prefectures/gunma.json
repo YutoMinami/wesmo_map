@@ -1,0 +1,610 @@
+[
+  {
+    "id": "matsuya-8faff2cc58e3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊勢崎上泉町店（松のや併設）",
+    "address": "群馬県伊勢崎市上泉町175-4",
+    "lat": 36.311395,
+    "lng": 139.192931,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2e3ebef37d22",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊勢崎宮前町店（松のや併設）",
+    "address": "群馬県伊勢崎市宮前町15",
+    "lat": 36.324785,
+    "lng": 139.20823,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e8cade69c124",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊勢崎宮子町店（松のや併設）",
+    "address": "群馬県伊勢崎市宮子町3426-1",
+    "lat": 36.332968,
+    "lng": 139.160632,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bcd5f2cec2ea",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 前橋三河町店",
+    "address": "群馬県前橋市三河町2-16-16",
+    "lat": 36.385306,
+    "lng": 139.081061,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dccad580df2c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 前橋上小出町店（松のや併設）",
+    "address": "群馬県前橋市上小出町2-41-7",
+    "lat": 36.417228,
+    "lng": 139.061401,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-eabf308057b2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 前橋元総社町店（松のや併設）",
+    "address": "群馬県前橋市元総社町90-1",
+    "lat": 36.384211,
+    "lng": 139.043591,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-84f9df36bd0a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 太田下田島店（松のや併設） ※3月27日10時オープン",
+    "address": "群馬県太田市下田島町1093-3",
+    "lat": 36.26565,
+    "lng": 139.320386,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-75116459e727",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 太田別所店（松のや併設）",
+    "address": "群馬県太田市別所町334-4",
+    "lat": 36.30108,
+    "lng": 139.333529,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-470ded904f50",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 太田飯塚町店",
+    "address": "群馬県太田市飯塚町1443",
+    "lat": 36.282594,
+    "lng": 139.377254,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-71fea0a6ab00",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 群馬吉岡店（松のや併設）",
+    "address": "群馬県北群馬郡吉岡町大字大久保1437-1",
+    "lat": 36.427946,
+    "lng": 139.023769,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c0a87dbe65e5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藤岡店（松のや併設）",
+    "address": "群馬県藤岡市上大塚317-1",
+    "lat": 36.24228,
+    "lng": 139.060081,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fe11c0813d99",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 館林店（松のや併設）",
+    "address": "群馬県館林市松原3-16-5",
+    "lat": 36.233854,
+    "lng": 139.544823,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9751c8a1cf2a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高崎下之城店",
+    "address": "群馬県高崎市下之城町177-4",
+    "lat": 36.311374,
+    "lng": 139.029488,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-52e236e3e6d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高崎南大類店（松のや併設）",
+    "address": "群馬県高崎市南大類町915-1",
+    "lat": 36.321526,
+    "lng": 139.04137,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aedca1c81b81",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高崎問屋町店",
+    "address": "群馬県高崎市問屋町1-10-4",
+    "lat": 36.350209,
+    "lng": 139.01024,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-de8d7813f5a1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高崎駅前店 （松のや併設）",
+    "address": "群馬県高崎市八島町17-10",
+    "lat": 36.32259,
+    "lng": 139.010064,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1137",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アゼリアモール店",
+    "address": "群馬県館林市楠町3648-1 アゼリアモ-ルA館 2F",
+    "lat": 36.242225646972656,
+    "lng": 139.56849670410156,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-664",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ガーデン前橋店",
+    "address": "群馬県前橋市小屋原町472-1 ガ-デン前橋内1階",
+    "lat": 36.356048583984375,
+    "lng": 139.12904357910156,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1352",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア伊勢崎西部モール店",
+    "address": "群馬県伊勢崎市宮子町3423-15",
+    "lat": 36.331085205078125,
+    "lng": 139.16162109375,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1365",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア前橋モール店",
+    "address": "群馬県前橋市上泉町680-1",
+    "lat": 36.397666931152344,
+    "lng": 139.10035705566406,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1380",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミスターマックス高崎倉賀野店",
+    "address": "群馬県高崎市倉賀野町4691-1",
+    "lat": 36.30099105834961,
+    "lng": 139.0552978515625,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1008",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊勢崎田部井町店",
+    "address": "群馬県伊勢崎市田部井町3-180-2",
+    "lat": 36.34968185424805,
+    "lng": 139.25601196289062,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-829",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊勢崎茂呂店",
+    "address": "群馬県伊勢崎市南千木町5202-3 西友楽市伊勢崎茂呂SC内",
+    "lat": 36.29689025878906,
+    "lng": 139.2151641845703,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-100",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊勢崎連取店",
+    "address": "群馬県伊勢崎市連取町1475-1",
+    "lat": 36.318443298339844,
+    "lng": 139.18299865722656,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-143",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "前橋六供店",
+    "address": "群馬県前橋市六供町二-31-32",
+    "lat": 36.374664306640625,
+    "lng": 139.07073974609375,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-704",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "吉岡店",
+    "address": "群馬県北群馬郡吉岡町大久保313-7",
+    "lat": 36.43205642700195,
+    "lng": 139.02108764648438,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-220",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "太田下田島ショッピングモール店",
+    "address": "群馬県太田市下田島町1118-3 太田下田島ショッピングモ-ル内",
+    "lat": 36.26713180541992,
+    "lng": 139.31842041015625,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-221",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "太田小舞木店",
+    "address": "群馬県太田市小舞木町263-",
+    "lat": 36.28327941894531,
+    "lng": 139.38717651367188,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-222",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "太田植木野モール店",
+    "address": "群馬県太田市植木野町185-6 ベルク植木野モ-ル内",
+    "lat": 36.31871032714844,
+    "lng": 139.41482543945312,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-615",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "安中店",
+    "address": "群馬県安中市岩井2423-1",
+    "lat": 36.33252716064453,
+    "lng": 138.926513671875,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-696",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "富岡バイパス店",
+    "address": "群馬県富岡市富岡1649-1",
+    "lat": 36.26355743408203,
+    "lng": 138.892333984375,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1284",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "桐生相生店",
+    "address": "群馬県桐生市相生町5-字北縁480-1",
+    "lat": 36.41512680053711,
+    "lng": 139.28726196289062,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-753",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "沼田店",
+    "address": "群馬県沼田市上原町字白清水1605-6",
+    "lat": 36.64800262451172,
+    "lng": 139.06324768066406,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-795",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "渋川店",
+    "address": "群馬県渋川市行幸田91-1",
+    "lat": 36.480587005615234,
+    "lng": 139.00228881835938,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-550",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "群馬館林店",
+    "address": "群馬県館林市北成島町2573-1",
+    "lat": 36.254310607910156,
+    "lng": 139.51979064941406,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-493",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "藤岡店",
+    "address": "群馬県藤岡市藤岡822-3",
+    "lat": 36.25371170043945,
+    "lng": 139.08334350585938,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-553",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高崎緑町店",
+    "address": "群馬県高崎市緑町1-20-5",
+    "lat": 36.35036849975586,
+    "lng": 139.0041961669922,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-625",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高崎高関店",
+    "address": "群馬県高崎市高関町字東沖455-1",
+    "lat": 36.32612228393555,
+    "lng": 139.03204345703125,
+    "prefecture": "群馬県",
+    "prefectureCode": "gunma",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

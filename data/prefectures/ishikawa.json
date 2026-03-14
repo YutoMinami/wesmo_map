@@ -1,0 +1,242 @@
+[
+  {
+    "id": "matsuya-ffdac9d68784",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小松日の出町店（松のや併設）",
+    "address": "石川県小松市日の出町4-95-1",
+    "lat": 36.397666,
+    "lng": 136.455898,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e9405da290b9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野々市中央通り店（松のや併設）",
+    "address": "石川県野々市市栗田6-377",
+    "lat": 36.509003,
+    "lng": 136.608455,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-713da7f288c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金沢増泉店（松のや併設）",
+    "address": "石川県金沢市神田2-2-25",
+    "lat": 36.559474,
+    "lng": 136.636574,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ba5461c0a9a0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金沢工大前店（松のや併設）",
+    "address": "石川県野々市市扇が丘8-8",
+    "lat": 36.528777,
+    "lng": 136.629967,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0612aa21c84f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金沢昌永町店",
+    "address": "石川県金沢市昌永町18-5",
+    "lat": 36.580489,
+    "lng": 136.656653,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-87cc1bc7cf37",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金沢示野店（松のや併設）",
+    "address": "石川県金沢市戸板西1-55 イオンタウン金沢示野レストラン棟",
+    "lat": 36.579858,
+    "lng": 136.617249,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4873ebb6270a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金沢神谷内店（松のや併設）",
+    "address": "石川県金沢市神谷内町ニ22-1",
+    "lat": 36.599441,
+    "lng": 136.680374,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1358",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アビオシティ加賀店",
+    "address": "石川県加賀市作見町ル25-1 アビオシティ加賀 2F",
+    "lat": 36.32006072998047,
+    "lng": 136.35302734375,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1332",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アピタ金沢店",
+    "address": "石川県金沢市中村町10-20 アピタ金沢店 2階",
+    "lat": 36.5589485168457,
+    "lng": 136.64268493652344,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1185",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ラスパ白山店",
+    "address": "石川県白山市倉光五-14-",
+    "lat": 36.5158576965332,
+    "lng": 136.56692504882812,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-258",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小松店",
+    "address": "石川県小松市今江町4-186-",
+    "lat": 36.38255310058594,
+    "lng": 136.4475860595703,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-782",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "野々市徳用店",
+    "address": "石川県野々市市徳用三-304-",
+    "lat": 36.53509521484375,
+    "lng": 136.59104919433594,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-525",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "野々市新庄店",
+    "address": "石川県野々市市中林1-403",
+    "lat": 36.50861740112305,
+    "lng": 136.6076202392578,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-529",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "金沢津幡店",
+    "address": "石川県河北郡津幡町北中条4-84-",
+    "lat": 36.66341781616211,
+    "lng": 136.72850036621094,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-495",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "金沢藤江店",
+    "address": "石川県金沢市藤江北3-371",
+    "lat": 36.59028625488281,
+    "lng": 136.61866760253906,
+    "prefecture": "石川県",
+    "prefectureCode": "ishikawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

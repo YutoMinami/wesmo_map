@@ -1,0 +1,354 @@
+[
+  {
+    "id": "matsuya-36a6a688dc64",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 今治喜田村店（松のや併設）",
+    "address": "愛媛県今治市喜田村2-5-28",
+    "lat": 34.045623,
+    "lng": 133.020798,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d17eac1c43aa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 今治片山店（松のや併設）",
+    "address": "愛媛県今治市片山3-1-34",
+    "lat": 34.051481,
+    "lng": 132.984138,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f23569919f40",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊予西条店（松のや併設）",
+    "address": "愛媛県西条市大町686-3",
+    "lat": 33.918141,
+    "lng": 133.186092,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5e7568d95def",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四国中央店（松のや併設）",
+    "address": "愛媛県四国中央市中曽根町5010-2",
+    "lat": 33.978692,
+    "lng": 133.551224,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4197aa193ad3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新居浜店（松のや併設）",
+    "address": "愛媛県新居浜市外山町14-48",
+    "lat": 33.937083,
+    "lng": 133.308963,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-001993c1120b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東予丹原店（松のや併設）",
+    "address": "愛媛県西条市周布762-1",
+    "lat": 33.918399,
+    "lng": 133.077849,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-835f6175d7ca",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松山大街道店",
+    "address": "愛媛県松山市大街道2-3-6",
+    "lat": 33.83949,
+    "lng": 132.769926,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c296b4ddbd15",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松山市駅前店（松のや併設）",
+    "address": "愛媛県松山市湊町5-5-1 松山駅前テナントビル",
+    "lat": 33.836351,
+    "lng": 132.763748,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d38902e1104a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松山枝松店",
+    "address": "愛媛県松山市枝松5-7-14",
+    "lat": 33.827991,
+    "lng": 132.785968,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b4d18cce3013",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松山石井店",
+    "address": "愛媛県松山市東石井4-11-8",
+    "lat": 33.811305,
+    "lng": 132.779472,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6693df4abcc6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 松山萱町店（松のや併設）",
+    "address": "愛媛県松山市萱町6-53-1",
+    "lat": 33.853048,
+    "lng": 132.757893,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-592",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレオ新居浜店",
+    "address": "愛媛県新居浜市前田町2-3 フォレオ新居浜SC内",
+    "lat": 33.958011627197266,
+    "lng": 133.26722717285156,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1080",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジ砥部店",
+    "address": "愛媛県伊予郡砥部町重光239- フジ砥部店2F",
+    "lat": 33.7849006652832,
+    "lng": 132.78553771972656,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-51",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ松山店",
+    "address": "愛媛県松山市中央2-70-1 フレスポ松山内",
+    "lat": 33.85597229003906,
+    "lng": 132.74620056152344,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-53",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ西条店",
+    "address": "愛媛県西条市新田字市塚新田156-",
+    "lat": 33.93052673339844,
+    "lng": 133.19117736816406,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-970",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "マルナカ東予店",
+    "address": "愛媛県西条市周布191",
+    "lat": 33.90874481201172,
+    "lng": 133.06968688964844,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-92",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "今治インター店",
+    "address": "愛媛県今治市山路884-2",
+    "lat": 34.05817413330078,
+    "lng": 132.9728240966797,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-777",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "今治東店",
+    "address": "愛媛県今治市衣干町四-4-6",
+    "lat": 34.04513931274414,
+    "lng": 133.01300048828125,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-714",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "四国中央店",
+    "address": "愛媛県四国中央市村松町1-13",
+    "lat": 33.99135208129883,
+    "lng": 133.56565856933594,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-357",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松山東石井店",
+    "address": "愛媛県松山市東石井6-2-6",
+    "lat": 33.80936050415039,
+    "lng": 132.77798461914062,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1387",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松山空港東店",
+    "address": "愛媛県松山市東垣生町964-1",
+    "lat": 33.81662368774414,
+    "lng": 132.71055603027344,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1083",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松山鷹子店",
+    "address": "愛媛県松山市鷹子町495-1",
+    "lat": 33.81258773803711,
+    "lng": 132.81570434570312,
+    "prefecture": "愛媛県",
+    "prefectureCode": "ehime",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

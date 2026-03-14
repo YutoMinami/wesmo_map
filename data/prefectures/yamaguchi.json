@@ -1,0 +1,354 @@
+[
+  {
+    "id": "matsuya-c5b59b990d8b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 周南店（松のや併設）",
+    "address": "山口県周南市新宿通5-6-23",
+    "lat": 34.065312,
+    "lng": 131.800463,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b55f4965aa01",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宇部店（松のや併設）",
+    "address": "山口県宇部市島1-1-2",
+    "lat": 33.962158,
+    "lng": 131.245931,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-62c703fcec7d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山口平川店（松のや併設）",
+    "address": "山口県山口市平井1456-1",
+    "lat": 34.143667,
+    "lng": 131.456565,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bb928ab5f233",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山口店（松のや併設）",
+    "address": "山口県山口市泉町9-37",
+    "lat": 34.16702,
+    "lng": 131.44861,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7b2fded1bdad",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山陽小野田店（松のや併設）",
+    "address": "山口県山陽小野田市中央一-3-46",
+    "lat": 33.977647,
+    "lng": 131.177153,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-449b1c1818ed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新山口駅前店（松のや併設）",
+    "address": "山口県山口市小郡黄金町13-39",
+    "lat": 34.08838,
+    "lng": 131.39823,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fae85810fe6a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 防府店（松のや併設）",
+    "address": "山口県防府市緑町2-5-16",
+    "lat": 34.055884,
+    "lng": 131.579567,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1099",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "おのだサンパーク店",
+    "address": "山口県山陽小野田市中川6-4-1 おのだサンパ-ク西館2F",
+    "lat": 33.985801696777344,
+    "lng": 131.17054748535156,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-671",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン周南店",
+    "address": "山口県周南市古市1-4-1",
+    "lat": 34.0693244934082,
+    "lng": 131.75985717773438,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1268",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ザ・ビッグエクストラ萩店",
+    "address": "山口県萩市大字椿字田村2283-1",
+    "lat": 34.389774322509766,
+    "lng": 131.4057159423828,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1024",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "シーモール下関店",
+    "address": "山口県下関市竹崎町4-4-8 シ-モ-ル下関3F",
+    "lat": 33.94910430908203,
+    "lng": 130.9236297607422,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-923",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジ南岩国店",
+    "address": "山口県岩国市南岩国町3-22-63 フジ南岩国店の敷地内",
+    "lat": 34.132720947265625,
+    "lng": 132.1988525390625,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-619",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミスターマックス山口店",
+    "address": "山口県山口市黒川82-1",
+    "lat": 34.13669204711914,
+    "lng": 131.4332733154297,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1098",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミスターマックス柳井店",
+    "address": "山口県柳井市駅南1-12 ミスタ-マックスSC内",
+    "lat": 33.966888427734375,
+    "lng": 132.100830078125,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-959",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "下関長府店",
+    "address": "山口県下関市長府才川1-42-30",
+    "lat": 34.0245475769043,
+    "lng": 131.00718688964844,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-811",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "光店",
+    "address": "山口県光市木園1-5-28",
+    "lat": 33.97780227661133,
+    "lng": 131.92991638183594,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-232",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇部小松原店",
+    "address": "山口県宇部市小松原町2-10-61",
+    "lat": 33.96482467651367,
+    "lng": 131.23928833007812,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-845",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇部東見初店",
+    "address": "山口県宇部市東見初町1-22",
+    "lat": 33.93583297729492,
+    "lng": 131.25526428222656,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-265",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "山口平井店",
+    "address": "山口県山口市平井44-1",
+    "lat": 34.161983489990234,
+    "lng": 131.47137451171875,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-298",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "徳山店",
+    "address": "山口県下松市大字末武中字鳥越1145-11",
+    "lat": 34.028831481933594,
+    "lng": 131.84417724609375,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-692",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新下関店",
+    "address": "山口県下関市伊倉新町1-4-43",
+    "lat": 34.006473541259766,
+    "lng": 130.93936157226562,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1153",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "防府国衙店",
+    "address": "山口県防府市国衙一-12-3",
+    "lat": 34.054935455322266,
+    "lng": 131.58529663085938,
+    "prefecture": "山口県",
+    "prefectureCode": "yamaguchi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "matsuya-6d82dce23ca9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 佐野店（松のや併設）",
+    "address": "栃木県佐野市浅沼町558-3",
+    "lat": 36.308156,
+    "lng": 139.59137,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a54bcb9c8096",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宇都宮オリオン通店",
+    "address": "栃木県宇都宮市曲師町5-8 多喜屋ビル",
+    "lat": 36.559961,
+    "lng": 139.884707,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e1a1f6a5df99",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宇都宮平松店（松のや併設）",
+    "address": "栃木県宇都宮市平松2-22-26",
+    "lat": 36.542974,
+    "lng": 139.91702,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8589b8eef198",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宇都宮簗瀬町店（松のや併設）",
+    "address": "栃木県宇都宮市簗瀬町1984-6",
+    "lat": 36.541857,
+    "lng": 139.888138,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-39b8d9017472",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宇都宮細谷町店（松のや併設）",
+    "address": "栃木県宇都宮市細谷町324-10",
+    "lat": 36.588298,
+    "lng": 139.85449,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-837daafee898",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小山店 （松のや併設）",
+    "address": "栃木県小山市駅南町6-28-22",
+    "lat": 36.298378,
+    "lng": 139.81865,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1a99ee48dfe0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 御幸本町店（松のや併設）",
+    "address": "栃木県宇都宮市御幸本町4732-7",
+    "lat": 36.583415,
+    "lng": 139.927209,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9bd2dee9ac1a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 栃木インター店（松のや併設）",
+    "address": "栃木県栃木市箱森町38-64",
+    "lat": 36.392485,
+    "lng": 139.725414,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-12bf4f02e4b2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 足利店（松のや併設）",
+    "address": "栃木県足利市朝倉町2-22-7",
+    "lat": 36.31602,
+    "lng": 139.446239,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1145",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アシコタウンあしかが店",
+    "address": "栃木県足利市大月町3-2 アシコタウンあしかが内",
+    "lat": 36.33679962158203,
+    "lng": 139.477294921875,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1349",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン那須塩原店",
+    "address": "栃木県那須塩原市島方455 イオンタウン那須塩原店内",
+    "lat": 36.93059539794922,
+    "lng": 140.00645446777344,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-697",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "インターパークスタジアム店",
+    "address": "栃木県宇都宮市インタ-パ-ク4-2-3 宇都宮インタ-パ-クスタジアム内(ノ-スゲ-ト左、ウエストゲ-ト正面)",
+    "lat": 36.49329376220703,
+    "lng": 139.91004943847656,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-26",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エイトタウン那須塩原店",
+    "address": "栃木県那須塩原市鍋掛字鍋掛原1087-24 エイトタウン那須塩原内",
+    "lat": 36.96251678466797,
+    "lng": 140.06475830078125,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1295",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ハーヴェストウォーク小山店",
+    "address": "栃木県小山市喜沢1475 おやまゆうえんハ-ヴェストウォ-ク内",
+    "lat": 36.33413314819336,
+    "lng": 139.80691528320312,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-699",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐野店",
+    "address": "栃木県佐野市高萩町字溜ノ上693-1",
+    "lat": 36.304779052734375,
+    "lng": 139.5944061279297,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-966",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇都宮ゆいの杜店",
+    "address": "栃木県宇都宮市ゆいの杜6-30-20",
+    "lat": 36.56822204589844,
+    "lng": 139.998291015625,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-618",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇都宮岩曽店",
+    "address": "栃木県宇都宮市岩曽町字沢向1177-41",
+    "lat": 36.584693908691406,
+    "lng": 139.90924072265625,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-461",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇都宮簗瀬店",
+    "address": "栃木県宇都宮市東簗瀬1-25-1",
+    "lat": 36.54098129272461,
+    "lng": 139.89859008789062,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-257",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小山城南店",
+    "address": "栃木県小山市東城南1-34",
+    "lat": 36.29471206665039,
+    "lng": 139.81214904785156,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-374",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "栃木箱森店",
+    "address": "栃木県栃木市箱森町11-3",
+    "lat": 36.38578796386719,
+    "lng": 139.71768188476562,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-386",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "氏家店",
+    "address": "栃木県さくら市卯の里1-12-7",
+    "lat": 36.68418884277344,
+    "lng": 139.9580535888672,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-437",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "真岡大谷台店",
+    "address": "栃木県真岡市大谷台町3-5",
+    "lat": 36.4376106262207,
+    "lng": 139.99594116210938,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1171",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "矢板店",
+    "address": "栃木県矢板市中2013-4",
+    "lat": 36.80534362792969,
+    "lng": 139.94139099121094,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-475",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "自治医大店",
+    "address": "栃木県下野市烏ヶ森1-1-1",
+    "lat": 36.38526916503906,
+    "lng": 139.8544158935547,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-505",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西那須野店",
+    "address": "栃木県那須塩原市新南163-504",
+    "lat": 36.88402557373047,
+    "lng": 139.99700927734375,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-318",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿沼西茂呂店",
+    "address": "栃木県鹿沼市西茂呂4-41-7",
+    "lat": 36.54524230957031,
+    "lng": 139.76731872558594,
+    "prefecture": "栃木県",
+    "prefectureCode": "tochigi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

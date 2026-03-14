@@ -1,0 +1,290 @@
+[
+  {
+    "id": "matsuya-d13f09859030",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中津店（松のや併設）",
+    "address": "大分県中津市大字上宮永399-2",
+    "lat": 33.588703,
+    "lng": 131.187018,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8f7df45f99a8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南大分店（松のや併設）",
+    "address": "大分県大分市畑中1-5-3",
+    "lat": 33.205216,
+    "lng": 131.6027,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f12762eee994",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大分大在店（松のや併設）",
+    "address": "大分県大分市角子南2-1-17",
+    "lat": 33.245883,
+    "lng": 131.712217,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dd285477d183",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大分猪野店（松のや併設）",
+    "address": "大分県大分市大字猪野1398-3",
+    "lat": 33.221874,
+    "lng": 131.662876,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ed8526686b74",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大分駅前店（松のや併設）",
+    "address": "大分県大分市中央町1-1-24 ヨミ-ビル",
+    "lat": 33.235189,
+    "lng": 131.607108,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2e8d105db171",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日田店（松のや併設）",
+    "address": "大分県日田市大字十二町岸高586-4",
+    "lat": 33.321897,
+    "lng": 130.925867,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1407",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "あけのアクロスタウン店",
+    "address": "大分県大分市明野東一-1-1 あけのアクロスタウン本館内 4F",
+    "lat": 33.22404098510742,
+    "lng": 131.6527099609375,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-974",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール三光店",
+    "address": "大分県中津市三光佐知1032 イオンモ-ル三光 1階",
+    "lat": 33.557437896728516,
+    "lng": 131.195068359375,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-31",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コスモタウン佐伯店",
+    "address": "大分県佐伯市鶴岡西町2-176",
+    "lat": 32.959716796875,
+    "lng": 131.8666229248047,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-44",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フリーモールわさだ店",
+    "address": "大分県大分市大字市1052",
+    "lat": 33.187171936035156,
+    "lng": 131.57150268554688,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-49",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ春日浦店",
+    "address": "大分県大分市王子北町5-4",
+    "lat": 33.24475860595703,
+    "lng": 131.59619140625,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-601",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "別府山の手ライフガーデン店",
+    "address": "大分県別府市山の手町9-16",
+    "lat": 33.281341552734375,
+    "lng": 131.4852294921875,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-191",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大分古国府店",
+    "address": "大分県大分市古国府五-1-26",
+    "lat": 33.215728759765625,
+    "lng": 131.6065216064453,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-821",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大分大在店",
+    "address": "大分県大分市竹下一-8-15",
+    "lat": 33.24189758300781,
+    "lng": 131.7286376953125,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-648",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大分日田店",
+    "address": "大分県日田市大字十二町35-1",
+    "lat": 33.320613861083984,
+    "lng": 130.92630004882812,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-211",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大分明野店",
+    "address": "大分県大分市明野北5-3-1",
+    "lat": 33.227176666259766,
+    "lng": 131.65963745117188,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1006",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇佐葛原店",
+    "address": "大分県宇佐市大字葛原字東ノ田233-1",
+    "lat": 33.53462219238281,
+    "lng": 131.34014892578125,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-950",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "由布挾間店",
+    "address": "大分県由布市挾間町大字北方46-3",
+    "lat": 33.20492935180664,
+    "lng": 131.52088928222656,
+    "prefecture": "大分県",
+    "prefectureCode": "oita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

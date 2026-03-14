@@ -1,0 +1,2706 @@
+[
+  {
+    "id": "matsuya-b5eaa22bc1b6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 あざみ野店",
+    "address": "神奈川県横浜市青葉区あざみ野1-11-1 あざみ野センタ-ビル1F",
+    "lat": 35.568373,
+    "lng": 139.552578,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ed3db7181997",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 さがみ野店",
+    "address": "神奈川県海老名市東柏ヶ谷2-30-24",
+    "lat": 35.47131,
+    "lng": 139.428839,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8db8c0e3fce1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上大岡駅前店",
+    "address": "神奈川県横浜市港南区上大岡西1-16-15",
+    "lat": 35.408599,
+    "lng": 139.595405,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d6ec59ba14c6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上溝店（松のや併設）",
+    "address": "神奈川県相模原市中央区上溝3-16-1",
+    "lat": 35.557651,
+    "lng": 139.355367,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d593710689f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上鶴間店（松のや併設）",
+    "address": "神奈川県相模原市南区上鶴間本町5-1-2",
+    "lat": 35.538043,
+    "lng": 139.445071,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f11952e1a6f7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中山店",
+    "address": "神奈川県横浜市緑区寺山町87-7",
+    "lat": 35.513933,
+    "lng": 139.539401,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b791b5064d1c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野島店（マイカリー食堂併設）",
+    "address": "神奈川県川崎市多摩区中野島1-9-2 チャコBLDGII 101",
+    "lat": 35.629636,
+    "lng": 139.54915,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6f8da2561d99",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 二俣川店",
+    "address": "神奈川県横浜市旭区二俣川1-45-18 東新ビル",
+    "lat": 35.465413,
+    "lng": 139.531651,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2cf6874207ca",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 井土ヶ谷店",
+    "address": "神奈川県横浜市南区井土ヶ谷中町161",
+    "lat": 35.433878,
+    "lng": 139.601441,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ef58c9eca3df",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京急久里浜店",
+    "address": "神奈川県横須賀市久里浜4-5-2 久里浜ロンタンビル",
+    "lat": 35.230391,
+    "lng": 139.70232,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-91b0bea131d0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊勢佐木町2丁目店",
+    "address": "神奈川県横浜市中区伊勢佐木町2-76-2 キヨビル1F",
+    "lat": 35.443363,
+    "lng": 139.631158,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-53001367ba30",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊勢原店",
+    "address": "神奈川県伊勢原市桜台1-2-30 三協ビル",
+    "lat": 35.394958,
+    "lng": 139.313073,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-918ff977cd9f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 保土ヶ谷店",
+    "address": "神奈川県横浜市保土ヶ谷区岩井町4",
+    "lat": 35.446136,
+    "lng": 139.599626,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ecb963470dd2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 元住吉店",
+    "address": "神奈川県川崎市中原区木月3-6-18 モトスミコアビル1F",
+    "lat": 35.565432,
+    "lng": 139.650854,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-55e4d2b7c5e0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南林間店",
+    "address": "神奈川県大和市南林間1-8-1",
+    "lat": 35.495381,
+    "lng": 139.447279,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-930b7e5f7487",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 厚木店",
+    "address": "神奈川県厚木市田村町7-20",
+    "lat": 35.435943,
+    "lng": 139.357436,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7ea1abf6d21f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 厚木戸田店",
+    "address": "神奈川県厚木市戸田540-1",
+    "lat": 35.404568,
+    "lng": 139.361235,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4f031d4e9dde",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 反町店",
+    "address": "神奈川県横浜市神奈川区松本町1-1-9 MKビル",
+    "lat": 35.474863,
+    "lng": 139.624992,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-11fe510f033c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 古淵店",
+    "address": "神奈川県相模原市南区古淵1-7-1",
+    "lat": 35.556136,
+    "lng": 139.419961,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a56b2a96b505",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 向ヶ丘遊園店",
+    "address": "神奈川県川崎市多摩区登戸2737-4 MUKOGAOKA-YUEN TOSEI BLDG.(タカノビル)1F・2F",
+    "lat": 35.616357,
+    "lng": 139.564125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4c6408c08bd2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大倉山店（マイカリー食堂併設）",
+    "address": "神奈川県横浜市港北区大倉山3-1-28",
+    "lat": 35.521622,
+    "lng": 139.629631,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-68f04a30e389",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大口店",
+    "address": "神奈川県横浜市神奈川区大口通58-3 大口西口ビル",
+    "lat": 35.49192,
+    "lng": 139.64532,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c82958557623",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大和店",
+    "address": "神奈川県大和市大和南1-3-4 登喜和ビル1F",
+    "lat": 35.469473,
+    "lng": 139.462648,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-449d322e8889",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大和渋谷店",
+    "address": "神奈川県大和市渋谷5-4-1",
+    "lat": 35.436643,
+    "lng": 139.461904,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-898735679863",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大船店",
+    "address": "神奈川県鎌倉市大船1-25-23",
+    "lat": 35.353811,
+    "lng": 139.53275,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a41e1652d372",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大船駅前店",
+    "address": "神奈川県鎌倉市大船1-12-23",
+    "lat": 35.351393,
+    "lng": 139.531498,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a98a36999766",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 天王町店",
+    "address": "神奈川県横浜市保土ヶ谷区天王町2-47-7 日振ビル1F",
+    "lat": 35.453967,
+    "lng": 139.603338,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-48b46b16ff7c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宮崎台店（松のや併設）",
+    "address": "神奈川県川崎市宮前区宮崎2-8-8 COMODO宮崎台",
+    "lat": 35.587409,
+    "lng": 139.590994,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-38cebe65e23f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 寒川倉見店（松のや併設）",
+    "address": "神奈川県高座郡寒川町倉見849-3",
+    "lat": 35.397339,
+    "lng": 139.381154,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6e80943a631a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小田原店",
+    "address": "神奈川県小田原市栄町2-8-33 岩下第1ビル",
+    "lat": 35.254409,
+    "lng": 139.158435,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ecba309a22bc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小田原酒匂店（松のや併設）",
+    "address": "神奈川県小田原市西酒匂1-9-3",
+    "lat": 35.264878,
+    "lng": 139.183991,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-af0487b47740",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小田急相模原店",
+    "address": "神奈川県相模原市南区松が枝町24-6",
+    "lat": 35.515227,
+    "lng": 139.424011,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6d1c2023d44f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小田急相模原西口店",
+    "address": "神奈川県相模原市南区相模台2-4-6 K-フィネッサ",
+    "lat": 35.515559,
+    "lng": 139.420321,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cfa9d78e6dfb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川崎京町店 （松のや併設）",
+    "address": "神奈川県川崎市川崎区京町1-18-15",
+    "lat": 35.516289,
+    "lng": 139.695539,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aa7bb66ab8dd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川崎大師店（松のや併設）",
+    "address": "神奈川県川崎市川崎区大師駅前1-6-6 T’s garden川崎大師II",
+    "lat": 35.535316,
+    "lng": 139.726625,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a10d8e717611",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川崎枡形店",
+    "address": "神奈川県川崎市多摩区枡形1-5-9",
+    "lat": 35.620647,
+    "lng": 139.552554,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-040134633b78",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川崎砂子店（マイカリー食堂併設）",
+    "address": "神奈川県川崎市川崎区砂子2-6-19",
+    "lat": 35.528424,
+    "lng": 139.70033,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-16db3ac625e7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川崎西口店",
+    "address": "神奈川県川崎市幸区大宮町5-1",
+    "lat": 35.531422,
+    "lng": 139.693256,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ec35ca97a64e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川崎銀座街店",
+    "address": "神奈川県川崎市川崎区砂子1-1-7 川崎銀座共同ビル",
+    "lat": 35.531397,
+    "lng": 139.700869,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d29f3cd5d9a3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 市が尾店（松のや併設）",
+    "address": "神奈川県横浜市青葉区市ケ尾町1062-3 ア-バンコンフォ-ト",
+    "lat": 35.550666,
+    "lng": 139.541515,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4a08ba081b48",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平塚北金目店",
+    "address": "神奈川県平塚市北金目2-4-33",
+    "lat": 35.367556,
+    "lng": 139.285055,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d5760b7f4205",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平塚店",
+    "address": "神奈川県平塚市紅谷町4-2 1F",
+    "lat": 35.329067,
+    "lng": 139.349325,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-454936104fa2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平間店",
+    "address": "神奈川県川崎市中原区北谷町8-7",
+    "lat": 35.561309,
+    "lng": 139.67119,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a1a2118d5107",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 座間立野台店",
+    "address": "神奈川県座間市立野台2-20-3",
+    "lat": 35.480202,
+    "lng": 139.411622,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fefc5df07a68",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 戸塚店",
+    "address": "神奈川県横浜市戸塚区戸塚町16-16 16ビル",
+    "lat": 35.400399,
+    "lng": 139.533124,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-069bab532e9a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新丸子店",
+    "address": "神奈川県川崎市中原区新丸子742-3",
+    "lat": 35.580012,
+    "lng": 139.661191,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b55fb1cbd91e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新杉田店",
+    "address": "神奈川県横浜市磯子区新杉田町3-1 ステイト新杉田",
+    "lat": 35.385562,
+    "lng": 139.62011,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-93ffc2ab1782",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新横浜店",
+    "address": "神奈川県横浜市港北区新横浜2-3-5 SR第2ビル",
+    "lat": 35.507806,
+    "lng": 139.614397,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1c07116655ce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日吉店",
+    "address": "神奈川県横浜市港北区日吉本町1-20-2 ティ-エムビル1F",
+    "lat": 35.55314,
+    "lng": 139.645851,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-603bcc11ae93",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本厚木店",
+    "address": "神奈川県厚木市中町2-4-16 トキワヤビル1F",
+    "lat": 35.440413,
+    "lng": 139.364909,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1aa1357e8f44",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東戸塚東口店",
+    "address": "神奈川県横浜市戸塚区品濃町538-7 オセアン第2ビル",
+    "lat": 35.431741,
+    "lng": 139.557533,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9532b85a7dbf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東戸塚西口店",
+    "address": "神奈川県横浜市戸塚区川上町90-1 アップル東戸塚ビル",
+    "lat": 35.431244,
+    "lng": 139.55564,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f5787b04575b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東神奈川店",
+    "address": "神奈川県横浜市神奈川区西神奈川1-20-4 加賀ビル",
+    "lat": 35.480076,
+    "lng": 139.632213,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ea3962cc795f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜木町店",
+    "address": "神奈川県横浜市中区花咲町2-59 白鳥ビル1F",
+    "lat": 35.449486,
+    "lng": 139.629513,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1dbd8d167350",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 梶が谷店（マイカリー食堂併設）",
+    "address": "神奈川県川崎市高津区末長1-8-20 第1寿美家ビル",
+    "lat": 35.59441,
+    "lng": 139.605325,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-03d964fa5ecb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 横浜店",
+    "address": "神奈川県横浜市西区南幸2-1-3 相鉄ム-ビル",
+    "lat": 35.463672,
+    "lng": 139.618898,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7a5e2a9b2713",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 横浜西口店",
+    "address": "神奈川県横浜市西区北幸1-1-2 INB横浜西口ビル1F",
+    "lat": 35.46765,
+    "lng": 139.622231,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6142ecd77a5b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 横須賀中央店（松のや併設）",
+    "address": "神奈川県横須賀市大滝町2-23 杉本ビル",
+    "lat": 35.280384,
+    "lng": 139.669468,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-19c3e86862e1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 橋本店",
+    "address": "神奈川県相模原市緑区橋本6-2-1",
+    "lat": 35.596221,
+    "lng": 139.345249,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a8523180e08d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵中原店（松のや・マイカリー食堂併設）",
+    "address": "神奈川県川崎市中原区上小田中6-21-9",
+    "lat": 35.580672,
+    "lng": 139.642519,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1bd2494ffc02",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵小杉北口店（マイカリー食堂併設）",
+    "address": "神奈川県川崎市中原区新丸子町922 レイロ-ビル1F",
+    "lat": 35.577399,
+    "lng": 139.660062,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-59cdee7a0449",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵小杉南口店（松のや併設）",
+    "address": "神奈川県川崎市中原区小杉町3-257-4 小杉第二山協ビル1階",
+    "lat": 35.574215,
+    "lng": 139.65736,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c1f3963ddf4e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵新城店",
+    "address": "神奈川県川崎市中原区上新城2-10-15 新城ロイヤルプラザ1F",
+    "lat": 35.586975,
+    "lng": 139.6306,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-57d5f869e0ec",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 海老名店",
+    "address": "神奈川県海老名市中央2-1-5 パインビル1F",
+    "lat": 35.450897,
+    "lng": 139.392351,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-333cfa77a1b7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 海老名河原口店（松のや併設）",
+    "address": "神奈川県海老名市河原口4-7-3",
+    "lat": 35.450398,
+    "lng": 139.381133,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d229b6dcda83",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 淵野辺北口店",
+    "address": "神奈川県相模原市中央区淵野辺3-19-9",
+    "lat": 35.56995,
+    "lng": 139.395631,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-65649ef24973",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 淵野辺店（松のや併設）",
+    "address": "神奈川県相模原市中央区鹿沼台2-18-6",
+    "lat": 35.564948,
+    "lng": 139.391645,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f496a67b930d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 港南台店",
+    "address": "神奈川県横浜市港南区港南台4-1-1 テスコビル1F 108",
+    "lat": 35.374747,
+    "lng": 139.575973,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e32cfaf6f1ea",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 湘南台店",
+    "address": "神奈川県藤沢市湘南台2-5-9",
+    "lat": 35.396062,
+    "lng": 139.464291,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aa7fba69b92c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 溝の口南口店",
+    "address": "神奈川県川崎市高津区久本1-4-10 TKBビル",
+    "lat": 35.598805,
+    "lng": 139.610273,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4a2856e3305f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 溝の口店（松のや併設）",
+    "address": "神奈川県川崎市高津区溝口1-19-10 岡本ビル1階",
+    "lat": 35.600844,
+    "lng": 139.615037,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dd140518a317",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 瀬谷店（松のや併設）",
+    "address": "神奈川県横浜市瀬谷区中央1-6 第5白鳳ビル1F",
+    "lat": 35.470894,
+    "lng": 139.483801,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7113ae90883d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 生田店",
+    "address": "神奈川県川崎市多摩区生田7-8-9",
+    "lat": 35.615328,
+    "lng": 139.542407,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-273a1bb382ba",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 白楽店",
+    "address": "神奈川県横浜市神奈川区白楽118",
+    "lat": 35.489386,
+    "lng": 139.627266,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-04bd6dbb8b60",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 百合ヶ丘店",
+    "address": "神奈川県川崎市麻生区百合丘1-1-4",
+    "lat": 35.608455,
+    "lng": 139.516314,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d9726eb090be",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 相模原ラクーン店（松のや併設）",
+    "address": "神奈川県相模原市中央区小山1-1-10",
+    "lat": 35.583666,
+    "lng": 139.362543,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a1d2322699c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 相模原中央店",
+    "address": "神奈川県相模原市中央区中央1-10-15",
+    "lat": 35.573092,
+    "lng": 139.368818,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-69db4a31d459",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 相模原相原店（松のや併設）",
+    "address": "神奈川県相模原市緑区相原5-13-4",
+    "lat": 35.598362,
+    "lng": 139.315549,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a9a17691d5f9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 相模大野店",
+    "address": "神奈川県相模原市南区相模大野3-2-1 ボ-ノ相模大野ノ-スモ-ル1階",
+    "lat": 35.531449,
+    "lng": 139.435317,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3c27e755b33d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 矢向店",
+    "address": "神奈川県横浜市鶴見区矢向6-5-8",
+    "lat": 35.539186,
+    "lng": 139.680209,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b568ec6fb03a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 磯子店",
+    "address": "神奈川県横浜市磯子区森1-7-3 磯子センタ-ハイツ104",
+    "lat": 35.400811,
+    "lng": 139.617344,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5760b9b5fecf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 秦野店",
+    "address": "神奈川県秦野市大秦町1-4 鈴よしビル1F",
+    "lat": 35.370751,
+    "lng": 139.226628,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-33f4fb541b8d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 稲田堤店（マイカリー食堂併設）",
+    "address": "神奈川県川崎市多摩区菅2-1-1",
+    "lat": 35.633571,
+    "lng": 139.534752,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c0f2c57139f6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 綱島店",
+    "address": "神奈川県横浜市港北区綱島西1-1-3 青柳ビル1F",
+    "lat": 35.536196,
+    "lng": 139.634039,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-796950203b4f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 綾瀬寺尾西店（松のや併設）",
+    "address": "神奈川県綾瀬市寺尾西2-6-9",
+    "lat": 35.452038,
+    "lng": 139.418482,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-afd30e622803",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茅ヶ崎店",
+    "address": "神奈川県茅ヶ崎市新栄町8-8 コジマビル1F",
+    "lat": 35.330733,
+    "lng": 139.404485,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8cebb6e0aa79",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茅ヶ崎赤松町店（松のや併設）",
+    "address": "神奈川県茅ヶ崎市赤松町1-5",
+    "lat": 35.341586,
+    "lng": 139.438367,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6c2ea55c4401",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 菊名店",
+    "address": "神奈川県横浜市港北区菊名4-2-6",
+    "lat": 35.510296,
+    "lng": 139.631786,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cd7004443c63",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藤沢北口店",
+    "address": "神奈川県藤沢市藤沢462- 吉塚ビル1F",
+    "lat": 35.339903,
+    "lng": 139.485949,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-441a001a4468",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藤沢南口店",
+    "address": "神奈川県藤沢市南藤沢2-10 ワカバビル1F",
+    "lat": 35.338254,
+    "lng": 139.489068,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b7ec2dddccd2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藤沢石川店（松のや併設）",
+    "address": "神奈川県藤沢市石川6-19-7",
+    "lat": 35.387738,
+    "lng": 139.446629,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-866074d12b93",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 踊場店",
+    "address": "神奈川県横浜市泉区中田南1-2-12",
+    "lat": 35.405737,
+    "lng": 139.518087,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cbf2ba8c9685",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 追浜店",
+    "address": "神奈川県横須賀市追浜町3-13-13",
+    "lat": 35.316118,
+    "lng": 139.626613,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-95f989831515",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 逗子店",
+    "address": "神奈川県逗子市逗子2-6-29",
+    "lat": 35.296741,
+    "lng": 139.580148,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-400fbb6206fc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 都筑インター店",
+    "address": "神奈川県横浜市都筑区早渕3-37-14",
+    "lat": 35.549835,
+    "lng": 139.603204,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-34db800a7c9e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 都筑池辺町店（松のや併設）",
+    "address": "神奈川県横浜市都筑区池辺町3569",
+    "lat": 35.518312,
+    "lng": 139.57484,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8da8b55958d2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金沢八景店 （マイカリー食堂併設）",
+    "address": "神奈川県横浜市金沢区瀬戸16-38 basara東信ビル1F",
+    "lat": 35.331407,
+    "lng": 139.620899,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-75c9a139e22c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長後店",
+    "address": "神奈川県藤沢市下土棚509-10",
+    "lat": 35.412975,
+    "lng": 139.464936,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e099409f2cc9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長津田店（松のや併設）",
+    "address": "神奈川県横浜市緑区長津田4-2-20",
+    "lat": 35.532758,
+    "lng": 139.495283,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6516d4c9b194",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 関内ベイスターズ通り店",
+    "address": "神奈川県横浜市中区常盤町2-10 常盤不動産ビル1F",
+    "lat": 35.445404,
+    "lng": 139.638019,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-28f729f7d341",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青葉台駅前店",
+    "address": "神奈川県横浜市青葉区青葉台2-9-16 青葉台フラワ-ビル",
+    "lat": 35.543973,
+    "lng": 139.51632,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5f9ee961fdcf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高津店",
+    "address": "神奈川県川崎市高津区二子5-2-1",
+    "lat": 35.602646,
+    "lng": 139.616948,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-264e25a6edd2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鴨居店",
+    "address": "神奈川県横浜市緑区鴨居1-8-10 田畑ビル1F",
+    "lat": 35.510661,
+    "lng": 139.567467,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f01650c13628",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴ヶ峰店",
+    "address": "神奈川県横浜市旭区鶴ヶ峰1-12-3 大岡ビル103",
+    "lat": 35.474896,
+    "lng": 139.547409,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-81d983bf03c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴見店",
+    "address": "神奈川県横浜市鶴見区豊岡町2-2 フ-ガ2",
+    "lat": 35.508915,
+    "lng": 139.675693,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-652f78bccaad",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴見東口店（マイカリー食堂併設）",
+    "address": "神奈川県横浜市鶴見区鶴見中央1-3-3",
+    "lat": 35.508261,
+    "lng": 139.677619,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-248f1814de0a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴間店",
+    "address": "神奈川県大和市西鶴間1-2-9 TSURUMA017",
+    "lat": 35.48992,
+    "lng": 139.450579,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-03822d89bb12",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鷺沼店",
+    "address": "神奈川県川崎市宮前区鷺沼1-11-6 鷺沼第一ビル",
+    "lat": 35.578078,
+    "lng": 139.572957,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-974f52943563",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鹿島田店",
+    "address": "神奈川県川崎市幸区下平間135",
+    "lat": 35.551266,
+    "lng": 139.676405,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9132a1cfdb42",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 麻溝台店",
+    "address": "神奈川県相模原市南区麻溝台1-5-6",
+    "lat": 35.537312,
+    "lng": 139.401772,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-902",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "OSC湘南シティ店",
+    "address": "神奈川県平塚市代官町33-1 OSC湘南シティ2F 3/26(木)同施設内1Fに売場を拡大してリニュ-アルオ-プンします。",
+    "lat": 35.328758239746094,
+    "lng": 139.35679626464844,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-903",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "たまや鎌倉手広店",
+    "address": "神奈川県鎌倉市笛田町1-2-10 たまや鎌倉手広店2F",
+    "lat": 35.330020904541016,
+    "lng": 139.513916015625,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1073",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ東神奈川店",
+    "address": "神奈川県横浜市神奈川区西寺尾1-16-15",
+    "lat": 35.500877380371094,
+    "lng": 139.64439392089844,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1310",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アツギトレリス店",
+    "address": "神奈川県厚木市戸室5-31-1 アツギトレリス1F",
+    "lat": 35.448646545410156,
+    "lng": 139.3433380126953,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1157",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アピタテラス横浜綱島店",
+    "address": "神奈川県横浜市港北区綱島東4-3-17 アピタテラス横浜綱島2階",
+    "lat": 35.54195022583008,
+    "lng": 139.6414337158203,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-942",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン海老名店（旧ショッパーズプラザ海老名店）",
+    "address": "神奈川県海老名市中央3-2-5 2F",
+    "lat": 35.450538635253906,
+    "lng": 139.39111328125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-955",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "オーケーみなとみらい店",
+    "address": "神奈川県横浜市西区みなとみらい6-3-6 オ-ケ-みなとみらい店1F",
+    "lat": 35.46323776245117,
+    "lng": 139.63119506835938,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1282",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "オーケー藤沢店",
+    "address": "神奈川県藤沢市南藤沢6-23 オ-ケ-藤沢店6F",
+    "lat": 35.33796691894531,
+    "lng": 139.49046325683594,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-608",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナンセンター南店",
+    "address": "神奈川県横浜市都筑区茅ヶ崎中央53-1 コ-ナン港北センタ-南モ-ル内",
+    "lat": 35.54666519165039,
+    "lng": 139.57640075683594,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-901",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン川崎小田栄店",
+    "address": "神奈川県川崎市川崎区小田栄2-3-1 コ-ナン川崎小田栄店 2F",
+    "lat": 35.5139274597168,
+    "lng": 139.71009826660156,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1053",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン港北インター店",
+    "address": "神奈川県横浜市都筑区折本町191- コ-ナン港北インタ-店 2階",
+    "lat": 35.52135467529297,
+    "lng": 139.58932495117188,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1204",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン鎌倉大船店",
+    "address": "神奈川県鎌倉市岡本1188-1 コ-ナン鎌倉大船店 2階",
+    "lat": 35.346797943115234,
+    "lng": 139.5175323486328,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1076",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サクラス戸塚店",
+    "address": "神奈川県横浜市戸塚区戸塚町4253-1 サクラス戸塚2階",
+    "lat": 35.401123046875,
+    "lng": 139.53106689453125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-928",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サミット横浜岡野店",
+    "address": "神奈川県横浜市西区岡野2-5-18 サミット横浜岡野店の1階",
+    "lat": 35.45915603637695,
+    "lng": 139.61154174804688,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-751",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ザ・マーケットプレイス相模原下九沢店",
+    "address": "神奈川県相模原市中央区下九沢57-1",
+    "lat": 35.575782775878906,
+    "lng": 139.34632873535156,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1040",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トレアージュ白旗店",
+    "address": "神奈川県藤沢市藤沢2-3-15",
+    "lat": 35.34975051879883,
+    "lng": 139.47900390625,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1259",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トレッサ横浜店",
+    "address": "神奈川県横浜市港北区師岡町700- 南棟2階",
+    "lat": 35.52419662475586,
+    "lng": 139.6454620361328,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-998",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ノジマモール横須賀店",
+    "address": "神奈川県横須賀市平成町3-28-2 ノジマモ-ル横須賀2階",
+    "lat": 35.27800750732422,
+    "lng": 139.68093872070312,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1398",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "バロー横浜下永谷店",
+    "address": "神奈川県横浜市港南区下永谷5-2-1",
+    "lat": 35.411888122558594,
+    "lng": 139.5605926513672,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-39",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ビアレヨコハマ店",
+    "address": "神奈川県横浜市金沢区並木2-13-2 ビアレヨコハマ新館内",
+    "lat": 35.36190414428711,
+    "lng": 139.6392822265625,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1263",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ブランチ横浜南部市場店",
+    "address": "神奈川県横浜市金沢区鳥浜町1-1",
+    "lat": 35.38026809692383,
+    "lng": 139.63661193847656,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-644",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ホームズ川崎大師店",
+    "address": "神奈川県川崎市川崎区中瀬3-20-20 島忠ホ-ムズ内",
+    "lat": 35.5386848449707,
+    "lng": 139.7333526611328,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1307",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ホームズ新山下店",
+    "address": "神奈川県横浜市中区新山下2-12-34 島忠ホ-ムズ新山下2F",
+    "lat": 35.439762115478516,
+    "lng": 139.66104125976562,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1403",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミスターマックス湘南藤沢店",
+    "address": "神奈川県藤沢市辻堂新町4-3-5 ミスタ-マックス湘南藤沢SC 1F",
+    "lat": 35.341548919677734,
+    "lng": 139.46507263183594,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1025",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "モザイクモール港北店",
+    "address": "神奈川県横浜市都筑区中川中央1-31-1 モザイクモ-ル港北4階",
+    "lat": 35.555015563964844,
+    "lng": 139.5779571533203,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1100",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ロピアいずみ中央店",
+    "address": "神奈川県横浜市泉区上飯田町2060 ロピアいずみ中央店2階",
+    "lat": 35.42148208618164,
+    "lng": 139.48410034179688,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1128",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三和百合ヶ丘店",
+    "address": "神奈川県川崎市麻生区百合丘1-16 三和百合ヶ丘店 B館 1階",
+    "lat": 35.6057014465332,
+    "lng": 139.51577758789062,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-837",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三和麻溝店",
+    "address": "神奈川県相模原市南区下溝598-1 三和麻溝店2階",
+    "lat": 35.53010940551758,
+    "lng": 139.3765869140625,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-675",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "中央林間店",
+    "address": "神奈川県大和市下鶴間1785-2",
+    "lat": 35.50035858154297,
+    "lng": 139.45343017578125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1061",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "厚木ガーデンシティ店",
+    "address": "神奈川県厚木市中町1-5-10 厚木ガ-デンシティ内5階",
+    "lat": 35.442161560058594,
+    "lng": 139.36660766601562,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-169",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "厚木下荻野店",
+    "address": "神奈川県厚木市下荻野1393-5",
+    "lat": 35.47798538208008,
+    "lng": 139.34017944335938,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-170",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "厚木愛甲店",
+    "address": "神奈川県厚木市愛甲三-8-29",
+    "lat": 35.423465728759766,
+    "lng": 139.34896850585938,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-212",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大和桜ヶ丘店",
+    "address": "神奈川県大和市福田5678-1",
+    "lat": 35.45421600341797,
+    "lng": 139.46640014648438,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-613",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小田原シティーモール店",
+    "address": "神奈川県小田原市前川100 フレスポ小田原シティ-モ-ル内北館 1階",
+    "lat": 35.281898498535156,
+    "lng": 139.19369506835938,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1119",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎ルフロン店",
+    "address": "神奈川県川崎市川崎区日進町1-11 川崎ルフロン6F",
+    "lat": 35.5280647277832,
+    "lng": 139.69509887695312,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-277",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎下並木店",
+    "address": "神奈川県川崎市川崎区下並木75-",
+    "lat": 35.52216720581055,
+    "lng": 139.68878173828125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-278",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎中丸子店",
+    "address": "神奈川県川崎市中原区中丸子639-1",
+    "lat": 35.5648078918457,
+    "lng": 139.67442321777344,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-286",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎久末店",
+    "address": "神奈川県川崎市高津区久末2144-1",
+    "lat": 35.56838607788086,
+    "lng": 139.6248321533203,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1144",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎新久地店",
+    "address": "神奈川県川崎市高津区久地2-5-21",
+    "lat": 35.61212921142578,
+    "lng": 139.61216735839844,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-280",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎長沢店",
+    "address": "神奈川県川崎市多摩区長沢4-29-1",
+    "lat": 35.59912109375,
+    "lng": 139.5338897705078,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-281",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎馬絹店",
+    "address": "神奈川県川崎市宮前区馬絹4-2-5",
+    "lat": 35.580692291259766,
+    "lng": 139.5970916748047,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-573",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川崎麻生店",
+    "address": "神奈川県川崎市麻生区黒川字谷769-1",
+    "lat": 35.619022369384766,
+    "lng": 139.46841430664062,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-828",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "平塚南原店",
+    "address": "神奈川県平塚市南原1-24-17",
+    "lat": 35.33835983276367,
+    "lng": 139.3234405517578,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-666",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "戸塚金井店",
+    "address": "神奈川県横浜市戸塚区戸塚町1306-10",
+    "lat": 35.380001068115234,
+    "lng": 139.52586364746094,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-962",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東戸塚西口プラザ店",
+    "address": "神奈川県横浜市戸塚区川上町87-8 東戸塚西口プラザ 2F",
+    "lat": 35.431644439697266,
+    "lng": 139.5543670654297,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-380",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "横浜港南日野中央店",
+    "address": "神奈川県横浜市港南区日野中央3-19-12",
+    "lat": 35.377891540527344,
+    "lng": 139.58868408203125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1074",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "横浜港南野庭店",
+    "address": "神奈川県横浜市港南区日野六-11-1",
+    "lat": 35.393310546875,
+    "lng": 139.57635498046875,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-536",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "横浜長津田店",
+    "address": "神奈川県横浜市緑区長津田みなみ台5-11-4",
+    "lat": 35.523258209228516,
+    "lng": 139.49874877929688,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-544",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "横浜青葉ガーデン桂台店",
+    "address": "神奈川県横浜市青葉区桂台2-4-1 横浜青葉ガ-デン桂台内",
+    "lat": 35.54655456542969,
+    "lng": 139.5001983642578,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-658",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "横須賀佐原店",
+    "address": "神奈川県横須賀市佐原三-21-1",
+    "lat": 35.23333740234375,
+    "lng": 139.678466796875,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-822",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "湘南とうきゅう店",
+    "address": "神奈川県藤沢市遠藤字滝ノ沢698-10 湘南とうきゅうSC内2F",
+    "lat": 35.37135696411133,
+    "lng": 139.44212341308594,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-205",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "相模原インター店",
+    "address": "神奈川県相模原市緑区向原一-16-27",
+    "lat": 35.59065246582031,
+    "lng": 139.3038787841797,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-435",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "相模原古淵店",
+    "address": "神奈川県相模原市中央区東淵野辺4-23-15",
+    "lat": 35.55787658691406,
+    "lng": 139.41175842285156,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1325",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "相模原相武台店",
+    "address": "神奈川県相模原市南区相武台三-26-35",
+    "lat": 35.504661560058594,
+    "lng": 139.4091339111328,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-436",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "相模原駅南口店",
+    "address": "神奈川県相模原市中央区相模原2-14-1",
+    "lat": 35.577842712402344,
+    "lng": 139.36793518066406,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-630",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "藤沢葛原店",
+    "address": "神奈川県藤沢市葛原2248",
+    "lat": 35.406368255615234,
+    "lng": 139.44015502929688,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1326",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西武東戸塚S.C.店",
+    "address": "神奈川県横浜市戸塚区品濃町537-1 西武東戸塚S.C. 西武館5F",
+    "lat": 35.43033218383789,
+    "lng": 139.5584716796875,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-521",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "辻堂店",
+    "address": "神奈川県藤沢市羽鳥1-3-11",
+    "lat": 35.343467712402344,
+    "lng": 139.44903564453125,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-911",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "開成店",
+    "address": "神奈川県足柄上郡開成町みなみ一-19-8",
+    "lat": 35.32217788696289,
+    "lng": 139.1304931640625,
+    "prefecture": "神奈川県",
+    "prefectureCode": "kanagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

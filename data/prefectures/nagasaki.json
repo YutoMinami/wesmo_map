@@ -1,0 +1,162 @@
+[
+  {
+    "id": "matsuya-426fb5e81e3d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大村店（松のや併設）",
+    "address": "長崎県大村市今津町649-1",
+    "lat": 32.934756,
+    "lng": 129.936826,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1167",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "みらい長崎ココウォーク店",
+    "address": "長崎県長崎市茂里町1-55",
+    "lat": 32.76298141479492,
+    "lng": 129.86477661132812,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-20",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ諫早店",
+    "address": "長崎県諫早市久山町1271-6 アクロスプラザ諫早内",
+    "lat": 32.8278694152832,
+    "lng": 129.99819946289062,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1400",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン東長崎店",
+    "address": "長崎県長崎市田中町1027-8",
+    "lat": 32.76961135864258,
+    "lng": 129.94725036621094,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-599",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ福田ウエスト店",
+    "address": "長崎県長崎市小浦町714-8 フレスポ福田WEST内",
+    "lat": 32.748783111572266,
+    "lng": 129.8245086669922,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-54",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ長崎深堀店",
+    "address": "長崎県長崎市深堀町1-145-24",
+    "lat": 32.682220458984375,
+    "lng": 129.82826232910156,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-105",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐世保矢峰店",
+    "address": "長崎県佐世保市矢峰町223-1",
+    "lat": 33.21200180053711,
+    "lng": 129.74444580078125,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-861",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "諫早森山店",
+    "address": "長崎県諫早市森山町田尻1900-1",
+    "lat": 32.82530975341797,
+    "lng": 130.1479949951172,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-216",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長崎大村店",
+    "address": "長崎県大村市古賀島町428",
+    "lat": 32.928714752197266,
+    "lng": 129.93789672851562,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-534",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "長崎時津店",
+    "address": "長崎県西彼杵郡時津町久留里郷321-1",
+    "lat": 32.83867645263672,
+    "lng": 129.83816528320312,
+    "prefecture": "長崎県",
+    "prefectureCode": "nagasaki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

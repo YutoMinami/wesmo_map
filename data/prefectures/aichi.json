@@ -1,0 +1,1666 @@
+[
+  {
+    "id": "matsuya-ea43928c4cf5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 みよし店（松のや併設）",
+    "address": "愛知県みよし市三好町上265",
+    "lat": 35.087938,
+    "lng": 137.065912,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-558d986fd211",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 サテライト安城店",
+    "address": "愛知県安城市住吉町荒曽根30-8",
+    "lat": 34.980274,
+    "lng": 137.078562,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dbf92f5a9989",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 一宮店（松のや併設）",
+    "address": "愛知県一宮市赤見1-2-4",
+    "lat": 35.303568,
+    "lng": 136.821844,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-96e0dcacd60e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三河安城店（松のや併設）",
+    "address": "愛知県安城市緑町2-9-2",
+    "lat": 34.972298,
+    "lng": 137.048167,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-30b0a6094432",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上前津店",
+    "address": "愛知県名古屋市中区大須4-11-9",
+    "lat": 35.158409,
+    "lng": 136.906633,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6f7ed3ea688a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上飯田店",
+    "address": "愛知県名古屋市北区上飯田通1-13",
+    "lat": 35.203401,
+    "lng": 136.929329,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2d77f80b8ac7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀島店（松のや併設）",
+    "address": "愛知県名古屋市中村区則武本通1-36 マシュ-ビル 1F",
+    "lat": 35.176003,
+    "lng": 136.872619,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-00a3156c2e0c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 今池店（松のや併設）",
+    "address": "愛知県名古屋市千種区今池5-23-14 コザキ今池ビル1F",
+    "lat": 35.167076,
+    "lng": 136.936888,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-db2b43e7bcfb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 入場店（松のや併設）",
+    "address": "愛知県名古屋市港区入場1-1303-1",
+    "lat": 35.113572,
+    "lng": 136.854241,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2a2abb03bad0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 刈谷日高店",
+    "address": "愛知県刈谷市日高町4-611",
+    "lat": 35.005974,
+    "lng": 136.993489,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-67102c0f11ea",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 半田店（マイカリー食堂併設）",
+    "address": "愛知県半田市宮本町6-216-7",
+    "lat": 34.882738,
+    "lng": 136.910538,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-01a7b6f0ad4c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 名駅西店（マイカリー食堂併設）",
+    "address": "愛知県名古屋市中村区亀島2-12-1",
+    "lat": 35.174601,
+    "lng": 136.878933,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-72d7e92964b1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大府店（松のや併設）",
+    "address": "愛知県大府市一屋町5-3",
+    "lat": 35.025344,
+    "lng": 136.953026,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d4462526f66a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大曽根北店",
+    "address": "愛知県名古屋市北区山田町4-72",
+    "lat": 35.19902,
+    "lng": 136.938636,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d6735fba9828",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 安城錦町店",
+    "address": "愛知県安城市錦町8-5",
+    "lat": 34.952627,
+    "lng": 137.081877,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5535ef5f3b8f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小牧店",
+    "address": "愛知県小牧市小木東1-146",
+    "lat": 35.279793,
+    "lng": 136.906235,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-16669af33152",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岡崎北店",
+    "address": "愛知県岡崎市鴨田町字広元196",
+    "lat": 34.981913,
+    "lng": 137.162359,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6539d2ea67ee",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平針店（松のや・マイカリー食堂併設）",
+    "address": "愛知県名古屋市天白区平針3-117 クレスト杉浦",
+    "lat": 35.123236,
+    "lng": 137.007914,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-11bef352e87a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広小路本町店",
+    "address": "愛知県名古屋市中区栄2-4-7 チサンマンション広小路1F",
+    "lat": 35.16831,
+    "lng": 136.901913,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-785b649090d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新栄店",
+    "address": "愛知県名古屋市中区葵1-20-19 芝電ビル1F",
+    "lat": 35.170001,
+    "lng": 136.920177,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-982cf5ef35dc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 春日井店（松のや併設）",
+    "address": "愛知県春日井市鳥居松町4-14",
+    "lat": 35.247426,
+    "lng": 136.970612,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ca9fcbf62f5d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 栄三丁目店",
+    "address": "愛知県名古屋市中区栄3-13-11",
+    "lat": 35.166559,
+    "lng": 136.905811,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7cc61e38aa53",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 森孝店（松のや併設）",
+    "address": "愛知県名古屋市守山区森孝4-507",
+    "lat": 35.192337,
+    "lng": 137.008754,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0005e77e0b84",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 植田一本松店（松のや併設）",
+    "address": "愛知県名古屋市天白区一本松2-701",
+    "lat": 35.137699,
+    "lng": 136.985971,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8b82752f847c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 江南店",
+    "address": "愛知県江南市高屋町西町112",
+    "lat": 35.347918,
+    "lng": 136.872521,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5ee52b495171",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 瀬戸店",
+    "address": "愛知県瀬戸市共栄通6-4",
+    "lat": 35.219228,
+    "lng": 137.07103,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-da47a63988f2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 犬山店（松のや併設）",
+    "address": "愛知県犬山市大字犬山字東古券334-1",
+    "lat": 35.381467,
+    "lng": 136.943709,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9eb446d97105",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 知多店（松のや併設）",
+    "address": "愛知県知多市にしの台4-1-11",
+    "lat": 34.981368,
+    "lng": 136.868746,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0ab4fc21330b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 稲沢店（松のや併設）",
+    "address": "愛知県稲沢市正明寺2-16-2",
+    "lat": 35.249562,
+    "lng": 136.80654,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7c00c550db13",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 笠寺店（松のや併設）",
+    "address": "愛知県名古屋市南区千竈通7-8-1",
+    "lat": 35.098186,
+    "lng": 136.927698,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-80277a572ef2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 篠原橋通店（マイカリー食堂併設）",
+    "address": "愛知県名古屋市中川区篠原橋通2-22",
+    "lat": 35.140469,
+    "lng": 136.866791,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e7675a0ff001",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 納屋橋店 （松のや併設）",
+    "address": "愛知県名古屋市中村区名駅南1-3-14 石原ビル1F",
+    "lat": 35.16784,
+    "lng": 136.890668,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f69c105b813d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蒲郡店（松のや併設）",
+    "address": "愛知県蒲郡市旭町15-1",
+    "lat": 34.826297,
+    "lng": 137.218406,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-63bb7942b600",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藤が丘店",
+    "address": "愛知県名古屋市名東区藤が丘164- 藤ヶ丘団地2棟1階3",
+    "lat": 35.182712,
+    "lng": 137.022026,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9c681c909623",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蟹江店（松のや併設）",
+    "address": "愛知県海部郡蟹江町錦2-162 メナ-錦1階",
+    "lat": 35.135159,
+    "lng": 136.780356,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c18542307c8e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西尾店（松のや併設）",
+    "address": "愛知県西尾市上町泡原2",
+    "lat": 34.872259,
+    "lng": 137.046077,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1cced9e57768",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊山店",
+    "address": "愛知県西春日井郡豊山町大字豊場字栄81",
+    "lat": 35.249719,
+    "lng": 136.908349,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bffaf87feccd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊川店（松のや併設）",
+    "address": "愛知県豊川市牧野町1-25",
+    "lat": 34.82277,
+    "lng": 137.406113,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e61b4af8010f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊明店（松のや併設）",
+    "address": "愛知県豊明市西川町島原8-7",
+    "lat": 35.056014,
+    "lng": 137.014755,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-74ab24a21957",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊橋つつじが丘店",
+    "address": "愛知県豊橋市つつじが丘1-6-10",
+    "lat": 34.749771,
+    "lng": 137.398427,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f98f05500f60",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊橋藤沢町店",
+    "address": "愛知県豊橋市藤沢町138-",
+    "lat": 34.745542,
+    "lng": 137.372269,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-37754fa4b676",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊田十塚店（松のや併設）",
+    "address": "愛知県豊田市十塚町4-23-1",
+    "lat": 35.08004,
+    "lng": 137.160248,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-eb9f1d8e1ef8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊田山之手店（松のや併設）",
+    "address": "愛知県豊田市山之手6-70",
+    "lat": 35.056447,
+    "lng": 137.142406,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ac10a54b338e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊田東新町店",
+    "address": "愛知県豊田市東新町5-20-1",
+    "lat": 35.0793,
+    "lng": 137.122588,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d1b5e2561892",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野並店",
+    "address": "愛知県名古屋市緑区鳴海町字杜若7-1",
+    "lat": 35.099561,
+    "lng": 136.953493,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ec76d6e889ed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長久手店",
+    "address": "愛知県長久手市武蔵塚702",
+    "lat": 35.171278,
+    "lng": 137.04454,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f820d40f9d2f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青柳町店",
+    "address": "愛知県名古屋市千種区青柳町6-21-1",
+    "lat": 35.159045,
+    "lng": 136.939004,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1033",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ扶桑店",
+    "address": "愛知県丹羽郡扶桑町高雄下野7",
+    "lat": 35.36503219604492,
+    "lng": 136.9218292236328,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1370",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アピタパワー岩倉店",
+    "address": "愛知県岩倉市旭町一-25- アピタパワ-岩倉店 1F",
+    "lat": 35.27674865722656,
+    "lng": 136.87208557128906,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1319",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アピタパワー木曽川店",
+    "address": "愛知県一宮市木曽川町黒田八ノ通51-4",
+    "lat": 35.34449005126953,
+    "lng": 136.79042053222656,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1114",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アピタ長久手店",
+    "address": "愛知県長久手市戸田谷901-1 アピタ長久手店内",
+    "lat": 35.172454833984375,
+    "lng": 137.03834533691406,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-852",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アンディ安城店",
+    "address": "愛知県安城市住吉町3-5-28 アンディ安城店2階",
+    "lat": 34.98019027709961,
+    "lng": 137.08221435546875,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1107",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン名西店",
+    "address": "愛知県名古屋市西区香呑町6-49-1",
+    "lat": 35.20404052734375,
+    "lng": 136.89248657226562,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-594",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ウィングタウン岡崎店",
+    "address": "愛知県岡崎市羽根町小豆坂3",
+    "lat": 34.92363739013672,
+    "lng": 137.17454528808594,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-289",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "カメリアガーデン幸田店",
+    "address": "愛知県額田郡幸田町大字相見字沖原27-1 カメリアガ-デン幸田内",
+    "lat": 34.88853073120117,
+    "lng": 137.16334533691406,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1404",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ギャラリエアピタ知立店",
+    "address": "愛知県知立市長篠町大山18-1 ギャラリエアピタ知立 本館1F",
+    "lat": 34.99787521362305,
+    "lng": 137.05165100097656,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-919",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "クラスポ蒲郡店",
+    "address": "愛知県蒲郡市鹿島町浅井新田1-26 クラスポ蒲郡ショッピングセンタ-内",
+    "lat": 34.8116455078125,
+    "lng": 137.1950225830078,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1106",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "クロスモール豊田陣中店",
+    "address": "愛知県豊田市陣中町1-26-8 クロスモ-ル豊田陣中 2F",
+    "lat": 35.093299865722656,
+    "lng": 137.1625518798828,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-35",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "シャンピアポート高辻店",
+    "address": "愛知県名古屋市昭和区白金3-6-24 シャンピアポ-ト高辻内2階ダイソ-横",
+    "lat": 35.143009185791016,
+    "lng": 136.91769409179688,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1121",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヒルズウォーク徳重店",
+    "address": "愛知県名古屋市緑区元徳重1-505- ヒルズウォ-ク徳重ガ-デンズ2F",
+    "lat": 35.09433364868164,
+    "lng": 136.99925231933594,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1206",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フィール常滑店",
+    "address": "愛知県常滑市千代ヶ丘五-100",
+    "lat": 34.89027786254883,
+    "lng": 136.8488311767578,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1285",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "プリオ豊川店",
+    "address": "愛知県豊川市諏訪3-300- 2階",
+    "lat": 34.82582473754883,
+    "lng": 137.37030029296875,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-453",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ボナンザシティ稲沢店",
+    "address": "愛知県稲沢市朝府町4-1 ボナンザシティヨシヅヤ新稲沢店2F",
+    "lat": 35.25145721435547,
+    "lng": 136.7791290283203,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1308",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "メグリア藤岡店",
+    "address": "愛知県豊田市西中山町道貝101-",
+    "lat": 35.150875091552734,
+    "lng": 137.18035888671875,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1362",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヤマナカ新中島店",
+    "address": "愛知県名古屋市中川区中島新町2-202- ヤマナカ新中島店 2F",
+    "lat": 35.127281188964844,
+    "lng": 136.85386657714844,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1279",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨシヅヤJR蟹江駅前店",
+    "address": "愛知県海部郡蟹江町桜一-212- ヨシヅヤJR蟹江駅前店1F",
+    "lat": 35.14352798461914,
+    "lng": 136.79747009277344,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1245",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨシヅヤ太平通り店",
+    "address": "愛知県名古屋市中川区宮脇町2-11-",
+    "lat": 35.13507080078125,
+    "lng": 136.86795043945312,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1197",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨシヅヤ津島本店",
+    "address": "愛知県津島市津島北新開351- ヨシヅヤ津島本店 3F",
+    "lat": 35.17525100708008,
+    "lng": 136.74703979492188,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1312",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨシヅヤ清洲店",
+    "address": "愛知県清須市西市場五-5-3 ヨシヅヤ清洲店3階",
+    "lat": 35.21896743774414,
+    "lng": 136.8284454345703,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1020",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ライフガーデン勝川店",
+    "address": "愛知県春日井市小野町2-1-1 ライフガ-デン勝川2F",
+    "lat": 35.22855758666992,
+    "lng": 136.9615936279297,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1044",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "リソラ大府店",
+    "address": "愛知県大府市柊山町1-98- リソラ大府ショッピングテラス1F",
+    "lat": 35.01651382446289,
+    "lng": 136.95758056640625,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-857",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "一宮三条店",
+    "address": "愛知県一宮市三条郷東藤21-1",
+    "lat": 35.3077278137207,
+    "lng": 136.76467895507812,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1005",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "一宮浜町店",
+    "address": "愛知県一宮市浜町4-6",
+    "lat": 35.3090934753418,
+    "lng": 136.81253051757812,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-163",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "半田柊店",
+    "address": "愛知県半田市柊町5-6-8",
+    "lat": 34.90049362182617,
+    "lng": 136.91024780273438,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-924",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名古屋なるぱーく店",
+    "address": "愛知県名古屋市緑区浦里3-232 なるぱ-くショッピングセンタ-の2階",
+    "lat": 35.08452606201172,
+    "lng": 136.9467010498047,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-180",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名古屋北店",
+    "address": "愛知県名古屋市北区苗田町80-",
+    "lat": 35.23690414428711,
+    "lng": 136.91738891601562,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-181",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名古屋天白店",
+    "address": "愛知県名古屋市天白区原3-906",
+    "lat": 35.121150970458984,
+    "lng": 136.99081420898438,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-296",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名古屋当知店",
+    "address": "愛知県名古屋市港区当知2-701-",
+    "lat": 35.107181549072266,
+    "lng": 136.85061645507812,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-412",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名古屋滝ノ水店",
+    "address": "愛知県名古屋市緑区細口2-608-",
+    "lat": 35.086647033691406,
+    "lng": 136.98838806152344,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1256",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名古屋茶屋店",
+    "address": "愛知県名古屋市港区東茶屋二-412-",
+    "lat": 35.10548400878906,
+    "lng": 136.8287811279297,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-217",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大治店",
+    "address": "愛知県海部郡大治町三本木字金久45-",
+    "lat": 35.168212890625,
+    "lng": 136.81732177734375,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-853",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "守山しだみ店",
+    "address": "愛知県名古屋市守山区下志段味三-1308- ライフガ-デン志段味西内",
+    "lat": 35.244651794433594,
+    "lng": 137.015869140625,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-238",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "安城小堤店",
+    "address": "愛知県安城市城南町1-3-2",
+    "lat": 34.9534797668457,
+    "lng": 137.07952880859375,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-598",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小牧店",
+    "address": "愛知県小牧市小牧原新田1425-1",
+    "lat": 35.30103302001953,
+    "lng": 136.92491149902344,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-272",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡崎井田店",
+    "address": "愛知県岡崎市井田西町3-9",
+    "lat": 34.97633361816406,
+    "lng": 137.1600341796875,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1164",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新イオンタウン弥富店",
+    "address": "愛知県弥富市五明町蒲原1371-4",
+    "lat": 35.1146354675293,
+    "lng": 136.7159423828125,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-321",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "日進竹の山店",
+    "address": "愛知県日進市竹の山三-807-",
+    "lat": 35.15281677246094,
+    "lng": 137.03843688964844,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-650",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "春日井店",
+    "address": "愛知県春日井市八田町八-1-7",
+    "lat": 35.25169372558594,
+    "lng": 136.9718780517578,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1109",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "有松ジャンボリー店",
+    "address": "愛知県名古屋市緑区南陵601",
+    "lat": 35.0451545715332,
+    "lng": 136.96580505371094,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1151",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東海荒尾店",
+    "address": "愛知県東海市荒尾町丸根1-22 マックスバリュ東海荒尾店ショッピングセンタ-内",
+    "lat": 35.02722930908203,
+    "lng": 136.90811157226562,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-706",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東郷店",
+    "address": "愛知県愛知郡東郷町大字春木字白土1-2200",
+    "lat": 35.10903549194336,
+    "lng": 137.02183532714844,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-391",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "江南赤童子店",
+    "address": "愛知県江南市赤童子町栄56-",
+    "lat": 35.32978439331055,
+    "lng": 136.8633270263672,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-415",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "瀬戸小坂店",
+    "address": "愛知県瀬戸市小坂町235-",
+    "lat": 35.2023811340332,
+    "lng": 137.05154418945312,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-799",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "甚目寺店",
+    "address": "愛知県あま市甚目寺五位田128",
+    "lat": 35.19685363769531,
+    "lng": 136.82472229003906,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-847",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "碧南店",
+    "address": "愛知県碧南市音羽町4-73",
+    "lat": 34.87074661254883,
+    "lng": 136.98448181152344,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-765",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西尾シャオ店",
+    "address": "愛知県西尾市上町泡原73-5",
+    "lat": 34.869407653808594,
+    "lng": 137.04736328125,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1372",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西尾一色店",
+    "address": "愛知県西尾市一色町対米九郎左30-1",
+    "lat": 34.80556106567383,
+    "lng": 137.03221130371094,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-633",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西春店",
+    "address": "愛知県北名古屋市徳重大日51-1",
+    "lat": 35.25558853149414,
+    "lng": 136.8673858642578,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-511",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊橋中岩田店",
+    "address": "愛知県豊橋市中岩田2-8-7",
+    "lat": 34.753868103027344,
+    "lng": 137.42604064941406,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-649",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊橋吉田方店",
+    "address": "愛知県豊橋市三ツ相町365-",
+    "lat": 34.77305221557617,
+    "lng": 137.36163330078125,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-512",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊橋高師店",
+    "address": "愛知県豊橋市高師町字西沢120-2",
+    "lat": 34.72317123413086,
+    "lng": 137.38575744628906,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-85",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊田丸山店",
+    "address": "愛知県豊田市丸山町4-12-1",
+    "lat": 35.064327239990234,
+    "lng": 137.15097045898438,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-624",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高浜店",
+    "address": "愛知県高浜市稗田町二-7-18",
+    "lat": 34.925960540771484,
+    "lng": 136.99252319335938,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-560",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高蔵寺店",
+    "address": "愛知県春日井市白山町5-11-5",
+    "lat": 35.27162170410156,
+    "lng": 137.0279083251953,
+    "prefecture": "愛知県",
+    "prefectureCode": "aichi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

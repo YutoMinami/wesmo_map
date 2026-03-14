@@ -1,0 +1,6482 @@
+[
+  {
+    "id": "matsuya-945327ddac04",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 お花茶屋店",
+    "address": "東京都葛飾区お花茶屋1-19-16 飯田ビル",
+    "lat": 35.747792,
+    "lng": 139.840514,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2ac418763f9a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 ときわ台店",
+    "address": "東京都板橋区常盤台1-2-5 町田ビル1F",
+    "lat": 35.759503,
+    "lng": 139.689947,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-07e7c10ce30b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 ひばりが丘店",
+    "address": "東京都西東京市ひばりが丘北3-3-14",
+    "lat": 35.751954,
+    "lng": 139.545121,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-019cec5a8664",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 シティタワー品川店",
+    "address": "東京都港区港南4-2-20 シティタワ-品川1階F区画",
+    "lat": 35.631303,
+    "lng": 139.748195,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-82ec90fa2e64",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三ノ輪店",
+    "address": "東京都台東区三ノ輪2-14-10",
+    "lat": 35.73031,
+    "lng": 139.792113,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-53b5d2010797",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三宿店",
+    "address": "東京都世田谷区池尻3-30-10",
+    "lat": 35.647588,
+    "lng": 139.677986,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1348ea13e806",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三軒茶屋店",
+    "address": "東京都世田谷区三軒茶屋1-32-15 ハイツ北岡1F",
+    "lat": 35.642381,
+    "lng": 139.670848,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c0e36a01ef7d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三鷹南口店",
+    "address": "東京都三鷹市下連雀3-34-22 ライオンズプラザ三鷹駅前",
+    "lat": 35.700889,
+    "lng": 139.560857,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9ed7ea0e1a26",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三鷹店",
+    "address": "東京都武蔵野市中町1-14-5",
+    "lat": 35.703407,
+    "lng": 139.561271,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-19df5c535022",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上板橋店",
+    "address": "東京都板橋区常盤台4-33-13 丸萩ビル1F",
+    "lat": 35.763932,
+    "lng": 139.676774,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-62b48367d299",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上石神井店",
+    "address": "東京都練馬区上石神井2-25-5 栄ビル 1F",
+    "lat": 35.726839,
+    "lng": 139.591501,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-155f9604bbc7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上野店",
+    "address": "東京都台東区上野4-9-5 石井ビル1F.2F",
+    "lat": 35.710037,
+    "lng": 139.773889,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e3c86b406e5b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上野浅草口店",
+    "address": "東京都台東区上野7-2-1",
+    "lat": 35.712541,
+    "lng": 139.777373,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2ae6627fe6d1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 下北沢店",
+    "address": "東京都世田谷区北沢2-19-13 松本ビル1F",
+    "lat": 35.660857,
+    "lng": 139.667491,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bde6748e7822",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 下板橋店",
+    "address": "東京都豊島区池袋本町3-25-13",
+    "lat": 35.745406,
+    "lng": 139.714362,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-caf1014007e9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 下石神井店（マイカリー食堂併設）",
+    "address": "東京都練馬区下石神井4-1-7 MSビル1F",
+    "lat": 35.727863,
+    "lng": 139.60737,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ef52338a224e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 下赤塚店（マイカリー食堂併設）",
+    "address": "東京都板橋区赤塚2-1-14 入山プラザ1階",
+    "lat": 35.770378,
+    "lng": 139.645365,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e57cb1f6aa1d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 下高井戸店",
+    "address": "東京都世田谷区赤堤4-48-10 雪華堂ビル1F",
+    "lat": 35.665786,
+    "lng": 139.639309,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-047640435ab3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 不動前店",
+    "address": "東京都品川区西五反田4-30-12 福井ビル",
+    "lat": 35.626198,
+    "lng": 139.712762,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dc19517c2f1a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 両国店",
+    "address": "東京都墨田区横網1-3-8",
+    "lat": 35.69577,
+    "lng": 139.793585,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-99d628983813",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中延店",
+    "address": "東京都品川区中延4-5-3 智勇第一ビル1F",
+    "lat": 35.606011,
+    "lng": 139.712689,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0357233e3742",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中村橋店",
+    "address": "東京都練馬区貫井2-2-5 ムツワビル1.2F",
+    "lat": 35.737451,
+    "lng": 139.637984,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6da22f9b4afa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中板橋店",
+    "address": "東京都板橋区中板橋21-2 中板堂ビル",
+    "lat": 35.755783,
+    "lng": 139.696873,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-951fb2a09200",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中河原店（松のや併設 弁当専門店）",
+    "address": "東京都府中市住吉町2-2-2",
+    "lat": 35.659401,
+    "lng": 139.457552,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-54054b5f8cbd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中目黒店",
+    "address": "東京都目黒区上目黒3-3-1 中津川ビル1・2F",
+    "lat": 35.644627,
+    "lng": 139.698423,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b796db89a610",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中目黒青葉台2丁目店",
+    "address": "東京都目黒区青葉台2-21-9 柴弘ビル",
+    "lat": 35.648161,
+    "lng": 139.693732,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4316087584f0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野南口店",
+    "address": "東京都中野区中野2-29-8 NTビル1F",
+    "lat": 35.703803,
+    "lng": 139.665686,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ae3466f13ced",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野坂上店",
+    "address": "東京都中野区中央2-1-2 中野坂上吉田ビル1F",
+    "lat": 35.697279,
+    "lng": 139.682397,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-910c04e03e0e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野富士見町店",
+    "address": "東京都中野区弥生町5-27-7 プレミ-ル富士見1F",
+    "lat": 35.690814,
+    "lng": 139.667164,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-68bdc2332ef1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野新橋店",
+    "address": "東京都中野区弥生町2-23-3 松屋ビル1F",
+    "lat": 35.692644,
+    "lng": 139.674291,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-792613c36861",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野通り店",
+    "address": "東京都中野区中野5-68-9 松鶴堂ビル",
+    "lat": 35.709468,
+    "lng": 139.665158,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6979ad68a8a9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中野駅前店",
+    "address": "東京都中野区中野5-65-5 豊島興業ビル1F",
+    "lat": 35.707347,
+    "lng": 139.665389,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b4246094cc30",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 久我山店",
+    "address": "東京都杉並区久我山2-28-1 矢崎ビル1・2F",
+    "lat": 35.687636,
+    "lng": 139.599928,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2914531d282",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 久米川店（マイカリー食堂併設）",
+    "address": "東京都東村山市栄町1-5-2",
+    "lat": 35.749841,
+    "lng": 139.473242,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cd2b18274aa7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 九品仏店（松のや併設 弁当専門店）",
+    "address": "東京都世田谷区奥沢6-25-8",
+    "lat": 35.604998,
+    "lng": 139.661596,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-68d5ebe716ee",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀戸南店",
+    "address": "東京都江東区亀戸6-59-10 サンシャレ-ド亀戸1F",
+    "lat": 35.696869,
+    "lng": 139.826477,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-156599a61c2c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀戸店",
+    "address": "東京都江東区亀戸2-20-4",
+    "lat": 35.697673,
+    "lng": 139.825184,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-afe0ad3875e1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀有南口店",
+    "address": "東京都葛飾区亀有3-30-12",
+    "lat": 35.765568,
+    "lng": 139.849034,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-741ace6d697e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀有店",
+    "address": "東京都葛飾区亀有3-25-1",
+    "lat": 35.76702,
+    "lng": 139.84856,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4bba55447b9d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 五反野店（マイカリー食堂併設）",
+    "address": "東京都足立区足立4-29-8 重沢ビル1F",
+    "lat": 35.765054,
+    "lng": 139.808301,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b1c11bb509b6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京成小岩店（マイカリー食堂併設）",
+    "address": "東京都江戸川区北小岩6-12-1 白坂ビル",
+    "lat": 35.742399,
+    "lng": 139.883943,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7dabeb52347f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京成立石店",
+    "address": "東京都葛飾区立石1-19-6 あづまやビル",
+    "lat": 35.738136,
+    "lng": 139.849179,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1c7ba1e61802",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京成高砂店",
+    "address": "東京都葛飾区高砂2-38-5",
+    "lat": 35.750452,
+    "lng": 139.867225,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-99fba4621969",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京王つつじヶ丘店",
+    "address": "東京都調布市東つつじヶ丘1-2-5",
+    "lat": 35.658479,
+    "lng": 139.575527,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6a52331474a1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京王八王子店",
+    "address": "東京都八王子市東町1-1-20 第6岩下ビル1F",
+    "lat": 35.657684,
+    "lng": 139.341335,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f0a155100706",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 人形町店",
+    "address": "東京都中央区日本橋人形町1-18-8 第2篠原ビル",
+    "lat": 35.685724,
+    "lng": 139.782547,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-54a77bd8a10c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙川店",
+    "address": "東京都調布市仙川町1-11-16 ハラダビル",
+    "lat": 35.661315,
+    "lng": 139.584737,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-debd32a42006",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 代々木上原店",
+    "address": "東京都渋谷区西原3-7-6 大又建設ビル",
+    "lat": 35.669824,
+    "lng": 139.680621,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1a5593ed9b5c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 代々木八幡店",
+    "address": "東京都渋谷区富ヶ谷1-52-2 ニュ-アメリカンビル1F",
+    "lat": 35.668924,
+    "lng": 139.689034,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2f70697d5159",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 代々木店",
+    "address": "東京都渋谷区代々木1-34-4",
+    "lat": 35.683161,
+    "lng": 139.701853,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-44cad5131be9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 住吉店（松のや併設）",
+    "address": "東京都江東区住吉2-6-7",
+    "lat": 35.688773,
+    "lng": 139.814784,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c74a04c115fe",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 保谷店",
+    "address": "東京都西東京市東町3-14-27 マイティビル1F",
+    "lat": 35.747809,
+    "lng": 139.567968,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-42407d22d77a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 入谷店",
+    "address": "東京都台東区北上野2-31-6 スプリ-ム・北上野1F",
+    "lat": 35.719423,
+    "lng": 139.784703,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a3c2520c72b0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八幡山店",
+    "address": "東京都杉並区上高井戸1-8-22 D.S八幡山 1F",
+    "lat": 35.671217,
+    "lng": 139.616366,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a7bc340a78cf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八王子山田店（松のや併設）",
+    "address": "東京都八王子市小比企町435-9",
+    "lat": 35.644193,
+    "lng": 139.321211,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-622ad5b003dc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八王子店",
+    "address": "東京都八王子市旭町7-1 豊栄ビル",
+    "lat": 35.657056,
+    "lng": 139.337912,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e64ef2331a34",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 六本木4丁目店",
+    "address": "東京都港区六本木4-11-11",
+    "lat": 35.664214,
+    "lng": 139.731524,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a3687b39c818",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 分倍河原店",
+    "address": "東京都府中市片町2-22-1 山ニビル",
+    "lat": 35.668994,
+    "lng": 139.469221,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-94e9a1dbcb33",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 勝どき店",
+    "address": "東京都中央区勝どき2-14-1",
+    "lat": 35.658628,
+    "lng": 139.778008,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-999480a48496",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北千住店（マイカリー食堂併設）",
+    "address": "東京都足立区千住2-61",
+    "lat": 35.749842,
+    "lng": 139.803849,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-923f0d94ab15",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北千住東口店",
+    "address": "東京都足立区千住旭町40-23 第3三和ビル",
+    "lat": 35.749451,
+    "lng": 139.807312,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3d28cf791e29",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北綾瀬店（マイカリー食堂併設）",
+    "address": "東京都足立区加平1-22-11",
+    "lat": 35.776365,
+    "lng": 139.829826,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-db8a0ccca218",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北赤羽店",
+    "address": "東京都北区浮間3-1-38 近藤ビル",
+    "lat": 35.787426,
+    "lng": 139.704591,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-08848a57a486",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北野店",
+    "address": "東京都八王子市北野町546-2 横溝ビル",
+    "lat": 35.645317,
+    "lng": 139.354046,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bd0fa8bbe146",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 十条西口店",
+    "address": "東京都北区上十条2-27-1 J&MALL 1階",
+    "lat": 35.760609,
+    "lng": 139.721482,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-724aeb377fcf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千川店（マイカリー食堂併設）",
+    "address": "東京都豊島区要町3-38-3 長崎ビル1F",
+    "lat": 35.73811,
+    "lng": 139.689992,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-459aa6ea07cc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千歳烏山店（マイカリー食堂併設）",
+    "address": "東京都世田谷区南烏山4-12-4 ワ-ルド物産ビル 1F",
+    "lat": 35.668702,
+    "lng": 139.601166,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d6e5ddfdb5aa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千歳船橋店（マイカリー食堂併設）",
+    "address": "東京都世田谷区船橋1-1-9",
+    "lat": 35.647992,
+    "lng": 139.623921,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c623db934e9e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千石店",
+    "address": "東京都文京区千石4-46-14",
+    "lat": 35.728533,
+    "lng": 139.743468,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6b9eccc44e61",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千駄木店",
+    "address": "東京都文京区千駄木2-33-8",
+    "lat": 35.724448,
+    "lng": 139.763128,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0567dfae68b4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南千住店",
+    "address": "東京都荒川区南千住7-1-1 アクレスティ南千住M2-201",
+    "lat": 35.733291,
+    "lng": 139.798201,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7ef12810b8c0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南大沢店",
+    "address": "東京都八王子市南大沢2-29",
+    "lat": 35.614207,
+    "lng": 139.380728,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-faace1a368ac",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南池袋店",
+    "address": "東京都豊島区南池袋1-18-23 ルックハイツ池袋B棟",
+    "lat": 35.727309,
+    "lng": 139.711683,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e3dab3a68a87",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南砂町店",
+    "address": "東京都江東区南砂7-4-6",
+    "lat": 35.670686,
+    "lng": 139.834193,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b07e95d53b11",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 参宮橋店",
+    "address": "東京都渋谷区代々木4-6-2 宍戸ビル1F",
+    "lat": 35.678289,
+    "lng": 139.692854,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2f86fb350286",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吉祥寺サンロード店",
+    "address": "東京都武蔵野市吉祥寺本町1-15-4",
+    "lat": 35.704147,
+    "lng": 139.580128,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a5f834c5126e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吉祥寺南口店",
+    "address": "東京都武蔵野市吉祥寺南町1-5-5 1F",
+    "lat": 35.70262,
+    "lng": 139.578949,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0fb09e1f88ba",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 向原店",
+    "address": "東京都豊島区東池袋4-41-27",
+    "lat": 35.72978,
+    "lng": 139.723465,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4995fa19ad5b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 喜多見店",
+    "address": "東京都世田谷区喜多見9-1-7 栄屋ビル",
+    "lat": 35.637164,
+    "lng": 139.588253,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f8b5b77474e7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四谷2丁目店",
+    "address": "東京都新宿区四谷2-9 NK第7ビル",
+    "lat": 35.687572,
+    "lng": 139.725304,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-551a3ac540d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四谷三丁目店",
+    "address": "東京都新宿区左門町2-5 四谷三国ビル",
+    "lat": 35.687324,
+    "lng": 139.720548,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3e0445dbed0f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 国分寺北口店",
+    "address": "東京都国分寺市本町2-2-1 cocobunji EAST106",
+    "lat": 35.700801,
+    "lng": 139.481714,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c283565d2a24",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 国分寺南口店（マイカリー食堂併設）",
+    "address": "東京都国分寺市南町3-16-6",
+    "lat": 35.699021,
+    "lng": 139.48012,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-568b9ce54696",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 国分寺西元町店",
+    "address": "東京都国分寺市西元町2-9-25",
+    "lat": 35.693128,
+    "lng": 139.467466,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b22a809f6198",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 国立店（マイカリー食堂併設）",
+    "address": "東京都国立市中1-8-5 茜サマリヤプラザ",
+    "lat": 35.698248,
+    "lng": 139.445568,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fb3cdaa1d66d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 国領店",
+    "address": "東京都調布市国領町4-8-1",
+    "lat": 35.649487,
+    "lng": 139.557509,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e79ede190e42",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 堀切菖蒲園店",
+    "address": "東京都葛飾区堀切4-10-2",
+    "lat": 35.747205,
+    "lng": 139.826699,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a21d85f305dc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 多摩ニュータウン店",
+    "address": "東京都八王子市松木33-3",
+    "lat": 35.624726,
+    "lng": 139.393211,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f29c8798f460",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 多摩愛宕店（松のや併設）",
+    "address": "東京都多摩市愛宕4-7-3",
+    "lat": 35.629409,
+    "lng": 139.431006,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a13e3179653a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大久保2丁目店",
+    "address": "東京都新宿区大久保2-5-1",
+    "lat": 35.702057,
+    "lng": 139.708049,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-248b7c26b7d7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大久保店",
+    "address": "東京都新宿区百人町1-18-11 百人町秋山ビル1F",
+    "lat": 35.701626,
+    "lng": 139.696087,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7050f530be23",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大井町店",
+    "address": "東京都品川区東大井5-6-8",
+    "lat": 35.607243,
+    "lng": 139.737012,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cbfd2ee84731",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大塚店",
+    "address": "東京都豊島区北大塚2-11-1",
+    "lat": 35.732966,
+    "lng": 139.72771,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-47675ad53934",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大山店",
+    "address": "東京都板橋区大山東町58-2",
+    "lat": 35.748983,
+    "lng": 139.703033,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e0ee5ad61f55",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大岡山店",
+    "address": "東京都大田区北千束1-40-1 石井ビル1F",
+    "lat": 35.609085,
+    "lng": 139.685642,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bfccb2444eca",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大島店",
+    "address": "東京都江東区大島6-9-16 佐々木ビル",
+    "lat": 35.690001,
+    "lng": 139.835391,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-028b9a927ea3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大森北口店",
+    "address": "東京都品川区南大井6-24-1 セブンスタ-マンション第五大森",
+    "lat": 35.589337,
+    "lng": 139.730102,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bea8f2d69e25",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大森店",
+    "address": "東京都大田区山王2-2-11",
+    "lat": 35.588589,
+    "lng": 139.727729,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-92a16e76c06e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大森町店",
+    "address": "東京都大田区大森西3-20-14",
+    "lat": 35.572232,
+    "lng": 139.731071,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-89cd1bc67ce4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大泉学園南口店",
+    "address": "東京都練馬区東大泉5-41-14 エクラン大泉1F",
+    "lat": 35.749098,
+    "lng": 139.586499,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e78d4597a570",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大泉学園店",
+    "address": "東京都練馬区東大泉1-37-3 THE509TOWER1F",
+    "lat": 35.750306,
+    "lng": 139.586103,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dbef6ae92943",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大泉学園町店（松のや併設）",
+    "address": "東京都練馬区大泉学園町7-15-20",
+    "lat": 35.773803,
+    "lng": 139.586328,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ea4c418a00fc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大鳥居店",
+    "address": "東京都大田区萩中3-6-5",
+    "lat": 35.552111,
+    "lng": 139.739474,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-83bf904df0c0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 学芸大学店",
+    "address": "東京都目黒区鷹-3-8-7",
+    "lat": 35.629321,
+    "lng": 139.685168,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-32568cedff1e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富士見台店",
+    "address": "東京都練馬区貫井3-1-8",
+    "lat": 35.735431,
+    "lng": 139.629715,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-312d285918b3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小岩店",
+    "address": "東京都江戸川区西小岩1-21-20 第23東ビル",
+    "lat": 35.733936,
+    "lng": 139.880673,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-148b33e98dd0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小平小川店",
+    "address": "東京都小平市小川東町5-2-5",
+    "lat": 35.733741,
+    "lng": 139.465669,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9d31904bc76d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小平店",
+    "address": "東京都小平市美園町1-3-9",
+    "lat": 35.736702,
+    "lng": 139.486912,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4dea7abf1ef2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小松川店",
+    "address": "東京都江戸川区小松川3-90",
+    "lat": 35.699164,
+    "lng": 139.848479,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-87d8e1c60f55",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小田急永山店",
+    "address": "東京都多摩市永山1-18-2 小田急マルシェ永山",
+    "lat": 35.629817,
+    "lng": 139.448245,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c417dc271844",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小金井関野町店",
+    "address": "東京都小金井市関野町1-3-5",
+    "lat": 35.712864,
+    "lng": 139.521998,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-99c50bcbbfeb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 尾山台店",
+    "address": "東京都世田谷区尾山台3-22-5 谷岸ビル",
+    "lat": 35.605921,
+    "lng": 139.652938,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f7c0970e7487",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岩本町店（松のや併設）",
+    "address": "東京都千代田区神田岩本町4-4 神田北辰ビル1階",
+    "lat": 35.694565,
+    "lng": 139.774676,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cd695405d089",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 巣鴨店（マイカリー食堂併設）",
+    "address": "東京都豊島区巣鴨2-5-2",
+    "lat": 35.73376,
+    "lng": 139.73961,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-282bcc9062d7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 市ヶ谷店",
+    "address": "東京都千代田区九段北4-2-15 市ヶ谷プラザ1F",
+    "lat": 35.691529,
+    "lng": 139.736736,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ca374237ac60",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 布田店",
+    "address": "東京都調布市布田2-47-2",
+    "lat": 35.651298,
+    "lng": 139.550107,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8ccc749d4f4e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 帝京大学前店",
+    "address": "東京都八王子市大塚131-8",
+    "lat": 35.637824,
+    "lng": 139.417054,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4d21365f122c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 幡ヶ谷店",
+    "address": "東京都渋谷区幡ヶ谷2-7-1",
+    "lat": 35.677736,
+    "lng": 139.677598,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0d8233d1ec03",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平井駅前店",
+    "address": "東京都江戸川区平井4-11-4",
+    "lat": 35.706212,
+    "lng": 139.843604,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9abddec9b5fb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平和台店（マイカリー食堂併設）",
+    "address": "東京都練馬区早宮2-17-39 ミリオンアネックス平和台",
+    "lat": 35.758025,
+    "lng": 139.653118,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8982b86d8cd6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 平和島店",
+    "address": "東京都大田区大森北6-13-10 島田ビル",
+    "lat": 35.578688,
+    "lng": 139.734527,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aa9a822eff18",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 府中店",
+    "address": "東京都府中市宮西町2-1-8",
+    "lat": 35.670774,
+    "lng": 139.478717,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7de4b2dc2268",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 府中本町店（マイカリー食堂併設）",
+    "address": "東京都府中市本町1-29-1",
+    "lat": 35.666849,
+    "lng": 139.477016,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e01a226a7bad",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 志村坂上店",
+    "address": "東京都板橋区小豆沢3-6-3 糠賀第二ビル1F",
+    "lat": 35.776609,
+    "lng": 139.695196,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7b89e001e2dc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 恵比寿西店",
+    "address": "東京都渋谷区恵比寿西1-10-8",
+    "lat": 35.646527,
+    "lng": 139.707642,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7415be0bb2a3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 成城学園前店（マイカリー食堂併設）",
+    "address": "東京都世田谷区成城2-39-2 成城学園ビュ-ハイツ1F",
+    "lat": 35.640095,
+    "lng": 139.600056,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-43e0cea86a6a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 戸越銀座店",
+    "address": "東京都品川区平塚1-8-2 山こしビル1F",
+    "lat": 35.615448,
+    "lng": 139.715258,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d9a0e39e8def",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 押上店",
+    "address": "東京都墨田区押上1-11-3 押上滝ビル",
+    "lat": 35.710411,
+    "lng": 139.814205,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-35bf54ab4bc8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新中野鍋屋横丁店（マイカリー食堂併設）",
+    "address": "東京都中野区本町4-30-22",
+    "lat": 35.697073,
+    "lng": 139.670759,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9079faa560c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新井薬師前店（マイカリー食堂併設）",
+    "address": "東京都中野区上高田3-40-10ファ-ストギアビル101",
+    "lat": 35.715556,
+    "lng": 139.671605,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b62dbb50cec7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新大塚店",
+    "address": "東京都豊島区東池袋5-52-16 池田ビル",
+    "lat": 35.725859,
+    "lng": 139.729517,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a16f689d8d77",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新宿1丁目店",
+    "address": "東京都新宿区新宿1-26-6 新宿加藤ビルディング1F",
+    "lat": 35.691003,
+    "lng": 139.714389,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c166b887f100",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新宿3丁目店",
+    "address": "東京都新宿区新宿3-11-11 ダイアン新宿ビル",
+    "lat": 35.691783,
+    "lng": 139.706713,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6dc743572a27",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新宿二丁目店",
+    "address": "東京都新宿区新宿2-7-3 ヴェラハイツ新宿御苑1F",
+    "lat": 35.689588,
+    "lng": 139.708162,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9af61a1b9885",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新宿大ガード店",
+    "address": "東京都新宿区西新宿1-2-1 ファイブKビル1F",
+    "lat": 35.693369,
+    "lng": 139.699531,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-30500596531a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新宿西口店",
+    "address": "東京都新宿区西新宿1-13-3 西新ビル1F",
+    "lat": 35.68957,
+    "lng": 139.696904,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a43fd5fcfbf2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新宿靖国通り店",
+    "address": "東京都新宿区歌舞伎町1-6-3 石塚ビル1F",
+    "lat": 35.693646,
+    "lng": 139.702483,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a3801a3054de",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新小岩北口店",
+    "address": "東京都葛飾区西新小岩1-9-1",
+    "lat": 35.717816,
+    "lng": 139.857546,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4ac10794b442",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新木場店",
+    "address": "東京都江東区新木場1-6-1 新木場メトロセンタ-B棟G-2",
+    "lat": 35.645928,
+    "lng": 139.827056,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a22f0c7a6621",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新橋3丁目店",
+    "address": "東京都港区新橋3-16-1",
+    "lat": 35.665932,
+    "lng": 139.756812,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-301afe62ee6a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新高円寺店",
+    "address": "東京都杉並区高円寺南2-20-2 新高円寺駅前ビル1F",
+    "lat": 35.69795,
+    "lng": 139.647922,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2668a83692d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 方南町駅前店",
+    "address": "東京都杉並区方南2-13-11 やま小屋方南ビル",
+    "lat": 35.683486,
+    "lng": 139.658847,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c23e190196f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 旗の台店",
+    "address": "東京都品川区旗の台2-7-6",
+    "lat": 35.606293,
+    "lng": 139.703862,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-56e669c1e1b3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日暮里店",
+    "address": "東京都荒川区西日暮里2-25-1-307",
+    "lat": 35.729687,
+    "lng": 139.771424,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fd38e50d73e9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日野三沢店",
+    "address": "東京都日野市三沢1-19-2",
+    "lat": 35.65942,
+    "lng": 139.421274,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3205ee7d31c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日野店",
+    "address": "東京都日野市大坂上1-30-24",
+    "lat": 35.678742,
+    "lng": 139.393089,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-567cc20c462d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日野神明店（松のや併設）",
+    "address": "東京都日野市神明2-1-1",
+    "lat": 35.66865,
+    "lng": 139.395049,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-48f47a3ed773",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 早稲田店",
+    "address": "東京都新宿区馬場下町62-18 早稲田武蔵野ビル1F",
+    "lat": 35.706556,
+    "lng": 139.719164,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fe9fa1a73d8d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 明大前店（松のや・マイカリー食堂併設）",
+    "address": "東京都世田谷区松原1-36-7 TRN明大前 1F",
+    "lat": 35.668648,
+    "lng": 139.650819,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2e1790e0912d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 春日店",
+    "address": "東京都文京区小石川2-23-14 小石川ハイム",
+    "lat": 35.710723,
+    "lng": 139.751516,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6235bf25fb93",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 昭島松原町店",
+    "address": "東京都昭島市松原町1-6-13 AGスクウェアビル1F",
+    "lat": 35.713903,
+    "lng": 139.356789,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cf77e78bbe1d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 曙橋店",
+    "address": "東京都新宿区住吉町1-17 シルバ-プラザ市ヶ谷1F",
+    "lat": 35.692215,
+    "lng": 139.72286,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2d1ab656531",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本所吾妻橋店",
+    "address": "東京都墨田区吾妻橋3-7-4 ライオンズマンション吾妻橋",
+    "lat": 35.708859,
+    "lng": 139.804643,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c57bec186b23",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本郷三丁目店",
+    "address": "東京都文京区本郷2-27-16 大学通信教育ビル1F",
+    "lat": 35.706225,
+    "lng": 139.760548,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5410111aad3f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東中野2丁目店（松のや併設 弁当専門店）",
+    "address": "東京都中野区東中野2-2-3 ロ-ズマンション1F",
+    "lat": 35.701021,
+    "lng": 139.68127,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8bce01f59462",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東中野店",
+    "address": "東京都中野区東中野3-1-19",
+    "lat": 35.706726,
+    "lng": 139.682611,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e6471783a9b0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東久留米下里店（松のや併設）",
+    "address": "東京都東久留米市下里3-24-12",
+    "lat": 35.753703,
+    "lng": 139.501071,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-18a29fd4a36e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東久留米南町店（松のや併設）",
+    "address": "東京都東久留米市南町4-1-8",
+    "lat": 35.742802,
+    "lng": 139.525936,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e115a4e2fcfa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東久留米店（マイカリー食堂併設）",
+    "address": "東京都東久留米市東本町1-8 神藤ビル",
+    "lat": 35.760773,
+    "lng": 139.533813,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b711814952c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東五反田店",
+    "address": "東京都品川区東五反田2-4-1 東五反田レンガビル1F",
+    "lat": 35.625487,
+    "lng": 139.726878,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5b05b4ee8c15",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東伏見店",
+    "address": "東京都西東京市東伏見2-4-6 高橋イ-ストビル",
+    "lat": 35.728515,
+    "lng": 139.563914,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c92c25a684d5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東十条店（松のや併設）",
+    "address": "東京都北区東十条4-4-24 宮田ビル1F",
+    "lat": 35.765788,
+    "lng": 139.727403,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-71773e09b437",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大井町店（マイカリー食堂併設）",
+    "address": "東京都品川区東大井5-21-5",
+    "lat": 35.605198,
+    "lng": 139.735424,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2b3d0a556cfb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大和市駅前店",
+    "address": "東京都東大和市南街5-93-13 ビル・エ-ル1階",
+    "lat": 35.734236,
+    "lng": 139.433675,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-acbb369b0900",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大和清水店 （松のや併設）",
+    "address": "東京都東大和市清水5-1095-7",
+    "lat": 35.747037,
+    "lng": 139.442907,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-03c3a8a9aa36",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東小金井店",
+    "address": "東京都小金井市東町4-42-19",
+    "lat": 35.701364,
+    "lng": 139.524372,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4d633ce5c929",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東新宿店",
+    "address": "東京都新宿区歌舞伎町2-2-21 ライオンズマンション歌舞伎町B102室",
+    "lat": 35.695461,
+    "lng": 139.706694,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-45e7b8b9680a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東村山店",
+    "address": "東京都東村山市本町2-3-77 吉崎ビル1F",
+    "lat": 35.760665,
+    "lng": 139.467098,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4804ada864fa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東武練馬店",
+    "address": "東京都板橋区徳丸3-1-26 大川ビル1F",
+    "lat": 35.768999,
+    "lng": 139.660947,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3d531a5bf362",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東池袋グリーン大通店（マイカリー食堂併設）",
+    "address": "東京都豊島区東池袋1-25-17",
+    "lat": 35.728079,
+    "lng": 139.716233,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ef28c675aea1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東長崎駅前店",
+    "address": "東京都豊島区南長崎5-25-12 第2大野ビル",
+    "lat": 35.729853,
+    "lng": 139.682837,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-588695f53a77",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東陽町店",
+    "address": "東京都江東区東陽4-2-5",
+    "lat": 35.670228,
+    "lng": 139.816585,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2bfacb19e75c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東高円寺店",
+    "address": "東京都杉並区高円寺南1-6-5 サマリヤマンション1F",
+    "lat": 35.698179,
+    "lng": 139.658686,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f51d76b6061a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 板橋区役所前店",
+    "address": "東京都板橋区板橋2-61-11 ホシカメビル1F",
+    "lat": 35.751271,
+    "lng": 139.709791,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5d8af1f65fb6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 板橋店",
+    "address": "東京都板橋区板橋1-50-1 柏家ビル",
+    "lat": 35.747233,
+    "lng": 139.719515,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-42d53f3c67f1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 板橋本町店",
+    "address": "東京都板橋区本町36-1 バロ-ル本町1F",
+    "lat": 35.761701,
+    "lng": 139.706484,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4dca2c013a0d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜上水店",
+    "address": "東京都杉並区下高井戸1-22-6",
+    "lat": 35.668776,
+    "lng": 139.632967,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8489c137f523",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜台店",
+    "address": "東京都練馬区桜台1-4-67",
+    "lat": 35.738306,
+    "lng": 139.662505,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-35d9b2a650ce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜新町店",
+    "address": "東京都世田谷区桜新町1-12-9",
+    "lat": 35.631467,
+    "lng": 139.644473,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-62ac9fd91d5c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜美林学園店（松のや併設）",
+    "address": "東京都町田市根岸町1010-6",
+    "lat": 35.579572,
+    "lng": 139.407701,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-25cdce3d8219",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 梅ヶ丘店",
+    "address": "東京都世田谷区梅丘1-33-9",
+    "lat": 35.656146,
+    "lng": 139.652685,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b48462ff5aac",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 梅屋敷店（松のや併設 弁当専門店）",
+    "address": "東京都大田区蒲田2-4-5 スカイドムス",
+    "lat": 35.567857,
+    "lng": 139.724813,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3c8d11749341",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 森下店",
+    "address": "東京都江東区森下2-17-1 勝山ビル1F・2F",
+    "lat": 35.68762,
+    "lng": 139.798521,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3cba466a1e70",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 椎名町店",
+    "address": "東京都豊島区長崎1-2-4 バイオレットインA室",
+    "lat": 35.726683,
+    "lng": 139.695041,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8df509576133",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵境南口店（松のや併設）",
+    "address": "東京都武蔵野市境南町2-10-6",
+    "lat": 35.700551,
+    "lng": 139.546423,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b8e004f6855c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵境店",
+    "address": "東京都武蔵野市境1-2-3",
+    "lat": 35.703084,
+    "lng": 139.544341,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c3c454b47ae0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵小山店",
+    "address": "東京都品川区小山3-25-15 京屋商会貸店舗1F・2F",
+    "lat": 35.619534,
+    "lng": 139.703998,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ff25bd1fb8c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵小金井店",
+    "address": "東京都小金井市本町1-18-8 桜並SHビル",
+    "lat": 35.700486,
+    "lng": 139.507423,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1a921a40ba59",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵新田店",
+    "address": "東京都大田区矢口1-7-15 イセモトビル",
+    "lat": 35.568263,
+    "lng": 139.692106,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-83bff8e15536",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵村山店",
+    "address": "東京都武蔵村山市学園3-37-2",
+    "lat": 35.748354,
+    "lng": 139.407025,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6858cd0f0054",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵関店",
+    "address": "東京都練馬区関町北2-27-13 下田ビル1F",
+    "lat": 35.727153,
+    "lng": 139.576902,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2b038821ed2e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 水天宮店",
+    "address": "東京都中央区日本橋蛎殻町1-29-4 日本橋蠣殻町ビル103室",
+    "lat": 35.683101,
+    "lng": 139.783553,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2f1aff6339f2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 水道橋店",
+    "address": "東京都千代田区神田三崎町3-7-13 三大ビル",
+    "lat": 35.701433,
+    "lng": 139.752099,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8674aea8adf0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 氷川台店",
+    "address": "東京都練馬区氷川台3-39-9",
+    "lat": 35.750143,
+    "lng": 139.664803,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c3c900c82501",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 江古田店",
+    "address": "東京都練馬区栄町34-1",
+    "lat": 35.738559,
+    "lng": 139.671611,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-484cd46a014c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 江戸川店",
+    "address": "東京都江戸川区江戸川6-8-49",
+    "lat": 35.676191,
+    "lng": 139.878538,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2030be80f89f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 江戸川橋店",
+    "address": "東京都文京区関口1-47-12 江戸川橋ビル1F",
+    "lat": 35.709896,
+    "lng": 139.731387,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-108f059bdca6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 池上3丁目店",
+    "address": "東京都大田区池上3-3-1",
+    "lat": 35.577412,
+    "lng": 139.700145,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-99809edb1413",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 池上店",
+    "address": "東京都大田区池上6-2-17",
+    "lat": 35.572489,
+    "lng": 139.703172,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5ae8a78c73e5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 池尻大橋店",
+    "address": "東京都目黒区東山3-1-15 SD池尻大橋ビル",
+    "lat": 35.650738,
+    "lng": 139.685189,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-caf3d4f2fd0f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 池袋アゼリア通り店",
+    "address": "東京都豊島区西池袋5-2-10 SP-1ビル",
+    "lat": 35.73177,
+    "lng": 139.706074,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-123488135cce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 池袋トキワ通店",
+    "address": "東京都豊島区西池袋1-40-4 川松ビル",
+    "lat": 35.732935,
+    "lng": 139.709899,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0f08183f87c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 沼袋店",
+    "address": "東京都中野区沼袋3-4-18",
+    "lat": 35.719239,
+    "lng": 139.663283,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-994ca7e5cc89",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浅草吾妻橋店",
+    "address": "東京都台東区雷門2-19-13",
+    "lat": 35.710471,
+    "lng": 139.797262,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c7d863f3f91a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浅草国際通店",
+    "address": "東京都台東区浅草2-11-7 和田ビル",
+    "lat": 35.714352,
+    "lng": 139.792877,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ae618c7d3bae",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浅草橋南店 （マイカリー食堂併設）",
+    "address": "東京都中央区日本橋馬喰町2-6-14 レジディア日本橋馬喰町II",
+    "lat": 35.695473,
+    "lng": 139.784705,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-89981894a0ce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浅草橋店",
+    "address": "東京都台東区柳橋1-13-4 村井ビル1.2F",
+    "lat": 35.696998,
+    "lng": 139.786388,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c0bd3aec690c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浮間舟渡駅前店",
+    "address": "東京都北区浮間4-32-20 松岡ビル",
+    "lat": 35.791376,
+    "lng": 139.692269,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2e02048cfe7a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 深大寺3丁目店",
+    "address": "東京都三鷹市深大寺3-8-7",
+    "lat": 35.689434,
+    "lng": 139.537721,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-778f7e3b3176",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 深大寺店",
+    "address": "東京都調布市深大寺北町4-30-3",
+    "lat": 35.681222,
+    "lng": 139.554251,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0d6348645751",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 清瀬店（松のや・マイカリー食堂併設）",
+    "address": "東京都清瀬市松山1-9-4 清瀬魚久ビル1階",
+    "lat": 35.771406,
+    "lng": 139.519494,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ef921a19cfc8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 清瀬野塩店（マイカリー食堂併設）",
+    "address": "東京都清瀬市野塩4-224-1",
+    "lat": 35.774722,
+    "lng": 139.501074,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-65ae668a7c32",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 渋谷センター街店",
+    "address": "東京都渋谷区宇田川町26-9 メトロビル1F",
+    "lat": 35.660171,
+    "lng": 139.698908,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0ac45a27a8a6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 渋谷宮益坂店（松のや併設）",
+    "address": "東京都渋谷区渋谷1-8-3 B1F",
+    "lat": 35.660288,
+    "lng": 139.705629,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e4177d54b976",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 渋谷桜丘店（マイカリー食堂併設）",
+    "address": "東京都渋谷区桜丘町1-4 渋谷サクラステ-ジSHIBUYAサイド(A-M-107)",
+    "lat": 35.656185,
+    "lng": 139.702258,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e8aefd48c4c4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 渋谷清水橋店",
+    "address": "東京都渋谷区本町3-39-3",
+    "lat": 35.688816,
+    "lng": 139.681724,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-401973160b57",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 渋谷道玄坂上店",
+    "address": "東京都渋谷区道玄坂1-18-8 渋谷道玄坂プラザ仁科屋ビル",
+    "lat": 35.657356,
+    "lng": 139.696438,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b3c60e5f7a69",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 牛田店",
+    "address": "東京都足立区千住曙町3-1",
+    "lat": 35.744405,
+    "lng": 139.811443,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1db9af820877",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 狛江店（松のや併設）",
+    "address": "東京都狛江市東和泉1-20-1",
+    "lat": 35.631711,
+    "lng": 139.577629,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-30836f27c51a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 玉川学園前店",
+    "address": "東京都町田市玉川学園2-11-21 第17通南ビル",
+    "lat": 35.563255,
+    "lng": 139.462713,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0c953f21e7d9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 王子1丁目店",
+    "address": "東京都北区王子1-6-11 都築ビル102",
+    "lat": 35.75486,
+    "lng": 139.740217,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0e2f0e9e54d5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 王子店",
+    "address": "東京都北区王子1-13-16 エイムビル1F",
+    "lat": 35.755321,
+    "lng": 139.736944,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-68784744d0eb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 王子神谷店（松のや・マイカリー食堂併設）",
+    "address": "東京都北区王子5-10-3 王子ハイツ1F",
+    "lat": 35.765178,
+    "lng": 139.736032,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e5c0efcb6275",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 瑞江店",
+    "address": "東京都江戸川区瑞江2-3-11",
+    "lat": 35.692962,
+    "lng": 139.898506,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fe3bc8ebb104",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 用賀店（マイカリー食堂併設）",
+    "address": "東京都世田谷区用賀2-38-14",
+    "lat": 35.626988,
+    "lng": 139.635026,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c4726d39a35e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 田無駅前店",
+    "address": "東京都西東京市田無町4-2-12 A2ビル1階",
+    "lat": 35.727533,
+    "lng": 139.539316,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b49d06b106fc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 町屋店",
+    "address": "東京都荒川区町屋1-2-10",
+    "lat": 35.743449,
+    "lng": 139.781142,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6caac2b2a472",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 町田中町店",
+    "address": "東京都町田市中町2-16-6",
+    "lat": 35.553051,
+    "lng": 139.441941,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-43627320fdae",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 町田店",
+    "address": "東京都町田市原町田4-4-15",
+    "lat": 35.541947,
+    "lng": 139.447993,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e4d7adbca957",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 白山店",
+    "address": "東京都文京区向丘1-9-23 リ-ラ白山103",
+    "lat": 35.722549,
+    "lng": 139.752936,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-89b67197c244",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 目黒東口店",
+    "address": "東京都品川区上大崎2-15-18 目黒東豊ビル",
+    "lat": 35.634259,
+    "lng": 139.716715,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3d53e33a8cfb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 石神井公園店",
+    "address": "東京都練馬区石神井町3-21-2",
+    "lat": 35.743086,
+    "lng": 139.607319,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ba979e0c8318",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 石神井台店 （松のや併設）",
+    "address": "東京都練馬区石神井台6-7-2",
+    "lat": 35.738498,
+    "lng": 139.585592,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-618fe4898e70",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 祐天寺店",
+    "address": "東京都目黒区祐天寺2-2-7 青埜ビル1F",
+    "lat": 35.637614,
+    "lng": 139.691806,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ae0ecb80aebe",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 祖師谷大蔵3丁目店",
+    "address": "東京都世田谷区祖師谷3-32-14",
+    "lat": 35.643646,
+    "lng": 139.608653,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-70059a62b255",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神楽坂店",
+    "address": "東京都新宿区神楽坂2-9 大川ビル1F",
+    "lat": 35.700858,
+    "lng": 139.741252,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-11f5b2bd5064",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神田南口店",
+    "address": "東京都千代田区鍛冶町2-1-2 神田南口鋭光ビル",
+    "lat": 35.690893,
+    "lng": 139.771023,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-da31dbe75880",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神田小川町店",
+    "address": "東京都千代田区神田小川町2-1-15 1F・2F",
+    "lat": 35.694287,
+    "lng": 139.764984,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d55968d6d6a7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神田西口店",
+    "address": "東京都千代田区内神田2-12-5 翔和No.8神田ビル1F",
+    "lat": 35.691342,
+    "lng": 139.767524,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fb842fdcbf8e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福生店",
+    "address": "東京都福生市東町3-10 栄和ビル1F",
+    "lat": 35.742857,
+    "lng": 139.32851,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8d4b7913f3ad",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福生志茂店",
+    "address": "東京都福生市志茂36-4",
+    "lat": 35.736245,
+    "lng": 139.328261,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-360d07c0618f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 秋葉原店",
+    "address": "東京都千代田区神田松永町1- 秋葉原ファ-ストビル1F",
+    "lat": 35.698956,
+    "lng": 139.775131,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0bdc83b38544",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 稲城矢野口店（松のや併設）",
+    "address": "東京都稲城市矢野口517-2",
+    "lat": 35.638889,
+    "lng": 139.522709,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bf7902734b93",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 立会川店",
+    "address": "東京都品川区東大井2-24-11 織戸ビル",
+    "lat": 35.597961,
+    "lng": 139.73904,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-19841f708006",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 立川北口店",
+    "address": "東京都立川市曙町2-3-3",
+    "lat": 35.698741,
+    "lng": 139.411493,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f89f702104da",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 立川店（マイカリー食堂併設）",
+    "address": "東京都立川市曙町2-12-15 立川金水ビル1F",
+    "lat": 35.699069,
+    "lng": 139.414806,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ff3e2a523e82",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 立川柴崎町店（松のや併設）",
+    "address": "東京都立川市柴崎町6-10-8",
+    "lat": 35.687822,
+    "lng": 139.407706,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0ab6172801ae",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 立川錦町店（マイカリー食堂併設）",
+    "address": "東京都立川市錦町2-1-3 ICHIGO-M1ビル",
+    "lat": 35.696169,
+    "lng": 139.415174,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aa0e3add3267",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 竹ノ塚店",
+    "address": "東京都足立区竹の塚6-9-2 第7丸本ビル",
+    "lat": 35.794436,
+    "lng": 139.793657,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ab38a1d0b369",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 笹塚2丁目店",
+    "address": "東京都渋谷区笹塚2-41-17 滝沢ビル1F",
+    "lat": 35.676198,
+    "lng": 139.667752,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-809b0faa12c0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 篠崎店",
+    "address": "東京都江戸川区篠崎町7-21-13 プロシ-ド篠崎2",
+    "lat": 35.704934,
+    "lng": 139.903465,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f2e5d100084a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 糀谷店（松のや併設）",
+    "address": "東京都大田区西糀谷4-14-12",
+    "lat": 35.554747,
+    "lng": 139.730163,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-25dd2e9ac9a8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 紀尾井町店",
+    "address": "東京都千代田区麹町3-5-17 晴花ビル",
+    "lat": 35.683095,
+    "lng": 139.738377,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9a936b7e1879",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 経堂店",
+    "address": "東京都世田谷区経堂1-12-11",
+    "lat": 35.650361,
+    "lng": 139.637169,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9dd9191cb9f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 綾瀬店（マイカリー食堂併設）",
+    "address": "東京都足立区綾瀬3-2-8 シティプレイスアヤセ1F",
+    "lat": 35.762476,
+    "lng": 139.824359,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0e08aba441f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 練馬店",
+    "address": "東京都練馬区豊玉北5-18-11",
+    "lat": 35.737028,
+    "lng": 139.654276,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a44258fc030b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 練馬高野台店",
+    "address": "東京都練馬区高野台1-7-20 プレステビル1F",
+    "lat": 35.740813,
+    "lng": 139.617045,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b37e0308560a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 羽村店",
+    "address": "東京都羽村市五ノ神4-15-11 シティ-プラザはむら1F",
+    "lat": 35.759072,
+    "lng": 139.315953,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8c051c429063",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 羽田イノベーションシティ店（松のや併設）",
+    "address": "東京都大田区羽田空港1-1-4イノベ-ションシティ2F区画(B2-3)",
+    "lat": 35.548369,
+    "lng": 139.756272,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d9b755f41b13",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 聖蹟桜ヶ丘店（松のや併設）",
+    "address": "東京都多摩市関戸2-40-2 興進ビル",
+    "lat": 35.650911,
+    "lng": 139.448468,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e378144aebf0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 自由ヶ丘店",
+    "address": "東京都目黒区自由が丘1-12-3 第二元太ビル1F",
+    "lat": 35.608216,
+    "lng": 139.669801,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8eca3ac6fbef",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 船堀店",
+    "address": "東京都江戸川区船堀1-4-16 SKビル船堀",
+    "lat": 35.685795,
+    "lng": 139.864492,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b32b16910a7f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 芝一丁目店（松のや併設）",
+    "address": "東京都港区芝1-4-9",
+    "lat": 35.652423,
+    "lng": 139.754376,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3f9effeef113",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 芝大門店",
+    "address": "東京都港区芝大門2-1-1 第2境野ビル",
+    "lat": 35.656773,
+    "lng": 139.753107,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0f9676069d8d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 花小金井駅前店",
+    "address": "東京都小平市花小金井1-8-6 大沢ビル(ビックアロ-ビル)",
+    "lat": 35.726848,
+    "lng": 139.512893,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-559be60347bc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茅場町店（松のや併設）",
+    "address": "東京都中央区日本橋茅場町2-8-4全国中小企業会館1F",
+    "lat": 35.679176,
+    "lng": 139.779416,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-21d01c1c6de1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茗荷谷店（マイカリー食堂併設）",
+    "address": "東京都文京区小日向4-6-23 パレスビル",
+    "lat": 35.716958,
+    "lng": 139.737709,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7b3932f42a07",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 荻窪西口店",
+    "address": "東京都杉並区上荻1-16-3",
+    "lat": 35.705324,
+    "lng": 139.619241,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-10e529b9195f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 落合店",
+    "address": "東京都新宿区上落合3-9-1 北村ビル",
+    "lat": 35.710423,
+    "lng": 139.684018,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2b0622b19972",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 葛西長島陸橋店（マイカリー食堂併設）",
+    "address": "東京都江戸川区東葛西5-3-3 Ground Tree",
+    "lat": 35.66583,
+    "lng": 139.873566,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-eba3897bb92d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蒲田東口店",
+    "address": "東京都大田区蒲田5-25-2 コ-ポ橋本1F",
+    "lat": 35.562334,
+    "lng": 139.719915,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c6fa0fff89ca",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蒲田西口店（マイカリー食堂併設）",
+    "address": "東京都大田区西蒲田7-1-11",
+    "lat": 35.563939,
+    "lng": 139.716246,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0d4e673b755d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蓮根店",
+    "address": "東京都板橋区蓮根2-31-3 萩原ビル",
+    "lat": 35.783845,
+    "lng": 139.678581,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-053cfd825248",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西五反田店",
+    "address": "東京都品川区西五反田1-11-9 司ビル",
+    "lat": 35.624388,
+    "lng": 139.723408,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-53617bb19242",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西八王子店",
+    "address": "東京都八王子市台町4-47-11 飯田ビル1F",
+    "lat": 35.656193,
+    "lng": 139.313137,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-66c1e2c1d7a1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西大井店",
+    "address": "東京都品川区西大井1-4-20 コア・スタ-レ西大井ショッピングセンタ-",
+    "lat": 35.601753,
+    "lng": 139.722543,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-29b95b3d23ce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西小山店",
+    "address": "東京都品川区小山6-5-1",
+    "lat": 35.614973,
+    "lng": 139.698844,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d06be8c157b3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西巣鴨店",
+    "address": "東京都豊島区西巣鴨3-25-11 メトロエステ-ト西巣鴨110・111",
+    "lat": 35.7436,
+    "lng": 139.728191,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-958159abe701",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西新井店",
+    "address": "東京都足立区西新井栄町2-3-2 ヤオキビル1F・2F",
+    "lat": 35.776337,
+    "lng": 139.789792,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1863618533c4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西新宿3丁目店",
+    "address": "東京都新宿区西新宿3-7-21 陽輪台西新宿林屋ビル",
+    "lat": 35.684478,
+    "lng": 139.690891,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6c6ae1076a25",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西新宿8丁目店",
+    "address": "東京都新宿区西新宿8-12-1 ダイヤモンドビル1F",
+    "lat": 35.69487,
+    "lng": 139.692171,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1487e1e04f50",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西新宿タワー60店（マイカリー食堂併設）",
+    "address": "東京都新宿区西新宿5-5-1 ザ・パ-クハウス西新宿60 A103室",
+    "lat": 35.693818,
+    "lng": 139.686624,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a6ecfca3e775",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西新宿店",
+    "address": "東京都新宿区西新宿5-10-14 西新宿橋谷田ビル1F・B1F",
+    "lat": 35.690556,
+    "lng": 139.685704,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5ac14b0be770",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西日暮里店",
+    "address": "東京都荒川区西日暮里5-24-5",
+    "lat": 35.732274,
+    "lng": 139.767505,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ab4e88835f3e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西武柳沢店（松のや併設 弁当専門店）",
+    "address": "東京都西東京市柳沢6-1-2 タイエイビル102",
+    "lat": 35.728276,
+    "lng": 139.552717,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8400766158f9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西荻窪店",
+    "address": "東京都杉並区西荻南3-11-8",
+    "lat": 35.703533,
+    "lng": 139.599768,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a7afc14b3b0b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西葛西店",
+    "address": "東京都江戸川区西葛西3-17-7",
+    "lat": 35.666046,
+    "lng": 139.858843,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-22a985df35ac",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西蒲田店",
+    "address": "東京都大田区西蒲田8-24-8",
+    "lat": 35.559735,
+    "lng": 139.714404,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-951afbc11239",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 要町店（マイカリー食堂併設）",
+    "address": "東京都豊島区要町1-18-1",
+    "lat": 35.733909,
+    "lng": 139.69823,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1eba818b6ff2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 調布柴崎店（松のや併設） ※3月20日10時オープン",
+    "address": "東京都調布市柴崎1-47-3",
+    "lat": 35.658684,
+    "lng": 139.561587,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a12ef962ad2b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 調布駅前店",
+    "address": "東京都調布市布田1-40-10 アルソス調布駅前北口ビル",
+    "lat": 35.65249,
+    "lng": 139.544531,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-170d7ea3e7d5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊洲IHIビル店（マイカリー食堂併設）",
+    "address": "東京都江東区豊洲3-1-1 豊洲IHIビル106区",
+    "lat": 35.659271,
+    "lng": 139.794229,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-98ab610e2f82",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊田店",
+    "address": "東京都日野市多摩平1-2-1 第一ビルマンション",
+    "lat": 35.660391,
+    "lng": 139.38069,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6bdd0e1c08fa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 赤坂店",
+    "address": "東京都港区赤坂5-4-6 赤坂三辻ビル1F",
+    "lat": 35.672245,
+    "lng": 139.736066,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e1d337dddd32",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 赤羽店",
+    "address": "東京都北区赤羽2-1-19 十一会ビル",
+    "lat": 35.779218,
+    "lng": 139.723373,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b96762a490a5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 赤羽東口店",
+    "address": "東京都北区赤羽1-2-6",
+    "lat": 35.778461,
+    "lng": 139.721553,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-899f8576fed0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 赤羽西口店",
+    "address": "東京都北区赤羽西1-38-2",
+    "lat": 35.778193,
+    "lng": 139.718901,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6b294046326c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 足立保塚店",
+    "address": "東京都足立区保塚町12-21",
+    "lat": 35.786812,
+    "lng": 139.810416,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1b972d5e5b94",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 足立六町店（松のや併設）",
+    "address": "東京都足立区六町1-8-14",
+    "lat": 35.782406,
+    "lng": 139.823649,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c099007def19",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 足立江北店",
+    "address": "東京都足立区江北3-35-12",
+    "lat": 35.778111,
+    "lng": 139.764395,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-88a132264e72",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 都立大学店",
+    "address": "東京都目黒区平町1-27-5",
+    "lat": 35.616916,
+    "lng": 139.676458,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-773720e3b5a2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 都立家政店",
+    "address": "東京都中野区鷺宮3-6-1 岡田ビル",
+    "lat": 35.723506,
+    "lng": 139.64384,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1b6d29d0ee21",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野方店",
+    "address": "東京都中野区野方5-30-1 1・2F",
+    "lat": 35.718848,
+    "lng": 139.652453,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3ccc8f0032c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 金町店",
+    "address": "東京都葛飾区東金町1-45-2",
+    "lat": 35.769896,
+    "lng": 139.871106,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-704e78552935",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 錦糸町北口店",
+    "address": "東京都墨田区錦糸2-4-10 S川上ビル",
+    "lat": 35.697928,
+    "lng": 139.813093,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4a7fdb8138d0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 錦糸町南店",
+    "address": "東京都墨田区江東橋3-8-10 井野ビル1F",
+    "lat": 35.695233,
+    "lng": 139.81479,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2b5433481954",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 門前仲町店",
+    "address": "東京都江東区門前仲町1-7-13",
+    "lat": 35.672949,
+    "lng": 139.794148,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8a3a820ca654",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阿佐ヶ谷店",
+    "address": "東京都杉並区阿佐谷北2-1-10",
+    "lat": 35.705166,
+    "lng": 139.635924,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-05eab08132c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 雑色店（松のや併設）",
+    "address": "東京都大田区仲六郷2-28-2",
+    "lat": 35.550422,
+    "lng": 139.714385,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3d1b0b6d7b85",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青梅今寺店（松のや併設） ※3月25日10時オープン",
+    "address": "東京都青梅市今寺3-441-6",
+    "lat": 35.796721,
+    "lng": 139.296659,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-46aabfb230b0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青梅新町店（松のや併設）",
+    "address": "東京都青梅市新町9-2020",
+    "lat": 35.782148,
+    "lng": 139.319806,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-809ce06fb2bd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青梅河辺町店（松のや併設）",
+    "address": "東京都青梅市河辺町8-1-2",
+    "lat": 35.783763,
+    "lng": 139.291605,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-26e12e8eda44",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青物横丁店",
+    "address": "東京都品川区東品川3-23-18 アツミビル",
+    "lat": 35.611079,
+    "lng": 139.745141,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-22fc115051bb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青砥店",
+    "address": "東京都葛飾区青戸3-37-19",
+    "lat": 35.745613,
+    "lng": 139.855735,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-209cdc8a7c5b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 飯田橋東口店",
+    "address": "東京都新宿区下宮比町1-1 相沢ビル1階",
+    "lat": 35.702947,
+    "lng": 139.744411,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-759baff725a3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 飯田橋駅前店",
+    "address": "東京都千代田区飯田橋4-9-10 飯田橋第一ビル",
+    "lat": 35.701671,
+    "lng": 139.745636,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4ef90afdb352",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 馬喰町店",
+    "address": "東京都中央区日本橋馬喰町1-5-11 ラスパイユビル1F",
+    "lat": 35.692541,
+    "lng": 139.782019,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5208d6f2f09c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 駒沢店",
+    "address": "東京都世田谷区駒沢1-5-15",
+    "lat": 35.63263,
+    "lng": 139.660561,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0aae528e08f8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 駒込店",
+    "address": "東京都豊島区駒込1-38-3 小宮山駒込ビル1.2F",
+    "lat": 35.735999,
+    "lng": 139.747644,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ae82e42eff8d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高井戸店",
+    "address": "東京都杉並区高井戸西1-29-3",
+    "lat": 35.682811,
+    "lng": 139.61522,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b0ad9467fe19",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高円寺店",
+    "address": "東京都杉並区高円寺北3-22-16 1F",
+    "lat": 35.705931,
+    "lng": 139.649483,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4c7554af750d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高島平店",
+    "address": "東京都板橋区高島平2-1-4",
+    "lat": 35.782423,
+    "lng": 139.665555,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-df3f01527b0f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高島平駅前店",
+    "address": "東京都板橋区高島平8-3-3 篠本第二ビル103",
+    "lat": 35.789642,
+    "lng": 139.660509,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0407051cb7d3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高田馬場2丁目店",
+    "address": "東京都新宿区高田馬場2-1-2",
+    "lat": 35.711761,
+    "lng": 139.709645,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8fbb1ef5e837",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高田馬場4丁目店",
+    "address": "東京都新宿区高田馬場4-11-8 木村屋ビル1F",
+    "lat": 35.713302,
+    "lng": 139.701902,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c5a24cb35b35",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高田馬場店",
+    "address": "東京都新宿区高田馬場3-1-2",
+    "lat": 35.71414,
+    "lng": 139.703878,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cbaa5a4ad8b0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鴬谷店",
+    "address": "東京都台東区根岸1-6-6 小宮山鴬谷ビル1F",
+    "lat": 35.722608,
+    "lng": 139.777939,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-654be6def4f6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鵜の木店（松のや併設）",
+    "address": "東京都大田区鵜の木2-2-5",
+    "lat": 35.575983,
+    "lng": 139.680453,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c6905e9ae558",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴川店",
+    "address": "東京都町田市能ケ谷1-5-2 apple studio 1F",
+    "lat": 35.583418,
+    "lng": 139.480344,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1e389656bb3a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鷹の台店",
+    "address": "東京都小平市たかの台44-8 長谷川ビル",
+    "lat": 35.723177,
+    "lng": 139.460803,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-14c86e255ed9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鷺宮店",
+    "address": "東京都中野区鷺ノ宮3-18-3 リファレンス鷺宮駅前1F",
+    "lat": 35.722989,
+    "lng": 139.638789,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-25d3c4e0bb1d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 麻布台1丁目店",
+    "address": "東京都港区麻布台1-9-10 飯倉ITビル",
+    "lat": 35.659723,
+    "lng": 139.742603,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-888",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "LaLaテラス南千住店",
+    "address": "東京都荒川区南千住4-7-2 LaLaテラス南千住1F",
+    "lat": 35.7358283996582,
+    "lng": 139.8019256591797,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1411",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "あきるのプレイス店",
+    "address": "東京都あきる野市秋川1-17-1 あきるのプレイス2F",
+    "lat": 35.73088836669922,
+    "lng": 139.28729248046875,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-5",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "あきる野店",
+    "address": "東京都あきる野市瀬戸岡781-3",
+    "lat": 35.7397346496582,
+    "lng": 139.2904815673828,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-827",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "お台場デックス店",
+    "address": "東京都港区台場1-6-1 アイランドモ-ル4F",
+    "lat": 35.63018035888672,
+    "lng": 139.77798461914062,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1031",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ぐりーんうぉーく多摩店",
+    "address": "東京都八王子市別所2-56- ぐり-んうぉ-く多摩コ-ナン1階",
+    "lat": 35.611900329589844,
+    "lng": 139.39599609375,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1069",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ままともプラザ町田旭町店",
+    "address": "東京都町田市旭町1-24-1",
+    "lat": 35.554443359375,
+    "lng": 139.44227600097656,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1361",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ららテラス北綾瀬店",
+    "address": "東京都足立区谷中4-8-1 三井ショッピングパ-クららテラス北綾瀬3F",
+    "lat": 35.77769088745117,
+    "lng": 139.83126831054688,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1120",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アイテラス落合南長崎店",
+    "address": "東京都豊島区南長崎4-5-20",
+    "lat": 35.72391128540039,
+    "lng": 139.68301391601562,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1142",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン武蔵村山南店（旧ダイエー武蔵村山店）",
+    "address": "東京都武蔵村山市伊奈平3-36-1",
+    "lat": 35.73599624633789,
+    "lng": 139.37890625,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1199",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン西台店（旧ダイエー西台店）",
+    "address": "東京都板橋区蓮根3-8-12 イオン西台店食品館 2階",
+    "lat": 35.785865783691406,
+    "lng": 139.67489624023438,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1183",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イーアス高尾店",
+    "address": "東京都八王子市東浅川町550-1 イ-アス高尾内",
+    "lat": 35.64353942871094,
+    "lng": 139.2896270751953,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1381",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "キテラタウン調布店",
+    "address": "東京都調布市菊野台1-33-3 キテラタウン調布2F",
+    "lat": 35.657657623291016,
+    "lng": 139.56814575195312,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-930",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "クロスガーデン多摩店",
+    "address": "東京都多摩市落合2-33 クロスガ-デン多摩の3階",
+    "lat": 35.620086669921875,
+    "lng": 139.42333984375,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1014",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "グリナード永山店",
+    "address": "東京都多摩市永山1-4-",
+    "lat": 35.62924575805664,
+    "lng": 139.44813537597656,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1089",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン王子堀船店",
+    "address": "東京都北区堀船一-23-13 コ-ナン王子堀船店3階",
+    "lat": 35.7520866394043,
+    "lng": 139.7441864013672,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1327",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン足立扇店",
+    "address": "東京都足立区扇3-14-10 2階",
+    "lat": 35.77082443237305,
+    "lng": 139.77072143554688,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1354",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サミット東寺方店",
+    "address": "東京都多摩市東寺方660-1 サミット東寺方店2F",
+    "lat": 35.64144515991211,
+    "lng": 139.43557739257812,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1382",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サミット砧店",
+    "address": "東京都世田谷区砧1-1-2 サミットストア砧店3F",
+    "lat": 35.63620376586914,
+    "lng": 139.62130737304688,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1261",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サミット高井戸東店",
+    "address": "東京都杉並区高井戸東4-1-13",
+    "lat": 35.68653869628906,
+    "lng": 139.62245178222656,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-473",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ザ・スクエア聖蹟桜ヶ丘店",
+    "address": "東京都多摩市関戸1-1-5ザ・スクエア1F(聖蹟桜ヶ丘駅西口より徒歩3分)",
+    "lat": 35.651363372802734,
+    "lng": 139.44589233398438,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1294",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ザ・マーケットプレイス八王子店",
+    "address": "東京都八王子市並木町35-1",
+    "lat": 35.65553665161133,
+    "lng": 139.30397033691406,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1277",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ソコラ武蔵小金井店",
+    "address": "東京都小金井市本町6-2-30 SOCOLA武蔵小金井クロス2F",
+    "lat": 35.699440002441406,
+    "lng": 139.50547790527344,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-738",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ホームズ仙川店",
+    "address": "東京都調布市若葉町2-1-7 島忠ホ-ムズ2F",
+    "lat": 35.65909194946289,
+    "lng": 139.5862579345703,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-394",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ホームズ葛西店",
+    "address": "東京都江戸川区東葛西9-3-6 ホ-ムズ葛西店2階",
+    "lat": 35.65385818481445,
+    "lng": 139.88233947753906,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-889",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ポンテポルタ千住店",
+    "address": "東京都足立区千住橋戸町1-13 ポンテポルタ千住2F",
+    "lat": 35.74215316772461,
+    "lng": 139.79525756835938,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1273",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミーナ町田店",
+    "address": "東京都町田市原町田4-1-17 ミ-ナ町田6階",
+    "lat": 35.54071044921875,
+    "lng": 139.44888305664062,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1039",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨドバシ吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-19-1",
+    "lat": 35.70460510253906,
+    "lng": 139.5811767578125,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1335",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "リヴィン田無店",
+    "address": "東京都西東京市田無町2-1-1 リヴィン田無店4F",
+    "lat": 35.72807312011719,
+    "lng": 139.53976440429688,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-856",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三和日野旭が丘店",
+    "address": "東京都日野市旭が丘6-7-5 三和旭が丘店の2階",
+    "lat": 35.660888671875,
+    "lng": 139.36412048339844,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-729",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三鷹武蔵境通り店",
+    "address": "東京都三鷹市上連雀7-32-20",
+    "lat": 35.690399169921875,
+    "lng": 139.5506134033203,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-819",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "世田谷千歳台店",
+    "address": "東京都世田谷区千歳台5-22-17",
+    "lat": 35.658260345458984,
+    "lng": 139.61183166503906,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1396",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "五反田TOC店",
+    "address": "東京都品川区西五反田7-22-17 TOCビル地下1F",
+    "lat": 35.62141799926758,
+    "lng": 139.7196044921875,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-775",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "保谷駅南店",
+    "address": "東京都練馬区南大泉3-13-31 いなげや2F",
+    "lat": 35.745262145996094,
+    "lng": 139.57130432128906,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-133",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八王子みなみ野店",
+    "address": "東京都八王子市西片倉2-6-7",
+    "lat": 35.63478088378906,
+    "lng": 139.33042907714844,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1343",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八王子オーパ店",
+    "address": "東京都八王子市旭町1-12 八王子オ-パ4F",
+    "lat": 35.65579605102539,
+    "lng": 139.33621215820312,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-717",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南町田店",
+    "address": "東京都町田市南町田5-1-7",
+    "lat": 35.51491928100586,
+    "lng": 139.47396850585938,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-632",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南砂町スナモ店",
+    "address": "東京都江東区新砂3-4-31 南砂町ショッピングセンタ-SUNAMO3階",
+    "lat": 35.66548538208008,
+    "lng": 139.83448791503906,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-197",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "国分寺恋ヶ窪店",
+    "address": "東京都国分寺市東恋ケ窪4-22-8",
+    "lat": 35.71171569824219,
+    "lng": 139.46859741210938,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-733",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小平鈴木町店",
+    "address": "東京都小平市鈴木町一-272-",
+    "lat": 35.724464416503906,
+    "lng": 139.49998474121094,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-261",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小金井緑町店",
+    "address": "東京都小金井市緑町2-2-4",
+    "lat": 35.70507049560547,
+    "lng": 139.521240234375,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-262",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小金井貫井店",
+    "address": "東京都小金井市貫井南町2-2-22",
+    "lat": 35.693023681640625,
+    "lng": 139.4978790283203,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-983",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "島忠ホームズ東村山店",
+    "address": "東京都東村山市久米川町1-36-1",
+    "lat": 35.76808547973633,
+    "lng": 139.48707580566406,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1007",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "島忠ホームズ町田三輪店",
+    "address": "東京都町田市三輪町281-1",
+    "lat": 35.578678131103516,
+    "lng": 139.50021362304688,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1212",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "府中四谷SC店",
+    "address": "東京都府中市四谷5-23-12 府中四谷ショッピングセンタ-2階",
+    "lat": 35.668418884277344,
+    "lng": 139.43800354003906,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1248",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新荻窪タウンセブン店",
+    "address": "東京都杉並区上荻1-9-1 荻窪タウンセブン2階",
+    "lat": 35.705223083496094,
+    "lng": 139.61981201171875,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-322",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "日野万願寺店",
+    "address": "東京都日野市大字上田50-",
+    "lat": 35.66891860961914,
+    "lng": 139.4063720703125,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-331",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "昭島店",
+    "address": "東京都昭島市緑町4-3-25",
+    "lat": 35.71519470214844,
+    "lng": 139.34619140625,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1311",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "有明ガーデン店",
+    "address": "東京都江東区有明2-1-8",
+    "lat": 35.637699127197266,
+    "lng": 139.7904510498047,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-345",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "杉並 井荻 早稲田通り店",
+    "address": "東京都杉並区今川1-19-15",
+    "lat": 35.71907043457031,
+    "lng": 139.6137237548828,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-917",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東久留米南町店",
+    "address": "東京都東久留米市南町3-7-3",
+    "lat": 35.74228286743164,
+    "lng": 139.5232391357422,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-347",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東大和仲原店",
+    "address": "東京都東大和市仲原1-8-3",
+    "lat": 35.74296188354492,
+    "lng": 139.44342041015625,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1066",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東武ストア板橋前野町店",
+    "address": "東京都板橋区前野町6-3-1",
+    "lat": 35.76371383666992,
+    "lng": 139.68495178222656,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-365",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "板橋四葉店",
+    "address": "東京都板橋区四葉2-6-3",
+    "lat": 35.77996826171875,
+    "lng": 139.65151977539062,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-392",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "江戸川宇喜田店",
+    "address": "東京都江戸川区宇喜田町180-2",
+    "lat": 35.673431396484375,
+    "lng": 139.8614959716797,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-393",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "江戸川本一色店",
+    "address": "東京都江戸川区本一色1-28-3",
+    "lat": 35.71504592895508,
+    "lng": 139.869384765625,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-395",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "江戸川鹿骨店",
+    "address": "東京都江戸川区鹿骨1-53-8",
+    "lat": 35.70890808105469,
+    "lng": 139.88980102539062,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1070",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "浅草ROX・3G店",
+    "address": "東京都台東区浅草1-26-5",
+    "lat": 35.7126579284668,
+    "lng": 139.7932586669922,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-849",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "町田多摩境店",
+    "address": "東京都町田市小山ヶ丘5-1-1",
+    "lat": 35.60270690917969,
+    "lng": 139.3654022216797,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-455",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "立川柏町店",
+    "address": "東京都立川市柏町2-34-1",
+    "lat": 35.72160720825195,
+    "lng": 139.4121551513672,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-935",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "練馬中村店",
+    "address": "東京都練馬区中村1-15-37",
+    "lat": 35.73181915283203,
+    "lng": 139.64743041992188,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-468",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "練馬高松店",
+    "address": "東京都練馬区高松4-21-5",
+    "lat": 35.75100326538086,
+    "lng": 139.6259307861328,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-487",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "葛飾堀切店",
+    "address": "東京都葛飾区東堀切3-5-6",
+    "lat": 35.75605392456055,
+    "lng": 139.8351593017578,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-710",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "葛飾東水元店",
+    "address": "東京都葛飾区東水元4-2-1",
+    "lat": 35.78704833984375,
+    "lng": 139.86497497558594,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-860",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "葛飾柴又店",
+    "address": "東京都葛飾区柴又2-14-21",
+    "lat": 35.75977325439453,
+    "lng": 139.86756896972656,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-943",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西馬込駅南店",
+    "address": "東京都大田区南馬込5-35-2",
+    "lat": 35.58536148071289,
+    "lng": 139.7068634033203,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-507",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "調布佐須店",
+    "address": "東京都調布市佐須町4-68-15",
+    "lat": 35.65990447998047,
+    "lng": 139.55621337890625,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1254",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "赤羽駅西パルロード2店",
+    "address": "東京都北区赤羽西1-6-1 赤羽駅西パルロ-ド2 B1階",
+    "lat": 35.77741622924805,
+    "lng": 139.71974182128906,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-517",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "足立伊興店",
+    "address": "東京都足立区伊興1-24-18",
+    "lat": 35.79191207885742,
+    "lng": 139.7870635986328,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-518",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "足立大谷田店",
+    "address": "東京都足立区大谷田5-14-14",
+    "lat": 35.78163146972656,
+    "lng": 139.84056091308594,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-873",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "足立梅島店",
+    "address": "東京都足立区梅島1-24-2",
+    "lat": 35.771724700927734,
+    "lng": 139.80296325683594,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-519",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "足立鹿浜店",
+    "address": "東京都足立区鹿浜4-29-7",
+    "lat": 35.783180236816406,
+    "lng": 139.7598876953125,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1081",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "錦糸町パルコ店",
+    "address": "東京都墨田区江東橋四-27-14 錦糸町パルコ3階",
+    "lat": 35.69606399536133,
+    "lng": 139.8152313232422,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-542",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "青梅店",
+    "address": "東京都青梅市今寺5-7-5",
+    "lat": 35.79291915893555,
+    "lng": 139.2990264892578,
+    "prefecture": "東京都",
+    "prefectureCode": "tokyo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

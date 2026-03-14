@@ -6,7 +6,7 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 
 現在の設計上の論点:
 
-- `app.js` は住所検索、地図描画、一覧描画を1ファイルで持っているため、今後のUI追加時には分割を検討する
+- 地図データは都道府県別 JSON に分割し始めたが、将来的にはより細かいメッシュ分割も検討する
 - `geocode_shops.py` にはチェーン別の住所正規化戦略があり、チェーン追加時には個別ロジックを汎用処理へ埋め込まずに切り出す
 - `chains_master.csv` の列追加時は、関連スクリプト全体が新スキーマに追従しているか確認する
 
@@ -14,7 +14,8 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 
 - `index.html`: 1ページのUI
 - `styles.css`: レイアウトと見た目
-- `app.js`: 現在地取得、距離計算、地図描画
+- `app.js`: 画面状態管理と店舗データ読み込み
+- `js/`: 地図描画、住所検索、店舗一覧描画などの補助モジュール
 - `data/chains_master.csv`: 対象チェーンの定義
 - `data/category_master.csv`: 表示用カテゴリの定義
 - `data/shops_manual.csv`: 手入力と手修正の正本
@@ -24,6 +25,8 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/geocode_cache.csv`: 住所と座標のキャッシュ
 - `data/geocode_unresolved.csv`: 未解決住所の一覧
 - `data/shops.json`: フロントエンド配信用データ
+- `data/prefectures/index.json`: 都道府県別配信のインデックス
+- `data/prefectures/*.json`: 都道府県別の店舗データ
 - `data/_cache/`: HTMLスナップショットなどのローカルキャッシュ置き場。Git管理しない
 - `data/smart_code/chains_latest.csv`: Smart Code 一覧ページから抽出した最新チェーン一覧
 - `data/smart_code/chain_aliases.csv`: Smart Code表記と手元マスタ表記の対応表
@@ -61,6 +64,7 @@ python scripts/build_shops_json.py
 ```
 
 `data/shops_geocoded.csv` を読み込み、`data/shops.json` を更新します。
+あわせて `data/prefectures/index.json` と `data/prefectures/*.json` も再生成します。
 `lat/lng` が入っていない未解決行はスキップされるので、解決済みの店舗だけを先に公開できます。
 
 ### 店舗一覧マージ

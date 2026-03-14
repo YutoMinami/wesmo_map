@@ -1,0 +1,370 @@
+[
+  {
+    "id": "matsuya-2eb010822e5a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 うるま石川店 （松のや併設）",
+    "address": "沖縄県うるま市石川白浜 1-4-12",
+    "lat": 26.428674,
+    "lng": 127.827745,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-289f8f05c2eb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 うるま赤道店（松のや併設）",
+    "address": "沖縄県うるま市字赤道256-4",
+    "lat": 26.355255,
+    "lng": 127.831196,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-975d9708eeed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北谷美浜店 （松のや併設）",
+    "address": "沖縄県中頭郡北谷町字美浜2-1-9",
+    "lat": 26.316156,
+    "lng": 127.759971,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8bb6d1bdd290",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南風原店（松のや併設） ※3月20日10時オープン",
+    "address": "沖縄県島尻郡南風原町字兼城208-6",
+    "lat": 26.195782,
+    "lng": 127.726045,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c89dbf94d5e4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 沖縄知花店（松のや併設）",
+    "address": "沖縄県沖縄市知花5-16-20",
+    "lat": 26.36637,
+    "lng": 127.815564,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d98950ada75e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊見城店（松のや併設）",
+    "address": "沖縄県豊見城市字伊良波516-2",
+    "lat": 26.173108,
+    "lng": 127.666535,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7190218bc228",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 那覇古島店（松のや併設） ※3月26日10時オープン",
+    "address": "沖縄県那覇市銘苅1-1-15",
+    "lat": 26.228443,
+    "lng": 127.701463,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cc3836a9c8d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 那覇小禄店（松のや併設）",
+    "address": "沖縄県那覇市字田原1-3-1",
+    "lat": 26.199146,
+    "lng": 127.670414,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-066e8a5fa619",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 那覇新都心店（マイカリー食堂併設）",
+    "address": "沖縄県那覇市おもろまち4-2-8",
+    "lat": 26.224138,
+    "lng": 127.695583,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-870",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "うるま安慶名店",
+    "address": "沖縄県うるま市安慶名3-2-14",
+    "lat": 26.37354850769043,
+    "lng": 127.852783203125,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-705",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン宮古南店",
+    "address": "沖縄県宮古島市平良字松原631- イオンタウン宮古南ショッピングセンタ-内",
+    "lat": 24.788658142089844,
+    "lng": 125.27969360351562,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-926",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン泡瀬店",
+    "address": "沖縄県沖縄市泡瀬4-5-7 イオンタウン泡瀬内の1階",
+    "lat": 26.32179832458496,
+    "lng": 127.83039093017578,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1135",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン読谷座喜味店",
+    "address": "沖縄県中頭郡読谷村字上地205-1",
+    "lat": 26.403911590576172,
+    "lng": 127.73604583740234,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1136",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イーアス沖縄豊崎店",
+    "address": "沖縄県豊見城市豊崎3-35 イ-アス沖縄豊崎内3階",
+    "lat": 26.157798767089844,
+    "lng": 127.6511001586914,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-643",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "マリンプラザあがり浜店",
+    "address": "沖縄県島尻郡与那原町東浜68-1",
+    "lat": 26.206018447875977,
+    "lng": 127.7637710571289,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-152",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北谷美浜店",
+    "address": "沖縄県中頭郡北谷町北谷2-18-4",
+    "lat": 26.3056697845459,
+    "lng": 127.7607192993164,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-816",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名護大南店",
+    "address": "沖縄県名護市大南一-13-24",
+    "lat": 26.594602584838867,
+    "lng": 127.97869110107422,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-607",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宜野湾店",
+    "address": "沖縄県宜野湾市宇地泊三-5-23",
+    "lat": 26.269817352294922,
+    "lng": 127.73069763183594,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-398",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "沖縄美里店",
+    "address": "沖縄県沖縄市美原3-18-15",
+    "lat": 26.34726905822754,
+    "lng": 127.81746673583984,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-921",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "石垣真栄里店",
+    "address": "沖縄県石垣市字真栄里549-1",
+    "lat": 24.33804702758789,
+    "lng": 124.17938232421875,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-945",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "糸満西崎店",
+    "address": "沖縄県糸満市西崎町四-22-3",
+    "lat": 26.142742156982422,
+    "lng": 127.6607894897461,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-701",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊見城店",
+    "address": "沖縄県豊見城市字根差部658-1",
+    "lat": 26.188671112060547,
+    "lng": 127.68867492675781,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-523",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "那覇新都心店",
+    "address": "沖縄県那覇市おもろまち3-4-26",
+    "lat": 26.228973388671875,
+    "lng": 127.69341278076172,
+    "prefecture": "沖縄県",
+    "prefectureCode": "okinawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "matsuya-16b19f653eed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 倉敷水島店（松のや併設）",
+    "address": "岡山県倉敷市中畝6-6-21",
+    "lat": 34.523318,
+    "lng": 133.753293,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-753c15658268",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 倉敷玉島店（松のや併設）",
+    "address": "岡山県倉敷市玉島1-1394-2",
+    "lat": 34.547406,
+    "lng": 133.680778,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-41277475900c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岡山下中野店（マイカリー食堂併設）",
+    "address": "岡山県岡山市北区下中野343-101",
+    "lat": 34.639824,
+    "lng": 133.903387,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9c001d2d7838",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岡山十日市店",
+    "address": "岡山県岡山市北区十日市西町5-28",
+    "lat": 34.637094,
+    "lng": 133.923357,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2820bf30ee0e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岡山駅前店（松のや併設）",
+    "address": "岡山県岡山市北区本町3-3",
+    "lat": 34.665253,
+    "lng": 133.921679,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fb2fbf9d0191",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岡山駅西口店",
+    "address": "岡山県岡山市北区駅元町22-13 西口駅前ビル",
+    "lat": 34.667428,
+    "lng": 133.916863,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-321491ad08b4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 津山店（松のや併設）",
+    "address": "岡山県津山市小田中1443-1",
+    "lat": 35.062626,
+    "lng": 133.98827,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-366d62ac6bed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 総社店（松のや併設）",
+    "address": "岡山県総社市総社2-22-41",
+    "lat": 34.67786,
+    "lng": 133.753344,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-894",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アルティ久世店",
+    "address": "岡山県真庭市久世2415- マルイ アルティ店内",
+    "lat": 35.080223083496094,
+    "lng": 133.74429321289062,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1094",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コムプラザ倉敷市役所北店",
+    "address": "岡山県倉敷市白楽町473 ス-パ-棟2F",
+    "lat": 34.58809280395508,
+    "lng": 133.77210998535156,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-932",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コムプラザ笠岡店",
+    "address": "岡山県笠岡市富岡114-4 コムプラザ笠岡内",
+    "lat": 34.49934005737305,
+    "lng": 133.52838134765625,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1363",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ハローズ西古松モール店",
+    "address": "岡山県岡山市北区西古松西町6-5 ハロ-ズ西古松モ-ル店 2F",
+    "lat": 34.647743225097656,
+    "lng": 133.90467834472656,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1221",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "マルナカ倉敷マスカット店",
+    "address": "岡山県倉敷市松島1154-2 マルナカ倉敷マスカット 2階",
+    "lat": 34.62789535522461,
+    "lng": 133.802490234375,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-288",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "倉敷インター店",
+    "address": "岡山県倉敷市平田81-1",
+    "lat": 34.614662170410156,
+    "lng": 133.77305603027344,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-661",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "倉敷玉島店",
+    "address": "岡山県倉敷市玉島乙島7121-1",
+    "lat": 34.534542083740234,
+    "lng": 133.68148803710938,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-154",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北長瀬店",
+    "address": "岡山県岡山市北区北長瀬表町1-2-103",
+    "lat": 34.65198516845703,
+    "lng": 133.8933868408203,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1035",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡山岡北店",
+    "address": "岡山県岡山市北区中井町2-5-35-4",
+    "lat": 34.68351364135742,
+    "lng": 133.93162536621094,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-271",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡山平井店",
+    "address": "岡山県岡山市中区平井7-18-6",
+    "lat": 34.6347770690918,
+    "lng": 133.94993591308594,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-823",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡山泉田店",
+    "address": "岡山県岡山市南区泉田376-2 Pモ-ル泉田内",
+    "lat": 34.625267028808594,
+    "lng": 133.91041564941406,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-590",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡山藤田店",
+    "address": "岡山県岡山市南区藤田字錦560-214 P-MALL藤田内",
+    "lat": 34.58957290649414,
+    "lng": 133.88619995117188,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-348",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岡山高屋店",
+    "address": "岡山県岡山市中区高屋336-1",
+    "lat": 34.67461013793945,
+    "lng": 133.9680633544922,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-981",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新北畝店",
+    "address": "岡山県倉敷市北畝5-19-16",
+    "lat": 34.54010772705078,
+    "lng": 133.7535400390625,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-969",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "津山志戸部店",
+    "address": "岡山県津山市志戸部684-1",
+    "lat": 35.076717376708984,
+    "lng": 134.01828002929688,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1010",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "瀬戸内邑久店",
+    "address": "岡山県瀬戸内市邑久町豊安18-1",
+    "lat": 34.663726806640625,
+    "lng": 134.09075927734375,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-973",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "玉野メルカ店",
+    "address": "岡山県玉野市宇野1-38-1 玉野メルカ2F",
+    "lat": 34.49262237548828,
+    "lng": 133.94517517089844,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1177",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "総社中央店",
+    "address": "岡山県総社市中央5-4-108",
+    "lat": 34.668766021728516,
+    "lng": 133.75201416015625,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-877",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "赤磐山陽店",
+    "address": "岡山県赤磐市高屋394",
+    "lat": 34.75606155395508,
+    "lng": 134.02337646484375,
+    "prefecture": "岡山県",
+    "prefectureCode": "okayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

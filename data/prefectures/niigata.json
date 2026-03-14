@@ -1,0 +1,626 @@
+[
+  {
+    "id": "matsuya-b0489015377f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上越藤野店（松のや併設）",
+    "address": "新潟県上越市藤野新田1259",
+    "lat": 37.151771,
+    "lng": 138.250828,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0ed79a149014",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上越高田店（松のや併設）",
+    "address": "新潟県上越市土橋2600",
+    "lat": 37.131248,
+    "lng": 138.244679,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9a79ba141389",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀田インター店",
+    "address": "新潟県新潟市中央区姥ケ山63-1",
+    "lat": 37.882796,
+    "lng": 139.074682,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8051ec2f3a70",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟万代シテイ店（松のや併設）",
+    "address": "新潟県新潟市中央区万代1-1-22",
+    "lat": 37.916256,
+    "lng": 139.057599,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-905404f22614",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟大学前店（松のや併設）",
+    "address": "新潟県新潟市西区五十嵐一の町6703-6",
+    "lat": 37.869073,
+    "lng": 138.949502,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-64f1b07659f9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟大形店（松のや併設）",
+    "address": "新潟県新潟市東区豊1-13-53",
+    "lat": 37.924856,
+    "lng": 139.107656,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7c9c45456da2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟女池店",
+    "address": "新潟県新潟市中央区女池5-7-10",
+    "lat": 37.891974,
+    "lng": 139.03898,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1e740b5c72c3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟米山店",
+    "address": "新潟県新潟市中央区米山5-14-5",
+    "lat": 37.906531,
+    "lng": 139.055323,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e3f4203bd13c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟紫竹山店（松のや併設）",
+    "address": "新潟県新潟市中央区紫竹山1-9-1",
+    "lat": 37.899797,
+    "lng": 139.062191,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-44867064346f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟見附店（松のや併設）",
+    "address": "新潟県見附市上新田町字下野沖514-1",
+    "lat": 37.542561,
+    "lng": 138.891081,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4de02732b110",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟豊栄店",
+    "address": "新潟県新潟市北区かぶとやま2-2-58",
+    "lat": 37.928382,
+    "lng": 139.219931,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7a3f43dcac23",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新潟駅前店",
+    "address": "新潟県新潟市中央区東大通1-6-1",
+    "lat": 37.914339,
+    "lng": 139.061614,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f02c0e7686ea",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新発田店（松のや併設）",
+    "address": "新潟県新発田市小舟町1-7-6",
+    "lat": 37.963452,
+    "lng": 139.325244,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f3f489aae253",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 柏崎店（松のや併設）",
+    "address": "新潟県柏崎市東柳田23-3",
+    "lat": 37.379944,
+    "lng": 138.581302,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b90477e5d71a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長岡堺東町店",
+    "address": "新潟県長岡市堺東町7",
+    "lat": 37.458891,
+    "lng": 138.81417,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a00297a0ef5b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長岡店（松のや併設）",
+    "address": "新潟県長岡市新組町2281-1",
+    "lat": 37.498883,
+    "lng": 138.871694,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-708",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ長岡店",
+    "address": "新潟県長岡市沖田1-88- アクロスプラザ長岡内",
+    "lat": 37.44365310668945,
+    "lng": 138.86724853515625,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-952",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "リナシエ喜多町店",
+    "address": "新潟県長岡市喜多町2971-",
+    "lat": 37.45408630371094,
+    "lng": 138.80718994140625,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-72",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三条店",
+    "address": "新潟県三条市荒町2-22-14",
+    "lat": 37.64057540893555,
+    "lng": 138.9533233642578,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-617",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "上越モール店",
+    "address": "新潟県上越市とよば239-の1",
+    "lat": 37.10322952270508,
+    "lng": 138.27798461914062,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1328",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "上越下門前店",
+    "address": "新潟県上越市下門前1691-2",
+    "lat": 37.156124114990234,
+    "lng": 138.25686645507812,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-111",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐渡佐和田店",
+    "address": "新潟県佐渡市市野沢字金山151",
+    "lat": 38.00910186767578,
+    "lng": 138.33851623535156,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-135",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "六日町店",
+    "address": "新潟県南魚沼市余川3100 イオン六日町店敷地内",
+    "lat": 37.08113098144531,
+    "lng": 138.87864685058594,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-256",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小千谷店",
+    "address": "新潟県小千谷市大字桜町字天田2480-1 原信マ-ケットシティ小千谷内",
+    "lat": 37.30937957763672,
+    "lng": 138.7838134765625,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-312",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新津程島SC店",
+    "address": "新潟県新潟市秋葉区程島1974-3 新津程島ショッピングセンタ-内",
+    "lat": 37.78717041015625,
+    "lng": 139.11500549316406,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1096",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟亀田店",
+    "address": "新潟県新潟市江南区早苗2-1-43",
+    "lat": 37.87126922607422,
+    "lng": 139.0929718017578,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-314",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟寺尾台店",
+    "address": "新潟県新潟市西区寺尾台3-1-8",
+    "lat": 37.88196563720703,
+    "lng": 138.975341796875,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-307",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟新和店",
+    "address": "新潟県新潟市中央区新和1-2-20",
+    "lat": 37.90291976928711,
+    "lng": 139.04246520996094,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1345",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟河渡新町店",
+    "address": "新潟県新潟市東区河渡新町2-3-29",
+    "lat": 37.94725036621094,
+    "lng": 139.10958862304688,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-766",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟白根店",
+    "address": "新潟県新潟市南区神屋218-1",
+    "lat": 37.77298355102539,
+    "lng": 139.01837158203125,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-458",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟竹尾店",
+    "address": "新潟県新潟市東区竹尾3-13-6",
+    "lat": 37.91452407836914,
+    "lng": 139.09642028808594,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-596",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新潟錦町店",
+    "address": "新潟県新潟市東区錦町5-26 赤道ショッピングセンタ-内",
+    "lat": 37.93767166137695,
+    "lng": 139.0861358642578,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1272",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新発田ミッドタウン小舟店",
+    "address": "新潟県新発田市小舟町一-1-32 新発田ミッドタウン小舟SC内",
+    "lat": 37.963809967041016,
+    "lng": 139.3274383544922,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-315",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新発田店",
+    "address": "新潟県新発田市舟入町2-4-21",
+    "lat": 37.956634521484375,
+    "lng": 139.30850219726562,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-748",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "村上インター店",
+    "address": "新潟県村上市上助渕1010-",
+    "lat": 38.20753479003906,
+    "lng": 139.48095703125,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-371",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "柏崎店",
+    "address": "新潟県柏崎市東柳田30-",
+    "lat": 37.37886047363281,
+    "lng": 138.58108520507812,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-834",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "燕店",
+    "address": "新潟県燕市杣木2658-1",
+    "lat": 37.67180252075195,
+    "lng": 138.9099578857422,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-798",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "糸魚川店",
+    "address": "新潟県糸魚川市南押上三-1-25",
+    "lat": 37.04604721069336,
+    "lng": 137.87945556640625,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1220",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "見附店",
+    "address": "新潟県見附市葛巻町1670-1",
+    "lat": 37.52955627441406,
+    "lng": 138.9089813232422,
+    "prefecture": "新潟県",
+    "prefectureCode": "niigata",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

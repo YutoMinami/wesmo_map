@@ -1,0 +1,210 @@
+[
+  {
+    "id": "matsuya-bab5e0364818",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 横手店（松のや併設）",
+    "address": "秋田県横手市安田字縄手添87-1",
+    "lat": 39.304662,
+    "lng": 140.557196,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b5ea7d15155d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 秋田広面店（松のや併設）",
+    "address": "秋田県秋田市広面字樋ノ沖100-4",
+    "lat": 39.715476,
+    "lng": 140.148962,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-22",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ大館南店",
+    "address": "秋田県大館市餌釣字前田1- アクロスプラザ大館南内",
+    "lat": 40.2494010925293,
+    "lng": 140.57745361328125,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-967",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン鷹巣店",
+    "address": "秋田県北秋田市栄字中綱20-",
+    "lat": 40.22949981689453,
+    "lng": 140.38351440429688,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-48",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ御所野店",
+    "address": "秋田県秋田市御所野元町1-1-14 フレスポ御所野内",
+    "lat": 39.662803649902344,
+    "lng": 140.1640167236328,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-50",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ本荘店",
+    "address": "秋田県由利本荘市石脇字田頭159-1 フレスポ本荘内",
+    "lat": 39.389732360839844,
+    "lng": 140.0290985107422,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1288",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ横手I店",
+    "address": "秋田県横手市安田向田183",
+    "lat": 39.29793930053711,
+    "lng": 140.555908203125,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-843",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "メルシティ潟上店",
+    "address": "秋田県潟上市飯田川飯塚字上堤敷69-1 メルシティ潟上内",
+    "lat": 39.903438568115234,
+    "lng": 140.0836944580078,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-215",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "大曲飯田店",
+    "address": "秋田県大仙市飯田字屋舗通251",
+    "lat": 39.445438385009766,
+    "lng": 140.4820556640625,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-448",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "秋田八橋店",
+    "address": "秋田県秋田市八橋本町3-21-34",
+    "lat": 39.727073669433594,
+    "lng": 140.09909057617188,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1060",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "秋田外旭川店",
+    "address": "秋田県秋田市外旭川字大谷地29-1",
+    "lat": 39.75492477416992,
+    "lng": 140.09527587890625,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-449",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "秋田茨島SC店",
+    "address": "秋田県秋田市茨島6-11-7 秋田茨島ショッピングセンタ-内",
+    "lat": 39.69443893432617,
+    "lng": 140.0956268310547,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1293",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "能代長崎店",
+    "address": "秋田県能代市長崎41-1",
+    "lat": 40.1866340637207,
+    "lng": 140.0235137939453,
+    "prefecture": "秋田県",
+    "prefectureCode": "akita",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

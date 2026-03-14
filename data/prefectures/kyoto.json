@@ -1,0 +1,514 @@
+[
+  {
+    "id": "matsuya-6cc0c394d0b3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三条木屋町店",
+    "address": "京都府京都市中京区三条通河原町東入中島町97",
+    "lat": 35.008776,
+    "lng": 135.770591,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4f33ef261802",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 亀岡店",
+    "address": "京都府亀岡市下矢田町2-35-5",
+    "lat": 35.009185,
+    "lng": 135.576481,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c6ebc90987e3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京都久御山店",
+    "address": "京都府久世郡久御山町野村村東87-1",
+    "lat": 34.887678,
+    "lng": 135.742926,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bd0a342bba28",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京都西院店",
+    "address": "京都府京都市右京区西院高山寺町12-7",
+    "lat": 35.003192,
+    "lng": 135.731704,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c59c456d82e6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 六地蔵店",
+    "address": "京都府京都市伏見区桃山町西尾10-1",
+    "lat": 34.935305,
+    "lng": 135.793306,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-857118d5693a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吉祥院店（マイカリー食堂併設）",
+    "address": "京都府京都市南区吉祥院西ノ茶屋町63-",
+    "lat": 34.971254,
+    "lng": 135.726329,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-18f4aba45dea",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四条大宮駅前店",
+    "address": "京都府京都市下京区四条通大宮東入立中町492",
+    "lat": 35.003433,
+    "lng": 135.749921,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f5b1df791400",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四条河原町店",
+    "address": "京都府京都市中京区河原町通蛸薬師上る奈良屋町305-",
+    "lat": 35.005961,
+    "lng": 135.768936,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f6c371274446",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四条烏丸店",
+    "address": "京都府京都市下京区烏丸通仏光寺下る大政所町677-",
+    "lat": 35.001108,
+    "lng": 135.759382,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fc5e3a6e75e9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宇治小倉店（松のや併設）",
+    "address": "京都府宇治市小倉町久保15",
+    "lat": 34.89881,
+    "lng": 135.783666,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4c70c4cd3461",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山科店",
+    "address": "京都府京都市山科区安朱中小路町3-2",
+    "lat": 34.991651,
+    "lng": 135.817526,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3fbc9ff67476",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東寺店",
+    "address": "京都府京都市南区西九条開ヶ町101-2",
+    "lat": 34.979142,
+    "lng": 135.751654,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-643db15d9cb9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桂店",
+    "address": "京都府京都市西京区樫原盆山16-1",
+    "lat": 34.973225,
+    "lng": 135.685908,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-581d9827310a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 百万遍店",
+    "address": "京都府京都市左京区吉田泉殿町1-87-",
+    "lat": 35.028607,
+    "lng": 135.778565,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-03e49f07358c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 立命館大前店",
+    "address": "京都府京都市北区平野宮西町117-3",
+    "lat": 35.032966,
+    "lng": 135.731186,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1012",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アルプラザ木津店",
+    "address": "京都府木津川市相楽城西15 アルプラザ木津2F",
+    "lat": 34.73853302001953,
+    "lng": 135.79249572753906,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1262",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イズミヤスーパーセンター八幡店",
+    "address": "京都府八幡市八幡一ノ坪23-1",
+    "lat": 34.86018753051758,
+    "lng": 135.71205139160156,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-915",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イズミヤ六地蔵店",
+    "address": "京都府京都市伏見区桃山町西尾12-1 イズミヤ六地蔵店の2階",
+    "lat": 34.93488311767578,
+    "lng": 135.79299926757812,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-702",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ガーデンモール木津川店",
+    "address": "京都府木津川市州見台1-1-1-1 ガ-デンモ-ル木津川2階",
+    "lat": 34.72123718261719,
+    "lng": 135.81837463378906,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1224",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレストモール京田辺店",
+    "address": "京都府京田辺市同志社山手1-1-1",
+    "lat": 34.79548263549805,
+    "lng": 135.7758026123047,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-916",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "亀岡篠店",
+    "address": "京都府亀岡市篠町篠杢殿林12-1",
+    "lat": 35.00177764892578,
+    "lng": 135.60630798339844,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1072",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "五条葛野店",
+    "address": "京都府京都市右京区西院月双町98",
+    "lat": 34.996822357177734,
+    "lng": 135.72048950195312,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-892",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "京都ヨドバシ店",
+    "address": "京都府京都市下京区烏丸通七条下ル東塩小路町590-2 京都ヨドバシ4階",
+    "lat": 34.98822021484375,
+    "lng": 135.75894165039062,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-375",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "京都桂店",
+    "address": "京都府京都市西京区川島調子町11-1",
+    "lat": 34.97303009033203,
+    "lng": 135.6982879638672,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-184",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "向日店",
+    "address": "京都府向日市鶏冠井町十相1-1",
+    "lat": 34.94498062133789,
+    "lng": 135.71145629882812,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-793",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宇治大久保店",
+    "address": "京都府宇治市大久保町田原67-1",
+    "lat": 34.87379455566406,
+    "lng": 135.7643585205078,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-269",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "山科店",
+    "address": "京都府京都市山科区勧修寺東栗栖野町10-",
+    "lat": 34.97090530395508,
+    "lng": 135.8084716796875,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-886",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "嵯峨丸太町通店",
+    "address": "京都府京都市右京区嵯峨新宮町10-1",
+    "lat": 35.021339416503906,
+    "lng": 135.68679809570312,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1085",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新宇治槇島店",
+    "address": "京都府宇治市槇島町二十四57-3",
+    "lat": 34.9121208190918,
+    "lng": 135.78294372558594,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-871",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福知山店",
+    "address": "京都府福知山市末広町2-1-",
+    "lat": 35.29761505126953,
+    "lng": 135.11636352539062,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-486",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "葛野大路高辻店",
+    "address": "京都府京都市右京区西院月双町15-",
+    "lat": 34.999385833740234,
+    "lng": 135.72048950195312,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1079",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西舞鶴モール店",
+    "address": "京都府舞鶴市女布2-172",
+    "lat": 35.42903137207031,
+    "lng": 135.32174682617188,
+    "prefecture": "京都府",
+    "prefectureCode": "kyoto",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

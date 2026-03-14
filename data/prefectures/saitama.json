@@ -1,0 +1,2562 @@
+[
+  {
+    "id": "matsuya-55cce4b36d8a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 さいたま見沼店（松のや併設）",
+    "address": "埼玉県さいたま市見沼区新提94-1",
+    "lat": 35.930335,
+    "lng": 139.674798,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b559a347d874",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 ふじみ野店",
+    "address": "埼玉県ふじみ野市ふじみ野1-9-21",
+    "lat": 35.858613,
+    "lng": 139.513484,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-41ec7f647178",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 ふじみ野駅前店",
+    "address": "埼玉県富士見市ふじみ野西1-20-2 第7松本ビル1F",
+    "lat": 35.860661,
+    "lng": 139.522164,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f71e33034a09",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 みずほ台店",
+    "address": "埼玉県富士見市西みずほ台1-20-8",
+    "lat": 35.837372,
+    "lng": 139.550062,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-80acfc9a6bc7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三郷下彦川戸店（松のや併設）",
+    "address": "埼玉県三郷市下彦川戸762-1",
+    "lat": 35.849018,
+    "lng": 139.863756,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-216538daf904",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三郷店",
+    "address": "埼玉県三郷市三郷2-1-4 ふじプラザビル",
+    "lat": 35.844726,
+    "lng": 139.885134,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c528ffb4a9fa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三郷戸ヶ崎店（松のや併設）",
+    "address": "埼玉県三郷市戸ヶ崎3-586",
+    "lat": 35.799021,
+    "lng": 139.867297,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b9c09848c08a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上尾東口店",
+    "address": "埼玉県上尾市宮本町3-16 グロア-ル上尾",
+    "lat": 35.974347,
+    "lng": 139.589792,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-08cfccc42ed9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上尾緑丘店（松のや併設）",
+    "address": "埼玉県上尾市緑丘3-3-7",
+    "lat": 35.986671,
+    "lng": 139.578866,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-65fe1bb530b8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上福岡店",
+    "address": "埼玉県ふじみ野市上福岡1-2-36",
+    "lat": 35.873613,
+    "lng": 139.512268,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6d0a938aae23",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 与野店（松のや併設）",
+    "address": "埼玉県さいたま市中央区上峰4-14-12",
+    "lat": 35.878366,
+    "lng": 139.618308,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4d1b90c9534e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 与野駅前店",
+    "address": "埼玉県さいたま市浦和区上木崎1-4-2",
+    "lat": 35.885259,
+    "lng": 139.638918,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-41f6fc2c53e0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 入間市駅前店（松のや併設）",
+    "address": "埼玉県入間市豊岡1-2-30 横田スクウエア-ビル1階",
+    "lat": 35.840198,
+    "lng": 139.388846,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fb598fcef533",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 入間店（松のや併設）",
+    "address": "埼玉県入間市宮寺3186-9",
+    "lat": 35.811503,
+    "lng": 139.377553,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9565e21a6668",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 入間東藤沢店（松のや併設）",
+    "address": "埼玉県入間市東藤沢4-2-17",
+    "lat": 35.818026,
+    "lng": 139.418309,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-df51dc6180a2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北本店",
+    "address": "埼玉県北本市深井6-151",
+    "lat": 36.052188,
+    "lng": 139.527639,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-44d297132e2b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北浦和東口店",
+    "address": "埼玉県さいたま市浦和区北浦和3-2-8",
+    "lat": 35.872446,
+    "lng": 139.646887,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-658c1efd6714",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北越谷店",
+    "address": "埼玉県越谷市大沢3-4-26 Fine北越谷",
+    "lat": 35.90248,
+    "lng": 139.779883,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9fb58e1bcbb4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南浦和店",
+    "address": "埼玉県さいたま市南区南浦和2-36-16 田中ビル",
+    "lat": 35.848074,
+    "lng": 139.669844,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e5ffa8ce264e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南越谷店",
+    "address": "埼玉県越谷市南越谷1-19-8 吉澤第一ビル1F",
+    "lat": 35.875548,
+    "lng": 139.790841,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-978cc15c86df",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吉川店",
+    "address": "埼玉県吉川市木売1-4-11",
+    "lat": 35.876969,
+    "lng": 139.843072,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2b0ff3331227",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吹上店",
+    "address": "埼玉県鴻巣市鎌塚3-10-12",
+    "lat": 36.110101,
+    "lng": 139.449782,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dd8544efa14c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 和光市駅前店",
+    "address": "埼玉県和光市本町3-2 ステイパルビル",
+    "lat": 35.788276,
+    "lng": 139.611366,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-67d5e33175d9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 坂戸にっさい店（松のや併設）",
+    "address": "埼玉県坂戸市にっさい花みず木2-9-1",
+    "lat": 35.968561,
+    "lng": 139.376278,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8320a0ee44c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 坂戸店",
+    "address": "埼玉県坂戸市南町34-5",
+    "lat": 35.954087,
+    "lng": 139.398144,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2512e249bdcd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮南中丸店（松のや併設）",
+    "address": "埼玉県さいたま市見沼区大字南中丸519-4",
+    "lat": 35.916474,
+    "lng": 139.652044,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3a1d6f6bd3d2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮吉野町店（松のや併設）",
+    "address": "埼玉県さいたま市北区吉野町1-2-3",
+    "lat": 35.946657,
+    "lng": 139.621459,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-678eb1a08a39",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮大成町店",
+    "address": "埼玉県さいたま市大宮区大成町3-517",
+    "lat": 35.918928,
+    "lng": 139.614679,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d06c3ead9cb4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮奈良町店（松のや併設）",
+    "address": "埼玉県さいたま市北区奈良町51-4",
+    "lat": 35.941248,
+    "lng": 139.602995,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-42677be5c453",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮東口店",
+    "address": "埼玉県さいたま市大宮区宮町1-5",
+    "lat": 35.907853,
+    "lng": 139.624793,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c373032251d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮桜木町店（松のや併設）",
+    "address": "埼玉県さいたま市大宮区桜木町2-472-3",
+    "lat": 35.907336,
+    "lng": 139.617103,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8904408fa41e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大宮深作店",
+    "address": "埼玉県さいたま市見沼区深作3-27-3",
+    "lat": 35.955101,
+    "lng": 139.661983,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-693b36d84408",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川口上青木店",
+    "address": "埼玉県川口市上青木2-47-1",
+    "lat": 35.824793,
+    "lng": 139.724768,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f9b4ad80bdb8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川口並木店",
+    "address": "埼玉県川口市並木4-6-20",
+    "lat": 35.820306,
+    "lng": 139.708127,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d87a495d86f7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川口栄町店",
+    "address": "埼玉県川口市栄町3-14-1",
+    "lat": 35.802447,
+    "lng": 139.720416,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fa46ef6df9f0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川口駅前店",
+    "address": "埼玉県川口市川口1-1-1 CuPo・La専門店A105",
+    "lat": 35.801432,
+    "lng": 139.718109,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2c483aa26e19",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川島店（松のや併設）",
+    "address": "埼玉県比企郡川島町大字上伊草1214-1",
+    "lat": 35.978432,
+    "lng": 139.466468,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-38ec274389a5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川越インター店（松のや併設）",
+    "address": "埼玉県川越市広栄町6-6",
+    "lat": 35.900605,
+    "lng": 139.466827,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-47cae73df3fe",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川越城下町店（松のや併設）",
+    "address": "埼玉県川越市城下町7-8",
+    "lat": 35.926954,
+    "lng": 139.492407,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-688644dfea45",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川越西口店",
+    "address": "埼玉県川越市脇田本町1-7 川越駅西口ビル",
+    "lat": 35.906682,
+    "lng": 139.482859,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c648066ccf5a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 志木店",
+    "address": "埼玉県新座市東北2-37-12 磯川ビル1F",
+    "lat": 35.822237,
+    "lng": 139.573659,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b59cba529eae",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 志木東口店",
+    "address": "埼玉県志木市本町5-25-12 林ビル1F",
+    "lat": 35.823506,
+    "lng": 139.575331,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bb373a8907ab",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 戸田駅前店",
+    "address": "埼玉県戸田市大字新曽字柳原329-1",
+    "lat": 35.816082,
+    "lng": 139.670003,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bf4dc72d11fa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 所沢上安松店",
+    "address": "埼玉県所沢市大字上安松822-44",
+    "lat": 35.790646,
+    "lng": 139.493651,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-db2140e858c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 所沢北原店（マイカリー食堂併設）",
+    "address": "埼玉県所沢市北原町1403-9",
+    "lat": 35.810963,
+    "lng": 139.479868,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e7c67db508ac",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 所沢若狭店",
+    "address": "埼玉県所沢市若狭4-2453-1",
+    "lat": 35.803206,
+    "lng": 139.413596,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-907e48b090db",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新座馬場店",
+    "address": "埼玉県新座市馬場1-4-13",
+    "lat": 35.784426,
+    "lng": 139.574081,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-726cf83c66ed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新所沢東口店",
+    "address": "埼玉県所沢市松葉町10-15",
+    "lat": 35.807051,
+    "lng": 139.456861,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4cd85496cdd6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 春日部店",
+    "address": "埼玉県春日部市中央1-2-6 M6ビル1F",
+    "lat": 35.978036,
+    "lng": 139.751453,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ad8adbf96519",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 春日部豊町店 （松のや併設）",
+    "address": "埼玉県春日部市豊町1-27-2",
+    "lat": 35.971309,
+    "lng": 139.736901,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1190ed8b62f5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 朝霞台店",
+    "address": "埼玉県朝霞市浜崎1-3-10 AX-1ビル1F",
+    "lat": 35.815584,
+    "lng": 139.587775,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-da792862bffc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 朝霞店",
+    "address": "埼玉県朝霞市本町2-4-18 バモスビル1F",
+    "lat": 35.796581,
+    "lng": 139.599269,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c6b42107990e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 朝霞東口店",
+    "address": "埼玉県朝霞市仲町2-2-43 大日屋ビル",
+    "lat": 35.797581,
+    "lng": 139.600812,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-07cba6735b9d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 朝霞泉水店（松のや併設）",
+    "address": "埼玉県朝霞市泉水1-7-9",
+    "lat": 35.80297,
+    "lng": 139.576492,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-508209f9db75",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 朝霞膝折店（マイカリー食堂併設）",
+    "address": "埼玉県朝霞市膝折町2-10-14",
+    "lat": 35.792131,
+    "lng": 139.581208,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-31eae6ecb4c1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本川越店（松のや併設）",
+    "address": "埼玉県川越市新富町2-33-1",
+    "lat": 35.913807,
+    "lng": 139.481667,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-869cf5e011a5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本庄店（松のや併設）",
+    "address": "埼玉県本庄市けや木3-24-7",
+    "lat": 36.227805,
+    "lng": 139.185416,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4b5a41f890ce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大宮店",
+    "address": "埼玉県さいたま市見沼区東大宮5-10-5",
+    "lat": 35.943402,
+    "lng": 139.642433,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dd6ec0d01ce8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大宮駅前店（マイカリー食堂併設）",
+    "address": "埼玉県さいたま市見沼区東大宮5-38-5 あずまビル1F",
+    "lat": 35.948867,
+    "lng": 139.64127,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9896d069e3a0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東松山上野本店（松のや併設）",
+    "address": "埼玉県東松山市上野本1174-2",
+    "lat": 36.025958,
+    "lng": 139.405349,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4733d33c2320",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東松山店",
+    "address": "埼玉県東松山市箭弓町1-12-8 大谷ビル",
+    "lat": 36.035941,
+    "lng": 139.401727,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fd829d373969",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東武霞ヶ関店",
+    "address": "埼玉県川越市霞ヶ関東1-2-22",
+    "lat": 35.925263,
+    "lng": 139.442981,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6f7de63ef2c3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桶川店",
+    "address": "埼玉県桶川市坂田1632-1",
+    "lat": 36.010807,
+    "lng": 139.562421,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f1de98eb8efb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桶川西口店（松のや併設）",
+    "address": "埼玉県桶川市若宮1-2-8",
+    "lat": 35.998236,
+    "lng": 139.564029,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-397c98231a72",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武蔵浦和店（マイカリー食堂併設）",
+    "address": "埼玉県さいたま市南区沼影1-10-1 ラムザタワ-1F",
+    "lat": 35.844124,
+    "lng": 139.646913,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-67f12db8f18b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦和仲町店（松のや併設）",
+    "address": "埼玉県さいたま市浦和区仲町1-2-9 EGUCHIビルディング",
+    "lat": 35.859959,
+    "lng": 139.655449,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-160cf972bcc5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦和太田窪店（松のや併設）",
+    "address": "埼玉県さいたま市南区大字太田窪2840-2",
+    "lat": 35.848496,
+    "lng": 139.686801,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8ba303560cd3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦和所沢バイパス店 （松のや併設）",
+    "address": "埼玉県富士見市水谷東1-1-2",
+    "lat": 35.842249,
+    "lng": 139.569736,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-174c43f6286e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦和田島通店",
+    "address": "埼玉県さいたま市南区四谷3-7-6",
+    "lat": 35.841729,
+    "lng": 139.63902,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-254b34ffff90",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浦和町谷店（松のや併設）",
+    "address": "埼玉県さいたま市桜区町谷2-1-1",
+    "lat": 35.85942,
+    "lng": 139.621336,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fe5394fc5af3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 深谷市役所前店（松のや併設）",
+    "address": "埼玉県深谷市深谷町4-45",
+    "lat": 36.196573,
+    "lng": 139.280383,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a4ad929bc104",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 熊谷バイパス店（松のや併設）",
+    "address": "埼玉県熊谷市大字肥塚1408-3",
+    "lat": 36.164732,
+    "lng": 139.391269,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e4319bd0efec",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 狭山市駅前店",
+    "address": "埼玉県狭山市入間川1-3-2 スカイテラス1階",
+    "lat": 35.857846,
+    "lng": 139.412654,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-25fbbad7affb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 狭山店",
+    "address": "埼玉県狭山市下奥富1366-2",
+    "lat": 35.881366,
+    "lng": 139.435502,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3f1ca6dca1d6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 狭山根岸店",
+    "address": "埼玉県狭山市根岸1-8-34",
+    "lat": 35.854656,
+    "lng": 139.382101,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d885b115cee6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 獨協大学前店（松のや併設）",
+    "address": "埼玉県草加市栄町3-4-3 東武松原ビル2",
+    "lat": 35.844108,
+    "lng": 139.801731,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c5b81fa95526",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 草加店（松のや併設）",
+    "address": "埼玉県草加市北谷町1-2-14",
+    "lat": 35.841714,
+    "lng": 139.788048,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-40072b2dab62",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 草加東口店",
+    "address": "埼玉県草加市高砂2-18-9",
+    "lat": 35.828404,
+    "lng": 139.805219,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fc1fb98273c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 草加松江店（マイカリー食堂併設）",
+    "address": "埼玉県草加市松江6-12-27",
+    "lat": 35.834515,
+    "lng": 139.819747,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bdad84943b8d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 草加清門町店",
+    "address": "埼玉県草加市清門1-423-1",
+    "lat": 35.854572,
+    "lng": 139.783771,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f234d2d3e4a1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 草加西口店",
+    "address": "埼玉県草加市氷川町2125-4 ウシヤマビル",
+    "lat": 35.828283,
+    "lng": 139.802229,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d89b9711a410",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蓮田店",
+    "address": "埼玉県蓮田市東5-2-9 NKB2ビル1F",
+    "lat": 35.981509,
+    "lng": 139.653882,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-60e4fd24e9b1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蓮田関山店（松のや併設）",
+    "address": "埼玉県蓮田市関山2-7-7",
+    "lat": 35.989555,
+    "lng": 139.649263,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-22ead624eef4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蕨北町店（松のや併設）",
+    "address": "埼玉県蕨市北町5-4-5",
+    "lat": 35.831336,
+    "lng": 139.672873,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-800b429bcf39",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蕨店",
+    "address": "埼玉県蕨市塚越1-4-4 ラ・セ-ヌ1F",
+    "lat": 35.827753,
+    "lng": 139.691556,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7e15de871985",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 蕨西口店",
+    "address": "埼玉県蕨市中央1-23",
+    "lat": 35.82827,
+    "lng": 139.689542,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6616dc39e74e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西川口店",
+    "address": "埼玉県川口市並木2-1-6 1F",
+    "lat": 35.815925,
+    "lng": 139.705485,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5bad0135e3e1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西川口西口店",
+    "address": "埼玉県川口市西川口1-23-18",
+    "lat": 35.814831,
+    "lng": 139.703176,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b9faa6d2b9ed",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西所沢店（松のや併設）",
+    "address": "埼玉県所沢市上新井5-15-15",
+    "lat": 35.796516,
+    "lng": 139.454618,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9e1749b71d94",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 越谷下間久里店（松のや併設）",
+    "address": "埼玉県越谷市下間久里980-1",
+    "lat": 35.929138,
+    "lng": 139.780707,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5b67b5a8f912",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 越谷大道店（松のや併設）",
+    "address": "埼玉県越谷市大字大道574",
+    "lat": 35.92292,
+    "lng": 139.762758,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c3eb7bb98b78",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 越谷店（松のや併設）",
+    "address": "埼玉県越谷市弥生町17-1越谷ツインシティAシティ101-2",
+    "lat": 35.889194,
+    "lng": 139.786782,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-70d6ed88adb9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 越谷蒲生店（マイカリー食堂併設）",
+    "address": "埼玉県越谷市蒲生南町15-4",
+    "lat": 35.85754,
+    "lng": 139.806605,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ea17e1390c19",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野火止店（松のや併設）",
+    "address": "埼玉県新座市野火止4-7-29",
+    "lat": 35.802853,
+    "lng": 139.555319,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-40cf9aa85285",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 飯能双柳店",
+    "address": "埼玉県飯能市双柳757-4",
+    "lat": 35.847723,
+    "lng": 139.335197,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3ca36f2a740c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高坂店",
+    "address": "埼玉県東松山市元宿1-11-2 松田ビル",
+    "lat": 36.003113,
+    "lng": 139.39724,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-54e3364a63e8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴ヶ島店",
+    "address": "埼玉県川越市鯨井新田1-18 細田ビル",
+    "lat": 35.936231,
+    "lng": 139.423006,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b40e6a2706d6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴瀬店",
+    "address": "埼玉県富士見市鶴馬2605-1",
+    "lat": 35.845732,
+    "lng": 139.538023,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-69",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "さいたま七里店",
+    "address": "埼玉県さいたま市見沼区大字東門前32-1",
+    "lat": 35.93103790283203,
+    "lng": 139.6664276123047,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-81",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "さいたま与野店",
+    "address": "埼玉県さいたま市中央区本町東6-14-26",
+    "lat": 35.89424514770508,
+    "lng": 139.615234375,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-274",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "さいたま岩槻店",
+    "address": "埼玉県さいたま市岩槻区南平野二-25-2",
+    "lat": 35.95634078979492,
+    "lng": 139.71685791015625,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-320",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "さいたま日進店",
+    "address": "埼玉県さいたま市北区日進町3-443-1",
+    "lat": 35.93754577636719,
+    "lng": 139.60357666015625,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-13",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ふじみ野店",
+    "address": "埼玉県ふじみ野市ふじみ野2-25-26",
+    "lat": 35.86309814453125,
+    "lng": 139.5177001953125,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1360",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ららテラス川口店",
+    "address": "埼玉県川口市栄町3-5-1 三井ショッピングパ-ク ららテラス川口8F",
+    "lat": 35.8024787902832,
+    "lng": 139.7185821533203,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1315",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン上里店",
+    "address": "埼玉県児玉郡上里町金久保359-1 イオンタウン上里2F",
+    "lat": 36.2603759765625,
+    "lng": 139.138671875,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1306",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン蕨店",
+    "address": "埼玉県蕨市塚越5-6-35",
+    "lat": 35.822879791259766,
+    "lng": 139.7027587890625,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1009",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イトーヨーカドー三郷店",
+    "address": "埼玉県三郷市ピアラシティ1-1-1 イト-ヨ-カド-三郷店の2F",
+    "lat": 35.84331130981445,
+    "lng": 139.8524932861328,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-28",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エムズタウン幸手店",
+    "address": "埼玉県幸手市上高野764- エムズタウン内",
+    "lat": 36.0679817199707,
+    "lng": 139.7150421142578,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1032",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "クイズゲート浦和店",
+    "address": "埼玉県さいたま市緑区中尾不動谷3720 クイズゲ-ト浦和店の1F",
+    "lat": 35.876014709472656,
+    "lng": 139.67869567871094,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1347",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コープ坂戸薬師町店",
+    "address": "埼玉県坂戸市薬師町28-1",
+    "lat": 35.96833038330078,
+    "lng": 139.39901733398438,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-735",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "デオシティ新座店",
+    "address": "埼玉県新座市中野二-1-38 専門店棟3階",
+    "lat": 35.817535400390625,
+    "lng": 139.5492706298828,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1278",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トナリエふじみ野店",
+    "address": "埼玉県ふじみ野市うれし野2-10-87 トナリエふじみ野2F",
+    "lat": 35.85641098022461,
+    "lng": 139.52285766601562,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1231",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "パトリア東大宮店",
+    "address": "埼玉県さいたま市見沼区春野2-8",
+    "lat": 35.95737075805664,
+    "lng": 139.6592254638672,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-40",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ビバモール加須店",
+    "address": "埼玉県加須市下高柳1-29- ビバモ-ル1-街内",
+    "lat": 36.11061477661133,
+    "lng": 139.60739135742188,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1165",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ビバモール蕨錦町店",
+    "address": "埼玉県蕨市錦町一-12-1",
+    "lat": 35.822811126708984,
+    "lng": 139.67779541015625,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1219",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジモール吹上店",
+    "address": "埼玉県鴻巣市袋90-1",
+    "lat": 36.09516143798828,
+    "lng": 139.4663848876953,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-46",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ八潮店",
+    "address": "埼玉県八潮市大瀬一-1-3 フレスポ八潮ショッピングセンタ-2階",
+    "lat": 35.80879592895508,
+    "lng": 139.84396362304688,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-547",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フーコット飯能ショッピングセンター店",
+    "address": "埼玉県飯能市大字新光1-4 フ-コット飯能SC内",
+    "lat": 35.85144805908203,
+    "lng": 139.34315490722656,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1338",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシアひだかモール店",
+    "address": "埼玉県日高市森戸新田藤久保88-5",
+    "lat": 35.9149169921875,
+    "lng": 139.3728790283203,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1215",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア寄居北店",
+    "address": "埼玉県大里郡寄居町桜沢2916",
+    "lat": 36.131866455078125,
+    "lng": 139.20437622070312,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-56",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ミエル川口店",
+    "address": "埼玉県川口市本町2-7-25 ミエル川口1階",
+    "lat": 35.80061340332031,
+    "lng": 139.7279510498047,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-703",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "モラージュ菖蒲店",
+    "address": "埼玉県久喜市菖蒲町菖蒲6005-1 モラ-ジュ菖蒲内1階(ナフコさん向かい)",
+    "lat": 36.07542037963867,
+    "lng": 139.61105346679688,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1180",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨドバシコクーンさいたま新都心店",
+    "address": "埼玉県さいたま市大宮区吉敷町四-263-6 ヨドバシコク-ンさいたま新都心 コク-ン3 3階",
+    "lat": 35.89669418334961,
+    "lng": 139.63433837890625,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1239",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "上尾ショーサンプラザ店",
+    "address": "埼玉県上尾市谷津2-1-1 上尾ショ-サンプラザ4F",
+    "lat": 35.971439361572266,
+    "lng": 139.5896759033203,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1300",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊奈羽貫店",
+    "address": "埼玉県北足立郡伊奈町寿3-138",
+    "lat": 36.00792694091797,
+    "lng": 139.6065673828125,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-118",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "入間店",
+    "address": "埼玉県入間市東藤沢2-1-9",
+    "lat": 35.82218551635742,
+    "lng": 139.41383361816406,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-132",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八潮南後谷店",
+    "address": "埼玉県八潮市大字南後谷420-1",
+    "lat": 35.82863235473633,
+    "lng": 139.81814575195312,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-146",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北上尾店",
+    "address": "埼玉県上尾市上平中央三-38-7",
+    "lat": 35.99446487426758,
+    "lng": 139.58511352539062,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-148",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北本本宿店",
+    "address": "埼玉県北本市本宿2-69-",
+    "lat": 36.02880859375,
+    "lng": 139.5388946533203,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-810",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南与野埼大通り店",
+    "address": "埼玉県さいたま市中央区鈴谷2-667",
+    "lat": 35.86989974975586,
+    "lng": 139.62832641601562,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-201",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "坂戸店",
+    "address": "埼玉県坂戸市にっさい花みず木3-20-5",
+    "lat": 35.969234466552734,
+    "lng": 139.3699188232422,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-422",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "埼玉狭山店",
+    "address": "埼玉県狭山市廣瀬1-31-30",
+    "lat": 35.85597229003906,
+    "lng": 139.38653564453125,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-396",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川口江戸店",
+    "address": "埼玉県川口市江戸1-8-38",
+    "lat": 35.82258224487305,
+    "lng": 139.75205993652344,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-862",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川越南大塚店",
+    "address": "埼玉県川越市南大塚3-10-16",
+    "lat": 35.89081573486328,
+    "lng": 139.46066284179688,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-282",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川越小仙波店",
+    "address": "埼玉県川越市小仙波町2-14-1",
+    "lat": 35.919654846191406,
+    "lng": 139.49444580078125,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-302",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "戸田店",
+    "address": "埼玉県戸田市氷川町1-5-14",
+    "lat": 35.808406829833984,
+    "lng": 139.6612091064453,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1267",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新オリンピック武蔵浦和店",
+    "address": "埼玉県さいたま市南区別所7-3-1 オリンピック武蔵浦和B1F",
+    "lat": 35.84736251831055,
+    "lng": 139.6475067138672,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1356",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新埼玉春日部店",
+    "address": "埼玉県春日部市粕壁東3-9-11",
+    "lat": 35.9788703918457,
+    "lng": 139.76119995117188,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-311",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新座片山店",
+    "address": "埼玉県新座市片山1-20-36",
+    "lat": 35.770118713378906,
+    "lng": 139.56387329101562,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-333",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "朝霞店",
+    "address": "埼玉県朝霞市幸町2-4-12",
+    "lat": 35.790321350097656,
+    "lng": 139.58799743652344,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1019",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "本庄早稲田の杜店",
+    "address": "埼玉県本庄市早稲田の杜4-1-3",
+    "lat": 36.22185134887695,
+    "lng": 139.1842803955078,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-350",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東所沢店",
+    "address": "埼玉県所沢市東所沢和田3-5-7",
+    "lat": 35.79788589477539,
+    "lng": 139.51092529296875,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-745",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東松山高坂店",
+    "address": "埼玉県東松山市あずま町二-8-2",
+    "lat": 36.004947662353516,
+    "lng": 139.4083251953125,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-353",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東浦和店",
+    "address": "埼玉県さいたま市緑区大間木2-1-9",
+    "lat": 35.876670837402344,
+    "lng": 139.69415283203125,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1377",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "浦和パルコ店",
+    "address": "埼玉県さいたま市浦和区東高砂町11-1 浦和パルコ3F",
+    "lat": 35.857906341552734,
+    "lng": 139.65863037109375,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1093",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "浦和美園店",
+    "address": "埼玉県さいたま市岩槻区美園東一-5-12",
+    "lat": 35.8977165222168,
+    "lng": 139.7346649169922,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-743",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "深谷上野台店",
+    "address": "埼玉県深谷市上野台3305-1",
+    "lat": 36.18635177612305,
+    "lng": 139.27133178710938,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-623",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "熊谷円光店",
+    "address": "埼玉県熊谷市円光2-1-12",
+    "lat": 36.15826416015625,
+    "lng": 139.38462829589844,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-420",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "熊谷籠原店",
+    "address": "埼玉県熊谷市大字拾六間字外原768-2 フェスティバルガ-デン内",
+    "lat": 36.17317581176758,
+    "lng": 139.31069946289062,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-736",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "秩父店",
+    "address": "埼玉県秩父市下影森809-1",
+    "lat": 35.98073959350586,
+    "lng": 139.0748748779297,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-805",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "羽生店",
+    "address": "埼玉県羽生市大字下岩瀬490-2",
+    "lat": 36.16069412231445,
+    "lng": 139.53028869628906,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-485",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "草加新栄店",
+    "address": "埼玉県草加市新栄3-2-1",
+    "lat": 35.8604736328125,
+    "lng": 139.76853942871094,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-510",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "蓮田店",
+    "address": "埼玉県蓮田市椿山2-11-9",
+    "lat": 35.99589920043945,
+    "lng": 139.65432739257812,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-496",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "行田店",
+    "address": "埼玉県行田市佐間1-23-14",
+    "lat": 36.13291549682617,
+    "lng": 139.45790100097656,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-502",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西川越店",
+    "address": "埼玉県川越市大字小ヶ谷443",
+    "lat": 35.919403076171875,
+    "lng": 139.45619201660156,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-746",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "越谷レイクタウン店",
+    "address": "埼玉県越谷市レイクタウン二-1-4 ※イオンレイクタウンの敷地内には御座いません。",
+    "lat": 35.884098052978516,
+    "lng": 139.8162078857422,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-905",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "越谷大袋店",
+    "address": "埼玉県越谷市大字大道24-",
+    "lat": 35.92158126831055,
+    "lng": 139.75851440429688,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-153",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "越谷弥十郎店",
+    "address": "埼玉県越谷市大字弥十郎578-1",
+    "lat": 35.91703796386719,
+    "lng": 139.7945098876953,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-739",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鴻巣店",
+    "address": "埼玉県鴻巣市大間4-26-21",
+    "lat": 36.06026840209961,
+    "lng": 139.50392150878906,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-564",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鶴ヶ島店",
+    "address": "埼玉県鶴ヶ島市新町4-11-4",
+    "lat": 35.93446731567383,
+    "lng": 139.37039184570312,
+    "prefecture": "埼玉県",
+    "prefectureCode": "saitama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "matsuya-4d83d5a76811",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 JR尼崎店",
+    "address": "兵庫県尼崎市長洲本通1-4-2 レジュ-ルアッシュ尼崎駅前",
+    "lat": 34.73081,
+    "lng": 135.431038,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4458f1a01092",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 たつの店",
+    "address": "兵庫県たつの市龍野町堂本369-3",
+    "lat": 34.852488,
+    "lng": 134.5522,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-00665428273e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 フォーポイント フレックス by シェラトン 神戸三宮店",
+    "address": "兵庫県神戸市中央区布引町2-1-9 フォ-ポイント フレックス by シェラトン 神戸三宮 1F",
+    "lat": 34.699149,
+    "lng": 135.194132,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7ed0c4b7fbd6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三木店",
+    "address": "兵庫県三木市別所町小林734-76",
+    "lat": 34.782191,
+    "lng": 135.001296,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1feb3aab4e0c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 今津店",
+    "address": "兵庫県西宮市今津曙町1-1 エキ-マ今津1F",
+    "lat": 34.730893,
+    "lng": 135.351653,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-afa34655cce2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 伊丹店",
+    "address": "兵庫県伊丹市南町3-1-3",
+    "lat": 34.769278,
+    "lng": 135.420063,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-444e363efe99",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 六甲道店",
+    "address": "兵庫県神戸市灘区備後町3-2-16 タウンコ-ト六甲",
+    "lat": 34.714231,
+    "lng": 135.239857,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5852754f446b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 加古川平岡町店（マイカリー食堂併設）",
+    "address": "兵庫県加古川市平岡町一色370-1",
+    "lat": 34.736041,
+    "lng": 134.853752,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-af15c80fd0b5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 加古川野口町店",
+    "address": "兵庫県加古川市野口町坂元45-1",
+    "lat": 34.756293,
+    "lng": 134.848214,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0d85d41ffceb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 垂水店",
+    "address": "兵庫県神戸市垂水区神田町3-18 ラ・メ-ル垂水1F",
+    "lat": 34.630056,
+    "lng": 135.054947,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0c5ca7b8191d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 姫路大手前通店",
+    "address": "兵庫県姫路市駅前町338",
+    "lat": 34.829667,
+    "lng": 134.691419,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8773f73bec9d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 姫路花田店",
+    "address": "兵庫県姫路市花田町 一本松93-2他",
+    "lat": 34.824368,
+    "lng": 134.725549,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-588a7821c80b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 姫路飾磨店",
+    "address": "兵庫県姫路市飾磨区今在家1066",
+    "lat": 34.796815,
+    "lng": 134.651623,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-70df85e0096d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 姫路駅南大路通店",
+    "address": "兵庫県姫路市安田3-119",
+    "lat": 34.817307,
+    "lng": 134.684755,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1583c20e7814",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 宝塚安倉店（マイカリー食堂併設）",
+    "address": "兵庫県宝塚市安倉南2-2-21",
+    "lat": 34.795243,
+    "lng": 135.374489,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5799ef82f546",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 尼崎アマドゥ店",
+    "address": "兵庫県尼崎市道意町7-1 アマドゥ内",
+    "lat": 34.715779,
+    "lng": 135.39728,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-695994a60e5f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 尼崎武庫の里店（松のや併設）",
+    "address": "兵庫県尼崎市武庫の里1-11-1",
+    "lat": 34.760004,
+    "lng": 135.385191,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4e2dbb98b7fa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 尼崎潮江店",
+    "address": "兵庫県尼崎市潮江1-27-15",
+    "lat": 34.735086,
+    "lng": 135.432045,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-92555dedbf68",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 川西能勢口店（マイカリー食堂併設）",
+    "address": "兵庫県川西市栄町10-5 パルティ川西101",
+    "lat": 34.828726,
+    "lng": 135.413717,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-57394f76472e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 御影店",
+    "address": "兵庫県神戸市東灘区御影中町1-6-6 シティ-ホ-ムズ御影",
+    "lat": 34.715283,
+    "lng": 135.256518,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2dac983cd79a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 播磨町店",
+    "address": "兵庫県加古郡播磨町南大中3-3-28",
+    "lat": 34.723785,
+    "lng": 134.868115,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d7c94401e46d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 武庫川店（マイカリー食堂併設）",
+    "address": "兵庫県尼崎市稲葉荘1-14-5",
+    "lat": 34.730787,
+    "lng": 135.385173,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-03977c7edb0e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸三田駅前町店",
+    "address": "兵庫県三田市駅前町19-10",
+    "lat": 34.886111,
+    "lng": 135.233511,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ee2eb216a241",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸伊川谷店（マイカリー食堂併設）",
+    "address": "兵庫県神戸市西区伊川谷町有瀬1304",
+    "lat": 34.663598,
+    "lng": 135.015607,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-55126d5b8e7c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸元町東口店",
+    "address": "兵庫県神戸市中央区北長狭通4-1-12 鯉川ビル",
+    "lat": 34.690663,
+    "lng": 135.188146,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-73d5fc482e6a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸元町西口店",
+    "address": "兵庫県神戸市中央区元町通2-8-14 オルタンシアビル1F",
+    "lat": 34.689104,
+    "lng": 135.187433,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d78cdde97a4e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸新在家店",
+    "address": "兵庫県神戸市灘区浜田町3-5-8 ア-バンヴィレッジ六甲南",
+    "lat": 34.710979,
+    "lng": 135.2414,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-30294ace9f01",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸新開地店（松のや併設）",
+    "address": "兵庫県神戸市兵庫区新開地4-6-26",
+    "lat": 34.676457,
+    "lng": 135.172922,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-eaeef443ac60",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸有野店（松のや併設）",
+    "address": "兵庫県神戸市北区有野中町2-9-1",
+    "lat": 34.825851,
+    "lng": 135.225315,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-197734fcf2d3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神戸玉津店（松のや併設）",
+    "address": "兵庫県神戸市西区枝吉5-147-",
+    "lat": 34.667876,
+    "lng": 134.979925,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-071cd387f6f3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鈴蘭台店",
+    "address": "兵庫県神戸市北区鈴蘭台北町1-9-1 Bellstベルスト鈴蘭台",
+    "lat": 34.723944,
+    "lng": 135.14629,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bd110b372426",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阪神尼崎店",
+    "address": "兵庫県尼崎市神田中通2-17",
+    "lat": 34.719646,
+    "lng": 135.415925,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a6a52abf6612",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阪神西宮店",
+    "address": "兵庫県西宮市田中町2-3",
+    "lat": 34.736372,
+    "lng": 135.338205,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "つかしん店",
+    "address": "兵庫県尼崎市塚口本町4-8-1 ひがしまち南館3F",
+    "lat": 34.76158142089844,
+    "lng": 135.41793823242188,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-627",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ西脇店",
+    "address": "兵庫県西脇市高田井町55-1",
+    "lat": 34.985713958740234,
+    "lng": 134.96450805664062,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1226",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アスピア明石店",
+    "address": "兵庫県明石市東仲ノ町6-1 アスピア明石南館3階",
+    "lat": 34.64809036254883,
+    "lng": 134.9950714111328,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1247",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アマドゥコーナン尼崎道意町店",
+    "address": "兵庫県尼崎市道意町7-1-1 コ-ナン尼崎道意町店1階",
+    "lat": 34.7123908996582,
+    "lng": 135.39825439453125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1200",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アル・プラザあまがさきキューズモール店",
+    "address": "兵庫県尼崎市潮江1-3-1 アル・プラザあまがさきキュ-ズモ-ル 3階",
+    "lat": 34.73311233520508,
+    "lng": 135.4317626953125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-991",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール神戸南店",
+    "address": "兵庫県神戸市兵庫区中之島2-1-1 イオンモ-ル神戸南 3F",
+    "lat": 34.665367126464844,
+    "lng": 135.1744384765625,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1339",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イズミヤSC神戸玉津店",
+    "address": "兵庫県神戸市西区森友3-7-3 イズミヤSC神戸玉津 2F",
+    "lat": 34.66404724121094,
+    "lng": 134.98313903808594,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1291",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "グルメシティ芦屋浜店",
+    "address": "兵庫県芦屋市高浜町6-1 グルメシティ芦屋浜 3F",
+    "lat": 34.71940612792969,
+    "lng": 135.31622314453125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1036",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コロワ甲子園店",
+    "address": "兵庫県西宮市甲子園高潮町3-3 コロワ甲子園B1F",
+    "lat": 34.72390365600586,
+    "lng": 135.3623809814453,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1052",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナンジェームス山店",
+    "address": "兵庫県神戸市垂水区青山台7-6-2 コ-ナンジェ-ムス山2階",
+    "lat": 34.64531707763672,
+    "lng": 135.07472229003906,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-897",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン西宮今津２号館店",
+    "address": "兵庫県西宮市今津出在家町10-68 コ-ナン2館1F奥",
+    "lat": 34.725223541259766,
+    "lng": 135.3475341796875,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1384",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン魚崎店",
+    "address": "兵庫県神戸市東灘区魚崎南町4-3-16",
+    "lat": 34.7097053527832,
+    "lng": 135.2713165283203,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1286",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コープ明石大久保店",
+    "address": "兵庫県明石市大久保町大窪2545-8 コ-プ大久保 2階",
+    "lat": 34.69550323486328,
+    "lng": 134.94976806640625,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-949",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "セリオ西神南店",
+    "address": "兵庫県神戸市西区井吹台東町1-1 セリオ西神南内2F",
+    "lat": 34.70040512084961,
+    "lng": 135.03125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-992",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "セルバ甲南山手店",
+    "address": "兵庫県神戸市東灘区森南町1-5-1 セルバ甲南山手店4F",
+    "lat": 34.729209899902344,
+    "lng": 135.29478454589844,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-41",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ピフレ新長田店",
+    "address": "兵庫県神戸市長田区若松町4-2-15 ピフレ新長田店2階",
+    "lat": 34.656768798828125,
+    "lng": 135.14529418945312,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-656",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ赤穂店",
+    "address": "兵庫県赤穂市中広2-8 フレスポ赤穂内",
+    "lat": 34.740108489990234,
+    "lng": 134.3887939453125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1376",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ブルメールHAT神戸店",
+    "address": "兵庫県神戸市中央区脇浜海岸通2-2-2 ブルメ-ルHAT神戸 1F",
+    "lat": 34.7000732421875,
+    "lng": 135.2152557373047,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-71",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三木大村店",
+    "address": "兵庫県三木市大村505-1",
+    "lat": 34.80562210083008,
+    "lng": 134.9681396484375,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-815",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三木青山店",
+    "address": "兵庫県三木市志染町青山5-30-6",
+    "lat": 34.78533935546875,
+    "lng": 135.0340118408203,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1068",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三田ウッディタウン店",
+    "address": "兵庫県三田市けやき台1-5-",
+    "lat": 34.9068489074707,
+    "lng": 135.18804931640625,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1158",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "丹波氷上店",
+    "address": "兵庫県丹波市氷上町横田300-",
+    "lat": 35.15642166137695,
+    "lng": 135.0485076904297,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-87",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "二見店",
+    "address": "兵庫県明石市二見町西二見31-9",
+    "lat": 34.71334457397461,
+    "lng": 134.8898162841797,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-790",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊丹荒牧店",
+    "address": "兵庫県伊丹市鴻池町7-3-10",
+    "lat": 34.80443572998047,
+    "lng": 135.38418579101562,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-99",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊丹行基店",
+    "address": "兵庫県伊丹市行基町1-103-",
+    "lat": 34.7814826965332,
+    "lng": 135.40780639648438,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-101",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊川谷店",
+    "address": "兵庫県神戸市西区北別府5-1-5",
+    "lat": 34.671653747558594,
+    "lng": 135.00697326660156,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-875",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "加古川別府店",
+    "address": "兵庫県加古川市別府町石町95-1",
+    "lat": 34.72731018066406,
+    "lng": 134.84652709960938,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-144",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "加古川北在家店",
+    "address": "兵庫県加古川市加古川町北在家755-1",
+    "lat": 34.75672149658203,
+    "lng": 134.8335418701172,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-2",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北須磨店",
+    "address": "兵庫県神戸市須磨区多井畑字渋人谷上4-1 ミリオンタウン2階",
+    "lat": 34.66811752319336,
+    "lng": 135.10317993164062,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-741",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南あわじ店",
+    "address": "兵庫県南あわじ市広田広田字大御門586",
+    "lat": 34.32932662963867,
+    "lng": 134.83753967285156,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-192",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和田山店",
+    "address": "兵庫県朝来市和田山町法道寺字新中野809-1",
+    "lat": 35.358489990234375,
+    "lng": 134.82272338867188,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-198",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "園田店",
+    "address": "兵庫県尼崎市神崎町24-30",
+    "lat": 34.74308395385742,
+    "lng": 135.44679260253906,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-202",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "垂水小束山店",
+    "address": "兵庫県神戸市垂水区小束山本町3-2-2",
+    "lat": 34.664276123046875,
+    "lng": 135.0621795654297,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-147",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "姫路花北店",
+    "address": "兵庫県姫路市増位新町2-26",
+    "lat": 34.856895446777344,
+    "lng": 134.7083282470703,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-620",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宝塚山本店",
+    "address": "兵庫県宝塚市山本丸橋3-10-1",
+    "lat": 34.81310272216797,
+    "lng": 135.39381408691406,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1329",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宝塚逆瀬川アピア3店",
+    "address": "兵庫県宝塚市逆瀬川1-13-1 アピア3 1階",
+    "lat": 34.79818344116211,
+    "lng": 135.35153198242188,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1088",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小野店",
+    "address": "兵庫県小野市敷地町1502-11",
+    "lat": 34.8580207824707,
+    "lng": 134.9366455078125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-716",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "尼崎西長洲店",
+    "address": "兵庫県尼崎市西長洲町2-1-36",
+    "lat": 34.72756576538086,
+    "lng": 135.4235076904297,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1111",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "川西西多田店",
+    "address": "兵庫県川西市矢問3-22-2",
+    "lat": 34.85800552368164,
+    "lng": 135.4066619873047,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1228",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広畑夢前町店",
+    "address": "兵庫県姫路市広畑区夢前町一-2-14",
+    "lat": 34.79597473144531,
+    "lng": 134.63856506347656,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-292",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広畑西店",
+    "address": "兵庫県姫路市広畑区小松町2-76-",
+    "lat": 34.801109313964844,
+    "lng": 134.62318420410156,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-730",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新たつの店",
+    "address": "兵庫県たつの市龍野町小宅北字前田41-11",
+    "lat": 34.85530471801758,
+    "lng": 134.5568084716797,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-989",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新みゆき通り店",
+    "address": "兵庫県姫路市紺屋町57",
+    "lat": 34.83063888549805,
+    "lng": 134.69216918945312,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-752",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新山崎店",
+    "address": "兵庫県宍粟市山崎町鶴木8-2",
+    "lat": 34.995361328125,
+    "lng": 134.54074096679688,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-844",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新福崎店",
+    "address": "兵庫県神崎郡福崎町南田原2255-1",
+    "lat": 34.943668365478516,
+    "lng": 134.75718688964844,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1280",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "日生中央サピエ店",
+    "address": "兵庫県川辺郡猪名川町松尾台1-2-1 日生中央サピエ 2階",
+    "lat": 34.90674591064453,
+    "lng": 135.39181518554688,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-597",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "明石魚住店",
+    "address": "兵庫県明石市魚住町中尾508-",
+    "lat": 34.6905403137207,
+    "lng": 134.90806579589844,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-800",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "春日野道店",
+    "address": "兵庫県神戸市中央区北本町通1-1-29",
+    "lat": 34.6990966796875,
+    "lng": 135.2086181640625,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-445",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "灘新在家店",
+    "address": "兵庫県神戸市灘区新在家南町1-2-2 サザンモ-ルセカンドストリ-ト内",
+    "lat": 34.70844650268555,
+    "lng": 135.24044799804688,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1057",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "神戸ハーバーランド店",
+    "address": "兵庫県神戸市中央区東川崎町1-3-3 ハ-バ-ランドセンタ-ビル1階",
+    "lat": 34.676631927490234,
+    "lng": 135.1796875,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-332",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "神戸有野店",
+    "address": "兵庫県神戸市北区有野中町4-2-11",
+    "lat": 34.83372116088867,
+    "lng": 135.228515625,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-456",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "立花店",
+    "address": "兵庫県尼崎市稲葉元町1-1-15",
+    "lat": 34.73799133300781,
+    "lng": 135.38897705078125,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-464",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "網干和久店",
+    "address": "兵庫県姫路市網干区和久字下丁田12-1",
+    "lat": 34.80889129638672,
+    "lng": 134.58592224121094,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-478",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "花田店",
+    "address": "兵庫県姫路市花田町上原田192-1 フレッツガ-デン花田内",
+    "lat": 34.83711624145508,
+    "lng": 134.7339630126953,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-500",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西宮門戸店",
+    "address": "兵庫県西宮市大島町4-22",
+    "lat": 34.76176834106445,
+    "lng": 135.36712646484375,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-509",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊岡店",
+    "address": "兵庫県豊岡市九日市中町字権現132-17",
+    "lat": 35.524845123291016,
+    "lng": 134.82147216796875,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1369",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "須磨パティオ店",
+    "address": "兵庫県神戸市須磨区中落合2-2-1 須磨パティオ 3-館2F",
+    "lat": 34.67841339111328,
+    "lng": 135.0946502685547,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-549",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "飾磨店",
+    "address": "兵庫県姫路市飾磨区恵美酒松之本232",
+    "lat": 34.80464553833008,
+    "lng": 134.67279052734375,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-4",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ｉモール高砂店",
+    "address": "兵庫県高砂市米田町島32-A-2 iモ-ル高砂ショッピングセンタ-内",
+    "lat": 34.785980224609375,
+    "lng": 134.80722045898438,
+    "prefecture": "兵庫県",
+    "prefectureCode": "hyogo",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

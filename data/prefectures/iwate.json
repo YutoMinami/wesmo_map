@@ -1,0 +1,274 @@
+[
+  {
+    "id": "matsuya-94fe627abf5e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 アクロスプラザ盛岡店（松のや併設）",
+    "address": "岩手県盛岡市津志田南一-1-6 アクロスプラザ盛岡",
+    "lat": 39.659773,
+    "lng": 141.161077,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fe49ab3a3842",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 一関店（松のや併設）",
+    "address": "岩手県一関市山目大槻109-6",
+    "lat": 38.936984,
+    "lng": 141.119814,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-61da091aa7ff",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 盛岡みたけ店（松のや併設）",
+    "address": "岩手県盛岡市みたけ3-19-38",
+    "lat": 39.737897,
+    "lng": 141.118056,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c870e436302b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 盛岡アイーナ店",
+    "address": "岩手県盛岡市盛岡駅西通1-7-1 いわて県民情報交流センタ-(アイ-ナ)",
+    "lat": 39.701972,
+    "lng": 141.132738,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6a1004354f2a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 盛岡大通店",
+    "address": "岩手県盛岡市大通1-7-5",
+    "lat": 39.702816,
+    "lng": 141.148704,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b6c0a311b73a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 盛岡駅前通店",
+    "address": "岩手県盛岡市盛岡駅前通9-9",
+    "lat": 39.702172,
+    "lng": 141.137389,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-883",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ紫波店",
+    "address": "岩手県紫波郡紫波町日詰字丸盛197-1 アクロスプラザ紫波SC内",
+    "lat": 39.557861328125,
+    "lng": 141.16116333007812,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-62",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン北上店",
+    "address": "岩手県北上市里分4地割77 イオンタウン北上内",
+    "lat": 39.29478073120117,
+    "lng": 141.13548278808594,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1348",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン釜石店",
+    "address": "岩手県釜石市港町2-1-1 イオンタウン釜石3F",
+    "lat": 39.272621154785156,
+    "lng": 141.88624572753906,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-639",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ一関店",
+    "address": "岩手県一関市中里字在家11-1 フレスポ一関内",
+    "lat": 38.93874740600586,
+    "lng": 141.14984130859375,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-866",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "久慈市役所前店",
+    "address": "岩手県久慈市川崎町16-34",
+    "lat": 40.19162368774414,
+    "lng": 141.77720642089844,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-929",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "二戸金田一温泉店",
+    "address": "岩手県二戸市金田一字八ツ長38-13",
+    "lat": 40.31022644042969,
+    "lng": 141.30804443359375,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-744",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "宮古店",
+    "address": "岩手県宮古市南町12-20",
+    "lat": 39.63853073120117,
+    "lng": 141.9472198486328,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1409",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新花巻桜台店",
+    "address": "岩手県花巻市桜台二-9-9",
+    "lat": 39.39749526977539,
+    "lng": 141.1024169921875,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-433",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "盛岡厨川店",
+    "address": "岩手県盛岡市厨川3-13-30",
+    "lat": 39.74778366088867,
+    "lng": 141.13063049316406,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-434",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "盛岡向中野店",
+    "address": "岩手県盛岡市向中野2-5-8",
+    "lat": 39.68330764770508,
+    "lng": 141.14315795898438,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-934",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "盛岡大館店",
+    "address": "岩手県盛岡市大館町19-18",
+    "lat": 39.71607971191406,
+    "lng": 141.1106719970703,
+    "prefecture": "岩手県",
+    "prefectureCode": "iwate",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "matsuya-6172af09b9e6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 姶良加治木店（松のや併設）",
+    "address": "鹿児島県姶良市加治木町木田2041-2",
+    "lat": 31.733453,
+    "lng": 130.643036,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-039eaee11f9d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 薩摩川内店（松のや併設）",
+    "address": "鹿児島県薩摩川内市大小路町17-12",
+    "lat": 31.825585,
+    "lng": 130.299558,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d744396f498a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 霧島隼人店（松のや併設）",
+    "address": "鹿児島県霧島市隼人町見次502",
+    "lat": 31.741275,
+    "lng": 130.741626,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-07f9619a3aa3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鹿児島宇宿店（松のや併設）",
+    "address": "鹿児島県鹿児島市宇宿2-24-16",
+    "lat": 31.540111,
+    "lng": 130.539246,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-56e161c1ca6a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鹿児島新栄店（松のや・マイカリー食堂併設）",
+    "address": "鹿児島県鹿児島市新栄町4-23",
+    "lat": 31.54845,
+    "lng": 130.543081,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e4e1af405d47",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鹿屋寿店（松のや併設）",
+    "address": "鹿児島県鹿屋市寿2-14-39",
+    "lat": 31.386894,
+    "lng": 130.865746,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-37",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "スクエアモール鹿児島宇宿店",
+    "address": "鹿児島県鹿児島市宇宿2-2-18 宇宿ショッピングセンタ-内2階",
+    "lat": 31.543079376220703,
+    "lng": 130.5424041748047,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-824",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ソレイユタウン伊集院店",
+    "address": "鹿児島県日置市伊集院町徳重三-9-1 ソレイユタウン伊集院内2F",
+    "lat": 31.630130767822266,
+    "lng": 130.39776611328125,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1049",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ国分店",
+    "address": "鹿児島県霧島市国分広瀬2-4-1",
+    "lat": 31.72319221496582,
+    "lng": 130.75604248046875,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-904",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南さつま加世田店",
+    "address": "鹿児島県南さつま市加世田本町16-2",
+    "lat": 31.41996955871582,
+    "lng": 130.32260131835938,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-890",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "奄美名瀬店",
+    "address": "鹿児島県奄美市名瀬朝日町11-2",
+    "lat": 28.395984649658203,
+    "lng": 129.52635192871094,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-851",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "志布志アピア店",
+    "address": "鹿児島県志布志市志布志町志布志3-24-1 サンポ-トしぶしアピアショッピングセンタ-内",
+    "lat": 31.471784591674805,
+    "lng": 131.09710693359375,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-694",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "指宿店",
+    "address": "鹿児島県指宿市西方1960-1",
+    "lat": 31.258554458618164,
+    "lng": 130.63174438476562,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1123",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新フレスポジャングルパーク店",
+    "address": "鹿児島県鹿児島市与次郎1-11-1 ジャングルパ-ク内2階",
+    "lat": 31.57126235961914,
+    "lng": 130.5642547607422,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1149",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新鹿児島出水店",
+    "address": "鹿児島県出水市中央町1544",
+    "lat": 32.08016586303711,
+    "lng": 130.34262084960938,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1243",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "薩摩川内国分寺店",
+    "address": "鹿児島県薩摩川内市国分寺町6965-1",
+    "lat": 31.82724380493164,
+    "lng": 130.30311584472656,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-276",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "薩摩川内平佐店",
+    "address": "鹿児島県薩摩川内市平佐町1653-4",
+    "lat": 31.810001373291016,
+    "lng": 130.32643127441406,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1383",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "霧島隼人店",
+    "address": "鹿児島県霧島市隼人町見次435-",
+    "lat": 31.74268913269043,
+    "lng": 130.7396697998047,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1188",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿児島卸本町店",
+    "address": "鹿児島県鹿児島市卸本町7-25",
+    "lat": 31.513887405395508,
+    "lng": 130.5199432373047,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-786",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿児島吉野店",
+    "address": "鹿児島県鹿児島市吉野町2224-1",
+    "lat": 31.639184951782227,
+    "lng": 130.57127380371094,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-568",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿児島姶良店",
+    "address": "鹿児島県姶良市西餅田3335-39 コ-プタウン敷地内",
+    "lat": 31.717092514038086,
+    "lng": 130.62294006347656,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-570",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿屋バイパス店",
+    "address": "鹿児島県鹿屋市旭原町3589-38",
+    "lat": 31.399580001831055,
+    "lng": 130.8795166015625,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-674",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿屋共栄店",
+    "address": "鹿児島県鹿屋市共栄町19-26",
+    "lat": 31.376277923583984,
+    "lng": 130.85516357421875,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1181",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鹿屋笠之原店",
+    "address": "鹿児島県肝属郡肝付町富山901-5",
+    "lat": 31.387794494628906,
+    "lng": 130.89642333984375,
+    "prefecture": "鹿児島県",
+    "prefectureCode": "kagoshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

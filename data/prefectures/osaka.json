@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "matsuya-f28eb78388d9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 JR茨木店（松のや併設）",
+    "address": "大阪府茨木市春日1-4-1",
+    "lat": 34.817058,
+    "lng": 135.562384,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-84d1e84bddf9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 JR高槻南口店",
+    "address": "大阪府高槻市高槻町9-22 吉廣第二ビル 1.2F",
+    "lat": 34.850603,
+    "lng": 135.619434,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-56e9d235f34d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 あびこ店（松のや併設）",
+    "address": "大阪府大阪市住吉区苅田5-19-17 メトロアビコ1F",
+    "lat": 34.599755,
+    "lng": 135.513136,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-636905171349",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 そよら古川橋駅前店（松のや併設）",
+    "address": "大阪府門真市末広町41-2 イオンそよら古川橋1F",
+    "lat": 34.738822,
+    "lng": 135.591894,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-751d5f3e2bf2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 そよら長原駅前店（松のや併設）",
+    "address": "大阪府大阪市平野区長吉長原東2-2-35 そよら長原駅前102区画",
+    "lat": 34.602,
+    "lng": 135.574223,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-44c0b5fad336",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 なんさん通り店",
+    "address": "大阪府大阪市中央区難波千日前14-14",
+    "lat": 34.663213,
+    "lng": 135.503448,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c920ea1109c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 エル枚方店（松のや併設）",
+    "address": "大阪府枚方市岡東町19-20 エル枚方食遊館1F",
+    "lat": 34.815086,
+    "lng": 135.647559,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ac692c1614e4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 三国店",
+    "address": "大阪府大阪市淀川区三国本町3-30-13",
+    "lat": 34.737398,
+    "lng": 135.483841,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b45692636a6e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 上新庄店",
+    "address": "大阪府大阪市東淀川区瑞光1-11-29 新高ビル1階",
+    "lat": 34.748418,
+    "lng": 135.533529,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d5abe62b244c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中崎町店",
+    "address": "大阪府大阪市北区中崎1-6-15 中崎1-クサカビル1F・2F",
+    "lat": 34.707313,
+    "lng": 135.506212,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6b6c413403af",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 九条店（松のや併設）",
+    "address": "大阪府大阪市西区九条1-14-26",
+    "lat": 34.674994,
+    "lng": 135.474826,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3156e01f4ee2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京橋片町店",
+    "address": "大阪府大阪市都島区片町2-4-8 上室ビル",
+    "lat": 34.696768,
+    "lng": 135.532866,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e1fd72fe43f5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 京阪京橋店",
+    "address": "大阪府大阪市都島区東野田町2-4-14",
+    "lat": 34.697846,
+    "lng": 135.532542,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-061b91056c6d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 住之江公園店",
+    "address": "大阪府大阪市住之江区新北島1-1-7 ビックドックプラザ1F",
+    "lat": 34.60842,
+    "lng": 135.472723,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-61cbe3aaafb8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 住道店",
+    "address": "大阪府大東市浜町9-10 住道駅前ビル",
+    "lat": 34.708558,
+    "lng": 135.621531,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4550952358f3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八尾南太子堂店（松のや併設）",
+    "address": "大阪府八尾市南太子堂6-2-61",
+    "lat": 34.613291,
+    "lng": 135.583935,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-de55322ebcbe",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八尾本町店",
+    "address": "大阪府八尾市本町2-8-19",
+    "lat": 34.627934,
+    "lng": 135.598924,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-86638e6b7cda",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 十三東口店",
+    "address": "大阪府大阪市淀川区十三東2-8-15",
+    "lat": 34.719653,
+    "lng": 135.483441,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-75e53f964fce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 十三西口店",
+    "address": "大阪府大阪市淀川区十三本町1-4-1",
+    "lat": 34.719866,
+    "lng": 135.481888,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f43b13157427",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千日前店",
+    "address": "大阪府大阪市中央区難波3-3-4",
+    "lat": 34.666442,
+    "lng": 135.501908,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a14baab09497",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千林大宮店",
+    "address": "大阪府大阪市旭区森小路2-6-1",
+    "lat": 34.723861,
+    "lng": 135.54939,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-806c8496249e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千里丘店（松のや併設）",
+    "address": "大阪府摂津市千里丘5-11-3",
+    "lat": 34.788191,
+    "lng": 135.543231,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1c3c5d364359",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南森町駅前店",
+    "address": "大阪府大阪市北区天神橋2-北1-3",
+    "lat": 34.697685,
+    "lng": 135.512123,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-55ac0ec2b89e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南津守店",
+    "address": "大阪府大阪市西成区南津守6-6-46",
+    "lat": 34.626916,
+    "lng": 135.480247,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ce1311366ec0",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南海難波店",
+    "address": "大阪府大阪市中央区難波4-4-6 1F.2F",
+    "lat": 34.665114,
+    "lng": 135.500031,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ae30f7026e8f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南茨木店",
+    "address": "大阪府茨木市沢良宜西1-2-20",
+    "lat": 34.80175,
+    "lng": 135.565809,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-44390ccb7b05",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 吹田店（松のや併設）",
+    "address": "大阪府吹田市昭和町10-19",
+    "lat": 34.762704,
+    "lng": 135.526619,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cf5f00e75395",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 和泉中央駅店",
+    "address": "大阪府和泉市いぶき野5-1-1",
+    "lat": 34.460896,
+    "lng": 135.455659,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-61275247d49c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 喜連瓜破店",
+    "address": "大阪府大阪市平野区喜連2-5-47 村瀬ビル1F",
+    "lat": 34.609456,
+    "lng": 135.551274,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b309faa43934",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 四ツ橋店",
+    "address": "大阪府大阪市西区北堀江1-2-14",
+    "lat": 34.672601,
+    "lng": 135.496833,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-33b97a5b7b47",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 堺大野芝店（松のや併設）",
+    "address": "大阪府堺市中区大野芝町137-1",
+    "lat": 34.535912,
+    "lng": 135.517181,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-02c0488bc18d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 堺山本店（松のや併設）",
+    "address": "大阪府堺市堺区山本町2-58-2",
+    "lat": 34.587462,
+    "lng": 135.472015,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f0285424c786",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 堺東銀座街店",
+    "address": "大阪府堺市堺区中瓦町2-2-9",
+    "lat": 34.575194,
+    "lng": 135.48313,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8706e4e81c14",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 堺美原店（松のや併設）",
+    "address": "大阪府堺市美原区黒山1001",
+    "lat": 34.543079,
+    "lng": 135.556333,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3f0645b3789c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 塚本店",
+    "address": "大阪府大阪市淀川区塚本2-28-1 リバ-ヴィレッジ塚本ビル",
+    "lat": 34.712981,
+    "lng": 135.469092,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-86b7184ce248",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 外環八尾店（マイカリー食堂併設）",
+    "address": "大阪府八尾市志紀町南3-190-1",
+    "lat": 34.595028,
+    "lng": 135.614489,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e439ddb27a30",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大国町店",
+    "address": "大阪府大阪市浪速区敷津東1-9-16",
+    "lat": 34.658765,
+    "lng": 135.498113,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a2edcb6c474c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大東御供田店",
+    "address": "大阪府大東市御供田3-7-41",
+    "lat": 34.703041,
+    "lng": 135.629438,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fc0f333c30c2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大正千島店（松のや併設）",
+    "address": "大阪府大阪市大正区千島3-4-7",
+    "lat": 34.651903,
+    "lng": 135.471526,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2a0c52514c6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大阪本町店",
+    "address": "大阪府大阪市中央区南本町3-3-8",
+    "lat": 34.682302,
+    "lng": 135.502109,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9faa8f1f78c9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 大阪野田店",
+    "address": "大阪府大阪市福島区吉野3-12-27",
+    "lat": 34.69003,
+    "lng": 135.47558,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c57a8dd3c103",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 天満橋店",
+    "address": "大阪府大阪市中央区谷町2-8-1 大手前M2ビル",
+    "lat": 34.686797,
+    "lng": 135.517001,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c8382f528fb1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 天神橋六丁目店（松のや併設）",
+    "address": "大阪府大阪市北区本庄東1-6-22",
+    "lat": 34.711967,
+    "lng": 135.510432,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1cc8907f1fa1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 守口佐太中町店（松のや併設）",
+    "address": "大阪府守口市佐太中町6-55-36",
+    "lat": 34.762238,
+    "lng": 135.592318,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cfad618d0e2f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 守口市駅前店",
+    "address": "大阪府守口市桜町9-8",
+    "lat": 34.735737,
+    "lng": 135.564956,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-71dbf1be1bbc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富田店",
+    "address": "大阪府高槻市富田町1-6-3",
+    "lat": 34.836037,
+    "lng": 135.593799,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-82c3dca48803",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富田林店（松のや併設）",
+    "address": "大阪府富田林市若松町2-3-18",
+    "lat": 34.506221,
+    "lng": 135.604054,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3d398fe4c52a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岡町店",
+    "address": "大阪府豊中市中桜塚1-1-1 ティオ阪急岡町1階",
+    "lat": 34.77967,
+    "lng": 135.464843,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6d4211f790bf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岸和田店",
+    "address": "大阪府岸和田市土生町2-7-17",
+    "lat": 34.45019,
+    "lng": 135.376698,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-66a9f2074d95",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岸和田西之内店（松のや併設）",
+    "address": "大阪府岸和田市西之内町4-24",
+    "lat": 34.464013,
+    "lng": 135.39009,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8227b9a23103",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岸里店",
+    "address": "大阪府大阪市西成区潮路1-10-1 林 岸里駅前ビル",
+    "lat": 34.635214,
+    "lng": 135.493772,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0f5b333258a1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 布施寿町店（松のや併設）",
+    "address": "大阪府東大阪市寿町3-10-19",
+    "lat": 34.652673,
+    "lng": 135.564233,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1ab716341dfa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 布施店",
+    "address": "大阪府東大阪市足代新町2-18",
+    "lat": 34.664442,
+    "lng": 135.561829,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7d35a2aa3df6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 庄内店",
+    "address": "大阪府豊中市庄内西町2-22-10 幸栄ビル1F",
+    "lat": 34.749454,
+    "lng": 135.474756,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-13b3885700e4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 御崎店",
+    "address": "大阪府大阪市住之江区御崎7-15-21",
+    "lat": 34.60272,
+    "lng": 135.480857,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-be091dbaafec",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 忍ヶ丘駅前店（松のや併設）",
+    "address": "大阪府四條畷市岡山東1-2-15",
+    "lat": 34.744563,
+    "lng": 135.645087,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-65d509d700b2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 恵美須町店",
+    "address": "大阪府大阪市浪速区恵美須西2-1-32",
+    "lat": 34.654333,
+    "lng": 135.505051,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2944f8f36d51",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 放出店",
+    "address": "大阪府大阪市鶴見区今津南1-7-29",
+    "lat": 34.688306,
+    "lng": 135.565563,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-63fbd8869b7f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新大阪東口店",
+    "address": "大阪府大阪市東淀川区東中島1-20-9 新大阪池永ビル",
+    "lat": 34.733883,
+    "lng": 135.502871,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5347fa9d76e8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日本橋店",
+    "address": "大阪府大阪市中央区日本橋1-3-2 日本橋コウジィアパ-トメント",
+    "lat": 34.667828,
+    "lng": 135.505921,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6a0edc137379",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 春木店",
+    "address": "大阪府岸和田市春木若松町18-31",
+    "lat": 34.479552,
+    "lng": 135.389701,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1d53f9798d4e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 曽根店",
+    "address": "大阪府豊中市曽根東町2-12-14",
+    "lat": 34.773404,
+    "lng": 135.472575,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-984be8a425cd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東住吉中野店",
+    "address": "大阪府大阪市東住吉区中野4-3-22",
+    "lat": 34.62118,
+    "lng": 135.540067,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b6c55209fe87",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東住吉湯里店",
+    "address": "大阪府大阪市東住吉区湯里5-20-6",
+    "lat": 34.609771,
+    "lng": 135.538276,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-01c20351e212",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大阪七軒家店（松のや併設）",
+    "address": "大阪府東大阪市七軒家18-21",
+    "lat": 34.686938,
+    "lng": 135.589069,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-119b0b8df563",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東大阪川田店 (松のや併設)",
+    "address": "大阪府東大阪市川田1-15-8",
+    "lat": 34.691667,
+    "lng": 135.617572,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8ec7b17c6528",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東淀川菅原店",
+    "address": "大阪府大阪市東淀川区菅原2-7-9",
+    "lat": 34.738348,
+    "lng": 135.527306,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0aa5210ac101",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 枚方市役所前店",
+    "address": "大阪府枚方市岡東町5-24",
+    "lat": 34.814682,
+    "lng": 135.649525,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ecc78f75a893",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜川店（松のや併設）",
+    "address": "大阪府大阪市浪速区桜川3-1-24 丸ニビル",
+    "lat": 34.668261,
+    "lng": 135.487452,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-be559f35a403",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 桜橋店",
+    "address": "大阪府大阪市北区曽根崎新地2-2-13",
+    "lat": 34.697975,
+    "lng": 135.494691,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e2668645c53f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 梅田神山町店",
+    "address": "大阪府大阪市北区神山町8-22 梅電ビル",
+    "lat": 34.70257,
+    "lng": 135.50529,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2cb47c04a56d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 梅田角田町店",
+    "address": "大阪府大阪市北区角田町6-5",
+    "lat": 34.703487,
+    "lng": 135.50065,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a39247fe316f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 森ノ宮店",
+    "address": "大阪府大阪市中央区森ノ宮中央1-2-24",
+    "lat": 34.680313,
+    "lng": 135.533663,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6543a75bac8d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 江坂駅前店",
+    "address": "大阪府吹田市豊津町14-31 由谷エムワイビル",
+    "lat": 34.758615,
+    "lng": 135.495353,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f7c5254fbc79",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 河内山本店",
+    "address": "大阪府八尾市山本町1-7-1 西田ビル1F",
+    "lat": 34.628278,
+    "lng": 135.620375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d322d11c189b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 泉大津店（松のや併設）",
+    "address": "大阪府泉大津市虫取町1-4-31",
+    "lat": 34.495343,
+    "lng": 135.410928,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3f2b846409bf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 浜寺店（松のや併設）",
+    "address": "大阪府堺市西区浜寺船尾町西5丁132-1",
+    "lat": 34.543125,
+    "lng": 135.456461,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4a183b703d94",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 淀屋橋店",
+    "address": "大阪府大阪市中央区北浜3-2-25 京阪淀屋橋ビル",
+    "lat": 34.691821,
+    "lng": 135.503148,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3a523c8b433e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 深江橋店",
+    "address": "大阪府大阪市東成区深江北2-9-24 コルタ深江橋",
+    "lat": 34.675611,
+    "lng": 135.55791,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-03cca753700f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 瓢箪山駅前店",
+    "address": "大阪府東大阪市本町15-15",
+    "lat": 34.662163,
+    "lng": 135.640256,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9b3306d29231",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 石橋駅前店",
+    "address": "大阪府池田市石橋1-10-27",
+    "lat": 34.807619,
+    "lng": 135.444517,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-589babea06ef",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 箕面店（マイカリー食堂併設）",
+    "address": "大阪府箕面市半町3-14-20",
+    "lat": 34.813441,
+    "lng": 135.458233,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3bf0cf70ba46",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 肥後橋店",
+    "address": "大阪府大阪市西区江戸堀1-2-14 肥後橋官報ビル",
+    "lat": 34.691614,
+    "lng": 135.496562,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f10b8b3cb706",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 花園町店",
+    "address": "大阪府大阪市西成区鶴見橋1-3-5 ピュアファ-スト花園1F",
+    "lat": 34.645706,
+    "lng": 135.496563,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e0b87842d076",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 若江岩田店",
+    "address": "大阪府東大阪市岩田町3-11-5",
+    "lat": 34.662701,
+    "lng": 135.607347,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fd5b94d31748",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 萱島店",
+    "address": "大阪府門真市上島町46-7",
+    "lat": 34.746643,
+    "lng": 135.610606,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-601b33927963",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 藤井寺駅前店（松のや併設）",
+    "address": "大阪府藤井寺市岡2-7-18",
+    "lat": 34.571504,
+    "lng": 135.594666,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-7c215340eb84",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西中島店",
+    "address": "大阪府大阪市淀川区西中島6-7-3",
+    "lat": 34.728092,
+    "lng": 135.496804,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3d4786467f90",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 谷町九丁目店（松のや併設）",
+    "address": "大阪府大阪市天王寺区生玉前町1-21",
+    "lat": 34.666061,
+    "lng": 135.515923,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a4e53b99dfc3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊中上津島店",
+    "address": "大阪府豊中市上津島3-11-25",
+    "lat": 34.758644,
+    "lng": 135.46164,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ac0c40f85a8b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 豊中熊野町店（松のや併設）",
+    "address": "大阪府豊中市熊野町1-1-8",
+    "lat": 34.787183,
+    "lng": 135.478919,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a9b6760c299d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 近大前店",
+    "address": "大阪府東大阪市小若江4-13-11 1F・2F",
+    "lat": 34.651684,
+    "lng": 135.585167,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-17bc9b7629aa",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 近鉄八尾駅前店（松のや併設）",
+    "address": "大阪府八尾市北本町2-15-32 梅村ビル1階",
+    "lat": 34.630673,
+    "lng": 135.602961,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-976159271fef",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 都島友渕町店（松のや併設）",
+    "address": "大阪府大阪市都島区友渕町2-1-15",
+    "lat": 34.712388,
+    "lng": 135.528398,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3244eeb1f177",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 都島毛馬店",
+    "address": "大阪府大阪市都島区毛馬町1-7-13",
+    "lat": 34.719608,
+    "lng": 135.523074,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8042475c65b5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 野崎店（松のや併設）",
+    "address": "大阪府大東市南津の辺町21-40",
+    "lat": 34.720874,
+    "lng": 135.63493,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-71d61c9f24bd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 針中野店",
+    "address": "大阪府大阪市東住吉区駒川5-16-3 1F",
+    "lat": 34.61744,
+    "lng": 135.532662,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9a8b2167d7bc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長居店",
+    "address": "大阪府大阪市住吉区長居3-14-8",
+    "lat": 34.609542,
+    "lng": 135.510644,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c61d13880883",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 長瀬店",
+    "address": "大阪府東大阪市菱屋西1-17-14",
+    "lat": 34.650568,
+    "lng": 135.57775,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8b5e297e9a38",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 門真店（マイカリー食堂併設）",
+    "address": "大阪府門真市下島町30-13",
+    "lat": 34.739053,
+    "lng": 135.612756,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b12ba484fdae",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 関大前店",
+    "address": "大阪府吹田市千里山東1-14-5 吉本マンション1F",
+    "lat": 34.773675,
+    "lng": 135.507557,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-06f842004921",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阪急南方駅前店（マイカリー食堂併設）",
+    "address": "大阪府大阪市淀川区西中島3-17-2",
+    "lat": 34.725945,
+    "lng": 135.4991,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-de77f9eee361",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阪急高槻市駅前店",
+    "address": "大阪府高槻市城北町2-2-7",
+    "lat": 34.849184,
+    "lng": 135.622589,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bc06c9b258af",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阿倍野店",
+    "address": "大阪府大阪市阿倍野区阿倍野筋2-4-49",
+    "lat": 34.643838,
+    "lng": 135.512586,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-103537067226",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 香里園駅前店",
+    "address": "大阪府寝屋川市香里南之町20-20",
+    "lat": 34.784098,
+    "lng": 135.630414,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-58f9dcfa59f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高石店（松のや併設）",
+    "address": "大阪府高石市西取石8-1-14",
+    "lat": 34.516046,
+    "lng": 135.441568,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-84df7f6f2d19",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鳥飼店",
+    "address": "大阪府摂津市鳥飼本町3-16-59",
+    "lat": 34.776583,
+    "lng": 135.584882,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8de0b1ab192e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 鶴橋店",
+    "address": "大阪府大阪市天王寺区下味原町3-13 鶴橋下味原ビル1F",
+    "lat": 34.665796,
+    "lng": 135.529004,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-978",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "いこらも〜る泉佐野店",
+    "address": "大阪府泉佐野市下瓦屋2-2-77 いこらも〜る泉佐野2F",
+    "lat": 34.421775817871094,
+    "lng": 135.3287811279297,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-990",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "かみしんプラザ店",
+    "address": "大阪府大阪市東淀川区大隅1-6-12",
+    "lat": 34.7484130859375,
+    "lng": 135.54107666015625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1297",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "じゃんぼスクエア河内長野店",
+    "address": "大阪府河内長野市西之山町5-20 じゃんぼスクエア河内長野 1階",
+    "lat": 34.4559440612793,
+    "lng": 135.56304931640625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1130",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "みのおキューズモール店",
+    "address": "大阪府箕面市西宿1-17-22 みのおキュ-ズモ-ルEAST1 2階",
+    "lat": 34.83305358886719,
+    "lng": 135.49078369140625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1159",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "もりのみやキューズモール店",
+    "address": "大阪府大阪市中央区森ノ宮中央2-1-70 もりのみやキュ-ズモ-ル2F",
+    "lat": 34.68128204345703,
+    "lng": 135.53134155273438,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-600",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "りんくうシークル店",
+    "address": "大阪府泉佐野市りんくう往来南3- りんくうシ-クル内",
+    "lat": 34.40622329711914,
+    "lng": 135.29515075683594,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1357",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "わくわくシティ尾崎店",
+    "address": "大阪府阪南市下出167-の1 2F",
+    "lat": 34.36176300048828,
+    "lng": 135.24349975585938,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1298",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アル・プラザ茨木店",
+    "address": "大阪府茨木市上郡2-12-8 アル・プラザ茨木3階",
+    "lat": 34.838287353515625,
+    "lng": 135.5558319091797,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1270",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン松原店",
+    "address": "大阪府松原市新堂4-1154 イオンタウン松原 2階",
+    "lat": 34.566192626953125,
+    "lng": 135.55223083496094,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1189",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イズミヤ千里丘店",
+    "address": "大阪府吹田市山田南1-1 イズミヤ千里丘店別館2階",
+    "lat": 34.788814544677734,
+    "lng": 135.53872680664062,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1208",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エコール・いずみ店",
+    "address": "大阪府和泉市いぶき野5-1-11 エコ-ル・いずみ 本館 3階",
+    "lat": 34.459590911865234,
+    "lng": 135.455810546875,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-954",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エディオン京橋店",
+    "address": "大阪府大阪市城東区蒲生1-9-10 エディオン京橋店3階",
+    "lat": 34.6992301940918,
+    "lng": 135.5366973876953,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1196",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エディオン門真店",
+    "address": "大阪府門真市舟田町24-1 エディオン門真2階",
+    "lat": 34.73585891723633,
+    "lng": 135.60301208496094,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-964",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エディオン高槻店",
+    "address": "大阪府高槻市緑町22-8",
+    "lat": 34.856285095214844,
+    "lng": 135.64102172851562,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1029",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ガーデンモール彩都店",
+    "address": "大阪府茨木市彩都あさぎ1-2-1 ガ-デンモ-ル彩都3F",
+    "lat": 34.85358428955078,
+    "lng": 135.5244598388672,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-116",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コムボックス光明池店",
+    "address": "大阪府和泉市室堂町824-36 COMBOX光明池内",
+    "lat": 34.46845626831055,
+    "lng": 135.47401428222656,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-941",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン中もず店",
+    "address": "大阪府堺市北区中百舌鳥町3丁428-2 コ-ナン中もずの2階",
+    "lat": 34.55434036254883,
+    "lng": 135.5091094970703,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1127",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン千里山田店",
+    "address": "大阪府吹田市山田北6-1 コ-ナン千里山田2館",
+    "lat": 34.80927658081055,
+    "lng": 135.51812744140625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1064",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン堺高須店",
+    "address": "大阪府堺市堺区高須町1-1-5",
+    "lat": 34.589962005615234,
+    "lng": 135.48593139648438,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1195",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ジョイパーク泉ヶ丘店",
+    "address": "大阪府堺市南区三原台1丁1-3 ジョイパ-ク泉ヶ丘2階",
+    "lat": 34.4987678527832,
+    "lng": 135.5139923095703,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1186",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トナリエ南千里アネックス店",
+    "address": "大阪府吹田市千里山西6-56-1 トナリエ南千里アネックス4階",
+    "lat": 34.78594970703125,
+    "lng": 135.50563049316406,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-783",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレオ大阪ドームシティ店",
+    "address": "大阪府大阪市西区九条南1-12-33 フォレオ大阪ド-ムシティ2F",
+    "lat": 34.66929626464844,
+    "lng": 135.47340393066406,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1412",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ東大阪店",
+    "address": "大阪府東大阪市稲田新町3-9-64 フレスポ東大阪 2F",
+    "lat": 34.692264556884766,
+    "lng": 135.59140014648438,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1227",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ阿波座店",
+    "address": "大阪府大阪市西区立売堀6-3-8 フレスポ阿波座2階",
+    "lat": 34.67945098876953,
+    "lng": 135.4847412109375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-252",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ホームズ寝屋川店",
+    "address": "大阪府寝屋川市日新町3-15 ホ-ムズ寝屋川店2階",
+    "lat": 34.78196716308594,
+    "lng": 135.6203155517578,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1129",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ポップタウン住道オペラパーク店",
+    "address": "大阪府大東市赤井1-4-3 ポップタウン住道オペラパ-ク3階",
+    "lat": 34.708919525146484,
+    "lng": 135.6199951171875,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1178",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "メラード大和田店",
+    "address": "大阪府大阪市西淀川区大和田2-2-43 メラ-ド大和田内 2F",
+    "lat": 34.705875396728516,
+    "lng": 135.44642639160156,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1131",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "リノアス八尾店",
+    "address": "大阪府八尾市光町2-60 リノアス八尾3階",
+    "lat": 34.6297492980957,
+    "lng": 135.60533142089844,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1133",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "住吉遠里小野店",
+    "address": "大阪府大阪市住吉区遠里小野2-10-32",
+    "lat": 34.59852981567383,
+    "lng": 135.49786376953125,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-909",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八尾太田橋店",
+    "address": "大阪府八尾市太田三-223-1",
+    "lat": 34.592376708984375,
+    "lng": 135.58694458007812,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-124",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八尾跡部店",
+    "address": "大阪府八尾市跡部本町1-1-40",
+    "lat": 34.61843490600586,
+    "lng": 135.58541870117188,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-128",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八戸ノ里店",
+    "address": "大阪府東大阪市若江西新町1-14-1",
+    "lat": 34.66257858276367,
+    "lng": 135.59613037109375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-161",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "吹田青葉丘店",
+    "address": "大阪府吹田市青葉丘南4-2",
+    "lat": 34.80587387084961,
+    "lng": 135.55445861816406,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-488",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和泉店",
+    "address": "大阪府和泉市和気町1-6-19",
+    "lat": 34.476097106933594,
+    "lng": 135.42672729492188,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-683",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "四條畷忍ヶ丘店",
+    "address": "大阪府四條畷市西中野3-1-18",
+    "lat": 34.74375915527344,
+    "lng": 135.6366729736328,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1342",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "堺インター店",
+    "address": "大阪府堺市西区太平寺711-1",
+    "lat": 34.51267623901367,
+    "lng": 135.484619140625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-206",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "堺東山店",
+    "address": "大阪府堺市中区東山787",
+    "lat": 34.52079391479492,
+    "lng": 135.5081329345703,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-207",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "堺海山町店",
+    "address": "大阪府堺市堺区海山町3丁154-3",
+    "lat": 34.59032440185547,
+    "lng": 135.47325134277344,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-987",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "天王寺細工谷店",
+    "address": "大阪府大阪市天王寺区筆ヶ崎町2-22",
+    "lat": 34.6624641418457,
+    "lng": 135.52755737304688,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-659",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "守口寺方店",
+    "address": "大阪府守口市寺方本通三-1-10",
+    "lat": 34.72483825683594,
+    "lng": 135.57765197753906,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-250",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "富田林店",
+    "address": "大阪府富田林市若松町西1-1824-1",
+    "lat": 34.506370544433594,
+    "lng": 135.6002960205078,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-251",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "寝屋川大成店",
+    "address": "大阪府寝屋川市大成町13-19",
+    "lat": 34.75044250488281,
+    "lng": 135.62435913085938,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1368",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岸和田カンカンベイサイドモール店",
+    "address": "大阪府岸和田市港緑町3-1 WEST棟2F",
+    "lat": 34.46748352050781,
+    "lng": 135.3714599609375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-768",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岸和田春木店",
+    "address": "大阪府岸和田市春木若松町19-20",
+    "lat": 34.47907257080078,
+    "lng": 135.3908233642578,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-285",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "布施店",
+    "address": "大阪府東大阪市寿町1-11-2",
+    "lat": 34.652557373046875,
+    "lng": 135.56851196289062,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1026",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "平野加美東店",
+    "address": "大阪府大阪市平野区加美東4-15-8",
+    "lat": 34.630157470703125,
+    "lng": 135.56719970703125,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-614",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "平野西店",
+    "address": "大阪府大阪市平野区平野西6-1-9",
+    "lat": 34.61846923828125,
+    "lng": 135.5477294921875,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-6",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "我孫子店",
+    "address": "大阪府大阪市住吉区我孫子東2-7-10第2グランド-ル住吉",
+    "lat": 34.59870147705078,
+    "lng": 135.51254272460938,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-304",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "摂津東正雀店",
+    "address": "大阪府摂津市東正雀19-61",
+    "lat": 34.78289031982422,
+    "lng": 135.55479431152344,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-346",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "杭全店",
+    "address": "大阪府大阪市東住吉区杭全2-12-10",
+    "lat": 34.636444091796875,
+    "lng": 135.53700256347656,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-582",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東大阪吉田店",
+    "address": "大阪府東大阪市吉田本町二-2-25",
+    "lat": 34.6730842590332,
+    "lng": 135.6251220703125,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-356",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "松原店",
+    "address": "大阪府松原市東新町5-11-27",
+    "lat": 34.57487487792969,
+    "lng": 135.5426483154297,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-687",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "枚方公園店",
+    "address": "大阪府枚方市伊加賀南町2-50",
+    "lat": 34.80916213989258,
+    "lng": 135.638916015625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-367",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "枚方茄子作店",
+    "address": "大阪府枚方市茄子作5-988-",
+    "lat": 34.77909851074219,
+    "lng": 135.66424560546875,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-584",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "枚方長尾店",
+    "address": "大阪府枚方市長尾元町5-10-15",
+    "lat": 34.82373809814453,
+    "lng": 135.7103729248047,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-368",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "枚方高野道店",
+    "address": "大阪府枚方市高野道1-23-10(ス-パ-万代横)",
+    "lat": 34.84565734863281,
+    "lng": 135.69993591308594,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1115",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "此花高見店",
+    "address": "大阪府大阪市此花区高見1-5 高見プラザ2階",
+    "lat": 34.69235610961914,
+    "lng": 135.458984375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-401",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "泉佐野店",
+    "address": "大阪府泉佐野市日根野4619-1",
+    "lat": 34.39896774291992,
+    "lng": 135.32594299316406,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-402",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "泉大津店",
+    "address": "大阪府泉大津市池浦町1-7-19",
+    "lat": 34.49814987182617,
+    "lng": 135.412353515625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-612",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "淀川新高店",
+    "address": "大阪府大阪市淀川区新高二-2-8",
+    "lat": 34.729068756103516,
+    "lng": 135.47650146484375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-424",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "瓢箪山店",
+    "address": "大阪府東大阪市新町1-1",
+    "lat": 34.67076873779297,
+    "lng": 135.64041137695312,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-467",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "緑橋店",
+    "address": "大阪府大阪市東成区東今里2-6-28",
+    "lat": 34.679039001464844,
+    "lng": 135.54928588867188,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-470",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "美原店",
+    "address": "大阪府堺市美原区黒山44-",
+    "lat": 34.5421028137207,
+    "lng": 135.56202697753906,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-472",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "羽曳野店",
+    "address": "大阪府羽曳野市野466-1",
+    "lat": 34.559810638427734,
+    "lng": 135.57431030273438,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-484",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "茨木平田店",
+    "address": "大阪府茨木市平田2-18-5",
+    "lat": 34.80565643310547,
+    "lng": 135.5890655517578,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-503",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西成津守店",
+    "address": "大阪府大阪市西成区津守3-5-56",
+    "lat": 34.63835144042969,
+    "lng": 135.4828338623047,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-504",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "西淀川歌島店",
+    "address": "大阪府大阪市西淀川区歌島2-3-5",
+    "lat": 34.712928771972656,
+    "lng": 135.46316528320312,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-508",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊中服部店",
+    "address": "大阪府豊中市服部豊町2-20-20",
+    "lat": 34.7642822265625,
+    "lng": 135.46824645996094,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-638",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "豊中永楽荘店",
+    "address": "大阪府豊中市永楽荘2-4-8",
+    "lat": 34.81330490112305,
+    "lng": 135.46871948242188,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-514",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "貝塚店",
+    "address": "大阪府貝塚市半田一-10-39",
+    "lat": 34.43757247924805,
+    "lng": 135.3749237060547,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-785",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "針中野店",
+    "address": "大阪府大阪市東住吉区鷹合1-13-9",
+    "lat": 34.616111755371094,
+    "lng": 135.52850341796875,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-538",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "門真江端店",
+    "address": "大阪府門真市東江端町3-8",
+    "lat": 34.7239990234375,
+    "lng": 135.62017822265625,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-557",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高槻竹の内店",
+    "address": "大阪府高槻市竹の内町65-33",
+    "lat": 34.821128845214844,
+    "lng": 135.62782287597656,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-558",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高槻郡家店",
+    "address": "大阪府高槻市郡家新町3-34",
+    "lat": 34.848716735839844,
+    "lng": 135.602294921875,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-562",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鳳店",
+    "address": "大阪府堺市西区鳳北町9丁507",
+    "lat": 34.54371643066406,
+    "lng": 135.462646484375,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-567",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鶴見横堤店",
+    "address": "大阪府大阪市鶴見区諸口1-6-10",
+    "lat": 34.69892501831055,
+    "lng": 135.57479858398438,
+    "prefecture": "大阪府",
+    "prefectureCode": "osaka",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

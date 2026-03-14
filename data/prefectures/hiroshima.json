@@ -1,0 +1,658 @@
+[
+  {
+    "id": "matsuya-756de4c41a13",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 KOKO HOTEL広島駅前店",
+    "address": "広島県広島市南区京橋町10-3",
+    "lat": 34.393997,
+    "lng": 132.472569,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-db39c6a49a0f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島三原店（松のや併設）",
+    "address": "広島県三原市皆実1-25-17",
+    "lat": 34.393839,
+    "lng": 133.066886,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dcfa3d4f40c4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島八木店（松のや併設） ※3月14日10時オープン",
+    "address": "広島県広島市安佐南区八木五-5-3",
+    "lat": 34.482041,
+    "lng": 132.497551,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1235f2ee0685",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島千田店",
+    "address": "広島県広島市中区東千田町2-3-23",
+    "lat": 34.378465,
+    "lng": 132.457894,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d0fb7c626630",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島矢野店（松のや併設）",
+    "address": "広島県広島市安芸区矢野西1-2-5",
+    "lat": 34.354271,
+    "lng": 132.533736,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1a594f1cf22d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島紙屋町店",
+    "address": "広島県広島市中区大手町1-4-5 アロハビル1F",
+    "lat": 34.394731,
+    "lng": 132.455959,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6ddc14fefc37",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島胡町店",
+    "address": "広島県広島市中区胡町1-20 永井興産胡町ビル1階",
+    "lat": 34.393024,
+    "lng": 132.466227,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c89b6c1dff8b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 広島西原店（松のや併設）",
+    "address": "広島県広島市安佐南区西原9-14-1",
+    "lat": 34.446606,
+    "lng": 132.46962,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8409045fd2ae",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 廿日市店",
+    "address": "広島県廿日市市串戸1-12-5",
+    "lat": 34.345562,
+    "lng": 132.326074,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-d28beaed29ce",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 東広島西条店",
+    "address": "広島県東広島市西条町寺家4828-1",
+    "lat": 34.435253,
+    "lng": 132.723026,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9fc524c79bdf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福山東店（松のや併設）",
+    "address": "広島県福山市東深津町3-23-8",
+    "lat": 34.496898,
+    "lng": 133.399523,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-077a8143f828",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 福山花園店",
+    "address": "広島県福山市花園町2-5-34",
+    "lat": 34.480998,
+    "lng": 133.373224,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1084",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "DCMダイキ宇品店",
+    "address": "広島県広島市南区宇品海岸3-7-65 DCMダイキ宇品店内",
+    "lat": 34.35577392578125,
+    "lng": 132.46336364746094,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1408",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ゆめタウン呉レクレ店",
+    "address": "広島県呉市宝町2-50 ゆめタウン呉レクレ館",
+    "lat": 34.24428939819336,
+    "lng": 132.5567169189453,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1086",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ゆめタウン大竹店",
+    "address": "広島県大竹市晴海1-6-1 ゆめタウン大竹2F",
+    "lat": 34.24143600463867,
+    "lng": 132.2238006591797,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1002",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ハローズ東広島モール店",
+    "address": "広島県東広島市西条西本町28-30 ハロ-ズ東広島モ-ル2F",
+    "lat": 34.42633819580078,
+    "lng": 132.7403564453125,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-695",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレオ広島東店",
+    "address": "広島県広島市東区温品1-3-2 フォレオ広島東内2階",
+    "lat": 34.405540466308594,
+    "lng": 132.50392150878906,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1213",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジグラン安芸店",
+    "address": "広島県安芸郡坂町北新地2-3-30 フジグラン安芸 2階",
+    "lat": 34.34921646118164,
+    "lng": 132.5181121826172,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1304",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジグラン広島店",
+    "address": "広島県広島市中区宝町2-1",
+    "lat": 34.386375427246094,
+    "lng": 132.4650115966797,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-645",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジ三入店",
+    "address": "広島県広島市安佐北区三入二-17-38 フジ三入SC内",
+    "lat": 34.540828704833984,
+    "lng": 132.5273895263672,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1275",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスタ福山三吉店",
+    "address": "広島県福山市三吉町4-10-22",
+    "lat": 34.49531173706055,
+    "lng": 133.3787384033203,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-637",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ神辺モール店",
+    "address": "広島県福山市神辺町川北1533 フレスポ神辺SC内",
+    "lat": 34.54055404663086,
+    "lng": 133.36334228515625,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-722",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ西風新都店",
+    "address": "広島県広島市安佐南区伴南4-1-1",
+    "lat": 34.446041107177734,
+    "lng": 132.37857055664062,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-789",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三原円一店",
+    "address": "広島県三原市円一町2-6-17",
+    "lat": 34.39265441894531,
+    "lng": 133.0767364501953,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-976",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三次店",
+    "address": "広島県三次市南畑敷町471-3",
+    "lat": 34.80501937866211,
+    "lng": 132.878173828125,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-803",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "呉宮原店",
+    "address": "広島県呉市宮原十三-3-18",
+    "lat": 34.220577239990234,
+    "lng": 132.55252075195312,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-186",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "呉広店",
+    "address": "広島県呉市広古新開8-32-23",
+    "lat": 34.24264144897461,
+    "lng": 132.6230926513672,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-693",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "呉焼山店",
+    "address": "広島県呉市焼山西3-4-12101",
+    "lat": 34.293846130371094,
+    "lng": 132.55250549316406,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-263",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "尾道店",
+    "address": "広島県尾道市高須町4789-11",
+    "lat": 34.4313850402832,
+    "lng": 133.23776245117188,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1198",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島アルパーク店",
+    "address": "広島県広島市西区井口明神1-16-1 広島アルパ-ク西棟 4F",
+    "lat": 34.3724365234375,
+    "lng": 132.3932342529297,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-290",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島五日市店",
+    "address": "広島県広島市佐伯区八幡東3-10-1",
+    "lat": 34.3884162902832,
+    "lng": 132.36460876464844,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-235",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島安佐北店",
+    "address": "広島県広島市安佐北区深川6-3-28",
+    "lat": 34.480812072753906,
+    "lng": 132.5336456298828,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-236",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島安佐南店",
+    "address": "広島県広島市安佐南区大町東2-12-16",
+    "lat": 34.46055603027344,
+    "lng": 132.4680938720703,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1071",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島段原ショッピングセンター店",
+    "address": "広島県広島市南区段原南1-3-52 広島段原ショッピングセンタ-4F",
+    "lat": 34.38589859008789,
+    "lng": 132.47579956054688,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-409",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島海田店",
+    "address": "広島県安芸郡海田町栄町5-8",
+    "lat": 34.36066818237305,
+    "lng": 132.53431701660156,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-956",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "広島祇園店",
+    "address": "広島県広島市安佐南区祇園6-15-6",
+    "lat": 34.44532775878906,
+    "lng": 132.4652557373047,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1160",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "廿日市宮内店",
+    "address": "広島県廿日市市宮内4-13-15",
+    "lat": 34.34991455078125,
+    "lng": 132.3131103515625,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-349",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "東広島西条店",
+    "address": "広島県東広島市西条中央5-10-26",
+    "lat": 34.41162872314453,
+    "lng": 132.741943359375,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-762",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福山新市店",
+    "address": "広島県福山市新市町戸手582-1",
+    "lat": 34.54929733276367,
+    "lng": 133.28668212890625,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1190",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福山箕島店",
+    "address": "広島県福山市箕島町5816-110",
+    "lat": 34.45393753051758,
+    "lng": 133.3909912109375,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-490",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福山蔵王店",
+    "address": "広島県福山市南蔵王町1-7-7",
+    "lat": 34.502628326416016,
+    "lng": 133.39004516601562,
+    "prefecture": "広島県",
+    "prefectureCode": "hiroshima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

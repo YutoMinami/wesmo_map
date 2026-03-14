@@ -1,0 +1,562 @@
+[
+  {
+    "id": "matsuya-8d27f5cfafcc",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 tekute長町店（マイカリー食堂併設）",
+    "address": "宮城県仙台市太白区長町5-1-30",
+    "lat": 38.227186,
+    "lng": 140.885668,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-21349e7a4973",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台一番町店（松のや併設）",
+    "address": "宮城県仙台市青葉区一-町3-10-17 慶和ビル1F",
+    "lat": 38.262146,
+    "lng": 140.871143,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-207c279a423c",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台中央店",
+    "address": "宮城県仙台市青葉区中央3-6-3 1F",
+    "lat": 38.259981,
+    "lng": 140.879421,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-14fb9e6a4348",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台中野栄店（松のや併設）",
+    "address": "宮城県仙台市宮城野区中野字只屋敷45-1",
+    "lat": 38.279163,
+    "lng": 140.982458,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-574a72cc57bd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台五橋店",
+    "address": "宮城県仙台市若林区清水小路5-6 エステ-ト五ツ橋",
+    "lat": 38.251694,
+    "lng": 140.881428,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5030c825b242",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台八乙女店",
+    "address": "宮城県仙台市泉区上谷刈1-1-5",
+    "lat": 38.315196,
+    "lng": 140.87989,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-40ae80b7125a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台南町通り店",
+    "address": "宮城県仙台市青葉区一-町2-7-7",
+    "lat": 38.258025,
+    "lng": 140.872543,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b97762c809b2",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台大和町店 （松のや併設）",
+    "address": "宮城県仙台市若林区大和町3-2-11",
+    "lat": 38.248398,
+    "lng": 140.91961,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dae06ad0fcbe",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台定禅寺通り店",
+    "address": "宮城県仙台市青葉区国分町3-3-5 リスズビル1F",
+    "lat": 38.265899,
+    "lng": 140.868208,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c5e53ff2b999",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台扇町店（松のや併設）",
+    "address": "宮城県仙台市宮城野区扇町5-5-1",
+    "lat": 38.269467,
+    "lng": 140.948496,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c4c74776d682",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台東口店（松のや併設）",
+    "address": "宮城県仙台市宮城野区榴ヶ岡2-1-25 BiVi仙台駅東口 1階",
+    "lat": 38.260845,
+    "lng": 140.883417,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-dd684fdfbb56",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 仙台鹿島店",
+    "address": "宮城県仙台市泉区市名坂字鹿島11",
+    "lat": 38.313267,
+    "lng": 140.910019,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c37141890927",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 古川店（松のや併設）",
+    "address": "宮城県大崎市古川中島町2-63",
+    "lat": 38.565692,
+    "lng": 140.957278,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1e474edb13eb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 石巻恵み野店（松のや併設）",
+    "address": "宮城県石巻市恵み野5-1-1",
+    "lat": 38.441075,
+    "lng": 141.265579,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-869",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アムザ白石店",
+    "address": "宮城県白石市大平森合字森合沖83 アムザショッピングタウン白石内",
+    "lat": 37.996543884277344,
+    "lng": 140.61129760742188,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-25",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン柴田店",
+    "address": "宮城県柴田郡柴田町大字上名生字新大原194-1 イオンタウン柴田SC内",
+    "lat": 38.061893463134766,
+    "lng": 140.7954559326172,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1391",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "スーパーセンタートライアル塩釜店",
+    "address": "宮城県塩竈市杉の入三-3-1 ス-パ-センタ-トライアル塩釜店内2F",
+    "lat": 38.33258056640625,
+    "lng": 141.03720092773438,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-728",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フォレオせんだい宮の杜店",
+    "address": "宮城県仙台市宮城野区東仙台四-6-31 フォレオせんだい宮の杜2F",
+    "lat": 38.27501678466797,
+    "lng": 140.90846252441406,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-61",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨークタウン市名坂店",
+    "address": "宮城県仙台市泉区市名坂字中道100-9",
+    "lat": 38.31599807739258,
+    "lng": 140.90562438964844,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-938",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "仙台中山店",
+    "address": "宮城県仙台市泉区南中山1-42-1",
+    "lat": 38.297637939453125,
+    "lng": 140.82566833496094,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-94",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "仙台栗生店",
+    "address": "宮城県仙台市青葉区栗生6-11-4",
+    "lat": 38.26832962036133,
+    "lng": 140.78233337402344,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-96",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "仙台荒井店",
+    "address": "宮城県仙台市若林区蒲町東19-の7",
+    "lat": 38.24406433105469,
+    "lng": 140.93472290039062,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-711",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "利府店",
+    "address": "宮城県宮城郡利府町加瀬字新前谷地10-1",
+    "lat": 38.32953643798828,
+    "lng": 140.97645568847656,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-176",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "古川旭店",
+    "address": "宮城県大崎市古川旭1-14-18",
+    "lat": 38.56768035888672,
+    "lng": 140.97378540039062,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1042",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "古川穂波店",
+    "address": "宮城県大崎市古川穂波3-4-1",
+    "lat": 38.56550216674805,
+    "lng": 140.94625854492188,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-898",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名取杜せきのした店",
+    "address": "宮城県名取市杜せきのした3-7-10",
+    "lat": 38.164207458496094,
+    "lng": 140.9023895263672,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-210",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "多賀城桜木店",
+    "address": "宮城県多賀城市桜木1-7-1",
+    "lat": 38.28897476196289,
+    "lng": 141.01113891601562,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-709",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "富谷店",
+    "address": "宮城県富谷市大清水2-13-1",
+    "lat": 38.36503219604492,
+    "lng": 140.87840270996094,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1292",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新シーズンズウォークフォルテ大河原店",
+    "address": "宮城県柴田郡大河原町字小島2-1 シ-ズンズウォ-クフォルテ1F",
+    "lat": 38.06467056274414,
+    "lng": 140.73721313476562,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-951",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "栗原築館店",
+    "address": "宮城県栗原市築館宮野中央一-4-5",
+    "lat": 38.746337890625,
+    "lng": 141.0159149169922,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-723",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "気仙沼店",
+    "address": "宮城県気仙沼市田中前1-6-3",
+    "lat": 38.89225769042969,
+    "lng": 141.56341552734375,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1018",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "登米佐沼店",
+    "address": "宮城県登米市迫町佐沼字江合一-4-2",
+    "lat": 38.68556594848633,
+    "lng": 141.18682861328125,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-439",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "石巻大街道店",
+    "address": "宮城県石巻市大街道北1-5-25",
+    "lat": 38.430110931396484,
+    "lng": 141.28587341308594,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-127",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鈎取ショッピングセンター店",
+    "address": "宮城県仙台市太白区鈎取本町1-21-1 イオン鈎取ショッピングセンタ-2F",
+    "lat": 38.21877670288086,
+    "lng": 140.83798217773438,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1021",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "錦ケ丘ヒルサイドモール店",
+    "address": "宮城県仙台市青葉区錦ケ丘一-3-1",
+    "lat": 38.257450103759766,
+    "lng": 140.76443481445312,
+    "prefecture": "宮城県",
+    "prefectureCode": "miyagi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

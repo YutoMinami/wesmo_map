@@ -1,0 +1,274 @@
+[
+  {
+    "id": "matsuya-ccfeddd71e37",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 和歌山加納店（松のや併設）",
+    "address": "和歌山県和歌山市加納295-1",
+    "lat": 34.243794,
+    "lng": 135.205823,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-cb02d32bbcc1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 和歌山向店",
+    "address": "和歌山県和歌山市向220-3",
+    "lat": 34.255016,
+    "lng": 135.145068,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c47e51f4ba29",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 小雑賀店",
+    "address": "和歌山県和歌山市小雑賀573-9",
+    "lat": 34.20391,
+    "lng": 135.184648,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-403c7e5d623d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 岩出店（マイカリー食堂併設）",
+    "address": "和歌山県岩出市岡田4-1",
+    "lat": 34.262981,
+    "lng": 135.3281,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0660477d3a89",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 有田インター店（松のや併設）",
+    "address": "和歌山県有田郡有田川町大字天満163-1",
+    "lat": 34.055801,
+    "lng": 135.200527,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fd5a30ed81d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 海南店",
+    "address": "和歌山県海南市船尾213-17",
+    "lat": 34.158582,
+    "lng": 135.203823,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-04998be90c31",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 紀ノ川大橋店",
+    "address": "和歌山県和歌山市湊1820-99",
+    "lat": 34.234694,
+    "lng": 135.153746,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1283",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "カインズ紀伊川辺店",
+    "address": "和歌山県和歌山市川辺220 カインズ紀伊川辺内",
+    "lat": 34.261253356933594,
+    "lng": 135.26370239257812,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1046",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "スーパーセンターオークワ南紀店",
+    "address": "和歌山県新宮市佐野3-11-19 ス-パ-センタ-オ-クワ南紀内",
+    "lat": 33.67678451538086,
+    "lng": 135.97093200683594,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-189",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和歌山岩出店",
+    "address": "和歌山県岩出市中黒字高圦528-1",
+    "lat": 34.26905059814453,
+    "lng": 135.28541564941406,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1379",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和歌山栗栖店",
+    "address": "和歌山県和歌山市栗栖37-",
+    "lat": 34.23792266845703,
+    "lng": 135.22525024414062,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1255",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和歌山梶取店",
+    "address": "和歌山県和歌山市梶取162-1",
+    "lat": 34.25169372558594,
+    "lng": 135.15611267089844,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-616",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和歌山橋本インター店",
+    "address": "和歌山県橋本市小原田字佃567-1",
+    "lat": 34.32339096069336,
+    "lng": 135.60670471191406,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-190",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "和歌山次郎丸店",
+    "address": "和歌山県和歌山市次郎丸5-9",
+    "lat": 34.25455856323242,
+    "lng": 135.15283203125,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1340",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岩出中迫店",
+    "address": "和歌山県岩出市中迫106-の1",
+    "lat": 34.2645378112793,
+    "lng": 135.3175506591797,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-690",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "御坊店",
+    "address": "和歌山県御坊市湯川町財部字深州46-4",
+    "lat": 33.90397644042969,
+    "lng": 135.15257263183594,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-651",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "海南店",
+    "address": "和歌山県海南市重根74-1",
+    "lat": 34.155574798583984,
+    "lng": 135.2397003173828,
+    "prefecture": "和歌山県",
+    "prefectureCode": "wakayama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

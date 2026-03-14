@@ -1,0 +1,450 @@
+[
+  {
+    "id": "matsuya-c8dfda175ffd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 エイトタウン本宮店（松のや併設）",
+    "address": "福島県本宮市荒井字久保田132-8-5",
+    "lat": 37.485904,
+    "lng": 140.379656,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-597eacde1acd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 本内店（松のや併設）",
+    "address": "福島県福島市本内字松川畑2-2",
+    "lat": 37.779541,
+    "lng": 140.485228,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b12c154c00e9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 白河店",
+    "address": "福島県西白河郡西郷村字豊作東1",
+    "lat": 37.125535,
+    "lng": 140.185732,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3511f40b6feb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 郡山コスモス通店（松のや併設）",
+    "address": "福島県郡山市堤3-180",
+    "lat": 37.395526,
+    "lng": 140.333403,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8305aa57dc52",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 郡山芳賀店",
+    "address": "福島県郡山市芳賀3-1-23",
+    "lat": 37.389853,
+    "lng": 140.394258,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-bb6f081388f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 郡山駅前店",
+    "address": "福島県郡山市駅前2-3-9 東京萬ビル",
+    "lat": 37.398186,
+    "lng": 140.387152,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-1c3a9dcd29be",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 須賀川店（松のや併設）",
+    "address": "福島県須賀川市陣場町41",
+    "lat": 37.297105,
+    "lng": 140.367261,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-636",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "いわき平店",
+    "address": "福島県いわき市平谷川瀬二-3-4",
+    "lat": 37.046783447265625,
+    "lng": 140.8939208984375,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-809",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "いわき植田店",
+    "address": "福島県いわき市東田町2-17-7",
+    "lat": 36.92124938964844,
+    "lng": 140.80218505859375,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-7",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "いわき鹿島店",
+    "address": "福島県いわき市鹿島町久保字反町11-6",
+    "lat": 36.988704681396484,
+    "lng": 140.90499877929688,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1367",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ大原店",
+    "address": "福島県いわき市小名浜大原字東田81-1 アクロスプラザ大原内",
+    "lat": 36.967018127441406,
+    "lng": 140.8906707763672,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-63",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン塩川店",
+    "address": "福島県喜多方市塩川町小府根字曽谷田1 イオンタウン塩川内",
+    "lat": 37.61709976196289,
+    "lng": 139.89364624023438,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-66",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン須賀川店",
+    "address": "福島県須賀川市仲の町105 イオンタウン須賀川内",
+    "lat": 37.297325134277344,
+    "lng": 140.38450622558594,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1299",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア安達店",
+    "address": "福島県二本松市油井福岡140 ベイシア棟内",
+    "lat": 37.613311767578125,
+    "lng": 140.46287536621094,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1244",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア白河モール店",
+    "address": "福島県白河市老久保28 ベイシア棟内",
+    "lat": 37.11668014526367,
+    "lng": 140.19979858398438,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-965",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊達保原店",
+    "address": "福島県伊達市保原町字竹内町71",
+    "lat": 37.81477737426758,
+    "lng": 140.54750061035156,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-662",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "会津アピオ店",
+    "address": "福島県会津若松市町北町大字始字宮前15-1 会津若松アピオ内",
+    "lat": 37.51844024658203,
+    "lng": 139.91531372070312,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-103",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "会津若松店",
+    "address": "福島県会津若松市南花畑2-65",
+    "lat": 37.48554229736328,
+    "lng": 139.92237854003906,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-171",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "原町店",
+    "address": "福島県南相馬市原町区高見町1-123-1",
+    "lat": 37.639564514160156,
+    "lng": 140.98406982421875,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1230",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "喜多方西店",
+    "address": "福島県喜多方市押切南2-42-1 リオンド-ル喜多方西店内",
+    "lat": 37.646419525146484,
+    "lng": 139.8589630126953,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-806",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "白河西郷店",
+    "address": "福島県西白河郡西郷村字裏山南15",
+    "lat": 37.1253662109375,
+    "lng": 140.18272399902344,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1341",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福島南矢野目店",
+    "address": "福島県福島市南矢野目谷地70-2",
+    "lat": 37.7883186340332,
+    "lng": 140.4534149169922,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1359",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福島吉倉店",
+    "address": "福島県福島市吉倉字前田46-1",
+    "lat": 37.745601654052734,
+    "lng": 140.44525146484375,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-672",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "福島松山店",
+    "address": "福島県福島市松山町78-4",
+    "lat": 37.77521514892578,
+    "lng": 140.48509216308594,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1176",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "郡山堤店",
+    "address": "福島県郡山市堤3-3-",
+    "lat": 37.39870071411133,
+    "lng": 140.3336944580078,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-240",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "郡山安積店",
+    "address": "福島県郡山市安積3-13",
+    "lat": 37.35749053955078,
+    "lng": 140.36566162109375,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-249",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "郡山富田店",
+    "address": "福島県郡山市富田東5-155-",
+    "lat": 37.42344665527344,
+    "lng": 140.37216186523438,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1253",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "郡山芳賀店",
+    "address": "福島県郡山市芳賀一-3-7",
+    "lat": 37.393714904785156,
+    "lng": 140.39515686035156,
+    "prefecture": "福島県",
+    "prefectureCode": "fukushima",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

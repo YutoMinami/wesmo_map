@@ -1,0 +1,306 @@
+[
+  {
+    "id": "matsuya-7c6448fbb110",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八戸城下店（松のや併設）",
+    "address": "青森県八戸市城下4-15-16",
+    "lat": 40.520399,
+    "lng": 141.494288,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-947fb33e5df4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 八戸田向店（松のや併設）",
+    "address": "青森県八戸市田向1-8-9",
+    "lat": 40.496459,
+    "lng": 141.507589,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-4104957735ea",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 弘前高田店（松のや併設）",
+    "address": "青森県弘前市大字高田一-3-1",
+    "lat": 40.59654,
+    "lng": 140.501686,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-48faa3ae782d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 青森観光通り店（松のや併設）",
+    "address": "青森県青森市浦町奥野622",
+    "lat": 40.807722,
+    "lng": 140.754749,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1027",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "むつ小川店",
+    "address": "青森県むつ市小川町一-104-1",
+    "lat": 41.29208755493164,
+    "lng": 141.20350646972656,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-940",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ五所川原店",
+    "address": "青森県五所川原市唐笠柳藤巻641-1",
+    "lat": 40.80092239379883,
+    "lng": 140.46151733398438,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-995",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン平賀店",
+    "address": "青森県平川市小和森上松岡193-1 イオンタウン平賀内",
+    "lat": 40.59075164794922,
+    "lng": 140.56549072265625,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-611",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン青森浜田店",
+    "address": "青森県青森市浜田字玉川196-11",
+    "lat": 40.79904556274414,
+    "lng": 140.75953674316406,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-670",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモールつがる柏店",
+    "address": "青森県つがる市柏稲盛幾世41 イオンモ-ルつがる柏内1F専門店街",
+    "lat": 40.802757263183594,
+    "lng": 140.41641235351562,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-657",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンモール下田店",
+    "address": "青森県上北郡おいらせ町中野平40-1",
+    "lat": 40.60478210449219,
+    "lng": 141.4178009033203,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1004",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ガーラタウン青森店",
+    "address": "青森県青森市三好二-1-9 ガ-ラタウン内",
+    "lat": 40.83238220214844,
+    "lng": 140.70460510253906,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1390",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "シーナシーナ弘前店",
+    "address": "青森県弘前市大字駅前3-2-1",
+    "lat": 40.59943771362305,
+    "lng": 140.4811553955078,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-73",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "三沢南町店",
+    "address": "青森県三沢市南町1-31-2869",
+    "lat": 40.67356872558594,
+    "lng": 141.36679077148438,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-129",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八戸売市店",
+    "address": "青森県八戸市長根四-5-24",
+    "lat": 40.51818084716797,
+    "lng": 141.47982788085938,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-130",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "八戸新井田店",
+    "address": "青森県八戸市新井田西2-24-23",
+    "lat": 40.49939727783203,
+    "lng": 141.52056884765625,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1269",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "十和田東店",
+    "address": "青森県十和田市東一-町1-30",
+    "lat": 40.62141418457031,
+    "lng": 141.2123260498047,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-295",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "弘前城東店",
+    "address": "青森県弘前市大字早稲田4-3-7",
+    "lat": 40.60049819946289,
+    "lng": 140.51393127441406,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-685",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "弘前神田店",
+    "address": "青森県弘前市神田4-3-11",
+    "lat": 40.62582778930664,
+    "lng": 140.48854064941406,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-543",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "青森浜館店",
+    "address": "青森県青森市浜館5-3-18",
+    "lat": 40.808685302734375,
+    "lng": 140.79168701171875,
+    "prefecture": "青森県",
+    "prefectureCode": "aomori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

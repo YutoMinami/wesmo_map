@@ -1,0 +1,290 @@
+[
+  {
+    "id": "matsuya-553da0d5bfda",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 丸亀中府店（松のや・マイカリー食堂併設）",
+    "address": "香川県丸亀市中府町1-6-22",
+    "lat": 34.279158,
+    "lng": 133.796769,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-93825f31eb05",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 丸亀柞原店",
+    "address": "香川県丸亀市柞原町409-1",
+    "lat": 34.268711,
+    "lng": 133.803127,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-18bf577eebaf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高松兵庫町店",
+    "address": "香川県高松市兵庫町1-20",
+    "lat": 34.346293,
+    "lng": 134.049353,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b11f2e3f8cc9",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高松木太店",
+    "address": "香川県高松市木太町3838-1",
+    "lat": 34.321231,
+    "lng": 134.080885,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-804dfa5ea051",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高松松島店（松のや併設）",
+    "address": "香川県高松市松島町3-19-8",
+    "lat": 34.338471,
+    "lng": 134.070038,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-755",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン国分寺店",
+    "address": "香川県高松市国分寺町新名654-3 イオンタウン国分寺ショッピングセンタ-内",
+    "lat": 34.29215621948242,
+    "lng": 133.96127319335938,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1003",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン観音寺店",
+    "address": "香川県観音寺市昭和町1-3-18 イオンタウン観音寺SC内",
+    "lat": 34.12273025512695,
+    "lng": 133.65733337402344,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-963",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "エディオン高松春日店",
+    "address": "香川県高松市春日町字川尻1028-の1 エディオン高松春日店内",
+    "lat": 34.32895278930664,
+    "lng": 134.09188842773438,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1241",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジグラン丸亀店",
+    "address": "香川県丸亀市川西町南1280-1 フジグラン丸亀内",
+    "lat": 34.243186950683594,
+    "lng": 133.83604431152344,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-839",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジ志度店",
+    "address": "香川県さぬき市志度2431-1",
+    "lat": 34.315364837646484,
+    "lng": 134.17135620117188,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1320",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "メガセンタートライアル善通寺店",
+    "address": "香川県善通寺市金蔵寺町川添1903- メガセンタ-トライアル内",
+    "lat": 34.25366973876953,
+    "lng": 133.78338623046875,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-84",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "丸亀バサラ店",
+    "address": "香川県丸亀市山北町50-1",
+    "lat": 34.26823806762695,
+    "lng": 133.80062866210938,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-228",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "香川宇多津店",
+    "address": "香川県綾歌郡宇多津町浜4-44-1",
+    "lat": 34.312538146972656,
+    "lng": 133.81561279296875,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-555",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高松レインボー通店",
+    "address": "香川県高松市松縄町1128-9",
+    "lat": 34.31473922729492,
+    "lng": 134.06094360351562,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1173",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高松上福岡店",
+    "address": "香川県高松市上福岡町2059-5",
+    "lat": 34.326446533203125,
+    "lng": 134.06356811523438,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1406",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高松多肥店",
+    "address": "香川県高松市多肥上町55-1",
+    "lat": 34.29525375366211,
+    "lng": 134.04257202148438,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1043",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高松川島東店",
+    "address": "香川県高松市川島東町字郷249-1",
+    "lat": 34.277320861816406,
+    "lng": 134.09176635742188,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-646",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高松空港通り店",
+    "address": "香川県高松市鹿角町287-1",
+    "lat": 34.30242919921875,
+    "lng": 134.0350341796875,
+    "prefecture": "香川県",
+    "prefectureCode": "kagawa",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

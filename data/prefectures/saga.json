@@ -1,0 +1,146 @@
+[
+  {
+    "id": "matsuya-5da8b3558087",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 佐賀大財店（松のや併設）",
+    "address": "佐賀県佐賀市大財3-10-26",
+    "lat": 33.262122,
+    "lng": 130.303406,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1017",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トライアルみやき店",
+    "address": "佐賀県三養基郡みやき町大字白壁5932 トライアルみやき店内",
+    "lat": 33.320411682128906,
+    "lng": 130.47967529296875,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-34",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フレスポ鳥栖店",
+    "address": "佐賀県鳥栖市本鳥栖町537-1 フレスポ鳥栖内2階(旧ジョイフルタウン内)",
+    "lat": 33.37596130371094,
+    "lng": 130.51742553710938,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-754",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "モラージュ佐賀店",
+    "address": "佐賀県佐賀市巨勢町大字牛島730- モラ-ジュ佐賀内 2F",
+    "lat": 33.25248718261719,
+    "lng": 130.3186798095703,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-98",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊万里店",
+    "address": "佐賀県伊万里市二里町八谷搦字伊万里一本松1148-",
+    "lat": 33.27821731567383,
+    "lng": 129.87049865722656,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-113",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "佐賀鍋島店",
+    "address": "佐賀県佐賀市鍋島町大字八戸3181-2",
+    "lat": 33.25559616088867,
+    "lng": 130.26683044433594,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-193",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "唐津店",
+    "address": "佐賀県唐津市和多田本村1-40",
+    "lat": 33.43810272216797,
+    "lng": 129.9751434326172,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1030",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小城畑田店",
+    "address": "佐賀県小城市小城町畑田2526-1",
+    "lat": 33.29343032836914,
+    "lng": 130.1902618408203,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-988",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新アクロスプラザ武雄店",
+    "address": "佐賀県武雄市武雄町大字富岡12506-4 アクロスプラザ武雄内",
+    "lat": 33.1980094909668,
+    "lng": 130.03314208984375,
+    "prefecture": "佐賀県",
+    "prefectureCode": "saga",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

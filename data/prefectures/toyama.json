@@ -1,0 +1,210 @@
+[
+  {
+    "id": "matsuya-8eaef031b517",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富山下赤江店",
+    "address": "富山県富山市下赤江町1-1-69",
+    "lat": 36.716384,
+    "lng": 137.233371,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a67d678640f6",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富山婦中店（松のや併設）",
+    "address": "富山県富山市婦中町下轡田428-4",
+    "lat": 36.663406,
+    "lng": 137.175341,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b4069731818f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富山掛尾店（松のや併設）",
+    "address": "富山県富山市掛尾町259",
+    "lat": 36.667904,
+    "lng": 137.210414,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fd26254d54d8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富山田中町店（松のや併設）",
+    "address": "富山県富山市田中町4-18-43",
+    "lat": 36.696077,
+    "lng": 137.240994,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ab141f0bf1a4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 射水太閤山店（松のや併設）",
+    "address": "富山県射水市中太閤山1-1 太閤山ショッピングタウン",
+    "lat": 36.704047,
+    "lng": 137.096358,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-97416f3ecbf8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新高岡店（松のや併設）",
+    "address": "富山県高岡市京田634-1",
+    "lat": 36.727218,
+    "lng": 137.014414,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-86bfbb37c0a8",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 滑川店（松のや併設）",
+    "address": "富山県滑川市上小泉2163-1",
+    "lat": 36.757823,
+    "lng": 137.351412,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-28cfb71e1691",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 黒部店（松のや併設）",
+    "address": "富山県黒部市荻生1651-3",
+    "lat": 36.882787,
+    "lng": 137.462847,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1113",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "富山下飯野店",
+    "address": "富山県富山市下飯野416-",
+    "lat": 36.74030303955078,
+    "lng": 137.2541046142578,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-338",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "富山本郷店",
+    "address": "富山県富山市本郷町50-2",
+    "lat": 36.667877197265625,
+    "lng": 137.23118591308594,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-893",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "氷見柳田店",
+    "address": "富山県氷見市柳田1945",
+    "lat": 36.8341178894043,
+    "lng": 136.99313354492188,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1205",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "砺波中神店",
+    "address": "富山県砺波市中神4-98",
+    "lat": 36.639610290527344,
+    "lng": 136.94496154785156,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-734",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "魚津店",
+    "address": "富山県魚津市友道1059-1",
+    "lat": 36.812469482421875,
+    "lng": 137.41024780273438,
+    "prefecture": "富山県",
+    "prefectureCode": "toyama",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

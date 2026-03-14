@@ -1,0 +1,274 @@
+[
+  {
+    "id": "matsuya-7b7ba39ef4a4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 富士吉田店",
+    "address": "山梨県富士吉田市上吉田4203-3",
+    "lat": 35.480063,
+    "lng": 138.784028,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0f6cdf838d30",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山梨昭和店（松のや併設）",
+    "address": "山梨県中巨摩郡昭和町飯喰字村西1131",
+    "lat": 35.619866,
+    "lng": 138.519168,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-52b0edcb9ad5",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 山梨竜王店（松のや併設）",
+    "address": "山梨県甲斐市西八幡2234-1",
+    "lat": 35.639199,
+    "lng": 138.519739,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-04982af63115",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 甲府国母店（松のや併設）",
+    "address": "山梨県甲府市大里町358-1",
+    "lat": 35.625471,
+    "lng": 138.549968,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b1cf12e8b202",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 甲府荒川店",
+    "address": "山梨県甲府市荒川1-8-32",
+    "lat": 35.675462,
+    "lng": 138.540191,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6f05e67be0d4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 石和店",
+    "address": "山梨県笛吹市石和町広瀬1374",
+    "lat": 35.644441,
+    "lng": 138.621459,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f8e921928881",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 韮崎店",
+    "address": "山梨県韮崎市若宮2-12-20 ライフガ-デンにらさき",
+    "lat": 35.712328,
+    "lng": 138.453252,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1090",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン山梨中央店",
+    "address": "山梨県中央市下河東3053-1",
+    "lat": 35.608497619628906,
+    "lng": 138.54161071777344,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-665",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ライフガーデン韮崎店",
+    "address": "山梨県韮崎市若宮2-2-23-1 ライフガ-デン韮崎内",
+    "lat": 35.71210861206055,
+    "lng": 138.4529266357422,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-164",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "南アルプス店",
+    "address": "山梨県南アルプス市十五所684-1 南アルプスガ-デン内",
+    "lat": 35.618309020996094,
+    "lng": 138.47055053710938,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-245",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "富士吉田店",
+    "address": "山梨県富士吉田市中曽根4-8-20",
+    "lat": 35.47896957397461,
+    "lng": 138.8092498779297,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-428",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "甲州塩山店",
+    "address": "山梨県甲州市塩山下塩後842-",
+    "lat": 35.69576644897461,
+    "lng": 138.71820068359375,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1172",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "甲府中小河原店",
+    "address": "山梨県甲府市中小河原一-12-26",
+    "lat": 35.634300231933594,
+    "lng": 138.56813049316406,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-430",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "甲府昭和店",
+    "address": "山梨県中巨摩郡昭和町河西1074-4",
+    "lat": 35.61460876464844,
+    "lng": 138.51959228515625,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-431",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "甲斐響ヶ丘店",
+    "address": "山梨県甲斐市龍地3653-1",
+    "lat": 35.68291091918945,
+    "lng": 138.50619506835938,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1152",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "笛吹石和店",
+    "address": "山梨県笛吹市石和町広瀬1195-59",
+    "lat": 35.64458465576172,
+    "lng": 138.61972045898438,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1394",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "都留十日市場店",
+    "address": "山梨県都留市十日市場924-1",
+    "lat": 35.53859329223633,
+    "lng": 138.88070678710938,
+    "prefecture": "山梨県",
+    "prefectureCode": "yamanashi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

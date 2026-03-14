@@ -1,0 +1,178 @@
+[
+  {
+    "id": "matsuya-9f9076671935",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南国店（松のや併設）",
+    "address": "高知県南国市明見817-1",
+    "lat": 33.56746,
+    "lng": 133.628018,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-9f97201161a1",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高知南御座店（松のや併設）",
+    "address": "高知県高知市南御座12-7",
+    "lat": 33.565701,
+    "lng": 133.559299,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b0b98b12a79e",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 高知朝倉店（松のや・マイカリー食堂併設）",
+    "address": "高知県高知市朝倉東町50-3",
+    "lat": 33.544042,
+    "lng": 133.50019,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1296",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "フジ須崎店",
+    "address": "高知県須崎市西町2-7-15 フジ須崎店 2階",
+    "lat": 33.38806915283203,
+    "lng": 133.2792205810547,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1260",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "マルナカ野市店",
+    "address": "高知県香南市野市町西野2700-2 マルナカ野市 2階",
+    "lat": 33.562660217285156,
+    "lng": 133.7014617919922,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-899",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "新四万十ＳＧ店",
+    "address": "高知県四万十市具同字八反田3193-1",
+    "lat": 32.97925567626953,
+    "lng": 132.91436767578125,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-679",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高知南国店",
+    "address": "高知県南国市篠原190-1",
+    "lat": 33.56866455078125,
+    "lng": 133.6346893310547,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-166",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高知南御座店",
+    "address": "高知県高知市南御座9-1",
+    "lat": 33.56598663330078,
+    "lng": 133.56076049804688,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-882",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高知瀬戸店",
+    "address": "高知県高知市瀬戸西町2-8-2",
+    "lat": 33.513526916503906,
+    "lng": 133.54469299316406,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-984",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高知神田店",
+    "address": "高知県高知市神田1147-1",
+    "lat": 33.542301177978516,
+    "lng": 133.51593017578125,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-559",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "高知針木店",
+    "address": "高知県高知市針木東町26-63",
+    "lat": 33.53327178955078,
+    "lng": 133.4749755859375,
+    "prefecture": "高知県",
+    "prefectureCode": "kochi",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

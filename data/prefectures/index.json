@@ -1,0 +1,521 @@
+{
+  "totalShops": 2261,
+  "prefectures": [
+    {
+      "code": "aichi",
+      "name": "愛知県",
+      "file": "./aichi.json",
+      "count": 104,
+      "minLat": 34.72317123413086,
+      "maxLat": 35.381467,
+      "minLng": 136.7159423828125,
+      "maxLng": 137.42604064941406
+    },
+    {
+      "code": "akita",
+      "name": "秋田県",
+      "file": "./akita.json",
+      "count": 13,
+      "minLat": 39.29793930053711,
+      "maxLat": 40.2494010925293,
+      "minLng": 140.0235137939453,
+      "maxLng": 140.57745361328125
+    },
+    {
+      "code": "aomori",
+      "name": "青森県",
+      "file": "./aomori.json",
+      "count": 19,
+      "minLat": 40.496459,
+      "maxLat": 41.29208755493164,
+      "minLng": 140.41641235351562,
+      "maxLng": 141.52056884765625
+    },
+    {
+      "code": "chiba",
+      "name": "千葉県",
+      "file": "./chiba.json",
+      "count": 125,
+      "minLat": 35.006263732910156,
+      "maxLat": 35.955551,
+      "minLng": 139.84689331054688,
+      "maxLng": 140.79783630371094
+    },
+    {
+      "code": "ehime",
+      "name": "愛媛県",
+      "file": "./ehime.json",
+      "count": 22,
+      "minLat": 33.7849006652832,
+      "maxLat": 34.05817413330078,
+      "minLng": 132.71055603027344,
+      "maxLng": 133.56565856933594
+    },
+    {
+      "code": "fukui",
+      "name": "福井県",
+      "file": "./fukui.json",
+      "count": 12,
+      "minLat": 35.49494552612305,
+      "maxLat": 36.095045,
+      "minLng": 135.75634765625,
+      "maxLng": 136.251721
+    },
+    {
+      "code": "fukuoka",
+      "name": "福岡県",
+      "file": "./fukuoka.json",
+      "count": 81,
+      "minLat": 33.005648,
+      "maxLat": 33.89694595336914,
+      "minLng": 130.174112,
+      "maxLng": 130.982039
+    },
+    {
+      "code": "fukushima",
+      "name": "福島県",
+      "file": "./fukushima.json",
+      "count": 28,
+      "minLat": 36.92124938964844,
+      "maxLat": 37.81477737426758,
+      "minLng": 139.8589630126953,
+      "maxLng": 140.98406982421875
+    },
+    {
+      "code": "gifu",
+      "name": "岐阜県",
+      "file": "./gifu.json",
+      "count": 25,
+      "minLat": 35.32072067260742,
+      "maxLat": 36.14858627319336,
+      "minLng": 136.53909301757812,
+      "maxLng": 137.4171905517578
+    },
+    {
+      "code": "gunma",
+      "name": "群馬県",
+      "file": "./gunma.json",
+      "count": 38,
+      "minLat": 36.233854,
+      "maxLat": 36.64800262451172,
+      "minLng": 138.892333984375,
+      "maxLng": 139.56849670410156
+    },
+    {
+      "code": "hiroshima",
+      "name": "広島県",
+      "file": "./hiroshima.json",
+      "count": 41,
+      "minLat": 34.220577239990234,
+      "maxLat": 34.80501937866211,
+      "minLng": 132.2238006591797,
+      "maxLng": 133.399523
+    },
+    {
+      "code": "hokkaido",
+      "name": "北海道",
+      "file": "./hokkaido.json",
+      "count": 77,
+      "minLat": 41.7754020690918,
+      "maxLat": 45.38616180419922,
+      "minLng": 140.69720458984375,
+      "maxLng": 144.97821044921875
+    },
+    {
+      "code": "hyogo",
+      "name": "兵庫県",
+      "file": "./hyogo.json",
+      "count": 92,
+      "minLat": 34.32932662963867,
+      "maxLat": 35.524845123291016,
+      "minLng": 134.3887939453125,
+      "maxLng": 135.44679260253906
+    },
+    {
+      "code": "ibaraki",
+      "name": "茨城県",
+      "file": "./ibaraki.json",
+      "count": 53,
+      "minLat": 35.895684,
+      "maxLat": 36.776429,
+      "minLng": 139.70919799804688,
+      "maxLng": 140.733718
+    },
+    {
+      "code": "ishikawa",
+      "name": "石川県",
+      "file": "./ishikawa.json",
+      "count": 15,
+      "minLat": 36.32006072998047,
+      "maxLat": 36.66341781616211,
+      "minLng": 136.35302734375,
+      "maxLng": 136.72850036621094
+    },
+    {
+      "code": "iwate",
+      "name": "岩手県",
+      "file": "./iwate.json",
+      "count": 17,
+      "minLat": 38.936984,
+      "maxLat": 40.31022644042969,
+      "minLng": 141.1024169921875,
+      "maxLng": 141.9472198486328
+    },
+    {
+      "code": "kagawa",
+      "name": "香川県",
+      "file": "./kagawa.json",
+      "count": 18,
+      "minLat": 34.12273025512695,
+      "maxLat": 34.346293,
+      "minLng": 133.65733337402344,
+      "maxLng": 134.17135620117188
+    },
+    {
+      "code": "kagoshima",
+      "name": "鹿児島県",
+      "file": "./kagoshima.json",
+      "count": 24,
+      "minLat": 28.395984649658203,
+      "maxLat": 32.08016586303711,
+      "minLng": 129.52635192871094,
+      "maxLng": 131.09710693359375
+    },
+    {
+      "code": "kanagawa",
+      "name": "神奈川県",
+      "file": "./kanagawa.json",
+      "count": 169,
+      "minLat": 35.230391,
+      "maxLat": 35.633571,
+      "minLng": 139.1304931640625,
+      "maxLng": 139.7333526611328
+    },
+    {
+      "code": "kochi",
+      "name": "高知県",
+      "file": "./kochi.json",
+      "count": 11,
+      "minLat": 32.97925567626953,
+      "maxLat": 33.56866455078125,
+      "minLng": 132.91436767578125,
+      "maxLng": 133.7014617919922
+    },
+    {
+      "code": "kumamoto",
+      "name": "熊本県",
+      "file": "./kumamoto.json",
+      "count": 23,
+      "minLat": 32.21050262451172,
+      "maxLat": 33.006553649902344,
+      "minLng": 130.1857147216797,
+      "maxLng": 130.86793518066406
+    },
+    {
+      "code": "kyoto",
+      "name": "京都府",
+      "file": "./kyoto.json",
+      "count": 32,
+      "minLat": 34.72123718261719,
+      "maxLat": 35.42903137207031,
+      "minLng": 135.11636352539062,
+      "maxLng": 135.81837463378906
+    },
+    {
+      "code": "mie",
+      "name": "三重県",
+      "file": "./mie.json",
+      "count": 20,
+      "minLat": 34.32654571533203,
+      "maxLat": 35.067962646484375,
+      "minLng": 136.44630432128906,
+      "maxLng": 136.81307983398438
+    },
+    {
+      "code": "miyagi",
+      "name": "宮城県",
+      "file": "./miyagi.json",
+      "count": 35,
+      "minLat": 37.996543884277344,
+      "maxLat": 38.89225769042969,
+      "minLng": 140.61129760742188,
+      "maxLng": 141.56341552734375
+    },
+    {
+      "code": "miyazaki",
+      "name": "宮崎県",
+      "file": "./miyazaki.json",
+      "count": 19,
+      "minLat": 31.613197326660156,
+      "maxLat": 32.572243,
+      "minLng": 130.99954223632812,
+      "maxLng": 131.684033
+    },
+    {
+      "code": "nagano",
+      "name": "長野県",
+      "file": "./nagano.json",
+      "count": 32,
+      "minLat": 35.499141693115234,
+      "maxLat": 36.75840377807617,
+      "minLng": 137.8236083984375,
+      "maxLng": 138.482569
+    },
+    {
+      "code": "nagasaki",
+      "name": "長崎県",
+      "file": "./nagasaki.json",
+      "count": 10,
+      "minLat": 32.682220458984375,
+      "maxLat": 33.21200180053711,
+      "minLng": 129.74444580078125,
+      "maxLng": 130.1479949951172
+    },
+    {
+      "code": "nara",
+      "name": "奈良県",
+      "file": "./nara.json",
+      "count": 18,
+      "minLat": 34.483970642089844,
+      "maxLat": 34.720905,
+      "minLng": 135.6998748779297,
+      "maxLng": 135.836436
+    },
+    {
+      "code": "niigata",
+      "name": "新潟県",
+      "file": "./niigata.json",
+      "count": 39,
+      "minLat": 37.04604721069336,
+      "maxLat": 38.20753479003906,
+      "minLng": 137.87945556640625,
+      "maxLng": 139.48095703125
+    },
+    {
+      "code": "oita",
+      "name": "大分県",
+      "file": "./oita.json",
+      "count": 18,
+      "minLat": 32.959716796875,
+      "maxLat": 33.588703,
+      "minLng": 130.925867,
+      "maxLng": 131.8666229248047
+    },
+    {
+      "code": "okayama",
+      "name": "岡山県",
+      "file": "./okayama.json",
+      "count": 27,
+      "minLat": 34.49262237548828,
+      "maxLat": 35.080223083496094,
+      "minLng": 133.52838134765625,
+      "maxLng": 134.09075927734375
+    },
+    {
+      "code": "okinawa",
+      "name": "沖縄県",
+      "file": "./okinawa.json",
+      "count": 23,
+      "minLat": 24.33804702758789,
+      "maxLat": 26.594602584838867,
+      "minLng": 124.17938232421875,
+      "maxLng": 127.97869110107422
+    },
+    {
+      "code": "osaka",
+      "name": "大阪府",
+      "file": "./osaka.json",
+      "count": 184,
+      "minLat": 34.36176300048828,
+      "maxLat": 34.856285095214844,
+      "minLng": 135.24349975585938,
+      "maxLng": 135.7103729248047
+    },
+    {
+      "code": "saga",
+      "name": "佐賀県",
+      "file": "./saga.json",
+      "count": 9,
+      "minLat": 33.1980094909668,
+      "maxLat": 33.43810272216797,
+      "minLng": 129.87049865722656,
+      "maxLng": 130.51742553710938
+    },
+    {
+      "code": "saitama",
+      "name": "埼玉県",
+      "file": "./saitama.json",
+      "count": 160,
+      "minLat": 35.770118713378906,
+      "maxLat": 36.2603759765625,
+      "minLng": 139.0748748779297,
+      "maxLng": 139.885134
+    },
+    {
+      "code": "shiga",
+      "name": "滋賀県",
+      "file": "./shiga.json",
+      "count": 27,
+      "minLat": 34.964115142822266,
+      "maxLat": 35.40714645385742,
+      "minLng": 135.86471557617188,
+      "maxLng": 136.284291
+    },
+    {
+      "code": "shimane",
+      "name": "島根県",
+      "file": "./shimane.json",
+      "count": 9,
+      "minLat": 34.6884651184082,
+      "maxLat": 35.486541748046875,
+      "minLng": 131.84140014648438,
+      "maxLng": 133.08380126953125
+    },
+    {
+      "code": "shizuoka",
+      "name": "静岡県",
+      "file": "./shizuoka.json",
+      "count": 51,
+      "minLat": 34.63724136352539,
+      "maxLat": 35.299268,
+      "minLng": 137.54025268554688,
+      "maxLng": 139.1182403564453
+    },
+    {
+      "code": "tochigi",
+      "name": "栃木県",
+      "file": "./tochigi.json",
+      "count": 26,
+      "minLat": 36.29471206665039,
+      "maxLat": 36.96251678466797,
+      "minLng": 139.446239,
+      "maxLng": 140.06475830078125
+    },
+    {
+      "code": "tokushima",
+      "name": "徳島県",
+      "file": "./tokushima.json",
+      "count": 13,
+      "minLat": 34.02692413330078,
+      "maxLat": 34.19050979614258,
+      "minLng": 133.80694580078125,
+      "maxLng": 134.60311889648438
+    },
+    {
+      "code": "tokyo",
+      "name": "東京都",
+      "file": "./tokyo.json",
+      "count": 405,
+      "minLat": 35.51491928100586,
+      "maxLat": 35.796721,
+      "minLng": 139.28729248046875,
+      "maxLng": 139.903465
+    },
+    {
+      "code": "tottori",
+      "name": "鳥取県",
+      "file": "./tottori.json",
+      "count": 8,
+      "minLat": 35.422794342041016,
+      "maxLat": 35.51544189453125,
+      "minLng": 133.30633544921875,
+      "maxLng": 134.2200164794922
+    },
+    {
+      "code": "toyama",
+      "name": "富山県",
+      "file": "./toyama.json",
+      "count": 13,
+      "minLat": 36.639610290527344,
+      "maxLat": 36.882787,
+      "minLng": 136.94496154785156,
+      "maxLng": 137.462847
+    },
+    {
+      "code": "wakayama",
+      "name": "和歌山県",
+      "file": "./wakayama.json",
+      "count": 17,
+      "minLat": 33.67678451538086,
+      "maxLat": 34.32339096069336,
+      "minLng": 135.145068,
+      "maxLng": 135.97093200683594
+    },
+    {
+      "code": "yamagata",
+      "name": "山形県",
+      "file": "./yamagata.json",
+      "count": 20,
+      "minLat": 37.922467,
+      "maxLat": 38.922031,
+      "minLng": 139.7994842529297,
+      "maxLng": 140.39320373535156
+    },
+    {
+      "code": "yamaguchi",
+      "name": "山口県",
+      "file": "./yamaguchi.json",
+      "count": 22,
+      "minLat": 33.93583297729492,
+      "maxLat": 34.389774322509766,
+      "minLng": 130.9236297607422,
+      "maxLng": 132.1988525390625
+    },
+    {
+      "code": "yamanashi",
+      "name": "山梨県",
+      "file": "./yamanashi.json",
+      "count": 17,
+      "minLat": 35.47896957397461,
+      "maxLat": 35.712328,
+      "minLng": 138.4529266357422,
+      "maxLng": 138.88070678710938
+    }
+  ],
+  "categories": [
+    {
+      "value": "convenience",
+      "label": "コンビニ"
+    },
+    {
+      "value": "service",
+      "label": "サービス"
+    },
+    {
+      "value": "drugstore",
+      "label": "ドラッグストア・薬局"
+    },
+    {
+      "value": "baby_kids",
+      "label": "ベビー・子ども"
+    },
+    {
+      "value": "leisure",
+      "label": "レジャー"
+    },
+    {
+      "value": "lodging",
+      "label": "宿泊"
+    },
+    {
+      "value": "fashion",
+      "label": "服飾"
+    },
+    {
+      "value": "books",
+      "label": "本・文具"
+    },
+    {
+      "value": "airport",
+      "label": "空港"
+    },
+    {
+      "value": "shopping",
+      "label": "買い物"
+    },
+    {
+      "value": "gourmet",
+      "label": "飲食"
+    }
+  ]
+}

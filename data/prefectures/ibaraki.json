@@ -1,0 +1,850 @@
+[
+  {
+    "id": "matsuya-96b2ee7d2296",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 かすみがうら店",
+    "address": "茨城県かすみがうら市上稲吉1943-32",
+    "lat": 36.131273,
+    "lng": 140.224923,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-89e47f2103bf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 つくば東大通店",
+    "address": "茨城県つくば市妻木1768-1",
+    "lat": 36.10922,
+    "lng": 140.107556,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b77743453a83",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 つくば研究学園店（松のや併設）",
+    "address": "茨城県つくば市研究学園1-3-6",
+    "lat": 36.084677,
+    "lng": 140.077874,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-40fd114f76fd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 つくば西大通り店（マイカリー食堂併設）",
+    "address": "茨城県つくば市春日4-1-5",
+    "lat": 36.094899,
+    "lng": 140.097598,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8deb18ef9f41",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 ひたちなか店",
+    "address": "茨城県ひたちなか市市毛字原坪894-36",
+    "lat": 36.403008,
+    "lng": 140.508219,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-77ca259cb90f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北茨城店（松のや併設）",
+    "address": "茨城県北茨城市中郷町上桜井字細谷2820",
+    "lat": 36.776429,
+    "lng": 140.733718,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6f75dadb3abd",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 取手店（松のや併設）",
+    "address": "茨城県取手市取手3-1-2 取手プラザ1F",
+    "lat": 35.895684,
+    "lng": 140.063739,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3fbaeff13292",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 土浦真鍋店",
+    "address": "茨城県土浦市真鍋1-12-9",
+    "lat": 36.091529,
+    "lng": 140.199685,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-006e6fb696ad",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 常陸太田店（松のや併設）",
+    "address": "茨城県常陸太田市塙町字鯉沼4552",
+    "lat": 36.542073,
+    "lng": 140.532298,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3bc7beeae926",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日立桜川町店",
+    "address": "茨城県日立市桜川町2-4-12",
+    "lat": 36.560055,
+    "lng": 140.632752,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-db4272a54316",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 日立鹿島町店（松のや併設）",
+    "address": "茨城県日立市鹿島町2-16-15",
+    "lat": 36.592122,
+    "lng": 140.648636,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f4591716b16b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 水戸バイパス店",
+    "address": "茨城県水戸市元吉田町1435-7",
+    "lat": 36.344966,
+    "lng": 140.473048,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-79ae4b4cddeb",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 水戸東原店（松のや併設）",
+    "address": "茨城県水戸市東原1-3-17",
+    "lat": 36.384146,
+    "lng": 140.446365,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3dfd1aab9cac",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 水戸河和田店（松のや併設）",
+    "address": "茨城県水戸市河和田2-1777-5",
+    "lat": 36.377131,
+    "lng": 140.407464,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5495f67a8909",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 牛久店",
+    "address": "茨城県牛久市田宮町41-1",
+    "lat": 35.982662,
+    "lng": 140.139196,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-fa24b386ee97",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 神栖店",
+    "address": "茨城県神栖市大野原2-22-1",
+    "lat": 35.895981,
+    "lng": 140.647245,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-5f0928f55053",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茨城東海店（松のや併設）",
+    "address": "茨城県那珂郡東海村東海1-2-50",
+    "lat": 36.469436,
+    "lng": 140.569194,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-b2c3cfcb5593",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 茨城那珂店（松のや併設）",
+    "address": "茨城県那珂市竹ノ内2-10-2",
+    "lat": 36.447664,
+    "lng": 140.501411,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6c13a3c4dd50",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 阿見店（松のや併設）",
+    "address": "茨城県稲敷郡阿見町荒川本郷2033-177",
+    "lat": 36.021579,
+    "lng": 140.181668,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6c87c6019d24",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 龍ケ崎店（松のや併設） ※3月18日10時オープン",
+    "address": "茨城県龍ケ崎市馴馬町中曽根2988-1",
+    "lat": 35.914772,
+    "lng": 140.185958,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-740",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "つくば研究学園店",
+    "address": "茨城県つくば市研究学園3-10-7",
+    "lat": 36.086395263671875,
+    "lng": 140.07440185546875,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-12",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ひたちなか中根店",
+    "address": "茨城県ひたちなか市中根字深谷津3328-2",
+    "lat": 36.396358489990234,
+    "lng": 140.55154418945312,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-681",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンタウン水戸南店",
+    "address": "茨城県東茨城郡茨城町長岡3480 イオンタウン水戸南内",
+    "lat": 36.309364318847656,
+    "lng": 140.43980407714844,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1216",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "オークビレッジかみす店",
+    "address": "茨城県神栖市大野原4-8-71-2",
+    "lat": 35.90044021606445,
+    "lng": 140.63706970214844,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1355",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "カインズつくば店",
+    "address": "茨城県つくば市小野崎278-1 カインズつくば店内",
+    "lat": 36.073265075683594,
+    "lng": 140.10345458984375,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-629",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ピアシティ石岡店",
+    "address": "茨城県石岡市石岡字木比提2222-2 ピアシティ石岡内",
+    "lat": 36.1946907043457,
+    "lng": 140.28372192382812,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-673",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ピアシティ荒川本郷店",
+    "address": "茨城県稲敷郡阿見町本郷3-1-1 ピアシティ荒川本郷内",
+    "lat": 36.02359390258789,
+    "lng": 140.1764373779297,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1389",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア古河総和店",
+    "address": "茨城県古河市大堤682 ベイシア古河総和内",
+    "lat": 36.18287658691406,
+    "lng": 139.7167510986328,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1193",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ベイシア高萩モール店",
+    "address": "茨城県高萩市下手綱ヤワコ田1058- ベイシア高萩モ-ル内",
+    "lat": 36.72902297973633,
+    "lng": 140.7155303955078,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-58",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨークタウン中郷店",
+    "address": "茨城県北茨城市中郷町上桜井字細谷2824 ヨ-クタウン中郷内",
+    "lat": 36.776031494140625,
+    "lng": 140.7333221435547,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-60",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨークタウン坂東店",
+    "address": "茨城県坂東市辺田1104-1 ヨ-クタウン坂東ショッピングセンタ-内",
+    "lat": 36.03763961791992,
+    "lng": 139.89012145996094,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-677",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ヨークタウン結城店",
+    "address": "茨城県結城市大字結城11839-1 ヨ-クタウンSC内",
+    "lat": 36.30607604980469,
+    "lng": 139.86788940429688,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1116",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ライフガーデンみどりの店",
+    "address": "茨城県つくば市みどりの中央11-7",
+    "lat": 36.027130126953125,
+    "lng": 140.0574951171875,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-948",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "下妻古沢店",
+    "address": "茨城県下妻市古沢4-2",
+    "lat": 36.181941986083984,
+    "lng": 139.97499084472656,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1303",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "取手藤代店",
+    "address": "茨城県取手市藤代579-",
+    "lat": 35.92198944091797,
+    "lng": 140.1139678955078,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1238",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "古河松並店",
+    "address": "茨城県古河市松並二-18-23",
+    "lat": 36.207855224609375,
+    "lng": 139.70919799804688,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-465",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "古河関戸店",
+    "address": "茨城県古河市関戸2014-1",
+    "lat": 36.192527770996094,
+    "lng": 139.74530029296875,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-199",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "土浦小松店",
+    "address": "茨城県土浦市小松1-4-27",
+    "lat": 36.07206344604492,
+    "lng": 140.2040252685547,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-780",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "土浦神立店",
+    "address": "茨城県土浦市中神立町19-1",
+    "lat": 36.118263244628906,
+    "lng": 140.2358856201172,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1249",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "守谷テラス店",
+    "address": "茨城県守谷市久保ヶ丘2-1-1 守谷テラス内1階",
+    "lat": 35.967769622802734,
+    "lng": 139.97476196289062,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-234",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "守谷店",
+    "address": "茨城県守谷市中央一-1-",
+    "lat": 35.95429992675781,
+    "lng": 139.98765563964844,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-721",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "常陸大宮店",
+    "address": "茨城県常陸大宮市中富町979-1",
+    "lat": 36.54724884033203,
+    "lng": 140.40786743164062,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1134",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "日立シーマークスクエア店",
+    "address": "茨城県日立市東滑川町5-1-3 シ-マ-クスクエア2階",
+    "lat": 36.61741638183594,
+    "lng": 140.677490234375,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-712",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "日立金沢店",
+    "address": "茨城県日立市金沢町1-12-14",
+    "lat": 36.54078674316406,
+    "lng": 140.62319946289062,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-10",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "水戸けやき台店",
+    "address": "茨城県水戸市けやき台2-1-",
+    "lat": 36.33523178100586,
+    "lng": 140.48764038085938,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1092",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "水戸内原店",
+    "address": "茨城県水戸市内原1-188",
+    "lat": 36.37405014038086,
+    "lng": 140.35528564453125,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-399",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "水戸河和田店",
+    "address": "茨城県水戸市河和田2-1777-3",
+    "lat": 36.37675476074219,
+    "lng": 140.40725708007812,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-421",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "牛久上柏田店",
+    "address": "茨城県牛久市上柏田3-67-1",
+    "lat": 35.989723205566406,
+    "lng": 140.1569061279297,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-80",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "筑西川島店",
+    "address": "茨城県筑西市布川1317-1",
+    "lat": 36.29125213623047,
+    "lng": 139.91876220703125,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1202",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "蔦屋書店ひたちなか店",
+    "address": "茨城県ひたちなか市新光町30-4",
+    "lat": 36.40717315673828,
+    "lng": 140.58421325683594,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1047",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "行方玉造店",
+    "address": "茨城県行方市玉造甲1785-1 カインズモ-ル玉造内",
+    "lat": 36.099586486816406,
+    "lng": 140.411865234375,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-769",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "那珂店",
+    "address": "茨城県那珂市菅谷669-70",
+    "lat": 36.453773498535156,
+    "lng": 140.49896240234375,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-575",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "龍ヶ崎城南SC店",
+    "address": "茨城県龍ヶ崎市光順田1726 城南ショッピングセンタ-内",
+    "lat": 35.905906677246094,
+    "lng": 140.19708251953125,
+    "prefecture": "茨城県",
+    "prefectureCode": "ibaraki",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "matsuya-a09e6376e63f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 すすきの店",
+    "address": "北海道札幌市中央区南4条西3-1-1 第3グリ-ンビル",
+    "lat": 43.055454,
+    "lng": 141.354381,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e32fe2548422",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 中の島店（松のや併設）",
+    "address": "北海道札幌市豊平区中の島2条6-1-6",
+    "lat": 43.028753,
+    "lng": 141.359094,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-78d4fdd7f3a7",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 函館亀田店（松のや併設）",
+    "address": "北海道函館市亀田町18-19",
+    "lat": 41.796928,
+    "lng": 140.733194,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-0ed4902ebd39",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 函館鍛治店（松のや併設）",
+    "address": "北海道函館市鍛治2-8-9",
+    "lat": 41.806308,
+    "lng": 140.771693,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-94bc108d7928",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北24条店",
+    "address": "北海道札幌市北区北23条西4-2-41",
+    "lat": 43.090178,
+    "lng": 141.344224,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-33a57d215d4b",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北44条店（松のや併設）",
+    "address": "北海道札幌市東区北44条東1-1-30",
+    "lat": 43.112809,
+    "lng": 141.343969,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e830c964e00a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 北見常盤店（松のや併設）",
+    "address": "北海道北見市常盤町2-2-30",
+    "lat": 43.799547,
+    "lng": 143.888415,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-6c35654ff359",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 千歳店（松のや併設）",
+    "address": "北海道千歳市住吉4-14-4",
+    "lat": 42.831983,
+    "lng": 141.669479,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2f88122c32f4",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 南郷通店",
+    "address": "北海道札幌市白石区南郷通9-南5-10",
+    "lat": 43.038752,
+    "lng": 141.414186,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-aab054d212c3",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 帯広白樺通り店（松のや併設）",
+    "address": "北海道帯広市西8条南10-2-5",
+    "lat": 42.920387,
+    "lng": 143.193054,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8d6c725e7fcf",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 恵庭店（松のや併設）",
+    "address": "北海道恵庭市大町一-1-13",
+    "lat": 42.889093,
+    "lng": 141.569277,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c58895ab357f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 手稲前田店 （松のや併設）",
+    "address": "北海道札幌市手稲区前田5条13-3-35",
+    "lat": 43.128794,
+    "lng": 141.247959,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-046af77b7a6d",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 新琴似店（松のや併設）",
+    "address": "北海道札幌市北区新琴似6条1-1-1",
+    "lat": 43.108029,
+    "lng": 141.333339,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-c38f2f846435",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 旭川四条店（松のや併設）",
+    "address": "北海道旭川市4条通18-547",
+    "lat": 43.76433,
+    "lng": 142.377474,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-3c1bed59aeec",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 旭川大町店（松のや併設）",
+    "address": "北海道旭川市大町1条3-9-29",
+    "lat": 43.78508,
+    "lng": 142.361393,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-22a2cd954a36",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 札幌北野店（松のや併設）",
+    "address": "北海道札幌市清田区北野7条5-12-30",
+    "lat": 43.018058,
+    "lng": 141.453442,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-e7355d88388a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 札幌美しが丘店（松のや併設）",
+    "address": "北海道札幌市清田区美しが丘4条5-3-3",
+    "lat": 42.979748,
+    "lng": 141.453886,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-43664939450a",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 札幌駅前通店",
+    "address": "北海道札幌市中央区北1条西3-3- 敷島北一条ビル",
+    "lat": 43.062394,
+    "lng": 141.351888,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2344bc4de496",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 江別店（松のや併設）",
+    "address": "北海道江別市高砂町13-1",
+    "lat": 43.101999,
+    "lng": 141.535994,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-a8cc4937483f",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 琴似店",
+    "address": "北海道札幌市西区琴似一条2-6-8",
+    "lat": 43.079301,
+    "lng": 141.306951,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-ed447574cb25",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 苫小牧店（松のや併設）",
+    "address": "北海道苫小牧市清水町1-4-11",
+    "lat": 42.649386,
+    "lng": 141.600555,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-f25d82450d17",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 西町店",
+    "address": "北海道札幌市西区西町北4-1-8",
+    "lat": 43.078492,
+    "lng": 141.291229,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-8bbb5bb91898",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 買物公園通店",
+    "address": "北海道旭川市2条通8-左1",
+    "lat": 43.766898,
+    "lng": 142.360143,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-61cadf075614",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 里塚店",
+    "address": "北海道札幌市清田区里塚一条4-15-40",
+    "lat": 42.981329,
+    "lng": 141.46458,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "matsuya-2c885d12de63",
+    "chainCode": "matsuya",
+    "chain": "松屋",
+    "name": "松屋 音更店（松のや併設）",
+    "address": "北海道河東郡音更町木野大通西8-1-3-A",
+    "lat": 42.951145,
+    "lng": 143.205001,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "gourmet",
+    "categoryLabel": "飲食",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1146",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "DCM音更店",
+    "address": "北海道河東郡音更町木野大通東12-2-12 DCM音更内",
+    "lat": 42.95949172973633,
+    "lng": 143.2078094482422,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1110",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ札幌南22条店",
+    "address": "北海道札幌市中央区南23条西7-1-5",
+    "lat": 43.02954864501953,
+    "lng": 141.35162353515625,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-593",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "アクロスプラザ札幌石山店",
+    "address": "北海道札幌市南区石山二条9-7-62 アクロスプラザ札幌南内",
+    "lat": 42.95985412597656,
+    "lng": 141.3132781982422,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1000",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオンスーパーセンター手稲山口店",
+    "address": "北海道札幌市手稲区明日風6-1-1",
+    "lat": 43.14162826538086,
+    "lng": 141.23394775390625,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-936",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "インターヴィレッジ大曲店",
+    "address": "北海道北広島市大曲幸町6-1- インタ-ヴィレッジ大曲 専門モ-ル ペコラプラザ内",
+    "lat": 42.9691162109375,
+    "lng": 141.4697723388672,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1373",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "サッポロファクトリー店",
+    "address": "北海道札幌市中央区北2条東4-1-2 サッポロファクトリ-1条館1F",
+    "lat": 43.06517028808594,
+    "lng": 141.3618621826172,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1058",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "ザ・ビッグ豊平店",
+    "address": "北海道札幌市豊平区豊平4条9-3-1",
+    "lat": 43.04767990112305,
+    "lng": 141.37535095214844,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1207",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "シティわっかない店",
+    "address": "北海道稚内市新光町1483-76 シティわっかない内",
+    "lat": 45.38616180419922,
+    "lng": 141.70040893554688,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1388",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "シーナシーナ福住店",
+    "address": "北海道札幌市豊平区福住2条1-2-5 シ-ナシ-ナ福住2F",
+    "lat": 43.020599365234375,
+    "lng": 141.40402221679688,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-725",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "トライアル上磯店",
+    "address": "北海道北斗市七重浜7-14-1 トライアル上磯店内",
+    "lat": 41.81922149658203,
+    "lng": 140.69720458984375,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-390",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "上江別店",
+    "address": "北海道江別市上江別427-32",
+    "lat": 43.10005187988281,
+    "lng": 141.5483856201172,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-669",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "中標津サウスヒルズ店",
+    "address": "北海道標津郡中標津町南町3-10 東武サウスヒルズ内",
+    "lat": 43.5356330871582,
+    "lng": 144.97821044921875,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-719",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "伊達舟岡店",
+    "address": "北海道伊達市舟岡町205-24",
+    "lat": 42.46525573730469,
+    "lng": 140.87986755371094,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1314",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "余市黒川店",
+    "address": "北海道余市郡余市町黒川町8-49-1",
+    "lat": 43.18488693237305,
+    "lng": 140.7939453125,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1344",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "函館グランディールイチイ店",
+    "address": "北海道函館市美原1-3-1 2F",
+    "lat": 41.81375503540039,
+    "lng": 140.758544921875,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1169",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "函館亀田港町店",
+    "address": "北海道函館市亀田港町39-13",
+    "lat": 41.8094482421875,
+    "lng": 140.72125244140625,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-139",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "函館漁火通店",
+    "address": "北海道函館市広野町5-10",
+    "lat": 41.7754020690918,
+    "lng": 140.76654052734375,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-140",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "函館石川店",
+    "address": "北海道函館市石川町326-16",
+    "lat": 41.825584411621094,
+    "lng": 140.74050903320312,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-339",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北広島虹ヶ丘店",
+    "address": "北海道北広島市虹ヶ丘7-2-1",
+    "lat": 43.0217399597168,
+    "lng": 141.48805236816406,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1266",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "北見西富町店",
+    "address": "北海道北見市西富町1-12-18",
+    "lat": 43.799007415771484,
+    "lng": 143.86721801757812,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1211",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千歳ペルすみよし店",
+    "address": "北海道千歳市住吉4-14-20",
+    "lat": 42.831077575683594,
+    "lng": 141.6720428466797,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-791",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "千歳新富店",
+    "address": "北海道千歳市新富3-23-11",
+    "lat": 42.83781433105469,
+    "lng": 141.63763427734375,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-788",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "名寄徳田店",
+    "address": "北海道名寄市徳田105-30",
+    "lat": 44.33608627319336,
+    "lng": 142.45657348632812,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1182",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "室蘭モルエ中島店",
+    "address": "北海道室蘭市中島本町1-6-2",
+    "lat": 42.35457992553711,
+    "lng": 141.0097198486328,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-686",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "小樽有幌店",
+    "address": "北海道小樽市有幌町2-9",
+    "lat": 43.19027328491211,
+    "lng": 141.00953674316406,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-275",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "岩見沢大和タウンプラザ店",
+    "address": "北海道岩見沢市大和1条8-5- 岩見沢大和タウンプラザ内",
+    "lat": 43.190093994140625,
+    "lng": 141.73606872558594,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1366",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "帯広フレスポスズランプラザ店",
+    "address": "北海道帯広市稲田町南8線西10-1 2F",
+    "lat": 42.89056396484375,
+    "lng": 143.19876098632812,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-859",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "帯広南の森店",
+    "address": "北海道帯広市南の森西1-1-2",
+    "lat": 42.884368896484375,
+    "lng": 143.17408752441406,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-489",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "帯広白樺通店",
+    "address": "北海道帯広市西23条南3-54-11",
+    "lat": 42.91644287109375,
+    "lng": 143.12936401367188,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-300",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "恵庭黄金南店",
+    "address": "北海道恵庭市黄金南6-10-5",
+    "lat": 42.89109420776367,
+    "lng": 141.59866333007812,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-324",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "旭川旭神店",
+    "address": "北海道旭川市旭神2条2-5-21",
+    "lat": 43.73859786987305,
+    "lng": 142.38360595703125,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1150",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "旭川東光店",
+    "address": "北海道旭川市東光8条1-3-4",
+    "lat": 43.74867630004883,
+    "lng": 142.38853454589844,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-691",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "旭川永山店",
+    "address": "北海道旭川市永山二条4-1-20",
+    "lat": 43.79022979736328,
+    "lng": 142.4012451171875,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-325",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "旭川緑町店",
+    "address": "北海道旭川市緑町12-1125-92",
+    "lat": 43.783912658691406,
+    "lng": 142.33786010742188,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-731",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌中央店",
+    "address": "北海道札幌市中央区北十条西23-2-1",
+    "lat": 43.06847381591797,
+    "lng": 141.31942749023438,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-264",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌屯田店",
+    "address": "北海道札幌市北区屯田8条7-10-27",
+    "lat": 43.14154052734375,
+    "lng": 141.33169555664062,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1138",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌新清田店",
+    "address": "北海道札幌市清田区北野3条1-12-15",
+    "lat": 43.01423263549805,
+    "lng": 141.42886352539062,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-340",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌新琴似店",
+    "address": "北海道札幌市北区新琴似1条13-16-25",
+    "lat": 43.11410140991211,
+    "lng": 141.3059539794922,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-341",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌東店",
+    "address": "北海道札幌市東区北三十条東十九-2-15",
+    "lat": 43.101951599121094,
+    "lng": 141.3775177001953,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-835",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌東雁来店",
+    "address": "北海道札幌市東区東雁来9条4-7-14",
+    "lat": 43.09430694580078,
+    "lng": 141.4305419921875,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-796",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌発寒店",
+    "address": "北海道札幌市西区発寒九条十四-516-411",
+    "lat": 43.1016960144043,
+    "lng": 141.27206420898438,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-343",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌白石店",
+    "address": "北海道札幌市白石区菊水8条4-2-15",
+    "lat": 43.05756759643555,
+    "lng": 141.3855743408203,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1302",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌篠路店",
+    "address": "北海道札幌市北区太平12条1-1-1 MEGAドン・キホ-テ篠路店2F",
+    "lat": 43.13948059082031,
+    "lng": 141.34878540039062,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-344",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "札幌豊平店",
+    "address": "北海道札幌市豊平区西岡四条12-1-1",
+    "lat": 42.99784469604492,
+    "lng": 141.38026428222656,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-413",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "滝川東町店",
+    "address": "北海道滝川市東町1-43-5",
+    "lat": 43.55412673950195,
+    "lng": 141.9253387451172,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-604",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "網走駒場店",
+    "address": "北海道網走市駒場北五-83-12 駒場ショッピングタウンアルサキット内",
+    "lat": 44.00153350830078,
+    "lng": 144.28427124023438,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1316",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "苫小牧住吉店",
+    "address": "北海道苫小牧市住吉町2-7-1",
+    "lat": 42.65119934082031,
+    "lng": 141.60623168945312,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1054",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "苫小牧弥生店",
+    "address": "北海道苫小牧市弥生町1-9-6",
+    "lat": 42.62795639038086,
+    "lng": 141.58258056640625,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-715",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "苫小牧沼ノ端店",
+    "address": "北海道苫小牧市北栄町1-23-16",
+    "lat": 42.67626190185547,
+    "lng": 141.68972778320312,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-530",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "釧路春採ＳＣ店",
+    "address": "北海道釧路市春採7-1-69 春採ショッピングセンタ-内",
+    "lat": 42.97708511352539,
+    "lng": 144.41329956054688,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-541",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "釧路昭和店",
+    "address": "北海道釧路市昭和中央5-1-11",
+    "lat": 43.0246467590332,
+    "lng": 144.3527069091797,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-848",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "静内山手店",
+    "address": "北海道日高郡新ひだか町静内山手町1-3-12",
+    "lat": 42.3420524597168,
+    "lng": 142.3621368408203,
+    "prefecture": "北海道",
+    "prefectureCode": "hokkaido",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

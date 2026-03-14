@@ -1,0 +1,130 @@
+[
+  {
+    "id": "nishimatsuya-1055",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "イオン米子駅前店",
+    "address": "鳥取県米子市末広町311 米子駅前ショッピングセンタ-3F",
+    "lat": 35.422794342041016,
+    "lng": 133.33306884765625,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1399",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "コーナン米子河崎店",
+    "address": "鳥取県米子市河崎3248-1",
+    "lat": 35.465450286865234,
+    "lng": 133.3091278076172,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-114",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "倉吉店",
+    "address": "鳥取県倉吉市河北町102",
+    "lat": 35.46602249145508,
+    "lng": 133.84494018554688,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-462",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "米子上福原店",
+    "address": "鳥取県米子市上福原3-2-15",
+    "lat": 35.44623947143555,
+    "lng": 133.35104370117188,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-3",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "米子夜見店",
+    "address": "鳥取県米子市夜見町2937-3",
+    "lat": 35.46904754638672,
+    "lng": 133.30633544921875,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-1091",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鳥取千代水店",
+    "address": "鳥取県鳥取市千代水4-11-",
+    "lat": 35.51544189453125,
+    "lng": 134.1930389404297,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-778",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鳥取吉成店",
+    "address": "鳥取県鳥取市吉成714-1",
+    "lat": 35.485008239746094,
+    "lng": 134.2200164794922,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  },
+  {
+    "id": "nishimatsuya-572",
+    "chainCode": "nishimatsuya",
+    "chain": "西松屋",
+    "name": "鳥取城北店",
+    "address": "鳥取県鳥取市田島606-1",
+    "lat": 35.51250076293945,
+    "lng": 134.21690368652344,
+    "prefecture": "鳥取県",
+    "prefectureCode": "tottori",
+    "category": "baby_kids",
+    "categoryLabel": "ベビー・子ども",
+    "paymentTags": [
+      "smart_code"
+    ]
+  }
+]

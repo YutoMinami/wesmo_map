@@ -1,11 +1,10 @@
-import { createRenderer } from "./js/domRenderers.js?v=20260314a";
-import { searchAddress } from "./js/searchProviders.js?v=20260314a";
+import { createRenderer } from "./js/domRenderers.js?v=20260314b";
+import { searchAddress } from "./js/searchProviders.js?v=20260314b";
 import {
-  buildCategoryOptions,
   buildStatusMessage,
   filterShops,
   groupShopsForMap,
-} from "./js/shopUtils.js?v=20260314a";
+} from "./js/shopUtils.js?v=20260314b";
 
 const DEFAULT_CENTER = [34.707463069292885, 135.49508639737775];
 const DEFAULT_ZOOM = 13;
@@ -38,7 +37,10 @@ const elements = {
 const renderer = createRenderer(map, elements);
 
 const state = {
-  shops: [],
+  allShops: [],
+  loadedShops: new Map(),
+  loadedPrefectures: new Set(),
+  prefectureIndex: null,
   currentPosition: null,
 };
 
@@ -48,27 +50,30 @@ init().catch((error) => {
 });
 
 async function init() {
-  const response = await fetch("./data/shops.json");
-  state.shops = await response.json();
-  populateCategorySelect(state.shops);
+  state.prefectureIndex = await loadPrefectureIndex();
+  populateCategorySelect(state.prefectureIndex);
   bindEvents();
-  refreshResults();
+  await refreshResults();
 }
 
 function bindEvents() {
   elements.locateButton.addEventListener("click", handleLocateClick);
   elements.addressForm.addEventListener("submit", handleAddressSearch);
-  elements.radiusSelect.addEventListener("change", refreshResults);
-  elements.categorySelect.addEventListener("change", refreshResults);
+  elements.radiusSelect.addEventListener("change", () => {
+    void refreshResults();
+  });
+  elements.categorySelect.addEventListener("change", () => {
+    void refreshResults();
+  });
   map.on("moveend", () => {
     if (!state.currentPosition) {
-      refreshResults();
+      void refreshResults();
     }
   });
 }
 
-function populateCategorySelect(shops) {
-  const options = buildCategoryOptions(shops);
+function populateCategorySelect(indexData) {
+  const options = indexData?.categories ?? [];
   elements.categorySelect.innerHTML = [
     '<option value="">すべて</option>',
     ...options.map(
@@ -94,7 +99,7 @@ function handleLocateClick() {
       };
       elements.addressInput.value = "";
       renderer.clearAddressCandidates();
-      refreshResults();
+      void refreshResults();
     },
     (error) => {
       console.error(error);
@@ -152,19 +157,20 @@ async function handleAddressSearch(event) {
 function selectAddressCandidate(result, query) {
   state.currentPosition = null;
   map.setView([result.lat, result.lng], SEARCH_ZOOM);
-  refreshResults();
+  void refreshResults();
   renderer.setStatus(`「${query}」の候補: ${result.label}`);
 }
 
-function refreshResults() {
+async function refreshResults() {
   const radiusKm = Number(elements.radiusSelect.value || DEFAULT_RADIUS_KM);
   const category = elements.categorySelect.value;
   const searchCenter = state.currentPosition ?? {
     lat: map.getCenter().lat,
     lng: map.getCenter().lng,
   };
+  await ensureShopsLoaded(searchCenter, radiusKm);
 
-  const filteredShops = filterShops(state.shops, {
+  const filteredShops = filterShops(state.allShops, {
     searchCenter,
     radiusKm,
     category,
@@ -181,6 +187,101 @@ function refreshResults() {
       currentPosition: state.currentPosition,
       category,
     }),
+  );
+}
+
+async function loadPrefectureIndex() {
+  try {
+    const response = await fetch("./data/prefectures/index.json");
+    if (!response.ok) {
+      throw new Error(`Failed to load prefecture index: ${response.status}`);
+    }
+    return await response.json();
+  } catch (error) {
+    console.error(error);
+    const response = await fetch("./data/shops.json");
+    state.allShops = await response.json();
+    return { categories: buildFallbackCategories(state.allShops), prefectures: [] };
+  }
+}
+
+async function ensureShopsLoaded(searchCenter, radiusKm) {
+  if (!state.prefectureIndex?.prefectures?.length) {
+    return;
+  }
+
+  const neededPrefectures = findIntersectingPrefectures(
+    state.prefectureIndex.prefectures,
+    searchCenter,
+    radiusKm,
+  );
+
+  const pendingLoads = neededPrefectures
+    .filter((prefecture) => !state.loadedPrefectures.has(prefecture.code))
+    .map(async (prefecture) => {
+      const response = await fetch(`./data/prefectures/${prefecture.code}.json`);
+      if (!response.ok) {
+        throw new Error(`Failed to load prefecture JSON: ${prefecture.code}`);
+      }
+      const shops = await response.json();
+      for (const shop of shops) {
+        state.loadedShops.set(shop.id, shop);
+      }
+      state.loadedPrefectures.add(prefecture.code);
+    });
+
+  if (pendingLoads.length > 0) {
+    await Promise.all(pendingLoads);
+    state.allShops = [...state.loadedShops.values()];
+  }
+}
+
+function findIntersectingPrefectures(prefectures, searchCenter, radiusKm) {
+  const radiusBounds = buildRadiusBounds(searchCenter, radiusKm);
+  return prefectures.filter((prefecture) =>
+    boundsIntersect(radiusBounds, {
+      minLat: Number(prefecture.minLat),
+      maxLat: Number(prefecture.maxLat),
+      minLng: Number(prefecture.minLng),
+      maxLng: Number(prefecture.maxLng),
+    }),
+  );
+}
+
+function buildRadiusBounds(searchCenter, radiusKm) {
+  const latDelta = radiusKm / 111;
+  const lngDelta =
+    radiusKm /
+    Math.max(111 * Math.cos((searchCenter.lat * Math.PI) / 180), 0.01);
+  return {
+    minLat: searchCenter.lat - latDelta,
+    maxLat: searchCenter.lat + latDelta,
+    minLng: searchCenter.lng - lngDelta,
+    maxLng: searchCenter.lng + lngDelta,
+  };
+}
+
+function boundsIntersect(left, right) {
+  return !(
+    left.maxLat < right.minLat ||
+    left.minLat > right.maxLat ||
+    left.maxLng < right.minLng ||
+    left.minLng > right.maxLng
+  );
+}
+
+function buildFallbackCategories(shops) {
+  const options = new Map();
+  for (const shop of shops) {
+    if (shop.category && shop.categoryLabel && !options.has(shop.category)) {
+      options.set(shop.category, {
+        value: shop.category,
+        label: shop.categoryLabel,
+      });
+    }
+  }
+  return [...options.values()].sort((left, right) =>
+    left.label.localeCompare(right.label, "ja"),
   );
 }
 
