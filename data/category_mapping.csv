@@ -1,0 +1,15 @@
+source_system,source_category,category,notes
+smart_code_site,コンビニエンスストア,convenience,Smart Code category mapping
+smart_code_site,ドラッグストア・薬局,drugstore,Smart Code category mapping
+smart_code_site,グルメ,gourmet,Smart Code category mapping
+smart_code_site,スーパーマーケット・ホームセンター,supermarket_homecenter,Smart Code category mapping
+smart_code_site,百貨店・モール,department_mall,Smart Code category mapping
+smart_code_site,その他ショッピング,other_shopping,Smart Code category mapping
+smart_code_site,本,books,Smart Code category mapping
+smart_code_site,服飾,fashion,Smart Code category mapping
+smart_code_site,その他サービス,service,Smart Code category mapping
+smart_code_site,レジャー・アミューズメント,leisure,Smart Code category mapping
+smart_code_site,空港施設,airport,Smart Code category mapping
+smart_code_site,宿泊施設,lodging,Smart Code category mapping
+smart_code_site,家電,home_appliance,Smart Code category mapping
+manual,服飾,baby_kids,Manual override for baby/kids focused chains such as Nishimatsuya

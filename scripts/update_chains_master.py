@@ -17,6 +17,7 @@ CHAINS_MASTER_CSV = ROOT_DIR / "data" / "chains_master.csv"
 SMART_CODE_CHAINS_CSV = ROOT_DIR / "data" / "smart_code" / "chains_latest.csv"
 SMART_CODE_CHANGES_CSV = ROOT_DIR / "data" / "smart_code" / "chain_changes_latest.csv"
 CHAIN_ALIASES_CSV = ROOT_DIR / "data" / "smart_code" / "chain_aliases.csv"
+CATEGORY_MAPPING_CSV = ROOT_DIR / "data" / "category_mapping.csv"
 CHAIN_REVIEW_CSV = ROOT_DIR / "data" / "smart_code" / "chains_review_latest.csv"
 SMART_CODE_SHOPLIST_URL = "https://www.smart-code.jp/shoplist/"
 
@@ -38,6 +39,7 @@ MASTER_FIELDS = [
 LATEST_FIELDS = ["snapshot_date", "section_name", "chain_name"]
 CHANGE_FIELDS = ["change_type", "snapshot_date", "section_name", "chain_name"]
 ALIAS_FIELDS = ["smart_code_chain_name", "master_chain_name", "notes"]
+CATEGORY_MAPPING_FIELDS = ["source_system", "source_category", "category", "notes"]
 REVIEW_FIELDS = ["snapshot_date", "section_name", "smart_code_chain_name", "suggested_master_chain_name", "review_status"]
 
 
@@ -47,6 +49,7 @@ def main() -> None:
     latest_rows = load_rows(SMART_CODE_CHAINS_CSV, LATEST_FIELDS)
     change_rows = load_rows(SMART_CODE_CHANGES_CSV, CHANGE_FIELDS)
     aliases = load_aliases(CHAIN_ALIASES_CSV)
+    category_mapping = load_category_mapping(CATEGORY_MAPPING_CSV)
 
     latest_by_name = index_latest_rows(latest_rows, aliases)
     latest_date = extract_latest_date(latest_rows)
@@ -71,7 +74,9 @@ def main() -> None:
 
         if chain_name in latest_by_name:
             seen_names.add(chain_name)
-            if update_existing_row(row, latest_by_name[chain_name], latest_date):
+            if update_existing_row(
+                row, latest_by_name[chain_name], latest_date, category_mapping
+            ):
                 updated_count += 1
             if row["deleted_at"]:
                 row["deleted_at"] = ""
@@ -91,7 +96,9 @@ def main() -> None:
                 "source_url": SMART_CODE_SHOPLIST_URL,
                 "source_tags": "smart_code_site",
                 "source_category": latest_row["section_name"],
-                "category": "",
+                "category": lookup_category(
+                    "smart_code_site", latest_row["section_name"], category_mapping
+                ),
                 "payment_tags": "smart_code",
                 "first_seen_at": latest_row["snapshot_date"],
                 "last_seen_at": latest_row["snapshot_date"],
@@ -193,6 +200,23 @@ def load_aliases(path: Path) -> dict[str, str]:
     }
 
 
+def load_category_mapping(path: Path) -> dict[tuple[str, str], str]:
+    """Load source-category to UI-category mappings.
+
+    Args:
+        path: Category mapping CSV path.
+
+    Returns:
+        Mapping keyed by `(source_system, source_category)`.
+    """
+    rows = load_rows(path, CATEGORY_MAPPING_FIELDS)
+    return {
+        (row["source_system"], row["source_category"]): row["category"]
+        for row in rows
+        if row["source_system"] and row["source_category"] and row["category"]
+    }
+
+
 def canonical_chain_name(chain_name: str, aliases: dict[str, str]) -> str:
     """Return the canonical name for a chain.
 
@@ -227,7 +251,10 @@ def extract_latest_date(rows: list[dict[str, str]]) -> str:
 
 
 def update_existing_row(
-    row: dict[str, str], latest_row: dict[str, str], latest_date: str
+    row: dict[str, str],
+    latest_row: dict[str, str],
+    latest_date: str,
+    category_mapping: dict[tuple[str, str], str],
 ) -> bool:
     """Merge Smart Code metadata into an existing master row.
 
@@ -256,6 +283,15 @@ def update_existing_row(
         row["source_category"] = latest_row["section_name"]
         changed = True
 
+    mapped_category = lookup_category(
+        "smart_code_site",
+        row["source_category"] or latest_row["section_name"],
+        category_mapping,
+    )
+    if not row["category"] and mapped_category:
+        row["category"] = mapped_category
+        changed = True
+
     if merge_pipe_values(row, "payment_tags", "smart_code"):
         changed = True
 
@@ -264,6 +300,24 @@ def update_existing_row(
         changed = True
 
     return changed
+
+
+def lookup_category(
+    source_system: str,
+    source_category: str,
+    category_mapping: dict[tuple[str, str], str],
+) -> str:
+    """Return the normalized UI category for a source category.
+
+    Args:
+        source_system: Source system identifier such as `smart_code_site`.
+        source_category: Source-provided category name.
+        category_mapping: Source-category mapping table.
+
+    Returns:
+        Normalized UI category code or an empty string.
+    """
+    return category_mapping.get((source_system, source_category.strip()), "")
 
 
 def drop_alias_duplicate_rows(

@@ -18,6 +18,7 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `js/`: 地図描画、住所検索、店舗一覧描画などの補助モジュール
 - `data/chains_master.csv`: 対象チェーンの定義
 - `data/category_master.csv`: 表示用カテゴリの定義
+- `data/category_mapping.csv`: `source_category` から UI 用 `category` へ落とす対応表
 - `data/shops_manual.csv`: 手入力と手修正の正本
 - `data/shops_scraped.csv`: 将来の自動取得用プレースホルダ
 - `data/shops_raw.csv`: 現在は手入力中心の中間データ
@@ -221,6 +222,13 @@ python scripts/geocode_shops.py --provider nominatim
 - `sort_order`: UI に出す順序
 - `label_ja`: フィルタに出す日本語ラベル
 - `description`: 補足
+
+### `category_mapping.csv`
+
+- `source_system`: 元データの系統。現状は主に `smart_code_site`
+- `source_category`: Smart Code など元データ側のカテゴリ名
+- `category`: UI 用に正規化したカテゴリコード
+- `notes`: 補足
 
 ### `shops_raw.csv`
 
