@@ -168,7 +168,7 @@ function buildStatusMessage(radiusKm, count) {
     return `現在地から ${radiusKm}km 圏内に ${count} 件の加盟店があります。`;
   }
 
-  return `地図の中心から ${radiusKm}km 圏内に ${count} 件の加盟店を表示しています。現在地を取得すると現在地基準に切り替わります。`;
+  return `地図の中心から ${radiusKm}km 圏内に ${count} 件の加盟店を表示しています。地図を動かすと再検索し、現在地を取得すると現在地基準に切り替わります。`;
 }
 
 function formatShopMeta(shop) {
