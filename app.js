@@ -29,7 +29,7 @@ init().catch((error) => {
 async function init() {
   const response = await fetch("./data/shops.json");
   shops = await response.json();
-  renderDefaultResults();
+  refreshResults();
 }
 
 locateButton.addEventListener("click", () => {
@@ -61,32 +61,27 @@ locateButton.addEventListener("click", () => {
 });
 
 radiusSelect.addEventListener("change", () => {
-  if (currentPosition) {
+  refreshResults();
+});
+
+map.on("moveend", () => {
+  if (!currentPosition) {
     refreshResults();
   }
 });
 
-function renderDefaultResults() {
-  const sortedShops = [...shops].sort((left, right) =>
-    left.name.localeCompare(right.name, "ja"),
-  );
-
-  renderShops(sortedShops);
-  renderShopList(sortedShops);
-  fitMapToShopMarkers(sortedShops);
-  setStatus(
-    `現在地がなくても ${sortedShops.length} 件の加盟店を見られます。現在地を取得すると近い順に絞り込みます。`,
-  );
-}
-
 function refreshResults() {
   const radiusKm = Number(radiusSelect.value);
+  const searchCenter = currentPosition ?? {
+    lat: map.getCenter().lat,
+    lng: map.getCenter().lng,
+  };
   const enrichedShops = shops
     .map((shop) => ({
       ...shop,
       distanceKm: haversineKm(
-        currentPosition.lat,
-        currentPosition.lng,
+        searchCenter.lat,
+        searchCenter.lng,
         shop.lat,
         shop.lng,
       ),
@@ -94,19 +89,24 @@ function refreshResults() {
     .filter((shop) => shop.distanceKm <= radiusKm)
     .sort((left, right) => left.distanceKm - right.distanceKm);
 
-  renderUserLocation(radiusKm);
+  renderSearchArea(searchCenter, radiusKm);
   renderShops(enrichedShops);
   renderShopList(enrichedShops);
-  setStatus(`${radiusKm}km圏内に ${enrichedShops.length} 件の加盟店があります。`);
+  setStatus(buildStatusMessage(radiusKm, enrichedShops.length));
 }
 
-function renderUserLocation(radiusKm) {
-  const latLng = [currentPosition.lat, currentPosition.lng];
+function renderSearchArea(searchCenter, radiusKm) {
+  const latLng = [searchCenter.lat, searchCenter.lng];
 
-  if (!userMarker) {
-    userMarker = L.marker(latLng).addTo(map).bindPopup("現在地");
-  } else {
-    userMarker.setLatLng(latLng);
+  if (currentPosition) {
+    if (!userMarker) {
+      userMarker = L.marker(latLng).addTo(map).bindPopup("現在地");
+    } else {
+      userMarker.setLatLng(latLng);
+    }
+  } else if (userMarker) {
+    userMarker.remove();
+    userMarker = null;
   }
 
   if (!radiusCircle) {
@@ -121,7 +121,9 @@ function renderUserLocation(radiusKm) {
     radiusCircle.setRadius(radiusKm * 1000);
   }
 
-  map.setView(latLng, 14);
+  if (currentPosition) {
+    map.setView(latLng, 14);
+  }
 }
 
 function renderShops(filteredShops) {
@@ -130,19 +132,9 @@ function renderShops(filteredShops) {
     L.marker([shop.lat, shop.lng])
       .addTo(map)
       .bindPopup(
-        `<strong>${escapeHtml(shop.name)}</strong><br>${escapeHtml(shop.chain)}<br>${escapeHtml(shop.address)}`,
+        `<strong>${escapeHtml(shop.chain)}</strong><br>${escapeHtml(shop.name)}<br>${escapeHtml(shop.address)}`,
       ),
   );
-}
-
-function fitMapToShopMarkers(filteredShops) {
-  if (filteredShops.length === 0) {
-    map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
-    return;
-  }
-
-  const bounds = L.latLngBounds(filteredShops.map((shop) => [shop.lat, shop.lng]));
-  map.fitBounds(bounds, { padding: [32, 32], maxZoom: 13 });
 }
 
 function renderShopList(filteredShops) {
@@ -169,6 +161,14 @@ function renderShopList(filteredShops) {
 
 function setStatus(message) {
   statusText.textContent = message;
+}
+
+function buildStatusMessage(radiusKm, count) {
+  if (currentPosition) {
+    return `現在地から ${radiusKm}km 圏内に ${count} 件の加盟店があります。`;
+  }
+
+  return `地図の中心から ${radiusKm}km 圏内に ${count} 件の加盟店を表示しています。現在地を取得すると現在地基準に切り替わります。`;
 }
 
 function formatShopMeta(shop) {

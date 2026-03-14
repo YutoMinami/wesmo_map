@@ -36,15 +36,15 @@
         <label class="field">
           <span>検索半径</span>
           <select id="radius-select">
-            <option value="1">1km</option>
-            <option value="3" selected>3km</option>
+            <option value="1" selected>1km</option>
+            <option value="3">3km</option>
             <option value="5">5km</option>
           </select>
         </label>
       </section>
 
       <section class="status-panel" aria-live="polite">
-        <p id="status-text">現在地を取得すると近くの加盟店を表示します。</p>
+        <p id="status-text">地図の中心から 1km 圏内の加盟店を表示します。</p>
       </section>
 
       <section class="map-section">
@@ -53,7 +53,7 @@
 
       <section class="results">
         <div class="results-header">
-          <h2>近くの加盟店</h2>
+          <h2>表示中の加盟店</h2>
           <p id="result-count">0件</p>
         </div>
         <ul id="shop-list" class="shop-list"></ul>

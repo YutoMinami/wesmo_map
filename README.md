@@ -10,6 +10,7 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `styles.css`: レイアウトと見た目
 - `app.js`: 現在地取得、距離計算、地図描画
 - `data/chains_master.csv`: 対象チェーンの定義
+- `data/category_master.csv`: 表示用カテゴリの定義
 - `data/shops_manual.csv`: 手入力と手修正の正本
 - `data/shops_scraped.csv`: 将来の自動取得用プレースホルダ
 - `data/shops_raw.csv`: 現在は手入力中心の中間データ
@@ -180,11 +181,19 @@ python scripts/geocode_shops.py --provider nominatim
 - `source_type`: `manual` / `scrape` / `api`
 - `source_url`: 店舗一覧の取得元
 - `source_tags`: `smart_code_site|wesmo_site` のような出所タグ
+- `source_category`: Smart Code や Wesmo! 一覧など元データ上のカテゴリ名
+- `category`: UI 用に正規化したカテゴリコード
 - `payment_tags`: `smart_code|wesmo|blue_tag` のような対応区分
 - `first_seen_at`: 最初に確認した日
 - `last_seen_at`: 直近で確認した日
 - `deleted_at`: 一覧から消えたと判断した日
 - `notes`: 補足
+
+### `category_master.csv`
+
+- `category`: UI 用のカテゴリコード
+- `label_ja`: フィルタに出す日本語ラベル
+- `description`: 補足
 
 ### `shops_raw.csv`
 

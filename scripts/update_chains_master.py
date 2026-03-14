@@ -20,6 +20,8 @@ MASTER_FIELDS = [
     "source_type",
     "source_url",
     "source_tags",
+    "source_category",
+    "category",
     "payment_tags",
     "first_seen_at",
     "last_seen_at",
@@ -61,7 +63,7 @@ def main() -> None:
 
         if chain_name in latest_by_name:
             seen_names.add(chain_name)
-            if update_existing_row(row, latest_date):
+            if update_existing_row(row, latest_by_name[chain_name], latest_date):
                 updated_count += 1
             if row["deleted_at"]:
                 row["deleted_at"] = ""
@@ -80,6 +82,8 @@ def main() -> None:
                 "source_type": "review_needed",
                 "source_url": SMART_CODE_SHOPLIST_URL,
                 "source_tags": "smart_code_site",
+                "source_category": latest_row["section_name"],
+                "category": "",
                 "payment_tags": "smart_code",
                 "first_seen_at": latest_row["snapshot_date"],
                 "last_seen_at": latest_row["snapshot_date"],
@@ -155,7 +159,9 @@ def extract_latest_date(rows: list[dict[str, str]]) -> str:
     return dates.pop()
 
 
-def update_existing_row(row: dict[str, str], latest_date: str) -> bool:
+def update_existing_row(
+    row: dict[str, str], latest_row: dict[str, str], latest_date: str
+) -> bool:
     changed = False
 
     if row["last_seen_at"] != latest_date:
@@ -167,6 +173,10 @@ def update_existing_row(row: dict[str, str], latest_date: str) -> bool:
         changed = True
 
     if merge_pipe_values(row, "source_tags", "smart_code_site"):
+        changed = True
+
+    if not row["source_category"] and latest_row["section_name"]:
+        row["source_category"] = latest_row["section_name"]
         changed = True
 
     if merge_pipe_values(row, "payment_tags", "smart_code"):

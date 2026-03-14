@@ -33,6 +33,7 @@
 ## Future Scope
 
 - `payment_tags` を前提に表示やフィルタを作る
+- `category_master.csv` を使ったジャンルフィルタ UI を追加する
 - 将来 Smart Code 以外の対応種別を扱うか再検討する
 - 外部データ取り込みを再開する場合は、ライセンスと利用規約を先に確認する
 
