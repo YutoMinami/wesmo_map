@@ -21,6 +21,7 @@ UNRESOLVED_CSV = ROOT_DIR / "data" / "geocode_unresolved.csv"
 DEFAULT_PROVIDER = "jageocoder"
 JAGEOCODER_SERVER_URL = "https://jageocoder.info-proto.com/jsonrpc"
 MIN_JAGEOCODER_LEVEL = 7
+MIN_MATCH_RATIO = 0.3
 BUILDING_TOKENS = (
     "ビル",
     "bld",
@@ -37,6 +38,23 @@ BUILDING_TOKENS = (
     "モール",
     "plaza",
     "プラザ",
+)
+FACILITY_HINT_TOKENS = (
+    "内",
+    "モール",
+    "SC",
+    "タウン",
+    "パーク",
+    "1F",
+    "2F",
+    "3F",
+    "4F",
+    "5F",
+    "1階",
+    "2階",
+    "3階",
+    "4階",
+    "5階",
 )
 RAW_REQUIRED_FIELDS = (
     "shop_id",
@@ -132,7 +150,9 @@ def main() -> None:
             unresolved_count += 1
             unresolved_rows.append(build_unresolved_row(row, address))
         else:
-            result = geocode_address(address, args.provider, args.sleep_seconds)
+            result = geocode_address(
+                address, row["chain_code"], args.provider, args.sleep_seconds
+            )
             if result is not None:
                 lat, lng = result
                 cache[address] = {
@@ -307,19 +327,19 @@ def initialize_provider(provider: str) -> None:
 
 
 def geocode_address(
-    address: str, provider: str, sleep_seconds: float
+    address: str, chain_code: str, provider: str, sleep_seconds: float
 ) -> tuple[str, str] | None:
     if provider == "jageocoder":
-        return geocode_with_jageocoder(address, sleep_seconds)
+        return geocode_with_jageocoder(address, chain_code, sleep_seconds)
     if provider == "nominatim":
         return geocode_with_nominatim(address, sleep_seconds)
     raise ValueError(f"Unsupported provider: {provider}")
 
 
 def geocode_with_jageocoder(
-    address: str, sleep_seconds: float
+    address: str, chain_code: str, sleep_seconds: float
 ) -> tuple[str, str] | None:
-    for query in build_address_variants(address):
+    for query in build_address_variants(address, chain_code):
         result = jageocoder.search(query)
         candidate = pick_jageocoder_candidate(result, query)
         if candidate is not None:
@@ -337,7 +357,9 @@ def pick_jageocoder_candidate(
         level = int(candidate.get("level") or 0)
         if level < MIN_JAGEOCODER_LEVEL:
             continue
-        if matched and len(matched) / max(len(query), 1) < 0.6:
+        if candidate.get("x") == 999.9 or candidate.get("y") == 999.9:
+            continue
+        if matched and len(matched) / max(len(query), 1) < MIN_MATCH_RATIO:
             continue
         return candidate
     return None
@@ -419,17 +441,26 @@ def normalize_address(address: str) -> str:
     compact = compact.replace("丁目", "-").replace("番地", "-").replace("番", "-")
     compact = compact.replace("号", "")
     compact = compact.replace("(1-東)", "1-東")
+    compact = compact.replace("--", "-")
+    compact = re.sub(r"\s*\d{1,2}/\d{1,2}\([^)]*\)をもちまして閉店致しました.*$", "", compact)
+    compact = re.sub(r"\s*\d{1,2}/\d{1,2}\([^)]*\)をもちまして閉店致します.*$", "", compact)
+    compact = re.sub(r"\s*永らくのご愛顧.*$", "", compact)
     compact = re.sub(r"\s+", " ", compact)
     return compact.strip()
 
 
-def build_address_variants(address: str) -> list[str]:
+def build_address_variants(address: str, chain_code: str = "") -> list[str]:
     normalized = normalize_address(address)
     variants = [normalized]
 
     for candidate in progressively_strip_suffixes(normalized):
         if candidate and candidate not in variants:
             variants.append(candidate)
+
+    if chain_code == "nishimatsuya":
+        for candidate in build_facility_trimmed_variants(normalized):
+            if candidate and candidate not in variants:
+                variants.append(candidate)
 
     return variants
 
@@ -456,6 +487,50 @@ def progressively_strip_suffixes(address: str) -> list[str]:
         current = next_value
 
     return variants
+
+
+def build_facility_trimmed_variants(address: str) -> list[str]:
+    if not any(token in address for token in FACILITY_HINT_TOKENS):
+        return []
+
+    variants: list[str] = []
+
+    for candidate in (
+        trim_after_facility_separator(address),
+        trim_after_uchi_marker(address),
+        trim_after_store_floor_marker(address),
+    ):
+        if candidate and candidate != address and candidate not in variants:
+            variants.append(candidate)
+
+    return variants
+
+
+def trim_after_facility_separator(address: str) -> str:
+    if " " not in address:
+        return address
+
+    prefix, suffix = address.split(" ", 1)
+    if any(token in suffix for token in FACILITY_HINT_TOKENS):
+        return prefix.strip(" ,-")
+    return address
+
+
+def trim_after_uchi_marker(address: str) -> str:
+    if " " not in address or "内" not in address:
+        return address
+
+    prefix, suffix = address.split(" ", 1)
+    if "内" in suffix and any(token in suffix for token in FACILITY_HINT_TOKENS):
+        return prefix.strip(" ,-")
+    return address
+
+
+def trim_after_store_floor_marker(address: str) -> str:
+    match = re.match(r"^(.*?)(?:店の\d+F|店の\d+階)$", address)
+    if match:
+        return match.group(1).strip(" ,-")
+    return address
 
 
 def strip_trailing_building_segment(address: str) -> str:

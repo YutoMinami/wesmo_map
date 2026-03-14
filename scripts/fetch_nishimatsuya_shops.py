@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 ROOT_DIR = Path(__file__).resolve().parent.parent
 SCRAPED_CSV = ROOT_DIR / "data" / "shops_scraped.csv"
 NISHIMATSUYA_CSV = ROOT_DIR / "data" / "smart_code" / "nishimatsuya_shops_latest.csv"
+NISHIMATSUYA_CLOSED_CSV = ROOT_DIR / "data" / "smart_code" / "nishimatsuya_closed_latest.csv"
 
 BASE_URL = "https://www.24028.jp/tenpo/"
 LIST_URL = urljoin(BASE_URL, "shoplist.php")
@@ -33,10 +34,14 @@ CSV_FIELDS = [
 
 def main() -> None:
     shops = fetch_all_shops()
-    write_rows(NISHIMATSUYA_CSV, shops)
-    update_scraped_csv(shops)
+    active_shops = [shop for shop in shops if shop["is_closed"] != "TRUE"]
+    closed_shops = [shop for shop in shops if shop["is_closed"] == "TRUE"]
+    write_rows(NISHIMATSUYA_CSV, active_shops)
+    write_rows(NISHIMATSUYA_CLOSED_CSV, closed_shops)
+    update_scraped_csv(active_shops)
     print(
-        f"Wrote {len(shops)} Nishimatsuya shops to {NISHIMATSUYA_CSV} "
+        f"Wrote {len(active_shops)} active Nishimatsuya shops to {NISHIMATSUYA_CSV}, "
+        f"{len(closed_shops)} closed shops to {NISHIMATSUYA_CLOSED_CSV}, "
         f"and updated {SCRAPED_CSV}."
     )
 
@@ -97,6 +102,7 @@ def parse_shop_rows(html: str) -> list[dict[str, str]]:
                 "lng": "",
                 "payment_tags": PAYMENT_TAGS,
                 "source_url": source_url,
+                "is_closed": "TRUE" if is_closed(name_cell, address) else "FALSE",
                 # Keep extra fields in the chain-specific CSV for review.
                 "phone": phone,
                 "hours": normalize_text(hours_cell.get_text(" ", strip=True)),
@@ -131,8 +137,14 @@ def extract_phone(lines: list[str]) -> str:
     return ""
 
 
+def is_closed(name_cell: BeautifulSoup, address: str) -> bool:
+    shop_name = normalize_text(name_cell.get_text(" ", strip=True))
+    text = f"{shop_name} {address}"
+    return "閉店致しました" in text or "閉店致します" in text
+
+
 def write_rows(path: Path, shops: list[dict[str, str]]) -> None:
-    fieldnames = CSV_FIELDS + ["phone", "hours", "parking"]
+    fieldnames = CSV_FIELDS + ["is_closed", "phone", "hours", "parking"]
     with path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
