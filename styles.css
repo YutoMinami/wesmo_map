@@ -96,6 +96,55 @@ h1 {
   padding: 16px;
 }
 
+.category-hero {
+  width: 100%;
+  display: grid;
+  gap: 10px;
+  padding: 14px 16px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(22, 101, 52, 0.08), rgba(255, 255, 255, 0.58));
+  border: 1px solid rgba(22, 101, 52, 0.12);
+}
+
+.category-hero-label {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.category-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.category-chip {
+  border: 1px solid rgba(22, 101, 52, 0.14);
+  border-radius: 999px;
+  padding: 10px 14px;
+  background: rgba(255, 249, 239, 0.94);
+  color: var(--text);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition:
+    background-color 120ms ease,
+    color 120ms ease,
+    transform 120ms ease,
+    border-color 120ms ease;
+}
+
+.category-chip:hover {
+  transform: translateY(-1px);
+  background: #fff4de;
+}
+
+.category-chip.is-active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
 .field {
   display: grid;
   gap: 8px;
@@ -111,6 +160,10 @@ h1 {
 
 .address-field {
   flex: 1 1 auto;
+}
+
+.category-select-field {
+  min-width: 140px;
 }
 
 .address-field input {
@@ -276,6 +329,18 @@ input::placeholder {
   font-weight: 700;
 }
 
+.shop-category {
+  margin-top: 8px;
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(22, 101, 52, 0.1);
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
 .shop-meta {
   margin-top: 6px;
   color: var(--muted);
@@ -308,6 +373,15 @@ input::placeholder {
   .controls {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .category-chip-list {
+    gap: 8px;
+  }
+
+  .category-chip {
+    padding: 9px 12px;
+    font-size: 0.92rem;
   }
 
   .address-form {

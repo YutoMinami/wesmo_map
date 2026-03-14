@@ -1,10 +1,10 @@
-import { createRenderer } from "./js/domRenderers.js?v=20260314b";
-import { searchAddress } from "./js/searchProviders.js?v=20260314b";
+import { createRenderer } from "./js/domRenderers.js?v=20260314c";
+import { searchAddress } from "./js/searchProviders.js?v=20260314c";
 import {
   buildStatusMessage,
   filterShops,
   groupShopsForMap,
-} from "./js/shopUtils.js?v=20260314b";
+} from "./js/shopUtils.js?v=20260314c";
 
 const DEFAULT_CENTER = [34.707463069292885, 135.49508639737775];
 const DEFAULT_ZOOM = 13;
@@ -24,6 +24,7 @@ const elements = {
   addressForm: document.getElementById("address-form"),
   addressInput: document.getElementById("address-input"),
   addressSearchButton: document.getElementById("address-search-button"),
+  categoryChipList: document.getElementById("category-chip-list"),
   searchResultsPanel: document.getElementById("search-results-panel"),
   searchResultCount: document.getElementById("search-result-count"),
   searchResultList: document.getElementById("search-result-list"),
@@ -63,6 +64,7 @@ function bindEvents() {
     void refreshResults();
   });
   elements.categorySelect.addEventListener("change", () => {
+    updateCategoryChips();
     void refreshResults();
   });
   map.on("moveend", () => {
@@ -81,6 +83,23 @@ function populateCategorySelect(indexData) {
         `<option value="${escapeHtml(option.value)}">${escapeHtml(option.label)}</option>`,
     ),
   ].join("");
+  elements.categoryChipList.innerHTML = [
+    '<button class="category-chip is-active" type="button" data-category="">すべて</button>',
+    ...options.map(
+      (option) =>
+        `<button class="category-chip" type="button" data-category="${escapeHtml(option.value)}">${escapeHtml(option.label)}</button>`,
+    ),
+  ].join("");
+
+  elements.categoryChipList
+    .querySelectorAll("[data-category]")
+    .forEach((button) => {
+      button.addEventListener("click", () => {
+        elements.categorySelect.value = button.dataset.category ?? "";
+        updateCategoryChips();
+        void refreshResults();
+      });
+    });
 }
 
 function handleLocateClick() {
@@ -188,6 +207,18 @@ async function refreshResults() {
       category,
     }),
   );
+}
+
+function updateCategoryChips() {
+  const currentCategory = elements.categorySelect.value;
+  elements.categoryChipList
+    .querySelectorAll("[data-category]")
+    .forEach((button) => {
+      button.classList.toggle(
+        "is-active",
+        (button.dataset.category ?? "") === currentCategory,
+      );
+    });
 }
 
 async function loadPrefectureIndex() {

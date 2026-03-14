@@ -82,8 +82,9 @@ export function createRenderer(map, elements) {
         (shop) => `
           <li class="shop-item">
             <p class="shop-name">${escapeHtml(shop.name)}</p>
-            <p class="shop-meta">${escapeHtml(formatShopMeta(shop))}</p>
-            ${shop.categoryLabel ? `<p class="shop-meta">${escapeHtml(shop.categoryLabel)}</p>` : ""}
+            ${shop.categoryLabel ? `<p class="shop-category">${escapeHtml(shop.categoryLabel)}</p>` : ""}
+            <p class="shop-meta">${escapeHtml(shop.chain)}</p>
+            ${formatShopMeta(shop) ? `<p class="shop-meta">${escapeHtml(formatShopMeta(shop))}</p>` : ""}
             <p class="shop-meta">${escapeHtml(shop.address)}</p>
           </li>
         `,

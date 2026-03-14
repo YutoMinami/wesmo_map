@@ -66,16 +66,21 @@ export function buildCategoryOptions(shops) {
 
 export function formatShopMeta(shop) {
   if (typeof shop.distanceKm === "number") {
-    return `${shop.chain} / ${shop.distanceKm.toFixed(DISTANCE_DECIMALS_KM)}km`;
+    return `${shop.distanceKm.toFixed(DISTANCE_DECIMALS_KM)}km`;
   }
 
-  return shop.chain;
+  return "";
 }
 
 export function buildPopupHtml(group) {
   if (group.shops.length === 1) {
     const [shop] = group.shops;
-    return `<strong>${escapeHtml(shop.chain)}</strong><br>${escapeHtml(shop.name)}<br>${escapeHtml(shop.address)}`;
+    return `
+      <strong>${escapeHtml(shop.name)}</strong><br>
+      ${shop.categoryLabel ? `${escapeHtml(shop.categoryLabel)}<br>` : ""}
+      ${escapeHtml(shop.chain)}<br>
+      ${escapeHtml(shop.address)}
+    `;
   }
 
   return `
@@ -85,8 +90,9 @@ export function buildPopupHtml(group) {
         .map(
           (shop) => `
             <div class="popup-group-item">
-              <strong>${escapeHtml(shop.chain)}</strong><br>
-              ${escapeHtml(shop.name)}<br>
+              <strong>${escapeHtml(shop.name)}</strong><br>
+              ${shop.categoryLabel ? `${escapeHtml(shop.categoryLabel)}<br>` : ""}
+              ${escapeHtml(shop.chain)}<br>
               ${escapeHtml(shop.address)}
             </div>
           `,
