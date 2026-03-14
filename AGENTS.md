@@ -38,6 +38,7 @@
 - `shops_geocoded.csv` is generated from raw shop data plus coordinates.
 - `shops.json` is the published frontend payload.
 - If unresolved rows remain, it is acceptable to publish only rows with coordinates.
+- When `chains_master.csv` gains new columns, review every dependent script for schema drift before assuming the pipeline still works.
 
 ## Geocoding
 
@@ -46,6 +47,7 @@
 - Keep unresolved rows visible in `geocode_unresolved.csv`.
 - Prefer incremental normalization improvements first, then manual fixes for the remaining small set.
 - Closed stores should not be geocoded for map display; keep them in separate files when needed.
+- If a chain needs special address cleanup, isolate it as a chain-specific strategy instead of mixing it directly into generic logic.
 
 ## Chain Metadata
 
@@ -61,6 +63,7 @@
 - Favor radius-based local views around current location, searched location, or map center.
 - When address search is ambiguous, prefer explicit candidate selection over silently picking the first result.
 - Keep mobile usability in mind for controls, spacing, and map behavior.
+- As the UI grows, prefer splitting large browser files by responsibility instead of letting `app.js` keep accumulating unrelated state.
 
 ## Documentation
 
