@@ -266,7 +266,7 @@ sundrug,サンドラッグ,TRUE,manual,https://www.smart-code.jp/shoplist/,smart
 ,東急百貨店,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,百貨店・モール,,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: 百貨店・モール
 ,東武百貨店,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,百貨店・モール,,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: 百貨店・モール
 ,松のや,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,グルメ,,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: グルメ
-matsuya,松屋,TRUE,manual,https://www.smart-code.jp/shoplist/,smart_code_site,,gourmet,smart_code,2026-03-14,2026-03-14,,
+matsuya,松屋,TRUE,scrape,https://bento.matsuyafoods.co.jp/matsuben-net/shop,smart_code_site,,gourmet,smart_code,2026-03-14,2026-03-14,,
 ,洋服の青山,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,服飾,,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: 服飾
 ,海都,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,グルメ,,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: グルメ
 ,渋谷ヒカリエShinQs,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,百貨店・モール,,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: 百貨店・モール

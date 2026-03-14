@@ -33,6 +33,8 @@ GitHub Pages で公開する前提の、静的な地図アプリです。
 - `data/smart_code/lawson_shop_urls_latest.csv`: Lawson 店舗URL収集の作業ファイル
 - `data/smart_code/nishimatsuya_shops_latest.csv`: 西松屋の取得結果
 - `data/smart_code/nishimatsuya_closed_latest.csv`: 西松屋の閉店店舗一覧
+- `data/smart_code/matsuya_shops_latest.csv`: 松屋の取得結果
+- `data/smart_code/matsuya_closed_latest.csv`: 松屋の閉店店舗一覧
 - `docs/lawson_fetch_research.md`: Lawson 店舗URL収集の調査メモ
 
 ## データ運用フロー
@@ -142,6 +144,20 @@ python scripts/fetch_nishimatsuya_shops.py
 閉店と判断した店舗は `data/smart_code/nishimatsuya_closed_latest.csv` に分けて保存し、
 `data/shops_scraped.csv` には入れません。
 同時に `data/shops_scraped.csv` の `chain_code=nishimatsuya` 行を置き換えます。
+
+### 松屋 店舗取得
+
+```bash
+python scripts/fetch_matsuya_shops.py
+```
+
+`https://bento.matsuyafoods.co.jp/matsuben-net/shop` のページング一覧を全件取得して、
+`data/smart_code/matsuya_shops_latest.csv` を更新します。
+一覧ページに埋め込まれている座標をそのまま使うため、松屋は追加のジオコーディングなしで
+`data/shops_geocoded.csv` に流し込めます。
+閉店と判断した店舗は `data/smart_code/matsuya_closed_latest.csv` に分けて保存し、
+`data/shops_scraped.csv` には入れません。
+同時に `data/shops_scraped.csv` の `chain_code=matsuya` 行を置き換えます。
 
 ### ジオコーディング
 
