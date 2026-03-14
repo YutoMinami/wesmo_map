@@ -288,7 +288,7 @@ matsuya,松屋,TRUE,manual,https://www.smart-code.jp/shoplist/,smart_code_site,s
 ,茨城交通,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: その他サービス
 ,蔦屋書店,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: 本
 ,薬王堂,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: ドラッグストア・薬局
-,西松屋,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: 服飾
+nishimatsuya,西松屋,TRUE,scrape,https://www.24028.jp/tenpo/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Smart Code対応チェーン。都道府県別一覧から取得
 ,証明写真機 Ｋｉ－Ｒｅ－ｉ,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: その他サービス
 ,豊丸水産,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: グルメ
 ,豊後高田どり酒場,FALSE,review_needed,https://www.smart-code.jp/shoplist/,smart_code_site,smart_code,2026-03-14,2026-03-14,,Auto-added from Smart Code section: グルメ

@@ -84,7 +84,8 @@ USER_AGENT = "wesmo-map/0.1.0 (local geocoding tool)"
 def main() -> None:
     args = parse_args()
     raw_rows = load_raw_rows(RAW_CSV)
-    filtered_rows = filter_rows(raw_rows, args.only_chain, args.limit)
+    existing_geocoded = load_existing_geocoded(GEOCODED_CSV)
+    filtered_rows = filter_rows(raw_rows, args.only_chain, args.limit, args.offset)
     target_ids = {row["shop_id"] for row in filtered_rows}
     cache = load_cache(CACHE_CSV, skip_cache=False)
     initialize_provider(args.provider)
@@ -97,8 +98,9 @@ def main() -> None:
 
     for row in raw_rows:
         address = normalize_address(row["address"])
-        lat = row["lat"]
-        lng = row["lng"]
+        previous = existing_geocoded.get(row["shop_id"], {})
+        lat = row["lat"] or previous.get("lat", "")
+        lng = row["lng"] or previous.get("lng", "")
 
         if row["shop_id"] not in target_ids:
             geocoded_rows.append(
@@ -191,6 +193,12 @@ def parse_args() -> argparse.Namespace:
         help="Process only the first N shops after filtering.",
     )
     parser.add_argument(
+        "--offset",
+        type=int,
+        default=0,
+        help="Skip the first N shops after filtering.",
+    )
+    parser.add_argument(
         "--skip-cache",
         action="store_true",
         help="Ignore existing geocode_cache.csv entries.",
@@ -240,11 +248,16 @@ def load_raw_rows(csv_path: Path) -> list[dict[str, str]]:
 
 
 def filter_rows(
-    rows: list[dict[str, str]], only_chain: str | None, limit: int | None
+    rows: list[dict[str, str]],
+    only_chain: str | None,
+    limit: int | None,
+    offset: int,
 ) -> list[dict[str, str]]:
     filtered = rows
     if only_chain:
         filtered = [row for row in filtered if row["chain_code"] == only_chain]
+    if offset:
+        filtered = filtered[offset:]
     if limit is not None:
         filtered = filtered[:limit]
     return filtered
@@ -270,6 +283,22 @@ def load_cache(
                 "provider": require_value(row, "provider", line_number),
             }
         return cache
+
+
+def load_existing_geocoded(csv_path: Path) -> dict[str, dict[str, str]]:
+    if not csv_path.exists():
+        return {}
+
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as file:
+        reader = csv.DictReader(file)
+        validate_header(reader.fieldnames, OUTPUT_FIELDS, csv_path)
+        existing: dict[str, dict[str, str]] = {}
+        for row in reader:
+            shop_id = read_value(row, "shop_id")
+            if not shop_id:
+                continue
+            existing[shop_id] = {field: read_value(row, field) for field in OUTPUT_FIELDS}
+        return existing
 
 
 def initialize_provider(provider: str) -> None:

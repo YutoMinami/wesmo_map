@@ -19,6 +19,8 @@
 - Lawson の店舗URL収集方法を確定する
 - Lawson 検索UIの XHR / API を確認する
 - Lawson の都道府県別導線で全件列挙できるか確認する
+- Lawson の公開情報を使う範囲が規約上妥当か再確認する
+- 西松屋の取得結果を `geocode_shops.py` と `build_shops_json.py` へ流す
 
 ## Geocoding
 
