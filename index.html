@@ -14,7 +14,7 @@
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
       crossorigin=""
     />
-    <link rel="stylesheet" href="./styles.css?v=20260314c" />
+    <link rel="stylesheet" href="./styles.css?v=20260314d" />
   </head>
   <body>
     <main class="layout">
@@ -58,6 +58,14 @@
         </label>
       </section>
 
+      <section id="search-results-panel" class="search-results-panel hidden" aria-live="polite">
+        <div class="results-header search-results-header">
+          <h2>住所検索の候補</h2>
+          <p id="search-result-count">0件</p>
+        </div>
+        <ul id="search-result-list" class="search-result-list"></ul>
+      </section>
+
       <section class="status-panel" aria-live="polite">
         <p id="status-text">地図の中心から 3km 圏内の加盟店を表示します。</p>
       </section>
@@ -80,6 +88,6 @@
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""
     ></script>
-    <script src="./app.js?v=20260314e" defer></script>
+    <script src="./app.js?v=20260314f" defer></script>
   </body>
 </html>

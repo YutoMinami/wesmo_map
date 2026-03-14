@@ -15,6 +15,9 @@ const locateButton = document.getElementById("locate-button");
 const addressForm = document.getElementById("address-form");
 const addressInput = document.getElementById("address-input");
 const addressSearchButton = document.getElementById("address-search-button");
+const searchResultsPanel = document.getElementById("search-results-panel");
+const searchResultCount = document.getElementById("search-result-count");
+const searchResultList = document.getElementById("search-result-list");
 const radiusSelect = document.getElementById("radius-select");
 const statusText = document.getElementById("status-text");
 const resultCount = document.getElementById("result-count");
@@ -25,6 +28,7 @@ let radiusCircle = null;
 let shopMarkers = [];
 let shops = [];
 let currentPosition = null;
+let addressCandidates = [];
 
 init().catch((error) => {
   console.error(error);
@@ -52,6 +56,7 @@ locateButton.addEventListener("click", () => {
         lng: coords.longitude,
       };
       addressInput.value = "";
+      clearAddressCandidates();
       refreshResults();
     },
     (error) => {
@@ -80,13 +85,20 @@ addressForm.addEventListener("submit", async (event) => {
   setStatus("入力した住所を検索しています...");
 
   try {
-    const result = await searchAddress(query);
-    currentPosition = null;
-    map.setView([result.lat, result.lng], SEARCH_ZOOM);
-    refreshResults();
-    setStatus(`「${query}」付近を表示しています。`);
+    const results = await searchAddress(query);
+    if (results.length === 0) {
+      throw new Error("No address match.");
+    }
+
+    renderAddressCandidates(query, results);
+    if (results.length === 1) {
+      selectAddressCandidate(results[0], query);
+    } else {
+      setStatus(`「${query}」の候補から選んでください。`);
+    }
   } catch (error) {
     console.error(error);
+    clearAddressCandidates();
     setStatus("住所を見つけられませんでした。地名や駅名を変えて試してください。");
   } finally {
     setAddressSearchPending(false);
@@ -247,7 +259,7 @@ async function searchAddress(query) {
   const params = new URLSearchParams({
     q: query,
     format: "jsonv2",
-    limit: "1",
+    limit: "5",
     countrycodes: "jp",
     "accept-language": "ja",
     json_callback: callbackName,
@@ -269,16 +281,16 @@ async function searchAddress(query) {
 
     window[callbackName] = (payload) => {
       cleanup();
-      const [result] = Array.isArray(payload) ? payload : [];
-      if (!result) {
-        reject(new Error("No address match."));
-        return;
-      }
+      const results = (Array.isArray(payload) ? payload : [])
+        .map((result) => ({
+          name: result.name || result.display_name.split(",")[0] || query,
+          label: result.display_name,
+          lat: Number(result.lat),
+          lng: Number(result.lon),
+        }))
+        .filter((result) => Number.isFinite(result.lat) && Number.isFinite(result.lng));
 
-      resolve({
-        lat: Number(result.lat),
-        lng: Number(result.lon),
-      });
+      resolve(results);
     };
 
     script.onerror = () => {
@@ -288,4 +300,46 @@ async function searchAddress(query) {
     script.src = url;
     document.body.append(script);
   });
+}
+
+function renderAddressCandidates(query, results) {
+  addressCandidates = results;
+  searchResultsPanel.classList.remove("hidden");
+  searchResultCount.textContent = `${results.length}件`;
+  searchResultList.innerHTML = results
+    .map(
+      (result, index) => `
+        <li>
+          <button class="search-result-item" type="button" data-candidate-index="${index}">
+            <p class="search-result-name">${escapeHtml(result.name || `候補 ${index + 1}`)}</p>
+            <p class="search-result-address">${escapeHtml(result.label)}</p>
+          </button>
+        </li>
+      `,
+    )
+    .join("");
+
+  searchResultList.querySelectorAll("[data-candidate-index]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const index = Number(button.dataset.candidateIndex);
+      const result = addressCandidates[index];
+      if (result) {
+        selectAddressCandidate(result, query);
+      }
+    });
+  });
+}
+
+function clearAddressCandidates() {
+  addressCandidates = [];
+  searchResultsPanel.classList.add("hidden");
+  searchResultCount.textContent = "0件";
+  searchResultList.innerHTML = "";
+}
+
+function selectAddressCandidate(result, query) {
+  currentPosition = null;
+  map.setView([result.lat, result.lng], SEARCH_ZOOM);
+  refreshResults();
+  setStatus(`「${query}」の候補: ${result.label}`);
 }
