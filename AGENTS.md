@@ -70,3 +70,4 @@
 - Update `README.md` when workflow or file roles change.
 - Add future ideas or deferred work to `TODO.md` instead of leaving them implicit.
 - If a new scraper or source requires investigation notes, add them under `docs/`.
+- Keep temporary project status, branch state, and next-step handoff notes in `docs/handoff.md` rather than overloading `AGENTS.md`.
