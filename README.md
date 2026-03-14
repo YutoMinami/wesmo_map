@@ -230,6 +230,16 @@ python scripts/geocode_shops.py --provider nominatim
 - `category`: UI 用に正規化したカテゴリコード
 - `notes`: 補足
 
+### カテゴリ方針
+
+- `source_category` は Smart Code など元データ側のカテゴリ名をそのまま保持する
+- `category` は UI 用の表示カテゴリで、`data/category_mapping.csv` で対応付ける
+- 基本方針は Smart Code のカテゴリ体系に寄せる
+- ただし利用文脈が強く、元カテゴリのままだと探しにくいものは独自カテゴリを認める
+- 現時点の独自カテゴリは `ベビー・子ども` のみ
+- `ベビー・子ども` には、西松屋のように Smart Code 上では `服飾` に見えても、実際の利用目的が子ども用品中心のチェーンを入れる
+- `トイザらス` や `ベビーザらス` も同じ方針で `ベビー・子ども` に寄せる想定
+
 ### `shops_raw.csv`
 
 - `shops_manual.csv` と `shops_scraped.csv` をマージした生成物
