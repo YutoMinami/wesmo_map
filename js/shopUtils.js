@@ -45,7 +45,7 @@ export function groupShopsForMap(shops) {
 }
 
 export function buildStatusMessage({ radiusKm, count, currentPosition, category }) {
-  const categoryText = category ? " / ジャンル絞り込み中" : "";
+  const categoryText = category ? " / カテゴリ絞り込み中" : "";
 
   if (currentPosition) {
     return `現在地から ${radiusKm}km 圏内に ${count} 件の加盟店があります。${categoryText}`;
@@ -81,22 +81,22 @@ export function buildPopupHtml(group) {
   if (group.shops.length === 1) {
     const [shop] = group.shops;
     return `
-      <strong>${escapeHtml(formatShopTitle(shop))}</strong><br>
-      ${formatPopupMeta(shop)}
-      ${escapeHtml(shop.address)}
+      <div class="popup-shop-title">${escapeHtml(formatShopTitle(shop))}</div>
+      ${buildShopInfoLine(shop, "popup-shop-detail")}
+      <div class="popup-shop-address">${escapeHtml(shop.address)}</div>
     `;
   }
 
   return `
-    <strong>この周辺に ${group.shops.length} 店舗</strong>
+    <div class="popup-group-title">この周辺に ${group.shops.length} 店舗</div>
     <div class="popup-group-list">
       ${group.shops
         .map(
           (shop) => `
             <div class="popup-group-item">
-              <strong>${escapeHtml(formatShopTitle(shop))}</strong><br>
-              ${formatPopupMeta(shop)}
-              ${escapeHtml(shop.address)}
+              <div class="popup-shop-title">${escapeHtml(formatShopTitle(shop))}</div>
+              ${buildShopInfoLine(shop, "popup-shop-detail")}
+              <div class="popup-shop-address">${escapeHtml(shop.address)}</div>
             </div>
           `,
         )
@@ -120,29 +120,31 @@ function average(values) {
   return values.reduce((sum, value) => sum + value, 0) / values.length;
 }
 
-function formatShopTitle(shop) {
+export function formatShopTitle(shop) {
   return `${shop.chain}-${shop.name}`;
 }
 
-function formatPopupMeta(shop) {
-  const parts = [];
+export function buildShopInfoLine(shop, className = "") {
+  const fragments = [];
   if (shop.categoryLabel) {
-    parts.push(`[${shop.categoryLabel}]`);
+    fragments.push(
+      `<span class="shop-category-badge">${escapeHtml(shop.categoryLabel)}</span>`,
+    );
   }
-
   const paymentLabel = formatPaymentTags(shop.paymentTags);
   if (paymentLabel) {
-    parts.push(`(${paymentLabel})`);
+    fragments.push(`<span class="shop-payment-label">${escapeHtml(paymentLabel)}</span>`);
   }
 
-  if (parts.length === 0) {
+  if (fragments.length === 0) {
     return "";
   }
 
-  return `${escapeHtml(parts.join("・"))}<br>`;
+  const classAttribute = className ? ` class="${className}"` : "";
+  return `<div${classAttribute}>${fragments.join('<span class="shop-detail-separator"></span>')}</div>`;
 }
 
-function formatPaymentTags(paymentTags) {
+export function formatPaymentTags(paymentTags) {
   if (!Array.isArray(paymentTags)) {
     return "";
   }

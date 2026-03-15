@@ -1,4 +1,9 @@
-import { buildPopupHtml, formatShopMeta } from "./shopUtils.js";
+import {
+  buildPopupHtml,
+  buildShopInfoLine,
+  formatShopMeta,
+  formatShopTitle,
+} from "./shopUtils.js";
 
 export function createRenderer(map, elements) {
   let userMarker = null;
@@ -33,9 +38,9 @@ export function createRenderer(map, elements) {
     if (!radiusCircle) {
       radiusCircle = L.circle(latLng, {
         radius: radiusKm * 1000,
-        color: "#166534",
-        fillColor: "#4ade80",
-        fillOpacity: 0.14,
+        color: "#0169b7",
+        fillColor: "#7ec3f2",
+        fillOpacity: 0.18,
       }).addTo(map);
     } else {
       radiusCircle.setLatLng(latLng);
@@ -58,8 +63,8 @@ export function createRenderer(map, elements) {
 
       return L.circleMarker([group.lat, group.lng], {
         radius: 12,
-        color: "#166534",
-        fillColor: "#4ade80",
+        color: "#0169b7",
+        fillColor: "#7ec3f2",
         fillOpacity: 0.92,
         weight: 2,
       })
@@ -73,7 +78,7 @@ export function createRenderer(map, elements) {
 
     if (filteredShops.length === 0) {
       elements.shopList.innerHTML =
-        '<li class="empty-state">条件に合う加盟店はまだありません。現在地取得後に半径やジャンルを変えて試してください。</li>';
+        '<li class="empty-state">条件に合う加盟店はまだありません。現在地取得後に半径やカテゴリを変えて試してください。</li>';
       return;
     }
 
@@ -81,11 +86,10 @@ export function createRenderer(map, elements) {
       .map(
         (shop) => `
           <li class="shop-item">
-            <p class="shop-name">${escapeHtml(shop.name)}</p>
-            ${shop.categoryLabel ? `<p class="shop-category">${escapeHtml(shop.categoryLabel)}</p>` : ""}
-            <p class="shop-meta">${escapeHtml(shop.chain)}</p>
-            ${formatShopMeta(shop) ? `<p class="shop-meta">${escapeHtml(formatShopMeta(shop))}</p>` : ""}
+            <p class="shop-name">${escapeHtml(formatShopTitle(shop))}</p>
+            ${buildShopInfoLine(shop, "shop-detail")}
             <p class="shop-meta">${escapeHtml(shop.address)}</p>
+            ${formatShopMeta(shop) ? `<p class="shop-meta">${escapeHtml(formatShopMeta(shop))}</p>` : ""}
           </li>
         `,
       )

@@ -1,10 +1,10 @@
-import { createRenderer } from "./js/domRenderers.js?v=20260314c";
+import { createRenderer } from "./js/domRenderers.js?v=20260315b";
 import { searchAddress } from "./js/searchProviders.js?v=20260314c";
 import {
   buildStatusMessage,
   filterShops,
   groupShopsForMap,
-} from "./js/shopUtils.js?v=20260314c";
+} from "./js/shopUtils.js?v=20260315b";
 
 const DEFAULT_CENTER = [34.707463069292885, 135.49508639737775];
 const DEFAULT_ZOOM = 13;
@@ -29,7 +29,6 @@ const elements = {
   searchResultCount: document.getElementById("search-result-count"),
   searchResultList: document.getElementById("search-result-list"),
   radiusSelect: document.getElementById("radius-select"),
-  categorySelect: document.getElementById("category-select"),
   statusText: document.getElementById("status-text"),
   resultCount: document.getElementById("result-count"),
   shopList: document.getElementById("shop-list"),
@@ -43,6 +42,7 @@ const state = {
   loadedPrefectures: new Set(),
   prefectureIndex: null,
   currentPosition: null,
+  selectedCategory: "",
 };
 
 init().catch((error) => {
@@ -63,10 +63,6 @@ function bindEvents() {
   elements.radiusSelect.addEventListener("change", () => {
     void refreshResults();
   });
-  elements.categorySelect.addEventListener("change", () => {
-    updateCategoryChips();
-    void refreshResults();
-  });
   map.on("moveend", () => {
     if (!state.currentPosition) {
       void refreshResults();
@@ -76,13 +72,6 @@ function bindEvents() {
 
 function populateCategorySelect(indexData) {
   const options = indexData?.categories ?? [];
-  elements.categorySelect.innerHTML = [
-    '<option value="">すべて</option>',
-    ...options.map(
-      (option) =>
-        `<option value="${escapeHtml(option.value)}">${escapeHtml(option.label)}</option>`,
-    ),
-  ].join("");
   elements.categoryChipList.innerHTML = [
     '<button class="category-chip is-active" type="button" data-category="">すべて</button>',
     ...options.map(
@@ -95,7 +84,7 @@ function populateCategorySelect(indexData) {
     .querySelectorAll("[data-category]")
     .forEach((button) => {
       button.addEventListener("click", () => {
-        elements.categorySelect.value = button.dataset.category ?? "";
+        state.selectedCategory = button.dataset.category ?? "";
         updateCategoryChips();
         void refreshResults();
       });
@@ -182,7 +171,7 @@ function selectAddressCandidate(result, query) {
 
 async function refreshResults() {
   const radiusKm = Number(elements.radiusSelect.value || DEFAULT_RADIUS_KM);
-  const category = elements.categorySelect.value;
+  const category = state.selectedCategory;
   const searchCenter = state.currentPosition ?? {
     lat: map.getCenter().lat,
     lng: map.getCenter().lng,
@@ -210,13 +199,12 @@ async function refreshResults() {
 }
 
 function updateCategoryChips() {
-  const currentCategory = elements.categorySelect.value;
   elements.categoryChipList
     .querySelectorAll("[data-category]")
     .forEach((button) => {
       button.classList.toggle(
         "is-active",
-        (button.dataset.category ?? "") === currentCategory,
+        (button.dataset.category ?? "") === state.selectedCategory,
       );
     });
 }
